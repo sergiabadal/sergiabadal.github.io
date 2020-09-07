@@ -22,6 +22,7 @@ You can find a copy of my full resume [here](docs/resume_long_antonio_franques.p
 
 ---
 ### News
+- **Aug 2020**: Our poster [Millimeter-Wave Wireless Network on Chip Using Deep Reinforcement Learning](https://zikunliu6.github.io/papers/sigcomm20posters-final90.pdf) is among the winners of the Student Research Competition at SIGCOMM'20
 - **Feb 2020**: Our manuscript [Engineer the Channel and Adapt to it: Enabling Wireless Intra-Chip Communication](/docs/timoneda_engineer_the_channel.pdf) has been accepted to IEEE Transactions on Communications
 - **Oct 2019**: I will be giving an invited talk at MICRO '19, titled [Challenges and Opportunities of Wireless Network-on-Chip for Manycore Architectures](/docs/nocarc2019_antonio_franques.pdf)
 - **Jan 2019**: Heading off to AMD Research in Seattle for an extension of my previous internship

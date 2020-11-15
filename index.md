@@ -22,6 +22,7 @@ You can find a copy of my full resume [here](docs/resume_long_antonio_franques.p
 
 ---
 ### News
+- **Nov 2020**: [Fuzzy-Token](/docs/Fuzzy_Token_DATE_2021.pdf) has been accepted to DATE '21
 - **Oct 2020**: [WiDir](/docs/HPCA_2021_WiDir_draft.pdf) has been accepted to HPCA '21
 - **Aug 2020**: Our poster [Millimeter-Wave Wireless Network on Chip Using Deep Reinforcement Learning](http://sjog2.web.engr.illinois.edu/images/papers/poster_sigcomm20_paper.pdf) is among the winners of the Student Research Competition at SIGCOMM '20
 - **Feb 2020**: Our manuscript [Engineer the Channel and Adapt to it: Enabling Wireless Intra-Chip Communication](/docs/timoneda_engineer_the_channel.pdf) has been accepted to IEEE Transactions on Communications

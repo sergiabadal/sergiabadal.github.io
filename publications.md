@@ -11,6 +11,10 @@ link_url: https://scholar.google.com/citations?user=0SIrK0MAAAAJ&hl=en
 {% endif %}
 
 ### 2020
+- **Fuzzy-Token: An Adaptive MAC Protocol for Wireless-Enabled Many-Core CMPs**. <br>
+**A. Franques**, S. Abadal, H. Hassanieh, J. Torrellas.  
+To appear in the 2021 Design, Automation & Test in Europe Conference & Exhibition **(DATE '21)**, Grenoble, France, February 2021 (held virtually). [(PDF)](/docs/Fuzzy_Token_DATE_2021.pdf)
+
 - **WiDir: A Wireless-Enabled Directory Cache Coherence Protocol**. <br>
 **A. Franques**, A. Kokolis, S. Abadal, V. Fernando, S. Misailovic, J. Torrellas.  
 To appear in the 27th IEEE International Symposium on High-Performance Computer Architecture **(HPCA '21)**, Seoul, South Korea, March 2021 (held virtually). [(PDF)](/docs/HPCA_2021_WiDir_draft.pdf)

@@ -11,7 +11,7 @@ link_url: https://scholar.google.com/citations?user=0SIrK0MAAAAJ&hl=en
 {% endif %}
 
 ### 2020
-- **Fuzzy-Token: An Adaptive MAC Protocol for Wireless-Enabled Many-Core CMPs**. <br>
+- **Fuzzy-Token: An Adaptive MAC Protocol for Wireless-Enabled Manycores**. <br>
 **A. Franques**, S. Abadal, H. Hassanieh, J. Torrellas.  
 To appear in the 2021 Design, Automation & Test in Europe Conference & Exhibition **(DATE '21)**, Grenoble, France, February 2021 (held virtually). [(PDF)](/docs/Fuzzy_Token_DATE_2021.pdf)
 

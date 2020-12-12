@@ -13,19 +13,19 @@ link_url: https://scholar.google.com/citations?user=0SIrK0MAAAAJ&hl=en
 ### 2020
 - **One Protocol to Rule Them All: Deep Reinforcement Learning Aided MAC for Wireless Network-on-Chips**. <br>
 S. Jog, Z. Liu, **A. Franques**, V. Fernando, H. Hassanieh, S. Abadal, J. Torrellas.  
-To appear in the 18th USENIX Symposium on Networked Systems Design and Implementation **(NSDI '21)**, April 2021 (held virtually). [(PDF)](/docs/)
+To appear in the 18th USENIX Symposium on Networked Systems Design and Implementation **(NSDI '21)**, April 2021 (held virtually). _Acceptance rate: 15%_. [(PDF)](/docs/)
 
 - **Fuzzy-Token: An Adaptive MAC Protocol for Wireless-Enabled Manycores**. <br>
 **A. Franques**, S. Abadal, H. Hassanieh, J. Torrellas.  
-To appear in the 2021 Design, Automation & Test in Europe Conference & Exhibition **(DATE '21)**, Grenoble, France, February 2021 (held virtually). [(PDF)](/docs/Fuzzy_Token_DATE_2021.pdf)
+To appear in the 2021 Design, Automation & Test in Europe Conference & Exhibition **(DATE '21)**, Grenoble, France, February 2021 (held virtually). _Acceptance rate: 24%_. [(PDF)](/docs/Fuzzy_Token_DATE_2021.pdf)
 
 - **WiDir: A Wireless-Enabled Directory Cache Coherence Protocol**. <br>
 **A. Franques**, A. Kokolis, S. Abadal, V. Fernando, S. Misailovic, J. Torrellas.  
-To appear in the 27th IEEE International Symposium on High-Performance Computer Architecture **(HPCA '21)**, Seoul, South Korea, March 2021 (held virtually). [(PDF)](/docs/HPCA_2021_WiDir_draft.pdf)
+To appear in the 27th IEEE International Symposium on High-Performance Computer Architecture **(HPCA '21)**, Seoul, South Korea, March 2021 (held virtually). _Acceptance rate: 24%_. [(PDF)](/docs/HPCA_2021_WiDir_draft.pdf)
 
 - **Engineer the Channel and Adapt to it: Enabling Wireless Intra-Chip Communication**. <br>
 X. Timoneda, S. Abadal, **A. Franques**, D. Manessis, J. Zhou, J. Torrellas, E. Alarcón, A. Cabellos-Aparicio.
-IEEE Transactions on Communications, doi: 10.1109/TCOMM.2020.2973988. [(PDF)](/docs/timoneda_engineer_the_channel.pdf)
+IEEE Transactions on Communications, doi: 10.1109/TCOMM.2020.2973988. _Impact factor: 6.72_. [(PDF)](/docs/timoneda_engineer_the_channel.pdf)
 
 ### 2019
 - **Opportunistic Beamforming in Wireless Network-on-Chip**. <br>
@@ -34,7 +34,7 @@ Proceedings of the International Symposium on Circuits and Systems **(ISCAS '19)
 
 - **Replica: A Wireless Manycore for Communication-Intensive and Approximate Data**. <br>
 V. Fernando, **A. Franques**, S. Abadal, S. Misailovic, J. Torrellas.  
-Proceedings of the 24rd ACM International Conference on Architectural Support for Programming Languages and Operating Systems **(ASPLOS '19)**, Providence, USA, April 2019. [(PDF)](/docs/ASPLOS_2019_Replica.pdf)
+Proceedings of the 24rd ACM International Conference on Architectural Support for Programming Languages and Operating Systems **(ASPLOS '19)**, Providence, USA, April 2019. _Acceptance rate: 21%_. [(PDF)](/docs/ASPLOS_2019_Replica.pdf)
 
 ### 2018
 - **Millimeter-Wave Propagation within a Computer Chip Package**.  
@@ -44,7 +44,7 @@ Proceedings of the International Symposium on Circuits and Systems **(ISCAS '18)
 ### 2016
 - **Chaos and Convergence of a family generalizing Homeier’s method with damping parameters**.  
 A. Cordero, **A. Franques** and J.R. Torregrosa.  
-Nonlinear Dynamics, doi: 10.1007/s11071-016-2807-0. [(PDF)](/docs/chaos_and_convergence_generalizing_homeier.pdf)
+Nonlinear Dynamics, doi: 10.1007/s11071-016-2807-0. _Impact Factor: 4.86_. [(PDF)](/docs/chaos_and_convergence_generalizing_homeier.pdf)
 
 ### 2015
 - **Multidimensional Homeier’s generalized class and its application to planar 1D Bratu problem**.  

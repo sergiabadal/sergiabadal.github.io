@@ -28,6 +28,7 @@ You can find a copy of my full resume [here](docs/resume_long_antonio_franques.p
 - **Aug 2020**: Our poster [Millimeter-Wave Wireless Network on Chip Using Deep Reinforcement Learning](http://sjog2.web.engr.illinois.edu/images/papers/poster_sigcomm20_paper.pdf) is among the winners of the Student Research Competition at **SIGCOMM '20**
 - **Feb 2020**: Our manuscript [Engineer the Channel and Adapt to it: Enabling Wireless Intra-Chip Communication](/docs/timoneda_engineer_the_channel.pdf) has been accepted to **IEEE Transactions on Communications**
 - **Oct 2019**: I will be giving an invited talk at **MICRO '19**, titled [Challenges and Opportunities of Wireless Network-on-Chip for Manycore Architectures](/docs/nocarc2019_antonio_franques.pdf)
+- **Sep 2019**: Our **U.S. patent** [Communication Engine for Hybrid Interconnect Technologies](/docs/) has been filed **on behalf of AMD**
 - **Jan 2019**: Heading off to **AMD Research in Seattle** for an extension of my previous internship
 - **Jan 2019**: Our work on [Opportunistic Beamforming in Wireless Network-on-Chip](/docs/ISCAS_2019_Opportunistic_Beamforming.pdf) has been accepted to **ISCAS '19**
 - **Nov 2018**: [Replica](/docs/ASPLOS_2019_Replica.pdf) has been accepted to **ASPLOS '19**

@@ -34,7 +34,7 @@ Proceedings of the 24rd ACM International Conference on Architectural Support fo
 
 - **Communication Engine for Hybrid Interconnect Technologies**. <br>
 S. Blagodurov, **A. Franques**. 
-U.S. Patent App. 16/588,612. Filed: September 30, 2019 (on behalf of AMD). [(PDF)](/docs/)
+**U.S. Patent** App. 16/588,612. Filed on behalf of AMD: September 30, 2019. [(PDF)](/docs/)
 
 - **Opportunistic Beamforming in Wireless Network-on-Chip**. <br>
 S. Abadal, A. Marruedo, **A. Franques**, H. Taghvaee, A. Cabellos-Aparicio, J. Zhou, J. Torrellas, E. Alarcón.

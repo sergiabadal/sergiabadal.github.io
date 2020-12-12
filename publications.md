@@ -58,4 +58,4 @@ Algorithms 8 (2015) 224-233, doi: 10.3390/a8020224. [(PDF)](/docs/numerical_solu
 ### 2014
 - **Stability of a Fourth-Order Family of Iterative Methods for Solving Nonlinear Problems**.  
 A. Cordero, L. Feng, **A. Franques** and J.R. Torregrosa.  
-Proceedings of the Ninth International Conference on Engineering Computational Technology, Naples, Italy, doi:10.4203/ccp.105.33.
+Proceedings of the Ninth International Conference on Engineering Computational Technology, Naples, Italy, doi:10.4203/ccp.105.33. [(PDF)](/docs/stability_fourth_order_family.pdf)

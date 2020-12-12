@@ -25,7 +25,7 @@ To appear in the 27th IEEE International Symposium on High-Performance Computer 
 
 - **Engineer the Channel and Adapt to it: Enabling Wireless Intra-Chip Communication**. <br>
 X. Timoneda, S. Abadal, **A. Franques**, D. Manessis, J. Zhou, J. Torrellas, E. Alarcón, A. Cabellos-Aparicio.
-IEEE Transactions on Communications, doi: 10.1109/TCOMM.2020.2973988. _Impact factor: 6.72_. [(PDF)](/docs/timoneda_engineer_the_channel.pdf)
+IEEE Transactions on Communications, doi: 10.1109/TCOMM.2020.2973988. _Impact factor: 6.72 (as of Sep. 2020)_. [(PDF)](/docs/timoneda_engineer_the_channel.pdf)
 
 ### 2019
 - **Opportunistic Beamforming in Wireless Network-on-Chip**. <br>
@@ -44,7 +44,7 @@ Proceedings of the International Symposium on Circuits and Systems **(ISCAS '18)
 ### 2016
 - **Chaos and Convergence of a family generalizing Homeier’s method with damping parameters**.  
 A. Cordero, **A. Franques** and J.R. Torregrosa.  
-Nonlinear Dynamics, doi: 10.1007/s11071-016-2807-0. _Impact Factor: 4.86_. [(PDF)](/docs/chaos_and_convergence_generalizing_homeier.pdf)
+Nonlinear Dynamics, doi: 10.1007/s11071-016-2807-0. _Impact Factor: 4.86 (as of Sep. 2020)_. [(PDF)](/docs/chaos_and_convergence_generalizing_homeier.pdf)
 
 ### 2015
 - **Multidimensional Homeier’s generalized class and its application to planar 1D Bratu problem**.  

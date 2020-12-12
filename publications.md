@@ -28,13 +28,18 @@ X. Timoneda, S. Abadal, **A. Franques**, D. Manessis, J. Zhou, J. Torrellas, E. 
 IEEE Transactions on Communications, doi: 10.1109/TCOMM.2020.2973988. _Impact factor: 6.72 (as of Sep. 2020)_. [(PDF)](/docs/timoneda_engineer_the_channel.pdf)
 
 ### 2019
+- **Replica: A Wireless Manycore for Communication-Intensive and Approximate Data**. <br>
+V. Fernando, **A. Franques**, S. Abadal, S. Misailovic, J. Torrellas.  
+Proceedings of the 24rd ACM International Conference on Architectural Support for Programming Languages and Operating Systems **(ASPLOS '19)**, Providence, USA, April 2019. _Acceptance rate: 21%_. [(PDF)](/docs/ASPLOS_2019_Replica.pdf)
+
+- **Communication Engine for Hybrid Interconnect Technologies**. <br>
+S. Blagodurov, **A. Franques**. 
+U.S. Patent App. 16/588,612. Filed: September 30, 2019 (on behalf of AMD). [(PDF)](/docs/)
+
 - **Opportunistic Beamforming in Wireless Network-on-Chip**. <br>
 S. Abadal, A. Marruedo, **A. Franques**, H. Taghvaee, A. Cabellos-Aparicio, J. Zhou, J. Torrellas, E. Alarcón.
 Proceedings of the International Symposium on Circuits and Systems **(ISCAS '19)**, Sapporo, Japan, May 2019. [(PDF)](/docs/ISCAS_2019_Opportunistic_Beamforming.pdf)
 
-- **Replica: A Wireless Manycore for Communication-Intensive and Approximate Data**. <br>
-V. Fernando, **A. Franques**, S. Abadal, S. Misailovic, J. Torrellas.  
-Proceedings of the 24rd ACM International Conference on Architectural Support for Programming Languages and Operating Systems **(ASPLOS '19)**, Providence, USA, April 2019. _Acceptance rate: 21%_. [(PDF)](/docs/ASPLOS_2019_Replica.pdf)
 
 ### 2018
 - **Millimeter-Wave Propagation within a Computer Chip Package**.  

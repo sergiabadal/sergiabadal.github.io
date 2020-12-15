@@ -21,7 +21,7 @@ To appear in the 2021 Design, Automation & Test in Europe Conference & Exhibitio
 
 - **WiDir: A Wireless-Enabled Directory Cache Coherence Protocol**. <br>
 **A. Franques**, A. Kokolis, S. Abadal, V. Fernando, S. Misailovic, J. Torrellas.  
-To appear in the 27th IEEE International Symposium on High-Performance Computer Architecture **(HPCA '21)**, Seoul, South Korea, March 2021 (held virtually). _Acceptance rate: 24%_. [(PDF)](/docs/HPCA_2021_WiDir_draft.pdf)
+To appear in the 27th IEEE International Symposium on High-Performance Computer Architecture **(HPCA '21)**, Seoul, South Korea, March 2021 (held virtually). _Acceptance rate: 24%_. [(PDF)](/docs/WiDir_HPCA_2021.pdf)
 
 - **Engineer the Channel and Adapt to it: Enabling Wireless Intra-Chip Communication**. <br>
 X. Timoneda, S. Abadal, **A. Franques**, D. Manessis, J. Zhou, J. Torrellas, E. Alarcón, A. Cabellos-Aparicio.

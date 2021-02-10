@@ -18,7 +18,7 @@ Although I have lived in a few different places over the last years, I grew up i
 
 Besides Computer Science related topics, my other personal interests and hobbies include running/hiking, rock climbing, travelling, and cooking/nutrition.
 
-You can find a copy of my full resume [here](docs/resume_long_antonio_franques.pdf). Also, you can email me at either [franques.antonio@gmail.com](mailto:franques.antonio@gmail.com) (personal) or [franque2@illinois.edu](mailto:franque2@illinois.edu) (academic).
+You can find a copy of my full resume [here](docs/resume_long_antonio_franques.pdf), and a shorter version [here](docs/resume_short_antonio_franques.pdf). Also, you can email me at either [franques.antonio@gmail.com](mailto:franques.antonio@gmail.com) (personal) or [franque2@illinois.edu](mailto:franque2@illinois.edu) (academic).
 
 ---
 ### News

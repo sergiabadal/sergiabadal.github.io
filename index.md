@@ -8,7 +8,7 @@ comments: false
 
 Hi, I am Antonio Franques, a PhD student in Computer Science at the [University of Illinois at Urbana-Champaign (UIUC)](http://illinois.edu).
 
-I am advised by [Prof. Josep Torrellas](http://iacoma.cs.uiuc.edu/josep/torrellas.html), and a member of the [i-acoma](http://iacoma.cs.uiuc.edu/) group. My research focuses on the application of high-frequency wireless on-chip communication in large-scale multicore architectures with hundreds or even thousands of cores. Specifically, my goal is to design scalable and efficient memory hierarchies that reduce the large cost of core-to-core communication in parallel computing. <br clear="left" />
+I am advised by [Prof. Josep Torrellas](http://iacoma.cs.uiuc.edu/josep/torrellas.html), and a member of the [i-acoma](http://iacoma.cs.uiuc.edu/) group. My research focuses on the application of novel interconnect technologies (such as hybrid wired-wireless NoCs) in large-scale multicore architectures with hundreds or even thousands of cores. Specifically, my goal is to design scalable and efficient memory hierarchies that reduce the large cost of core-to-core communication in parallel computing. <br clear="left" />
 
 In Fall 2018 and Spring 2019, I interned at AMD Research, developing and benchmarking driver and library software to evaluate the capabilities and performance of prototype hardware for exascale computing.
 

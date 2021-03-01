@@ -9,7 +9,8 @@ comments: false
 [Email](mailto:franques.antonio@gmail.com)  /  Resume ([long](docs/resume_long_antonio_franques.pdf), [short](docs/resume_short_antonio_franques.pdf))  / [Google Scholar](https://scholar.google.com/citations?user=0SIrK0MAAAAJ&hl=en)  /  [LinkedIn](https://www.linkedin.com/in/afranques/)  /  [Github](https://github.com/afranques)  /  [Twitter](https://twitter.com/a_franques)
 
 <strong style="color: red;">
-Actively looking for full-time positions in industry (applied / research labs).</br>Available to start in summer 2021. Let's chat!
+Actively looking for full-time positions in industry (applied / research labs).
+Available to start in summer 2021. Let's chat!
 </strong>
 
 Hi, I am Antonio Franques, a PhD student in Computer Science at the [University of Illinois at Urbana-Champaign (UIUC)](http://illinois.edu).

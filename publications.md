@@ -13,7 +13,7 @@ link_url: https://scholar.google.com/citations?user=0SIrK0MAAAAJ&hl=en
 ### 2020
 - **One Protocol to Rule Them All: Deep Reinforcement Learning Aided MAC for Wireless Network-on-Chips**. <br>
 S. Jog, Z. Liu, **A. Franques**, V. Fernando, S. Abadal, J. Torrellas, H. Hassanieh.  
-To appear in the 18th USENIX Symposium on Networked Systems Design and Implementation **(NSDI '21)**, April 2021 (held virtually). _Acceptance rate: 15%_. [(PDF)](/docs/)
+To appear in the 18th USENIX Symposium on Networked Systems Design and Implementation **(NSDI '21)**, April 2021 (held virtually). _Acceptance rate: 15%_. [(PDF)](/docs/Neumac_NSDI_2021.pdf)
 
 - **Fuzzy-Token: An Adaptive MAC Protocol for Wireless-Enabled Manycores**. <br>
 **A. Franques**, S. Abadal, H. Hassanieh, J. Torrellas.  

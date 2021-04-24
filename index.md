@@ -4,7 +4,7 @@ comments: false
 ---
 
 <div class="index_header_space"></div>
-<img class="profile_picture" src="/img/profile_picture.jpg" alt="Profile picture" style="width:143px;height:143px;">
+<img class="profile_picture" src="/img/profile_picture.jpg" alt="Profile picture">
 
 [Email](mailto:franques.antonio@gmail.com)  /  [Resume](full_resume) ([long](docs/resume_long_antonio_franques.pdf), [short](docs/resume_short_antonio_franques.pdf))  / [Google Scholar](https://scholar.google.com/citations?user=0SIrK0MAAAAJ&hl=en)  /  [LinkedIn](https://www.linkedin.com/in/afranques/)  /  [Github](https://github.com/afranques)  /  [Twitter](https://twitter.com/a_franques)
 

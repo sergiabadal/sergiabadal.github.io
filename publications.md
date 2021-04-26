@@ -17,7 +17,7 @@ To appear in the 18th USENIX Symposium on Networked Systems Design and Implement
 
 - **Fuzzy-Token: An Adaptive MAC Protocol for Wireless-Enabled Manycores**. <br>
 **A. Franques**, S. Abadal, H. Hassanieh, J. Torrellas.  
-To appear in the 2021 Design, Automation & Test in Europe Conference & Exhibition **(DATE '21)**, Grenoble, France, February 2021 (held virtually). _Acceptance rate: 24%_. [(PDF)](/docs/Fuzzy_Token_DATE_2021.pdf)
+To appear in the 2021 Design, Automation & Test in Europe Conference & Exhibition **(DATE '21)**, Grenoble, France, February 2021 (held virtually). _Acceptance rate: 24%_. ([PDF](/docs/Fuzzy_Token_DATE_2021.pdf), [Slides](/docs/DATE2021-Fuzzy-Token.pptx), [Video](https://youtu.be/r9PbEqpEHS0))
 
 - **WiDir: A Wireless-Enabled Directory Cache Coherence Protocol**. <br>
 **A. Franques**, A. Kokolis, S. Abadal, V. Fernando, S. Misailovic, J. Torrellas.  

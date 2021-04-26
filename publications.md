@@ -30,7 +30,7 @@ IEEE Transactions on Communications, doi: 10.1109/TCOMM.2020.2973988. _Impact fa
 ### 2019
 - **Replica: A Wireless Manycore for Communication-Intensive and Approximate Data**. <br>
 V. Fernando, **A. Franques**, S. Abadal, S. Misailovic, J. Torrellas.  
-Proceedings of the 24rd ACM International Conference on Architectural Support for Programming Languages and Operating Systems **(ASPLOS '19)**, Providence, USA, April 2019. _Acceptance rate: 21%_. [(PDF)](/docs/ASPLOS_2019_Replica.pdf)
+Proceedings of the 24rd ACM International Conference on Architectural Support for Programming Languages and Operating Systems **(ASPLOS '19)**, Providence, USA, April 2019. _Acceptance rate: 21%_. ([PDF](/docs/ASPLOS_2019_Replica.pdf), [Slides](/docs/ASPLOS2019-Replica.pptx))
 
 - **Communication Engine for Hybrid Interconnect Technologies**. <br>
 S. Blagodurov, **A. Franques**. 

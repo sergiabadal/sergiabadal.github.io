@@ -10,6 +10,11 @@ link_url: https://scholar.google.com/citations?user=0SIrK0MAAAAJ&hl=en
 <div class="empty_subtitle"></div>
 {% endif %}
 
+### 2021
+- **Communication Engine for Hybrid Interconnect Technologies**. <br>
+S. Blagodurov, **A. Franques**. 
+**U.S. Patent** App. 16/588,612. Filed on behalf of Advanced Micro Devices (AMD), Inc. [(Link)](https://patents.google.com/patent/US20210097014A1)
+
 ### 2020
 - **One Protocol to Rule Them All: Deep Reinforcement Learning Aided MAC for Wireless Network-on-Chips**. <br>
 S. Jog, Z. Liu, **A. Franques**, V. Fernando, S. Abadal, J. Torrellas, H. Hassanieh.  
@@ -31,10 +36,6 @@ IEEE Transactions on Communications, doi: 10.1109/TCOMM.2020.2973988. _Impact fa
 - **Replica: A Wireless Manycore for Communication-Intensive and Approximate Data**. <br>
 V. Fernando, **A. Franques**, S. Abadal, S. Misailovic, J. Torrellas.  
 Proceedings of the 24rd ACM International Conference on Architectural Support for Programming Languages and Operating Systems **(ASPLOS '19)**, Providence, USA, April 2019. _Acceptance rate: 21%_. ([PDF](/docs/ASPLOS_2019_Replica.pdf), [Slides](/docs/ASPLOS2019-Replica.pptx))
-
-- **Communication Engine for Hybrid Interconnect Technologies**. <br>
-S. Blagodurov, **A. Franques**. 
-**U.S. Patent** App. 16/588,612. Filed on behalf of AMD: September 30, 2019. [(PDF)](/docs/)
 
 - **Opportunistic Beamforming in Wireless Network-on-Chip**. <br>
 S. Abadal, A. Marruedo, **A. Franques**, H. Taghvaee, A. Cabellos-Aparicio, J. Zhou, J. Torrellas, E. Alarcón.

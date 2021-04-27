@@ -13,7 +13,7 @@ link_url: https://scholar.google.com/citations?user=0SIrK0MAAAAJ&hl=en
 ### 2021
 - **Communication Engine for Hybrid Interconnect Technologies**. <br>
 S. Blagodurov, **A. Franques**. 
-**U.S. Patent** App. 16/588,612. Filed on behalf of Advanced Micro Devices (AMD), Inc. [(Link)](https://patents.google.com/patent/US20210097014A1)
+**U.S. Patent** US20210097014A1 (App. No. 16/588,612). Filed on behalf of Advanced Micro Devices (AMD), Inc. [(Link)](https://patents.google.com/patent/US20210097014A1)
 
 ### 2020
 - **One Protocol to Rule Them All: Deep Reinforcement Learning Aided MAC for Wireless Network-on-Chips**. <br>

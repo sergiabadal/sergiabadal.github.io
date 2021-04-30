@@ -29,7 +29,7 @@ You can find a copy of my full resume [here](docs/resume_long_antonio_franques.p
 
 ---
 ### News
-- **Dec 2020**: Our manuscript [One Protocol to Rule Them All: Deep Reinforcement Learning Aided MAC for Wireless Network-on-Chips](/docs/Neumac_NSDI_2021.pdf) has been accepted to **NSDI '21**
+- **Dec 2020**: [NeuMAC](/docs/Neumac_NSDI_2021.pdf) has been accepted to **NSDI '21**
 - **Nov 2020**: [Fuzzy-Token](/docs/Fuzzy_Token_DATE_2021.pdf) has been accepted to **DATE '21**
 - **Oct 2020**: [WiDir](/docs/WiDir_HPCA_2021.pdf) has been accepted to **HPCA '21**
 - **Aug 2020**: Our poster [Millimeter-Wave Wireless Network on Chip Using Deep Reinforcement Learning](http://sjog2.web.engr.illinois.edu/images/papers/poster_sigcomm20_paper.pdf) is among the winners of the Student Research Competition at **SIGCOMM '20**

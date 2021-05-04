@@ -13,15 +13,15 @@ link_url: https://scholar.google.com/citations?user=0SIrK0MAAAAJ&hl=en
 ### 2021
 - **One Protocol to Rule Them All: Deep Reinforcement Learning Aided MAC for Wireless Network-on-Chips**. <br>
 S. Jog, Z. Liu, **A. Franques**, V. Fernando, S. Abadal, J. Torrellas, H. Hassanieh.  
-To appear in the 18th USENIX Symposium on Networked Systems Design and Implementation **(NSDI '21)**, April 2021 (held virtually). _Acceptance rate: 15%_. ([PDF](/docs/Neumac_NSDI_2021.pdf), [Slides](https://www.usenix.org/system/files/nsdi21_slides_jog.pdf))
+Proceedings of the 18th USENIX Symposium on Networked Systems Design and Implementation **(NSDI '21)**, April 2021 (held virtually). _Acceptance rate: 15%_. ([PDF](/docs/Neumac_NSDI_2021.pdf), [Slides](https://www.usenix.org/system/files/nsdi21_slides_jog.pdf))
 
 - **Fuzzy-Token: An Adaptive MAC Protocol for Wireless-Enabled Manycores**. <br>
 **A. Franques**, S. Abadal, H. Hassanieh, J. Torrellas.  
-To appear in the 2021 Design, Automation & Test in Europe Conference & Exhibition **(DATE '21)**, Grenoble, France, February 2021 (held virtually). _Acceptance rate: 24%_. ([PDF](/docs/Fuzzy_Token_DATE_2021.pdf), [Slides](/docs/DATE2021-Fuzzy-Token.pptx), [Video](https://youtu.be/r9PbEqpEHS0))
+Proceedings of the 2021 Design, Automation & Test in Europe Conference & Exhibition **(DATE '21)**, Grenoble, France, February 2021 (held virtually). _Acceptance rate: 24%_. ([PDF](/docs/Fuzzy_Token_DATE_2021.pdf), [Slides](/docs/DATE2021-Fuzzy-Token.pptx), [Video](https://youtu.be/r9PbEqpEHS0))
 
 - **WiDir: A Wireless-Enabled Directory Cache Coherence Protocol**. <br>
 **A. Franques**, A. Kokolis, S. Abadal, V. Fernando, S. Misailovic, J. Torrellas.  
-To appear in the 27th IEEE International Symposium on High-Performance Computer Architecture **(HPCA '21)**, Seoul, South Korea, March 2021 (held virtually). _Acceptance rate: 24%_. ([PDF](/docs/WiDir_HPCA_2021.pdf), [Short slides](/docs/HPCA2021-WiDir-short.pptx), [Long slides](/docs/HPCA2021-WiDir.pptx), [Short video](https://youtu.be/RJCt4rP4Ve4), [Long video](https://youtu.be/9RvEh7UH5Uk))
+Proceedings of the 27th IEEE International Symposium on High-Performance Computer Architecture **(HPCA '21)**, Seoul, South Korea, March 2021 (held virtually). _Acceptance rate: 24%_. ([PDF](/docs/WiDir_HPCA_2021.pdf), [Short slides](/docs/HPCA2021-WiDir-short.pptx), [Long slides](/docs/HPCA2021-WiDir.pptx), [Short video](https://youtu.be/RJCt4rP4Ve4), [Long video](https://youtu.be/9RvEh7UH5Uk))
 
 ### 2020
 - **Engineer the Channel and Adapt to it: Enabling Wireless Intra-Chip Communication**. <br>

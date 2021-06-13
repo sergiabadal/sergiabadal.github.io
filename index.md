@@ -4,16 +4,13 @@ comments: false
 ---
 
 <div class="index_header_space"></div>
-<img class="profile_picture" src="/img/profile_picture.jpg" alt="Profile picture">
+<img class="profile_picture" src="/img/profile_picture.png" alt="Profile picture">
 
 [Email](mailto:franques.antonio@gmail.com)  /  [Resume](full_resume) ([long](docs/resume_long_antonio_franques.pdf), [short](docs/resume_short_antonio_franques.pdf))  / [Google Scholar](https://scholar.google.com/citations?user=0SIrK0MAAAAJ&hl=en)  /  [LinkedIn](https://www.linkedin.com/in/afranques/)  /  [Github](https://github.com/afranques)  /  [Twitter](https://twitter.com/a_franques)
 
 <strong style="color: red;">
-  <del>Actively looking for full-time positions in industry. Let's chat!</del><br>
-  I am happy to announce that I will be joining Apple full-time as a member of an SoC Architecture Team, working as a Fabric/QoS Performance Architect.
+I am happy to announce that I will be joining Apple full-time as a member of an SoC Architecture Team, working as a Fabric/QoS Performance Architect.
 </strong>
-
-<br>
 
 Hi, I am Antonio Franques, a PhD student in Computer Science at the [University of Illinois at Urbana-Champaign (UIUC)](http://illinois.edu).
 

@@ -12,7 +12,7 @@ comments: false
   <del>Actively looking for full-time positions in industry. Let's chat!</del><br>
   I am happy to announce that I will be joining Apple full-time as a member of an SoC Architecture Team, working as a Fabric/QoS Performance Architect.
 </strong>
-
+</br>
 Hi, I am Antonio Franques, a PhD student in Computer Science at the [University of Illinois at Urbana-Champaign (UIUC)](http://illinois.edu).
 
 I am advised by [Prof. Josep Torrellas](http://iacoma.cs.uiuc.edu/josep/torrellas.html), and a member of the [i-acoma](http://iacoma.cs.uiuc.edu/) group. My research focuses on the application of novel interconnect technologies (such as hybrid wired-wireless NoCs) in large-scale multicore architectures with hundreds or even thousands of cores. Specifically, my goal is to design scalable and efficient memory hierarchies that reduce the large cost of core-to-core communication in parallel computing. <br clear="left" />

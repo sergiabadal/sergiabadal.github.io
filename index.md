@@ -22,7 +22,7 @@ Prior to joining UIUC I obtained my Bachelor's Degree in Telecommunications Engi
 
 Although I have lived in a few different places over the last years, I grew up in [l'Espluga de Francoli](https://en.wikipedia.org/wiki/L%27Espluga_de_Francol%C3%AD), Spain&mdash;a beautiful little town in [Catalonia](https://en.wikipedia.org/wiki/Catalonia) where I still often go to visit my family and friends.
 
-Besides Computer Science related topics, my other personal interests and hobbies include running/hiking, rock climbing, travelling, and cooking/nutrition.
+Besides Computer Science related topics, my other personal interests and hobbies include running, hiking, rock climbing, travelling, and cooking.
 
 You can find a copy of my full resume [here](docs/resume_long_antonio_franques.pdf), and a shorter version [here](docs/resume_short_antonio_franques.pdf). Also, you can email me at either [franques.antonio@gmail.com](mailto:franques.antonio@gmail.com) (personal) or [franque2@illinois.edu](mailto:franque2@illinois.edu) (academic).
 

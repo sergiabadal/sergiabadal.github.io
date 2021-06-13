@@ -10,7 +10,7 @@ comments: false
 
 <strong style="color: red;">
   <del>Actively looking for full-time positions in industry. Let's chat!</del><br>
-  I am happy to announce that I will be joining Apple as a full-time member of a System-on-Chip Architecture Team, working as a Fabric/QoS Performance Architect.
+  I am happy to announce that I will be joining Apple as a full-time member of an SoC Architecture Team, working as a Fabric/QoS Performance Architect.
 </strong>
 
 Hi, I am Antonio Franques, a PhD student in Computer Science at the [University of Illinois at Urbana-Champaign (UIUC)](http://illinois.edu).

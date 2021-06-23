@@ -20,8 +20,6 @@ In Fall 2018 and Spring 2019, I interned at AMD Research, developing and benchma
 
 Prior to joining UIUC I obtained my Bachelor's Degree in Telecommunications Engineering from the [Technical University of Valencia (UPV)](http://www.upv.es/index-en.html), Spain, and completed one exchange semester at the [Norwegian University of Science and Technology (NTNU)](https://www.ntnu.edu/), Norway. During my undergraduate studies I also performed two years of research in the area of Computational Mathematics under the supervision of Professors [Juan Ramon Torregrosa](https://damres.webs.upv.es/?page_id=946) and [Alicia Cordero](https://damres.webs.upv.es/?page_id=944), as a member of the [DAMRES](https://damres.webs.upv.es/?lang=en) group. 
 
-Although I have lived in a few different places over the last years, I grew up in [l'Espluga de Francoli](https://en.wikipedia.org/wiki/L%27Espluga_de_Francol%C3%AD), Spain&mdash;a beautiful little town in [Catalonia](https://en.wikipedia.org/wiki/Catalonia) where I still often go to visit my family and friends.
-
 Besides Computer Science related topics, my other personal interests and hobbies include running, hiking, rock climbing, travelling, and cooking.
 
 You can find a copy of my full resume [here](docs/resume_long_antonio_franques.pdf), and a shorter version [here](docs/resume_short_antonio_franques.pdf). Also, you can email me at either [franques.antonio@gmail.com](mailto:franques.antonio@gmail.com) (personal) or [franque2@illinois.edu](mailto:franque2@illinois.edu) (academic).

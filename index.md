@@ -8,10 +8,6 @@ comments: false
 
 [Email](mailto:franques.antonio@gmail.com)  /  [Resume](full_resume) ([long](docs/resume_long_antonio_franques.pdf), [short](docs/resume_short_antonio_franques.pdf))  / [Google Scholar](https://scholar.google.com/citations?user=0SIrK0MAAAAJ&hl=en)  /  [LinkedIn](https://www.linkedin.com/in/afranques/)  /  [Github](https://github.com/afranques)  /  [Twitter](https://twitter.com/a_franques)
 
-<strong style="color: red;">
-I am happy to announce that I will be joining Apple full-time as a member of an SoC Architecture Team, working as a Fabric/QoS Performance Architect.
-</strong>
-
 Hi, I am Antonio Franques, a PhD student in Computer Science at the [University of Illinois at Urbana-Champaign (UIUC)](http://illinois.edu).
 
 I am advised by [Prof. Josep Torrellas](http://iacoma.cs.uiuc.edu/josep/torrellas.html), and a member of the [i-acoma](http://iacoma.cs.uiuc.edu/) group. My research focuses on the application of novel interconnect technologies (such as hybrid wired-wireless NoCs) in large-scale multicore architectures with hundreds or even thousands of cores. Specifically, my goal is to design scalable and efficient memory hierarchies that reduce the large cost of core-to-core communication in parallel computing. <br clear="left" />

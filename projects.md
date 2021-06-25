@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-subtitle: This is a collection of some of my personal and class projects. A (possibly) more updated list of them can also be found on my
+subtitle: A collection of some of my personal and class projects. A more updated list of them can also be found on my
 link_name: GitHub
 link_url: https://github.com/afranques
 ---

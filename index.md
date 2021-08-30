@@ -10,7 +10,7 @@ comments: false
 
 Hi, I am Antonio Franques, an SoC Fabric/QoS Performance Engineer at Apple.
 
-I received my PhD in Computer Science from [UIUC](https://illinois.edu/), under the supervision of [Prof. Josep Torrellas](http://iacoma.cs.uiuc.edu/josep/torrellas.html), and as a member of the [i-acoma](http://iacoma.cs.uiuc.edu/) group. My research focused on the application of novel interconnect technologies (such as hybrid wired-wireless NoCs) in large-scale multicore architectures with hundreds or even thousands of cores. Specifically, my goal was to design scalable and efficient memory hierarchies to reduce the large cost of core-to-core communication in parallel computing. <br clear="left" />
+I received my PhD in Computer Science from [UIUC](https://illinois.edu/), under the supervision of [Prof. Josep Torrellas](http://iacoma.cs.uiuc.edu/josep/torrellas.html), and as a member of the [i-acoma](http://iacoma.cs.uiuc.edu/) group. My research focused on the application of novel interconnect technologies (such as hybrid wired-wireless NoCs) in large-scale multicore architectures with hundreds or even thousands of cores. Specifically, my goal was to design scalable and efficient memory hierarchies to reduce the cost of core-to-core communication in parallel computing. <br clear="left" />
 
 In Fall 2018 and Spring 2019, I interned at AMD Research, developing and benchmarking driver and library software to evaluate the capabilities and performance of prototype interconnects for exascale computing.
 

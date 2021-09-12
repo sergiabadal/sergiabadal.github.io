@@ -10,15 +10,15 @@ comments: false
 
 Hi, I am Antonio Franques, and I am currently working as an SoC Performance Architect at [Apple](https://www.apple.com/) in Cupertino, CA.
 
-I received my master's and Ph.D. degrees in Computer Science from the [University of Illinois at Urbana-Champaign (UIUC)](https://illinois.edu/), under the supervision of [Prof. Josep Torrellas](http://iacoma.cs.uiuc.edu/josep/torrellas.html), and as a member of the [i-acoma](http://iacoma.cs.uiuc.edu/) group. My research focused on the application of novel interconnect technologies in large-scale multicore architectures. Specifically, I aimed to design scalable and efficient memory hierarchies to reduce the cost of data transfers, by using on-chip wireless communication. <br clear="left" />
+I received my master's and Ph.D. degrees in computer science from the [University of Illinois at Urbana-Champaign (UIUC)](https://illinois.edu/), under the supervision of [Prof. Josep Torrellas](http://iacoma.cs.uiuc.edu/josep/torrellas.html), and as a member of the [i-acoma](http://iacoma.cs.uiuc.edu/) group. My research focused on the application of novel interconnect technologies in large-scale multicore architectures. Specifically, I aimed to design scalable and efficient memory hierarchies to reduce the cost of data transfers, by using on-chip wireless communication. <br clear="left" />
 
 While I was a graduate student at UIUC, I interned twice at [AMD Research](https://www.amd.com/en/corporate/research) (Austin, TX, and Seattle, WA), developing and benchmarking driver and library software to evaluate the capabilities and performance of prototype interconnects for exascale computing.
 
-Prior to joining UIUC, I obtained my Bachelor's Degree in Telecommunications Engineering from the [Technical University of Valencia (UPV)](http://www.upv.es/index-en.html), Spain, and completed one exchange semester at the [Norwegian University of Science and Technology (NTNU)](https://www.ntnu.edu/), Norway. 
+Prior to joining UIUC, I obtained my bachelor's degree in telecommunications engineering from the [Technical University of Valencia (UPV)](http://www.upv.es/index-en.html), Spain, and completed one exchange semester at the [Norwegian University of Science and Technology (NTNU)](https://www.ntnu.edu/), Norway. 
 
-During my undergraduate studies at UPV, I also performed two years of research in the area of Computational Mathematics under the supervision of Professors [Juan Ramon Torregrosa](https://damres.webs.upv.es/?page_id=946) and [Alicia Cordero](https://damres.webs.upv.es/?page_id=944), as a member of the [DAMRES](https://damres.webs.upv.es/?lang=en) group, developing numerical methods for nonlinear modeling. 
+During my undergraduate studies at UPV, I also performed two years of research in the area of computational mathematics under the supervision of Professors [Juan Ramon Torregrosa](https://damres.webs.upv.es/?page_id=946) and [Alicia Cordero](https://damres.webs.upv.es/?page_id=944), as a member of the [DAMRES](https://damres.webs.upv.es/?lang=en) group, developing numerical methods for nonlinear modeling. 
 
-Besides Computer Science related topics, my other personal interests and hobbies include running, hiking, rock climbing, traveling, and cooking.
+Besides computer science related topics, my other personal interests and hobbies include running, hiking, rock climbing, traveling, and cooking.
 
 You can find a copy of my full resume [here](docs/resume_long_antonio_franques.pdf), and a shorter version [here](docs/resume_short_antonio_franques.pdf). Also, you can email me at [franques.antonio@gmail.com](mailto:franques.antonio@gmail.com).
 

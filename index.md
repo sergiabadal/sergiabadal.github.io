@@ -25,7 +25,7 @@ You can find a copy of my full resume [here](docs/resume_long_antonio_franques.p
 ---
 ### News
 - **Aug 2021**: I have **joined Apple full-time**, as an SoC Performance Architect
-- **Aug 2021**: I have successfully **defended my Ph.D. thesis**, titled *"On-Chip Wireless Manycore Architectures"*
+- **Aug 2021**: I have successfully **defended my Ph.D. thesis**, *"On-Chip Wireless Manycore Architectures"*
 - **Dec 2020**: [NeuMAC](/docs/Neumac_NSDI_2021.pdf) has been accepted to **NSDI '21**
 - **Nov 2020**: [Fuzzy-Token](/docs/Fuzzy_Token_DATE_2021.pdf) has been accepted to **DATE '21**
 - **Oct 2020**: [WiDir](/docs/WiDir_HPCA_2021.pdf) has been accepted to **HPCA '21**

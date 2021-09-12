@@ -10,7 +10,7 @@ comments: false
 
 Hi, I am Antonio Franques, and I am currently working as an SoC Performance Architect at [Apple](https://www.apple.com/) in Cupertino, CA.
 
-I received my PhD in Computer Science from the [University of Illinois at Urbana-Champaign (UIUC)](https://illinois.edu/), under the supervision of [Prof. Josep Torrellas](http://iacoma.cs.uiuc.edu/josep/torrellas.html), and as a member of the [i-acoma](http://iacoma.cs.uiuc.edu/) group. My research focused on the application of novel interconnect technologies in large-scale multicore architectures. Specifically, I aimed to design scalable and efficient memory hierarchies to reduce the cost of data transfers, by using on-chip wireless communication. <br clear="left" />
+I received my master's and Ph.D. degrees in Computer Science from the [University of Illinois at Urbana-Champaign (UIUC)](https://illinois.edu/), under the supervision of [Prof. Josep Torrellas](http://iacoma.cs.uiuc.edu/josep/torrellas.html), and as a member of the [i-acoma](http://iacoma.cs.uiuc.edu/) group. My research focused on the application of novel interconnect technologies in large-scale multicore architectures. Specifically, I aimed to design scalable and efficient memory hierarchies to reduce the cost of data transfers, by using on-chip wireless communication. <br clear="left" />
 
 While I was a graduate student at UIUC, I interned twice at [AMD Research](https://www.amd.com/en/corporate/research) (Austin, TX, and Seattle, WA), developing and benchmarking driver and library software to evaluate the capabilities and performance of prototype interconnects for exascale computing.
 

@@ -8,7 +8,7 @@ comments: false
 
 [Email](mailto:franques.antonio@gmail.com)  /  [Resume](full_resume) ([long](docs/resume_long_antonio_franques.pdf), [short](docs/resume_short_antonio_franques.pdf))  / [Google Scholar](https://scholar.google.com/citations?user=0SIrK0MAAAAJ&hl=en)  /  [LinkedIn](https://www.linkedin.com/in/afranques/)  /  [Github](https://github.com/afranques)  /  [Twitter](https://twitter.com/a_franques)
 
-Hi, I am Antonio Franques, and I am currently working as an SoC Performance Architect at [Apple](https://www.apple.com/) in Cupertino, CA.
+Hi, I am Sergi Abadal, and I am currently working as an SoC Performance Architect at [Apple](https://www.apple.com/) in Cupertino, CA.
 
 I received my master's and Ph.D. degrees in computer science from the [University of Illinois at Urbana-Champaign (UIUC)](https://illinois.edu/), under the supervision of [Prof. Josep Torrellas](http://iacoma.cs.uiuc.edu/josep/torrellas.html), and as a member of the [i-acoma](http://iacoma.cs.uiuc.edu/) group. My research focused on the application of novel interconnect technologies in large-scale multicore architectures. Specifically, I aimed to design scalable and efficient memory hierarchies to reduce the cost of data transfers, by using on-chip wireless communication. <br clear="left" />
 

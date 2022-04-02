@@ -14,19 +14,23 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Antonio Franques
+title: Sergi Abadal Personal Webpage
 
 # Short description of your site
-description: PhD Student in Computer Science, University of Illinois at Urbana-Champaign.
+description: Researcher in Computer Architecture, Universitat Politècnica de Catalunya
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About me: ""
-  Resume: "full_resume"
+  #About me: ""
+  Bio: "bio"
+  Team: "tean"
   Publications: "publications"
   Projects: "projects"
+  Talks: "talks"
+  Service: "service
+  Teaching: "teaching"
   #Blog: "blog"
 
 # Image to show in the navigation bar - image must be a square (width = height)

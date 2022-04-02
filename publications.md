@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-subtitle: \|
+subtitle: aaa [ee](http://www.sergiabadal.com)
 link_name: Selected Publications
 link_url: http://www.sergiabadal.com
 ---

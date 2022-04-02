@@ -9,7 +9,7 @@ link_url: https://scholar.google.com/citations?user=FntFEnYAAAAJ
 {% if page.subtitle == "" %}
 <div class="empty_subtitle"></div>
 {% endif %}
-<p style="text-align:center"><a href="#selected">Selected Publications</a> (<a href="/docs/resume_long_antonio_franques.pdf">download</a>)  \|  <a href="/2page_resume">Two-Page Resume</a> (<a href="/docs/resume_2page_antonio_franques.pdf">download</a>)  \|  <a style="font-weight:bold" href="/short_resume">One-Page Resume</a> (<a style="font-weight:bold" href="/docs/resume_short_antonio_franques.pdf">download</a>)</p>
+<p style="text-align:center"><a href="#selected">Selected Publications</a> | <a href="#pre">Pre-prints</a> | <a href="#book">Book Chapters</a> | <a href="#journal">Journal Papers</a> | <a href="#conference">Conference Papers</a> | <a href="#poster">Posters and Abstracts</a></p>
 
 
 
@@ -44,7 +44,7 @@ S. Abadal, I. Llatser, A. Mestres, H. Lee, E. Alarcón and A. Cabellos-Aparicio,
 - <a href="http://ieeexplore-spotlight.ieee.org/article/graphennas-the-wonder-compound-meets-nano-scale-wireless-communications/">IEEE Xplore Spotlight Blog</a>
 
 <br/><br/>
-### Pre-prints
+### <a name="pre"></a> Pre-prints
 M. Imani, S. Abadal, P. Del Hougne, <strong>"Smart On-Chip Electromagnetic Environment",</strong> arXiv:2109.03284, 2021. <strong><a href="https://arxiv.org/pdf/2109.03284.pdf">[PDF]</a></strong>
 
 K. Ntontin, A.-A. A. Boulogeorgos, E. BJörnson, D. Selimis, W. A. Martins, S. Kisseleff, S. Abadal, E. Alarcón, A. Papazafeiropoulos, F. Lazarakis,  A. Alexiou, S. Chatzinotas, <strong>"Toward Autonomous Reconfigurable Intelligent Surfaces Through Wireless Energy Harvesting",</strong> arXiv:2108.07953, 2021. <strong><a href="https://arxiv.org/pdf/2108.07953.pdf">[PDF]</a></strong>
@@ -63,7 +63,7 @@ Massive Heterogeneous Multi-chip Processors,"</strong> arXiv:2011.04107, 2020. <
 S. Rodrigo, S. Abadal, E. Alarcón, C. Almudéver, <strong>"Exploring a Double Full-Stack Communications-Enabled Architecture for Multi-Core Quantum Computers,"</strong> arXiv:2009.08186, 2020. <strong><a href="https://arxiv.org/pdf/2009.08186.pdf">[PDF]</a></strong> <strong><a href="https://youtu.be/ltyOaMQ22UI">[VIDEO]</a></strong> 
 
 <br/><br/>
-### Book Chapters
+### <a name="book"></a> Book Chapters
 
 [B8] H. Taghvaee, S. Abadal, E. Alarcón, A. Cabellos-Aparicio, T. Saeed, A. Pitsillides, O. Tsilipakos, C. Liaskos, A. Tasolamprou, M. Kafesaki, A. Pitilakis, N. Kantartzis, V. Soteriou, M. Lestas, <strong>&quot;The scaling laws of Hypersurfaces,&quot;</strong> in Internet of Materials, CRC Press, 2020, Chapter 8.
     
@@ -83,7 +83,7 @@ S. Rodrigo, S. Abadal, E. Alarcón, C. Almudéver, <strong>"Exploring a Double F
 
 
 <br/><br/>
-### Journal Papers
+### <a name="journal"></a> Journal Papers
 [J35] H. Taghvaee, A. Pitilakis, O. Tsilipakos, A. C. Tasolamprou, N. V. Kantartzis, M. Kafesaki, A. Cabellos-Aparicio, E. Alarcón, and S. Abadal, <strong>"Multi-Wideband Terahertz Communications via Tunable Graphene-based Metasurfaces in 6G Networks,"</strong> IEEE Vehicular Technology Magazine, 2022. <a href="https://arxiv.org/pdf/2203.10298.pdf"><strong>[PDF]</strong></a>
 
 [J34] A. Ganguly, S. Abadal, I. Thakkar, N. Enright Jerger, M. Riedel, M. Babaie, R. Balasubramonian, A. Sebastian, S. Pasricha, and B. Taskin, <strong>"Interconnects for DNA, Quantum, In-Memory and Optical Computing: Insights from a Panel Discussion,"</strong> IEEE Micro, 2022. <a href="./pdf/IEEE_Micro_Mag_NoCArc2020_Panel.pdf"><strong>[PDF]</strong></a>
@@ -161,7 +161,7 @@ Wireless Network-on-Chip Architecture,”</strong> in IEEE Transactions on Paral
 
 
 <br/><br/>
-### Conference Papers
+### <a name="conference"></a> Conference Papers
 
 [C53] N. Bruschi, G. Tagliavini, F. Conti, S. Abadal, A. Cabellos-Aparicio, E. Alarcón, G. Karunaratne, I. Boybat, L. Benini, and D. Rossi <strong>"Scale up your In-Memory Accelerator: Leveraging Wireless-on-Chip Communication for AIMC-based CNN Inference," </strong> Proceedings of the AICAS 2022, Incheon, Korea, June 2022.
  
@@ -278,7 +278,7 @@ Communications within Computing Packages,”</strong> in Proceedings of the ACM/
 
 
 <br/><br/>
-### Posters and Abstracts
+### <a name="poster"></a> Posters and Abstracts
 [P14] M. Imani, S. Abadal, P. Del Hougne, <strong>"Engineering Multiple Scattering in On-chip Wireless Communication Networks"</strong>, 2022 IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting (AP-S/URSI), Denver, USA, July 2022.
 
 [P13] S. Rodrigo, S. Abadal, M. Bandiç, H. van Someren, S. Feld, C. G. Almudéver, E. Alarcón, <strong>"Quantum Intranets for Scalable Multi-Core Quantum Computing,"</strong> International Conference on Science and Technology of Quantum Matter (QuantumMatter 2022), Barcelona, Spain, June 2022.

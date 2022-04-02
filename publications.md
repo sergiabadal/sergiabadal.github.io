@@ -12,93 +12,60 @@ link_url: https://scholar.google.com/citations?user=FntFEnYAAAAJ
 
 ### Selected Publications
 S. Jog, Z. Liu, A. Franques, V. Fernando, S. Abadal, J. Torrellas, H. Hassanieh, <strong>"One Protocol to Rule Them All: Wireless Network-on-Chip using Deep Reinforcement Learning,"</strong> in Proceedings of NSDI 2021, Virtual Event, April 2021. <strong><a href="http://sjog2.web.engr.illinois.edu/images/papers/neumac_sjog_nsdi21.pdf">[PDF]</a></strong> <strong><a href="https://www.usenix.org/system/files/nsdi21_slides_jog.pdf">[SLIDES]</a></strong> <strong><a href="http://sjog2.web.engr.illinois.edu/images/papers/poster_sigcomm20.pdf">[POSTER]</a></strong> <strong><a href="https://youtu.be/f2nRNkxNr88">[VIDEO]</a></strong>
-	       <ul> 
-				<li>Winners of the <a href="https://conferences.sigcomm.org/sigcomm/2020/cf-posters.html">SIGCOMM Student Research Competition.</a> Third Place!
-				 </li>
-				</ul>
+- Winners of the <a href="https://conferences.sigcomm.org/sigcomm/2020/cf-posters.html">SIGCOMM Student Research Competition.</a> Third Place!
 
 S. Abadal, A. Jain, R. Guirado, J. López-Alonso, E. Alarcón, <strong>"Computing Graph Neural Networks: A Survey from Algorithms to   Accelerators,"</strong> ACM Computing Surveys, vol. 54, no. 9, pp. 191:1-38, 2021. <strong><a href="https://dl.acm.org/doi/pdf/10.1145/3477141">[OPEN ACCESS]</a></strong>
-  
    
 S. Rodrigo, S. Abadal, E. Alarcón, M. Bandic, J. van Someren, C. G. Almudever, <strong>"On Double Full-Stack Communications-Enabled Architectures for Multi-Core Quantum Computers,"</strong> IEEE MICRO, vol. 41, no. 5, pp. 48-56, 2021. <a href="https://upcommons.upc.edu/bitstream/handle/2117/349287/09465720.pdf?sequence=3"><strong>[PDF]</strong></a> <strong><a href="https://youtu.be/ltyOaMQ22UI">[VIDEO]</a></strong> 
 
- 
 X. Timoneda, S. Abadal, A. Franques, D. Manessis, J. Zhou, J. Torrellas, E. Alarcón, and A. Cabellos-Aparicio, <strong>“Engineer the Channel and Adapt to it: Enabling Wireless Intra-Chip Communication,”</strong> IEEE Transactions on Communications, vol. 68, no. 5, pp. 3247-3258, 2020. <strong><a href="https://arxiv.org/pdf/1901.04291.pdf">[PDF]</a></strong>
-
- 
 
 F. Lemic, S. Abadal, W. Tavernier, P. Stroobant, D. Colle, E. Alarcón, J. Marquez-Barja, J. Famaey, <strong>"Survey on Terahertz Nanocommunication and Networking: A Top-Down Perspective,"</strong> IEEE Journal on Selected Areas in Communications, vol. 36, no. 9, pp. 1506-1543, 2021. <strong><a href="https://arxiv.org/pdf/1909.05703.pdf">[PDF]</a></strong> <strong><a href="https://www.youtube.com/watch?v=j_WOGmeEmoU">[VIDEO]</a></strong> 
 
-
- 
-
-
 S. Abadal, C. Liaskos, A. Tsioliaridou, S. Ioannidis, A. Pitsillides, J. Solé-Pareta, E. Alarcón, and A. Cabellos-Aparicio, <strong>“Computing and Communications for the Software-Defined Metamaterial Paradigm: A Context Analysis,”</strong> IEEE Access, vol. 5, pp. 6225-6235, 2017. <strong><a href="http://www.n3cat.upc.edu/papers/Computing-and-Communications-for-the-Software-Defined-Metamaterial-Paradigm-A-Context-Analysis.pdf">[PDF]</a></strong>
-    <ul class="style1">
-				<li>[ENG] <a href="http://www.publicnow.com/view/B0BA04ADDCC57999D9F4C16BFC8D6F405A889DC6?2017-07-21-10:00:11+01:00-xxx1004">PublicNow</a>
+- [ENG] <a href="http://www.publicnow.com/view/B0BA04ADDCC57999D9F4C16BFC8D6F405A889DC6?2017-07-21-10:00:11+01:00-xxx1004">PublicNow</a>
 				 | <a href="https://www.upc.edu/en/press-room/news/scientists-from-the-upc-investigate-reconfigurable-and-programmable-metamaterials">UPC News</a>
 				 | <a href="https://www.theregister.com/2020/06/01/irs_wireless_jamming/">The Register</a>
-			    </li>
-				<li>[ESP] <a href="http://www.lavanguardia.com/vida/20170710/424038208290/cientificos-de-la-upc-investigan-materiales-reconfigurables-y-programables.html">La Vanguardia</a>
+- [ESP] <a href="http://www.lavanguardia.com/vida/20170710/424038208290/cientificos-de-la-upc-investigan-materiales-reconfigurables-y-programables.html">La Vanguardia</a>
 				 | <a href="http://www.elperiodico.com/es/sociedad/20170710/cientificos-de-la-upc-investigan-materiales-reconfigurables-y-programables-6158737">El Periódico </a>
-				 </li>
-				</ul>
 
 S. Abadal, J. Torrellas, E. Alarcón, and A. Cabellos-Aparicio, <strong>“OrthoNoC: A Broadcast-Oriented Dual-Plane
-Wireless Network-on-Chip Architecture,”</strong> in IEEE Transactions on Parallel and Distributed Systems, vol. 29, no. 3, pp. 628-641, Mar. 2018. <strong><a href="http://www.n3cat.upc.edu/papers/OrthoNoC_A_Broadcast-Oriented_Dual-Plane_Wireless_Network-on-Chip_Architecture.pdf">[PDF]</a></strong>
-    				
+Wireless Network-on-Chip Architecture,”</strong> in IEEE Transactions on Parallel and Distributed Systems, vol. 29, no. 3, pp. 628-641, Mar. 2018. <strong><a href="http://www.n3cat.upc.edu/papers/OrthoNoC_A_Broadcast-Oriented_Dual-Plane_Wireless_Network-on-Chip_Architecture.pdf">[PDF]</a></strong>			
 				
 V. Fernando, A. Franques, S. Abadal, S. Misailovic, J. Torrellas, <strong>“Replica: A Wireless Manycore for
 Communication-Intensive and Approximate Data,”</strong> in Proceedings of the ASPLOS ’19, Providence, RI, USA, April 2019. <strong><a href="http://iacoma.cs.uiuc.edu/iacoma-papers/asplos19.pdf">[PDF]</a></strong> <strong><a href="http://iacoma.cs.uiuc.edu/iacoma-papers/PRES/present_asplos19.pdf">[SLIDES]</a></strong>
     
 S. Abadal, E. Alarcón, M. C. Lemme, M. Nemirovsky and A. Cabellos-Aparicio,   <strong>&quot;Graphene-enabled Wireless Communication for Massive Multicore Architectures,&quot;</strong> IEEE Communications Magazine, vol. 51, no. 11, pp. 137-143, November 2013. <strong><a href="http://www.n3cat.upc.edu/papers/Graphene-enabled_Wireless_Communication_for_Massive_Multicore_Architectures.pdf">[PDF]</a></strong>
-	<ul class="style1">
-				<li>[ENG] <a href="http://www.extremetech.com/extreme/149172-samsung-funds-graphene-antenna-project-for-wireless-ultra-fast-intra-chip-links">ExtremeTech</a>
+- [ENG] <a href="http://www.extremetech.com/extreme/149172-samsung-funds-graphene-antenna-project-for-wireless-ultra-fast-intra-chip-links">ExtremeTech</a>
 				 | <a href="http://www.alphagalileo.es/ViewItem.aspx?ItemId=128752&amp;CultureCode=en">Alpha Galileo </a>
 				 | <a href="http://www.graphenetracker.com/samsung-backs-project-to-develop-graphene-based-micro-antennas/">Graphene Tracker</a>
-			    </li>
-				<li>[ESP] <a href="http://blogthinkbig.com/microantenas-de-grafeno-capacidad-computacional/">ThinkBig (Telefonica)</a>
+- [ESP] <a href="http://blogthinkbig.com/microantenas-de-grafeno-capacidad-computacional/">ThinkBig (Telefonica)</a>
 				 | <a href="http://www.europapress.es/portaltic/empresas/noticia-samsung-financia-120000-dolares-proyecto-liderado-upc-desarrollar-microantenas-20130218182118.html">Europa Press</a>
 				 | <a href="http://www.larazon.es/detalle_normal/noticias/1208199/samsung-financia-un-programa-espanol-de-microa#.UhifKBunqaI">La Razón</a>
-				</li>
-				<li>[CAT] <a href="http://www.upc.edu/saladepremsa/al-dia/mes-noticies/samsung-aposta-per-un-projecte-liderat-per-la-upc-per-desenvolupar-microantenes-basades-en-el-grafe">UPC</a>
+				
+- [CAT] <a href="http://www.upc.edu/saladepremsa/al-dia/mes-noticies/samsung-aposta-per-un-projecte-liderat-per-la-upc-per-desenvolupar-microantenes-basades-en-el-grafe">UPC</a>
 				 | <a href="http://www.rtve.es/alacarta/audios/lobservatori/lobservatori-2-marc-2013/1701205/">Ràdio4 (RTVE - Local Radio Station)</a>
-				</li>
-				</ul>
-			S. Abadal, I. Llatser, A. Mestres, H. Lee, E. Alarcón and A. Cabellos-Aparicio,<strong>&quot;Time-Domain Analysis of Graphene-based Miniaturized Antennas for Ultra-short-range Impulse Radio Communications,&quot;</strong> IEEE Transactions on Communications, vol. 63, no. 4, pp. 1470-1482, Apr. 2015. <strong><a href="http://www.n3cat.upc.edu/papers/Time-Domain_Analysis_of_Graphene-based_Miniaturized_Antennas_for_Ultra-short-range_Impulse_Radio_Communications.pdf">[PDF]</a></strong>
-	
-<ul class="style1">
-<li><a href="http://ieeexplore-spotlight.ieee.org/article/graphennas-the-wonder-compound-meets-nano-scale-wireless-communications/">IEEE Xplore Spotlight Blog</a>
-				</li>
-				</ul>
+
+S. Abadal, I. Llatser, A. Mestres, H. Lee, E. Alarcón and A. Cabellos-Aparicio,<strong>&quot;Time-Domain Analysis of Graphene-based Miniaturized Antennas for Ultra-short-range Impulse Radio Communications,&quot;</strong> IEEE Transactions on Communications, vol. 63, no. 4, pp. 1470-1482, Apr. 2015. <strong><a href="http://www.n3cat.upc.edu/papers/Time-Domain_Analysis_of_Graphene-based_Miniaturized_Antennas_for_Ultra-short-range_Impulse_Radio_Communications.pdf">[PDF]</a></strong>
+- <a href="http://ieeexplore-spotlight.ieee.org/article/graphennas-the-wonder-compound-meets-nano-scale-wireless-communications/">IEEE Xplore Spotlight Blog</a>
 
 
 ### Pre-prints
 M. Imani, S. Abadal, P. Del Hougne, <strong>"Smart On-Chip Electromagnetic Environment",</strong> arXiv:2109.03284, 2021. <strong><a href="https://arxiv.org/pdf/2109.03284.pdf">[PDF]</a></strong>
 
-
 K. Ntontin, A.-A. A. Boulogeorgos, E. BJörnson, D. Selimis, W. A. Martins, S. Kisseleff, S. Abadal, E. Alarcón, A. Papazafeiropoulos, F. Lazarakis,  A. Alexiou, S. Chatzinotas, <strong>"Toward Autonomous Reconfigurable Intelligent Surfaces Through Wireless Energy Harvesting",</strong> arXiv:2108.07953, 2021. <strong><a href="https://arxiv.org/pdf/2108.07953.pdf">[PDF]</a></strong>
-
 
 H. Taghvaee, A. Jain, S. Abadal, E. Alarcón, A. Cabellos-Aparicio, <strong>"On the Enabling of Multi-user Communications with Reconfigurable Intelligent Surfaces",</strong> 2021. <strong><a href="https://arxiv.org/pdf/2106.06789.pdf">[PDF]</a></strong>
 
- 
 F. Lemic, S. Abadal, E. Alarcón, and J. Famaey, <strong>"Toward Location-aware In-body Terahertz Nanonetworks with Energy Harvesting"</strong> arXiv:2101.01952, 2021. <strong><a href="https://arxiv.org/pdf/2101.01952.pdf">[PDF]</a></strong>
-
 
 K. Ntontin, A.-A. A. Boulogeorgos, E. BJörnson, D. Selimis, W. A. Martins, S. Abadal, A. Alexiou, F. Lazarakis, S. Kisseleff, S. Chatzinotas, <strong>"Autonomous Reconfigurable Intelligent Surfaces Through Wireless Energy Harvesting",</strong> 2021. <strong><a href="https://www.researchgate.net/publication/351245904_Autonomous_Reconfigurable_Intelligent_Surfaces_Through_Wireless_Energy_Harvesting">[PDF]</a></strong>
 
-
- 
-S. Abadal, R. Guirado, H. Taghvaee, A. Jain, E. Pereira de Santana, P. Haring Bolívar, M. Saeed, R. Negra, Z. Wang, K-T. Wang, M. C. Lemme, J. Klein, M. Zapater, A. Levisse, D. Atienza, D. Rossi, F. Conti,
-M. Dazzi, G. Karunaratne, I. Boybat and A. Sebastian <strong>"Graphene-based Wireless Agile Interconnects for
-Massive Heterogeneous Multi-chip Processors,"</strong> arXiv:2011.04107, 2020.
-<strong><a href="https://arxiv.org/pdf/2011.04107.pdf">[PDF]</a></strong>
-
-<ul class="style1">
-				<li>[ENG] <a href="https://www.upc.edu/en/press-room/news/the-upc-leads-a-project-to-develop-faster-lower-power-processors-for-artificial-intelligence">UPC Press Release</a></li>
-				<li>[ESP] <a href="https://www.computing.es/movilidad/noticias/1121206046501/upc-investiga-desarrollar-procesadores-ia-mas-sostenibles.1.html">Computing.es</a></li>
-				</ul>
+S. Abadal, R. Guirado, H. Taghvaee, A. Jain, E. Pereira de Santana, P. Haring Bolívar, M. Saeed, R. Negra, Z. Wang, K-T. Wang, M. C. Lemme, J. Klein, M. Zapater, A. Levisse, D. Atienza, D. Rossi, F. Conti, M. Dazzi, G. Karunaratne, I. Boybat and A. Sebastian <strong>"Graphene-based Wireless Agile Interconnects for
+Massive Heterogeneous Multi-chip Processors,"</strong> arXiv:2011.04107, 2020. <strong><a href="https://arxiv.org/pdf/2011.04107.pdf">[PDF]</a></strong>
+- [ENG] <a href="https://www.upc.edu/en/press-room/news/the-upc-leads-a-project-to-develop-faster-lower-power-processors-for-artificial-intelligence">UPC Press Release</a>
+- [ESP] <a href="https://www.computing.es/movilidad/noticias/1121206046501/upc-investiga-desarrollar-procesadores-ia-mas-sostenibles.1.html">Computing.es</a>
+- 
 S. Rodrigo, S. Abadal, E. Alarcón, C. Almudéver, <strong>"Exploring a Double Full-Stack Communications-Enabled Architecture for Multi-Core Quantum Computers,"</strong> arXiv:2009.08186, 2020. <strong><a href="https://arxiv.org/pdf/2009.08186.pdf">[PDF]</a></strong> <strong><a href="https://youtu.be/ltyOaMQ22UI">[VIDEO]</a></strong> 
 
 
@@ -418,26 +385,21 @@ Communications within Computing Packages,”</strong> in Proceedings of the ACM/
 	       
 [P8] J. Klein, A. Levisse, G. Ansaloni, D. Atienza, M. Zapater, M. Dazzi, G. Karunaratne, I. Boybat, A. Sebastian, D. Rossi, F. Conti, E. Pereira de Santana, P. Haring Bolívar, M. Saeed, R. Negra, Z. Wang, K.-T. Wang, M. Lemme, A. Jain, R. Guirado, H. Taghvaee, S. Abadal, <strong>"Architecting More Than Moore – Wireless Plasticity for Massive Heterogeneous Computer Architectures (WiPLASH),"</strong> ACM Computing Frontiers, 2021.
 
- 
-	 
-	       [P7] S. Jog, Z. Liu, A. Franques, V. Fernando, H. Hassanieh, S. Abadal, J. Torrellas, <strong>“Millimeter Wave Wireless Network on Chip Using Deep Reinforcement Learning”</strong>, in Proceedings of SIGCOMM, New York, NY, USA, August 2020. <strong><a href="http://sjog2.web.engr.illinois.edu/images/papers/poster_sigcomm20_paper.pdf">[PDF]</a></strong>
+[P7] S. Jog, Z. Liu, A. Franques, V. Fernando, H. Hassanieh, S. Abadal, J. Torrellas, <strong>“Millimeter Wave Wireless Network on Chip Using Deep Reinforcement Learning”</strong>, in Proceedings of SIGCOMM, New York, NY, USA, August 2020. <strong><a href="http://sjog2.web.engr.illinois.edu/images/papers/poster_sigcomm20_paper.pdf">[PDF]</a></strong>
 	       <strong><a href="http://sjog2.web.engr.illinois.edu/images/papers/poster_sigcomm20.pdf">[POSTER]</a></strong>
-	       <ul class="style1"> 
-				<li>Winners of the <a href="https://conferences.sigcomm.org/sigcomm/2020/cf-posters.html">Student Research Competition.</a> Third Place!
-				 </li>
-				</ul>
-	       [P6] H. Taghvaee, S. Abadal, A. Cabellos-Aparicio, E. Alarcón, <strong>“On the use of Genetic Algorithm to Design and Optimize Graphene-based Absorbers”</strong>, in Proceedings of the NANOP, Rome, Italy, October 2018. 
+	  - Winners of the <a href="https://conferences.sigcomm.org/sigcomm/2020/cf-posters.html">Student Research Competition.</a> Third Place!
+		
+[P6] H. Taghvaee, S. Abadal, A. Cabellos-Aparicio, E. Alarcón, <strong>“On the use of Genetic Algorithm to Design and Optimize Graphene-based Absorbers”</strong>, in Proceedings of the NANOP, Rome, Italy, October 2018. 
 	           
-            [P5] X. Timoneda, S. Abadal, A. Cabellos-Aparicio, E. Alarcón, <strong>“Modeling the EM Field Distribution within a Computer Chip Package”</strong>, in Proceedings of the WCNC, Barcelona, Spain, April 2018. <strong><a href="./pdf/WCNC_2018_EM_Field_Package.pdf">[PDF]</a></strong>
+[P5] X. Timoneda, S. Abadal, A. Cabellos-Aparicio, E. Alarcón, <strong>“Modeling the EM Field Distribution within a Computer Chip Package”</strong>, in Proceedings of the WCNC, Barcelona, Spain, April 2018. <strong><a href="./pdf/WCNC_2018_EM_Field_Package.pdf">[PDF]</a></strong>
 	    
-            [P4] S. Abadal, R. Martínez, E. Alarcón and A. Cabellos-Aparicio <strong>“Scalability-Oriented Multicast Traffic Characterization,”</strong> in Proceedings of the NoCS '14, pp. 180-181, September 2014. <strong><a href="http://www.n3cat.upc.edu/papers/Scalability-Oriented_Multicast_Traffic_Characterization.pdf">[PDF]</a></strong>
+[P4] S. Abadal, R. Martínez, E. Alarcón and A. Cabellos-Aparicio <strong>“Scalability-Oriented Multicast Traffic Characterization,”</strong> in Proceedings of the NoCS '14, pp. 180-181, September 2014. <strong><a href="http://www.n3cat.upc.edu/papers/Scalability-Oriented_Multicast_Traffic_Characterization.pdf">[PDF]</a></strong>
 	    
-		[P3] I. Llatser, S. Abadal, R. Gómez Cid-Fuentes, J. M. Jornet, A. Cabellos-Aparicio, E. Alarcón, J. Solé-Pareta and I. F. and Akyildiz, <strong>“Prospects of Graphene-enabled Wireless Communications”</strong>, in GRAPHENE 2012, Brussels, Belgium, April 2012. <strong><a href="http://www.n3cat.upc.edu/papers/Prospects_of_Graphene-enabled_Wireless_Communications.pdf">[PDF]</a></strong></p>
-            </p>
-            [P2] S. Abadal, J. M. Jornet, I. Llatser, A. Cabellos-Aparicio, E. Alarcón and I. F. Akyildiz, <strong>&quot;Wireless NanoSensor Networks using Graphene-based Nano-Antennas,&quot; </strong>poster presentation, GRAPHENE 2011, Bilbao, Spain, April 2011. <strong><a href="http://www.n3cat.upc.edu/papers/Wireless_Nanosensor_Networks_using_Graphene-based_Nano-Antennas-POSTER.pdf">[PDF]</a></strong></p>
-		    </p>
-		    [P1] S. Abadal and I. F. Akyildiz, <strong>&quot;Automata Modeling of Quorum Sensing for Nanocommunication Networks,&quot;</strong> poster presentation,   Second NaNoNetworking Day, Barcelona, Spain, June 2010.   </p>
-		    <p></p>
+[P3] I. Llatser, S. Abadal, R. Gómez Cid-Fuentes, J. M. Jornet, A. Cabellos-Aparicio, E. Alarcón, J. Solé-Pareta and I. F. and Akyildiz, <strong>“Prospects of Graphene-enabled Wireless Communications”</strong>, in GRAPHENE 2012, Brussels, Belgium, April 2012. <strong><a href="http://www.n3cat.upc.edu/papers/Prospects_of_Graphene-enabled_Wireless_Communications.pdf">[PDF]</a></strong>
+            
+[P2] S. Abadal, J. M. Jornet, I. Llatser, A. Cabellos-Aparicio, E. Alarcón and I. F. Akyildiz, <strong>&quot;Wireless NanoSensor Networks using Graphene-based Nano-Antennas,&quot; </strong>poster presentation, GRAPHENE 2011, Bilbao, Spain, April 2011. <strong><a href="http://www.n3cat.upc.edu/papers/Wireless_Nanosensor_Networks_using_Graphene-based_Nano-Antennas-POSTER.pdf">[PDF]</a></strong>
+
+[P1] S. Abadal and I. F. Akyildiz, <strong>&quot;Automata Modeling of Quorum Sensing for Nanocommunication Networks,&quot;</strong> poster presentation,   Second NaNoNetworking Day, Barcelona, Spain, June 2010.   
 
 
 

@@ -2,16 +2,13 @@
 layout: page
 title: Publications
 subtitle: [Selected Publications](#selected)
-#subtitle: A (possibly) more updated list can also be found on my
-#link_name: Google Scholar profile
-#link_url: https://scholar.google.com/citations?user=FntFEnYAAAAJ
 ---
 
 {% if page.subtitle == "" %}
 <div class="empty_subtitle"></div>
 {% endif %}
 
-### <a id="selected"></a>Selected Publications
+### <a id="selected"></a> Selected Publications
 S. Jog, Z. Liu, A. Franques, V. Fernando, S. Abadal, J. Torrellas, H. Hassanieh, <strong>"One Protocol to Rule Them All: Wireless Network-on-Chip using Deep Reinforcement Learning,"</strong> in Proceedings of NSDI 2021, Virtual Event, April 2021. <strong><a href="http://sjog2.web.engr.illinois.edu/images/papers/neumac_sjog_nsdi21.pdf">[PDF]</a></strong> <strong><a href="https://www.usenix.org/system/files/nsdi21_slides_jog.pdf">[SLIDES]</a></strong> <strong><a href="http://sjog2.web.engr.illinois.edu/images/papers/poster_sigcomm20.pdf">[POSTER]</a></strong> <strong><a href="https://youtu.be/f2nRNkxNr88">[VIDEO]</a></strong>
 - Winners of the <a href="https://conferences.sigcomm.org/sigcomm/2020/cf-posters.html">SIGCOMM Student Research Competition.</a> Third Place!
 
@@ -41,7 +38,7 @@ S. Abadal, E. Alarcón, M. C. Lemme, M. Nemirovsky and A. Cabellos-Aparicio,   <
 S. Abadal, I. Llatser, A. Mestres, H. Lee, E. Alarcón and A. Cabellos-Aparicio,<strong>&quot;Time-Domain Analysis of Graphene-based Miniaturized Antennas for Ultra-short-range Impulse Radio Communications,&quot;</strong> IEEE Transactions on Communications, vol. 63, no. 4, pp. 1470-1482, Apr. 2015. <strong><a href="http://www.n3cat.upc.edu/papers/Time-Domain_Analysis_of_Graphene-based_Miniaturized_Antennas_for_Ultra-short-range_Impulse_Radio_Communications.pdf">[PDF]</a></strong>
 - <a href="http://ieeexplore-spotlight.ieee.org/article/graphennas-the-wonder-compound-meets-nano-scale-wireless-communications/">IEEE Xplore Spotlight Blog</a>
 
-
+<br/><br/>
 ### Pre-prints
 M. Imani, S. Abadal, P. Del Hougne, <strong>"Smart On-Chip Electromagnetic Environment",</strong> arXiv:2109.03284, 2021. <strong><a href="https://arxiv.org/pdf/2109.03284.pdf">[PDF]</a></strong>
 
@@ -60,7 +57,7 @@ Massive Heterogeneous Multi-chip Processors,"</strong> arXiv:2011.04107, 2020. <
 
 S. Rodrigo, S. Abadal, E. Alarcón, C. Almudéver, <strong>"Exploring a Double Full-Stack Communications-Enabled Architecture for Multi-Core Quantum Computers,"</strong> arXiv:2009.08186, 2020. <strong><a href="https://arxiv.org/pdf/2009.08186.pdf">[PDF]</a></strong> <strong><a href="https://youtu.be/ltyOaMQ22UI">[VIDEO]</a></strong> 
 
-
+<br/><br/>
 ### Book Chapters
 
 [B8] H. Taghvaee, S. Abadal, E. Alarcón, A. Cabellos-Aparicio, T. Saeed, A. Pitsillides, O. Tsilipakos, C. Liaskos, A. Tasolamprou, M. Kafesaki, A. Pitilakis, N. Kantartzis, V. Soteriou, M. Lestas, <strong>&quot;The scaling laws of Hypersurfaces,&quot;</strong> in Internet of Materials, CRC Press, 2020, Chapter 8.
@@ -79,6 +76,8 @@ S. Rodrigo, S. Abadal, E. Alarcón, C. Almudéver, <strong>"Exploring a Double F
     
 [B1] S. Abadal, I. Llatser, A. Mestres, J. Solé-Pareta, E. Alarcón and A. Cabellos-Aparicio, <strong>&quot;Fundamentals of Graphene-enabled Wireless On-Chip Networking,&quot;</strong> in Modeling, Methodologies and Tools for Molecular and Nano-scale Communications, Springer Publishing, 2017, pp. 293-317. <strong><a href="https://link.springer.com/chapter/10.1007/978-3-319-50688-3_13">[LINK]</a></strong>
 
+
+<br/><br/>
 ### Journal Papers
 [J35] H. Taghvaee, A. Pitilakis, O. Tsilipakos, A. C. Tasolamprou, N. V. Kantartzis, M. Kafesaki, A. Cabellos-Aparicio, E. Alarcón, and S. Abadal, <strong>"Multi-Wideband Terahertz Communications via Tunable Graphene-based Metasurfaces in 6G Networks,"</strong> IEEE Vehicular Technology Magazine, 2022. <a href="https://arxiv.org/pdf/2203.10298.pdf"><strong>[PDF]</strong></a>
 
@@ -156,7 +155,7 @@ Wireless Network-on-Chip Architecture,”</strong> in IEEE Transactions on Paral
 		     
 
 
-
+<br/><br/>
 ### Conference Papers
 
 [C53] N. Bruschi, G. Tagliavini, F. Conti, S. Abadal, A. Cabellos-Aparicio, E. Alarcón, G. Karunaratne, I. Boybat, L. Benini, and D. Rossi <strong>"Scale up your In-Memory Accelerator: Leveraging Wireless-on-Chip Communication for AIMC-based CNN Inference," </strong> Proceedings of the AICAS 2022, Incheon, Korea, June 2022.
@@ -273,6 +272,7 @@ Communications within Computing Packages,”</strong> in Proceedings of the ACM/
 [C1] S. Abadal and I. F. Akyildiz, <strong>&quot;Bio-Inspired Synchronization for Nanocommunication Networks,&quot; </strong>Proceedings of the IEEE GLOBECOM 2011, Houston, USA, December 2011.                
 
 
+<br/><br/>
 ### Posters and Abstracts
 [P14] M. Imani, S. Abadal, P. Del Hougne, <strong>"Engineering Multiple Scattering in On-chip Wireless Communication Networks"</strong>, 2022 IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting (AP-S/URSI), Denver, USA, July 2022.
 

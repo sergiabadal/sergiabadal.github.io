@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Publications
-subtitle: A (possibly) more updated list can also be found on my
-#link_name: Google Scholar profile
-#link_url: https://scholar.google.com/citations?user=FntFEnYAAAAJ
+subtitle: 
+link_name: Selected Publications
+link_url: selected
 ---
 
 {% if page.subtitle == "" %}

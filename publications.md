@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-subtitle: 
+subtitle: a
 #link_name: Selected Publications
 #link_url: #selected
 ---

@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Publications
-subtitle: aa [Selected Publications](#selected)
+subtitle: 
+#link_name: Selected Publications
+#link_url: #selected
 ---
 
 {% if page.subtitle == "" %}

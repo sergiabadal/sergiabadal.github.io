@@ -1,14 +1,17 @@
 ---
 layout: page
 title: Publications
-subtitle: aaa [ee](http://www.sergiabadal.com)
-link_name: Selected Publications
-link_url: http://www.sergiabadal.com
+subtitle: See the list also in 
+link_name: Google Scholar
+link_url: https://scholar.google.com/citations?user=FntFEnYAAAAJ
 ---
 
 {% if page.subtitle == "" %}
 <div class="empty_subtitle"></div>
 {% endif %}
+<p style="text-align:center"><a href="#selected">Selected Publications</a> (<a href="/docs/resume_long_antonio_franques.pdf">download</a>)  \|  <a href="/2page_resume">Two-Page Resume</a> (<a href="/docs/resume_2page_antonio_franques.pdf">download</a>)  \|  <a style="font-weight:bold" href="/short_resume">One-Page Resume</a> (<a style="font-weight:bold" href="/docs/resume_short_antonio_franques.pdf">download</a>)</p>
+
+
 
 ### <a name="selected"></a> Selected Publications
 S. Jog, Z. Liu, A. Franques, V. Fernando, S. Abadal, J. Torrellas, H. Hassanieh, <strong>"One Protocol to Rule Them All: Wireless Network-on-Chip using Deep Reinforcement Learning,"</strong> in Proceedings of NSDI 2021, Virtual Event, April 2021. <strong><a href="http://sjog2.web.engr.illinois.edu/images/papers/neumac_sjog_nsdi21.pdf">[PDF]</a></strong> <strong><a href="https://www.usenix.org/system/files/nsdi21_slides_jog.pdf">[SLIDES]</a></strong> <strong><a href="http://sjog2.web.engr.illinois.edu/images/papers/poster_sigcomm20.pdf">[POSTER]</a></strong> <strong><a href="https://youtu.be/f2nRNkxNr88">[VIDEO]</a></strong>

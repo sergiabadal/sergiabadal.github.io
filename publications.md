@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Publications
-subtitle: &#124;
+subtitle: \|
 link_name: Selected Publications
-link_url: selected
+link_url: http://www.sergiabadal.com
 ---
 
 {% if page.subtitle == "" %}

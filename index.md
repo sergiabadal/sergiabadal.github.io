@@ -4,7 +4,7 @@ comments: false
 ---
 
 <div class="index_header_space"></div>
-<img class="profile_picture" src="/img/3-small.jpg" alt="Profile picture" width="180" height="236" alt="" style="border-radius:7px; -webkit-box-shadow: 0 1px 8px rgba(0,0,0,.9); -moz-box-shadow: 0 1px 8px rgba(0,0,0,.9);">
+<img class="profile_picture" src="/img/3.jpg" alt="Profile picture" width="180" height="236" alt="" style="border-radius:7px; -webkit-box-shadow: 0 1px 8px rgba(0,0,0,.9); -moz-box-shadow: 0 1px 8px rgba(0,0,0,.9);">
 
 Hi, I am Sergi Abadal, and I am currently working as an SoC Performance Architect at [Apple](https://www.apple.com/) in Cupertino, CA.
 

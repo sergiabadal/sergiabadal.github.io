@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Publications
-#subtitle: A (possibly) more updated list can also be found on my
-#link_name: Google Scholar profile
-#link_url: https://scholar.google.com/citations?user=0SIrK0MAAAAJ&hl=en
+subtitle: A (possibly) more updated list can also be found on my
+link_name: Google Scholar profile
+link_url: https://scholar.google.com/citations?user=FntFEnYAAAAJ
 ---
 
 {% if page.subtitle == "" %}

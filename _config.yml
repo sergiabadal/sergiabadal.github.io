@@ -25,12 +25,12 @@ description: Researcher in Computer Architecture, Universitat Politècnica de Ca
 navbar-links:
   #About me: ""
   Bio: "bio"
-  Team: "tean"
+  #Team: "team"
   Publications: "publications"
   Projects: "projects"
-  Talks: "talks"
-  Service: "service
-  Teaching: "teaching"
+  #Talks: "talks"
+  #Service: "service
+  #Teaching: "teaching"
   #Blog: "blog"
 
 # Image to show in the navigation bar - image must be a square (width = height)

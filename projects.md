@@ -9,11 +9,13 @@ title: Projects
 <p style="text-align:center"><a href="#winc">WINC</a> | <a href="#wiplash">WiPLASH</a> | <a href="#gnn">IGNNSPECTOR</a> | <a href="#visorsurf">VISORSURF</a> | <a href="#tugraco">TUGRACO</a> | <a href="#gwc">GWC</a></p>
 
 <br/>
-### <a name="winc"></a> Wireless Networks within Next-Generation Computing Systems (WINC)
+### <a name="winc"></a> WINC: Wireless Networks within Next-Generation Computing Systems
 - Website: [www.winc-project.eu](https://www.winc-project.eu)
 - Project Type: ERC Starting Grant
 - Funding: 1.5 M€
 - Duration: 2022-2027
+
+<img src="https://lh3.googleusercontent.com/b8MsYmMe_TkUpA_rmYs8MZIJ-ByVmGS_nS-gu228OtSOahgJMevHX20p1xDZV-pUWqAXj1YpfXYDD-YI4a7FWlUCvlC6lu7cEwrpTId8A988wo9ZmjaWPKgFdcFLn0ZJzg=w1280" width="70%"/>
 
 Computing systems are ubiquitous in our daily life and have transformed the way we learn, work, or communicate with each other, to the point that progress is intimately tied to the improvements brought by new generations of the processors that lie at the heart of these systems.
 
@@ -23,7 +25,7 @@ In this context, the WINC project envisions a revolution in computer architectur
 
  
 <br/><br/>
-### <a name="wiplash"></a> Architecting More than Moore - Wireless Plasticity for Massive Heterogeneous Computer Architectures (WiPLASH)
+### <a name="wiplash"></a> WiPLASH: Architecting More than Moore - Wireless Plasticity for Massive Heterogeneous Computer Architectures
 - Website: [www.wiplash.eu](https://www.wiplash.eu)
 - Project Type: H2020 FET-OPEN
 - Funding: 2.9 M€
@@ -78,14 +80,13 @@ Nanotechnology is increasingly providing a plethora of new tools to design and m
 <br/><br/>
 ### <a name="gwc"></a> Graphene-enabled Wireless Communications (GWC)
 - Website: [N3Cat Projects](http://www.n3cat.upc.edu/projects/gwc)
-- Project Type: SAMSUNG Global Research Outreach | INTEL Doctoral Student Honor Programme
+- Project Type: SAMSUNG Global Research Outreach \| INTEL Doctoral Student Honor Programme
 - Funding: 150 K€
 - Duration: 2012-2016
-
-Media Coverage:
-- [ENG] [ExtremeTech](http://www.extremetech.com/extreme/149172-samsung-funds-graphene-antenna-project-for-wireless-ultra-fast-intra-chip-links) \| [Alpha Galileo](http://www.alphagalileo.es/ViewItem.aspx?ItemId=128752&CultureCode=en) \| [Graphene Tracker](http://www.graphenetracker.com/samsung-backs-project-to-develop-graphene-based-micro-antennas/)
-- [ESP] [ThinkBig (Telefonica)](http://blogthinkbig.com/microantenas-de-grafeno-capacidad-computacional/) \| [Europa Press](http://www.europapress.es/portaltic/empresas/noticia-samsung-financia-120000-dolares-proyecto-liderado-upc-desarrollar-microantenas-20130218182118.html) \| [La Razón](http://www.larazon.es/detalle_normal/noticias/1208199/samsung-financia-un-programa-espanol-de-microa#.UhifKBunqaI)
-- [CAT] `[UPC](http://www.upc.edu/saladepremsa/al-dia/mes-noticies/samsung-aposta-per-un-projecte-liderat-per-la-upc-per-desenvolupar-microantenes-basades-en-el-grafe) \| [Ràdio4 (RTVE - Local Radio Station)](http://www.rtve.es/alacarta/audios/lobservatori/lobservatori-2-marc-2013/1701205/)
+- Media Coverage:
+    - [ENG] [ExtremeTech](http://www.extremetech.com/extreme/149172-samsung-funds-graphene-antenna-project-for-wireless-ultra-fast-intra-chip-links) \| [Alpha Galileo](http://www.alphagalileo.es/ViewItem.aspx?ItemId=128752&CultureCode=en) \| [Graphene Tracker](http://www.graphenetracker.com/samsung-backs-project-to-develop-graphene-based-micro-antennas/)
+    - [ESP] [ThinkBig (Telefonica)](http://blogthinkbig.com/microantenas-de-grafeno-capacidad-computacional/) \| [Europa Press](http://www.europapress.es/portaltic/empresas/noticia-samsung-financia-120000-dolares-proyecto-liderado-upc-desarrollar-microantenas-20130218182118.html) \| [La Razón](http://www.larazon.es/detalle_normal/noticias/1208199/samsung-financia-un-programa-espanol-de-microa#.UhifKBunqaI)
+    - [CAT] `[UPC](http://www.upc.edu/saladepremsa/al-dia/mes-noticies/samsung-aposta-per-un-projecte-liderat-per-la-upc-per-desenvolupar-microantenes-basades-en-el-grafe) \| [Ràdio4 (RTVE - Local Radio Station)](http://www.rtve.es/alacarta/audios/lobservatori/lobservatori-2-marc-2013/1701205/)
 
 
 Graphene, a flat monoatomic layer of carbon atoms tightly packed in a two-dimensional honeycomb lattice, has recently attracted the attention of the research community due to its novel mechanical, thermal, chemical, electronic and optical properties. Since its first isolation by the Nobel laureates Andre Geim and Konstantin Novoselov back in 2004, graphene has given rise to a plethora of potential applications in diverse fields, attracting, as a result, multimillion dollar research funding.

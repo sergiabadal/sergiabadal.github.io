@@ -24,7 +24,7 @@ Jordi Girona 1-3
 Tel: (+34)934017423
   </div>
   <div style="float:left; width: 50%;">
-    <p align="center"><img class="profile_picture" src="/img/3.jpg" alt="Profile picture" width="180" height="236" alt=""></p>
+    <p align="center"><img src="/img/3.jpg" alt="Profile picture" width="180" height="236" alt=""></p>
   </div>
 </div>
 

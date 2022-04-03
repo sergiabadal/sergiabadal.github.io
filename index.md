@@ -3,6 +3,7 @@ layout: page
 comments: false
 ---
 
+
 <div style="float:left; width: 50%;">
 Distinguished Researcher<br/>  
 Coordinator of the FET-OPEN project WiPLASH<br/>  
@@ -14,7 +15,7 @@ Jordi Girona 1-3  <br/>
 Tel: (+34)934017423  <br/>
 </div>
   
-<div style="float:left; width: 100%;">aaa</div>
+<div style="float:left; width: 50%;">aaa</div>
 
 
 

@@ -14,7 +14,7 @@ Jordi Girona 1-3  <br/>
 Tel: (+34)934017423  <br/>
 </div>
   
-<div>
+<div style="float:left; width: 10%;">aaa</div>
 
 
 
@@ -34,4 +34,4 @@ Tel: (+34)934017423  <br/>
 - **Sep 2019**: Sergi has been awarded with the NanoComNet <a href="https://www.journals.elsevier.com/nano-communication-networks/news/dr-sergi-abadal-receives-the-young-investigator-award">Young Investigator Award</a>.
 - **Dec 2020**: [NeuMAC](/docs/Neumac_NSDI_2021.pdf) has been accepted to **NSDI '21**
 
-</div>
+

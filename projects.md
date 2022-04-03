@@ -6,10 +6,10 @@ title: Projects
 {% if page.subtitle == "" %}
 <div class="empty_subtitle"></div>
 {% endif %}
-<p style="text-align:center"><a href="#winc">WINC</a> | <a href="#wiplash">WiPLASH</a> | <a href="#book">Book Chapters</a> | <a href="#journal">Journal Papers</a> | <a href="#conference">Conference Papers</a> | <a href="#poster">Abstracts</a></p>
+<p style="text-align:center"><a href="#winc">WINC</a> | <a href="#wiplash">WiPLASH</a> | <a href="#gnn">IGNNSPECTOR</a> | <a href="#visorsurf">VISORSURF</a> | <a href="#tugraco">TUGRACO</a> | <a href="#gwc">GWC</a></p>
 
 
-### Wireless Networks within Next-Generation Computing Systems (WINC)
+### <a name="winc"></a> Wireless Networks within Next-Generation Computing Systems (WINC)
 - Website: www.winc-project.eu
 - Project Type: ERC Starting Grant
 - Funding: 1.5 M€
@@ -23,12 +23,15 @@ In this context, the WINC project envisions a revolution in computer architectur
 
  
 
-### Architecting More than Moore - Wireless Plasticity for Massive Heterogeneous Computer Architectures (WiPLASH)
+### <a name="wiplash"></a> Architecting More than Moore - Wireless Plasticity for Massive Heterogeneous Computer Architectures (WiPLASH)
 - Website: www.wiplash.eu
 - Project Type: H2020 FET-OPEN
 - Funding: 2.9 M€
 - Duration: 2019-2023
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_78MthY30nM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+	
+    
 The main design principles in computer architecture have shifted from a monolithic scaling-driven approach towards an emergence of heterogeneous architectures that tightly co-integrate multiple specialized computing and memory units. This is motivated by the urgent need of very high parallelism and by energy constraints. Heterogeneous hardware specialization requires interconnection mechanisms that integrate the architecture. State-of-the-art approaches are 3D stacking and 2D architectures complemented with a Network-on-Chip (NoC) to interconnect the components. However, such interconnects are fundamentally monolithic and rigid, and are unable to provide the efficiency and architectural flexibility required by current and future key ICT applications. The main challenge is to introduce diversification and specialization in heterogeneous processor architectures while ensuring their generality and scalability.
 
 In order to achieve this, the WiPLASH project aims to pioneer an on-chip wireless communication plane able to provide architectural plasticity, reconfigurability and adaptation to the application requirements with near-ASIC efficiency but without loss of generality. For this, the WiPLASH consortium will provide solid experimental foundations of the key enablers of on-chip wireless communication at the functional unit level as well as their technological and architectural integration. The main goals are to: (i) Prototype a miniaturized and tunable graphene antenna in the terahertz band, (ii) Co-integrate graphene RF components with submillimeter-wave transceivers, and (iii) demonstrate low-power reconfigurable wireless chip-scale networks.
@@ -37,7 +40,7 @@ The culminating goal is to demonstrate that the wireless plane offers the plasti
 
  
 
-### IGNNSPECTOR: Graph-Driven Acceleration of Graph Neural Networks
+### <a name="gnn"></a> IGNNSPECTOR: Graph-Driven Acceleration of Graph Neural Networks
 - Website: https://www.neclab.eu/careers/nec-student-research-fellowship-program#fellow-985
 - Project Type: NEC Labs Europe - Student Research Fellowship
 - Funding: 75 K€
@@ -47,15 +50,15 @@ Graph Neural Networks (GNNs) are gaining momentum due to their ability to model 
 
  
  
-### VISORSURF: A Hardware Platform for Software-driven Functional Metasurface
+### <a name="visorsurf"></a> VISORSURF: A Hardware Platform for Software-driven Functional Metasurface
 - Website: www.visorsurf.eu
 - Project Type: H2020 FET-OPEN
 - Funding: 4.5 M€
 - Duration: 2017-2021
 
 Media coverage:
-- [ENG] PublicNow | UPC News | The Register
-- [ESP] La Vanguardia | El Periódico
+- [ENG] [PublicNow](http://www.publicnow.com/view/B0BA04ADDCC57999D9F4C16BFC8D6F405A889DC6?2017-07-21-10:00:11+01:00-xxx1004) | [UPC News](http://www.upc.edu/saladepremsa/al-dia/mes-noticies/scientists-from-the-upc-investigate-reconfigurable-and-programmable-metamaterials) | [The Register](https://www.theregister.com/2020/06/01/irs_wireless_jamming/)
+- [ESP] [La Vanguardia](http://www.lavanguardia.com/vida/20170710/424038208290/cientificos-de-la-upc-investigan-materiales-reconfigurables-y-programables.html) | [El Periódico](http://www.elperiodico.com/es/sociedad/20170710/cientificos-de-la-upc-investigan-materiales-reconfigurables-y-programables-6158737)
 
 Metasurfaces, thin film planar, artificial structures, have recently enabled the realization of novel electromagnetic and optical components with engineered and even unnatural functionalities. These include electromagnetic invisibility of objects (cloaking), total radiation absorption, filtering and steering of light and sound, as well as ultra-efficient, miniaturized antennas for sensors and implantable communication devices. Nonetheless, metasurfaces are presently non-adaptive and non-reusable, restricting their applicability to a single functionality per structure (e.g., steering light towards a fixed direction) and to static structures only.
 
@@ -63,7 +66,7 @@ Moreover, designing a metasurface remains a task for specialized researchers, li
 
  
 
-### Towards Ubiquitous GRAphene based RF COmmunications – demonstrating and understanding graphene based plasmonic THz antenna potential and limitations (TUGRACO)
+### <a name="tugraco"></a> Towards Ubiquitous GRAphene based RF COmmunications – demonstrating and understanding graphene based plasmonic THz antenna potential and limitations (TUGRACO)
 - Website: http://www.n3cat.upc.edu/projects/tugraco
 - Project Type: H2020 FLAG-ERA - Graphene Flagship
 - Funding: 250 K€
@@ -73,7 +76,7 @@ Nanotechnology is increasingly providing a plethora of new tools to design and m
 
 
 
-### Graphene-enabled Wireless Communications (GWC)
+### <a name="gwc"></a> Graphene-enabled Wireless Communications (GWC)
 - Website: http://www.n3cat.upc.edu/projects/gwc
 - Project Type: SAMSUNG Global Research Outreach | INTEL Doctoral Student Honor Programme
 - Funding: 150 K€

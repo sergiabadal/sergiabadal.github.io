@@ -8,6 +8,7 @@ comments: false
 <div style="witdh: 100%;">
   
   <div style="float:left; width: 10%;"><br/></div>
+  
   <div style="float:left; width: 35%;">
 Distinguished Researcher
 
@@ -25,11 +26,14 @@ Jordi Girona 1-3
 
 Tel: (+34)934017423
   </div>
+  
     <div style="float:left; width: 10%;"><br/></div>
+  
   <div style="float:left; width: 35%;">
     <p align="center"><img src="/img/3.jpg" alt="Profile picture" width="180" height="236" alt=""></p>
   </div>
-    <div style="float:left; width: 10%;"><br/></div>
+  
+  <div style="float:left; width: 10%;"><br/></div>
   
 </div>
 

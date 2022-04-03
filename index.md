@@ -4,7 +4,23 @@ comments: false
 ---
 
 <div class="index_header_space"></div>
-<img class="profile_picture" src="/img/3.jpg" alt="Profile picture" width="180" height="236" alt="">
+
+<div style="witdh: 100%;">
+  <div style="float:left; width: 50%;">
+    Distinguished Researcher
+    Coordinator of the FET-OPEN project WiPLASH
+    Ambassador of the European Innovation Council
+    Universitat Politècnica de Catalunya (UPC)
+    Campus Nord - UPC, D6-002
+    Jordi Girona 1-3
+    08034 Barcelona, Spain
+    Tel: (+34)934017423
+  </div>
+  <div style="float:left; width: 50%;">
+    <img class="profile_picture" src="/img/3.jpg" alt="Profile picture" width="180" height="236" alt="">
+  </div>
+<div>
+
 
 Distinguished Researcher
 

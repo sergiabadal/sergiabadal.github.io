@@ -8,7 +8,7 @@ title: Projects
 {% endif %}
 <p style="text-align:center"><a href="#winc">WINC</a> | <a href="#wiplash">WiPLASH</a> | <a href="#gnn">IGNNSPECTOR</a> | <a href="#visorsurf">VISORSURF</a> | <a href="#tugraco">TUGRACO</a> | <a href="#gwc">GWC</a></p>
 
-<br/><br/>
+<br/>
 ### <a name="winc"></a> Wireless Networks within Next-Generation Computing Systems (WINC)
 - Website: [www.winc-project.eu](https://www.winc-project.eu)
 - Project Type: ERC Starting Grant
@@ -57,8 +57,8 @@ Graph Neural Networks (GNNs) are gaining momentum due to their ability to model 
 - Duration: 2017-2021
 
 Media coverage:
-- [ENG] [PublicNow](http://www.publicnow.com/view/B0BA04ADDCC57999D9F4C16BFC8D6F405A889DC6?2017-07-21-10:00:11+01:00-xxx1004) | [UPC News](http://www.upc.edu/saladepremsa/al-dia/mes-noticies/scientists-from-the-upc-investigate-reconfigurable-and-programmable-metamaterials) | [The Register](https://www.theregister.com/2020/06/01/irs_wireless_jamming/)
-- [ESP] [La Vanguardia](http://www.lavanguardia.com/vida/20170710/424038208290/cientificos-de-la-upc-investigan-materiales-reconfigurables-y-programables.html) | [El Periódico](http://www.elperiodico.com/es/sociedad/20170710/cientificos-de-la-upc-investigan-materiales-reconfigurables-y-programables-6158737)
+- [ENG] [PublicNow](http://www.publicnow.com/view/B0BA04ADDCC57999D9F4C16BFC8D6F405A889DC6?2017-07-21-10:00:11+01:00-xxx1004) \| [UPC News](http://www.upc.edu/saladepremsa/al-dia/mes-noticies/scientists-from-the-upc-investigate-reconfigurable-and-programmable-metamaterials) \| [The Register](https://www.theregister.com/2020/06/01/irs_wireless_jamming/)
+- [ESP] [La Vanguardia](http://www.lavanguardia.com/vida/20170710/424038208290/cientificos-de-la-upc-investigan-materiales-reconfigurables-y-programables.html) \| [El Periódico](http://www.elperiodico.com/es/sociedad/20170710/cientificos-de-la-upc-investigan-materiales-reconfigurables-y-programables-6158737)
 
 Metasurfaces, thin film planar, artificial structures, have recently enabled the realization of novel electromagnetic and optical components with engineered and even unnatural functionalities. These include electromagnetic invisibility of objects (cloaking), total radiation absorption, filtering and steering of light and sound, as well as ultra-efficient, miniaturized antennas for sensors and implantable communication devices. Nonetheless, metasurfaces are presently non-adaptive and non-reusable, restricting their applicability to a single functionality per structure (e.g., steering light towards a fixed direction) and to static structures only.
 
@@ -83,9 +83,9 @@ Nanotechnology is increasingly providing a plethora of new tools to design and m
 - Duration: 2012-2016
 
 Media Coverage:
-- [ENG] [ExtremeTech](http://www.extremetech.com/extreme/149172-samsung-funds-graphene-antenna-project-for-wireless-ultra-fast-intra-chip-links) | [Alpha Galileo](http://www.alphagalileo.es/ViewItem.aspx?ItemId=128752&CultureCode=en) | [Graphene Tracker](http://www.graphenetracker.com/samsung-backs-project-to-develop-graphene-based-micro-antennas/)
-- [ESP] [ThinkBig (Telefonica)](http://blogthinkbig.com/microantenas-de-grafeno-capacidad-computacional/) | [Europa Press](http://www.europapress.es/portaltic/empresas/noticia-samsung-financia-120000-dolares-proyecto-liderado-upc-desarrollar-microantenas-20130218182118.html) | [La Razón](http://www.larazon.es/detalle_normal/noticias/1208199/samsung-financia-un-programa-espanol-de-microa#.UhifKBunqaI)
-- [CAT] `[UPC](http://www.upc.edu/saladepremsa/al-dia/mes-noticies/samsung-aposta-per-un-projecte-liderat-per-la-upc-per-desenvolupar-microantenes-basades-en-el-grafe) | [Ràdio4 (RTVE - Local Radio Station)](http://www.rtve.es/alacarta/audios/lobservatori/lobservatori-2-marc-2013/1701205/)
+- [ENG] [ExtremeTech](http://www.extremetech.com/extreme/149172-samsung-funds-graphene-antenna-project-for-wireless-ultra-fast-intra-chip-links) \| [Alpha Galileo](http://www.alphagalileo.es/ViewItem.aspx?ItemId=128752&CultureCode=en) \| [Graphene Tracker](http://www.graphenetracker.com/samsung-backs-project-to-develop-graphene-based-micro-antennas/)
+- [ESP] [ThinkBig (Telefonica)](http://blogthinkbig.com/microantenas-de-grafeno-capacidad-computacional/) \| [Europa Press](http://www.europapress.es/portaltic/empresas/noticia-samsung-financia-120000-dolares-proyecto-liderado-upc-desarrollar-microantenas-20130218182118.html) \| [La Razón](http://www.larazon.es/detalle_normal/noticias/1208199/samsung-financia-un-programa-espanol-de-microa#.UhifKBunqaI)
+- [CAT] `[UPC](http://www.upc.edu/saladepremsa/al-dia/mes-noticies/samsung-aposta-per-un-projecte-liderat-per-la-upc-per-desenvolupar-microantenes-basades-en-el-grafe) \| [Ràdio4 (RTVE - Local Radio Station)](http://www.rtve.es/alacarta/audios/lobservatori/lobservatori-2-marc-2013/1701205/)
 
 
 Graphene, a flat monoatomic layer of carbon atoms tightly packed in a two-dimensional honeycomb lattice, has recently attracted the attention of the research community due to its novel mechanical, thermal, chemical, electronic and optical properties. Since its first isolation by the Nobel laureates Andre Geim and Konstantin Novoselov back in 2004, graphene has given rise to a plethora of potential applications in diverse fields, attracting, as a result, multimillion dollar research funding.

@@ -32,7 +32,7 @@ In this context, the WINC project envisions a revolution in computer architectur
 - **Duration:** 2019-2023
 
 <p align="center">
-<iframe width="80%" height="80%" src="https://www.youtube.com/embed/_78MthY30nM" frameborder="0" allowfullscreen></iframe>
+<iframe width="80%" height="315" src="https://www.youtube.com/embed/_78MthY30nM" frameborder="0" allowfullscreen></iframe>
 </p>
 	
     

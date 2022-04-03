@@ -31,7 +31,9 @@ In this context, the WINC project envisions a revolution in computer architectur
 - **Funding:** 2.9 M€
 - **Duration:** 2019-2023
 
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/_78MthY30nM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p align="center">
+<iframe width="80%" height="315" src="https://www.youtube.com/embed/_78MthY30nM" frameborder="0" allowfullscreen></iframe>
+</p>
 	
     
 The main design principles in computer architecture have shifted from a monolithic scaling-driven approach towards an emergence of heterogeneous architectures that tightly co-integrate multiple specialized computing and memory units. This is motivated by the urgent need of very high parallelism and by energy constraints. Heterogeneous hardware specialization requires interconnection mechanisms that integrate the architecture. State-of-the-art approaches are 3D stacking and 2D architectures complemented with a Network-on-Chip (NoC) to interconnect the components. However, such interconnects are fundamentally monolithic and rigid, and are unable to provide the efficiency and architectural flexibility required by current and future key ICT applications. The main challenge is to introduce diversification and specialization in heterogeneous processor architectures while ensuring their generality and scalability.

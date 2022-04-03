@@ -67,7 +67,7 @@ Moreover, designing a metasurface remains a task for specialized researchers, li
 
  
 <br/><br/>
-### <a name="tugraco"></a> Towards Ubiquitous GRAphene based RF COmmunications – demonstrating and understanding graphene based plasmonic THz antenna potential and limitations (TUGRACO)
+### <a name="tugraco"></a> TUGRACO: Towards Ubiquitous GRAphene based RF COmmunications – demonstrating and understanding graphene based plasmonic THz antenna potential and limitations
 - **Website:** [N3Cat Projects](http://www.n3cat.upc.edu/projects/tugraco)
 - **Project Type:** H2020 FLAG-ERA - Graphene Flagship
 - **Funding:** 250 K€
@@ -77,7 +77,7 @@ Nanotechnology is increasingly providing a plethora of new tools to design and m
 
 
 <br/><br/>
-### <a name="gwc"></a> Graphene-enabled Wireless Communications (GWC)
+### <a name="gwc"></a> GWC: Graphene-enabled Wireless Communications
 - **Website:** [N3Cat Projects](http://www.n3cat.upc.edu/projects/gwc)
 - **Project Type:** SAMSUNG Global Research Outreach \| INTEL Doctoral Student Honor Programme
 - **Funding:** 150 K€

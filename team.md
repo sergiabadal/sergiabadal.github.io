@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Team Members
-subtitle:
 ---
 
-
+{% if page.subtitle == "" %}
+<div class="empty_subtitle"></div>
+{% endif %}
 
 ### Current Team
 

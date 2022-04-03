@@ -3,8 +3,7 @@ layout: page
 comments: false
 ---
 
-
-<div style="float:left; width: 50%;">
+<p align="center"><img src="/img/sergi-brick.jpg" alt="Profile picture" /><br/>
 Distinguished Researcher<br/>  
 Coordinator of the FET-OPEN project WiPLASH<br/>  
 Ambassador of the European Innovation Council<br/>
@@ -13,14 +12,15 @@ Campus Nord - UPC, D6-002  <br/>
 Jordi Girona 1-3  <br/>
 08034 Barcelona, Spain <br/> 
 Tel: (+34)934017423  <br/>
-  <br/>
-</div>
-<div style="float:left; width: 50%;">
-  <p align="center"><img src="/img/3.jpg" alt="Profile picture" width="180" height="236"></p>
-</div>
+</p>
 
+---
 
-
+<p align="center">
+  			   <a href="http://www.n3cat.upc.edu/"><img src="/img/n3cat_logo.jpg" width="187" height="90" alt=""/></a> 
+      			   <a href="http://bnn.upc.edu/"><img src="/img/bnn_logo.png" width="187" height="90" alt=""/></a> 
+      			   <a href="https://ideai.upc.edu/en"><img src="/img/ideai_logo.png" width="90" height="90"/></a> 
+</p>
 
 ---
 

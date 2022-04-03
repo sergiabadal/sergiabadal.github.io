@@ -1,52 +1,83 @@
 ---
 layout: page
 title: Projects
-subtitle: A collection of some of my personal and class projects. A more updated list of them can also be found on my
-link_name: GitHub
-link_url: https://github.com/afranques
 ---
 
 {% if page.subtitle == "" %}
 <div class="empty_subtitle"></div>
 {% endif %}
 
-### 2019
-- [**Automatic Communication Protocol Selection in Wireless-enabled Manycore Chips**](/docs/CS598PS___Project_Report_Submitted_Version.pdf) - Class project submitted to Machine Learning for Signal Processing (CS 598-PS) at UIUC (Fall 2019). It applies machine learning techniques to infer the optimal MAC protocol per epoch from real-time processor and memory traces. Implemented in Python. Achieved accuracy of 96%. Evaluated performance on SPLASH-2 and Crono suites. [(PDF)](/docs/CS598PS___Project_Report_Submitted_Version.pdf)
 
-### 2018
-- [**N-Body Problem in Akka**](/docs/CS598WG_Project_Report_Submitted_Version.pdf) - Class project submitted to Designing Applications for Extreme Scale Systems (CS 598-WG) at UIUC (Spring 2018). It includes the implementation and performance analysis of the Direct Gravitational N-Body problem in Akka; a very popular framework for actor-based concurrency. [(PDF)](/docs/CS598WG_Project_Report_Submitted_Version.pdf)
+### Wireless Networks within Next-Generation Computing Systems (WINC)
 
-### 2017
-- [**Multi2Sim to McPAT converter**](https://github.com/{{ site.author.github }}/m2s-to-mcpat) - Python script that takes one or multiple statistics output files, obtained after simulating a certain application with Multi2Sim, and convert them into McPAT XML input configuration format.
+This project is funded by European Research Council (ERC) through its Starting Grant program.
 
-### 2016
-- [**Quovis**](https://github.com/{{ site.author.github }}/quovis) - Android App for saving, organizing, and retrieving users’ favorite locations.
+Computing systems are ubiquitous in our daily life and have transformed the way we learn, work, or communicate with each other, to the point that progress is intimately tied to the improvements brought by new generations of the processors that lie at the heart of these systems.
 
-### 2015
-- [**CMat: describing the language and its Python-implemented interpreter**](https://github.com/{{ site.author.github }}/scripting-languages/tree/master/term_project) - Term project submitted to Design and Implementation of Scripting Languages (CS 598-DHP) at UIUC (Fall 2015). It implements an interpreter in Python for CMat; a blended subset of Matlab, C and Cool.
+A common trait of current computing systems is that their internal data communication has become a fundamental bottleneck. The anticipated death of Moore’s Law has forced computer scientists and architects to find new ways to build faster processors, which include massive parallelization, specialized accelerator design, and disruptive technologies such as quantum computing. These trends cause an exponential increase in the volume and variability of data transfers within computing systems, rendering traditional interconnects insufficient and threatening to halt progress unless fast and versatile communication alternatives are developed.
 
-- [**Numerical methods for nonlinear modeling**](https://github.com/{{ site.author.github }}/undergraduate-thesis#undergraduate-thesis) - Undergraduate thesis submitted for my B.S. in Telecommunications Engineering at UPV (submitted and presented in July 2015). For abstract and full dissertation check [this repository](https://github.com/{{ site.author.github }}/undergraduate-thesis#undergraduate-thesis).
+In this context, the WINC project envisions a revolution in computer architecture enabled by the integration of wireless networks within computing systems. The main hypothesis is that wireless terahertz technology will lead to at least a tenfold improvement in the speed, efficiency, and scalability of both non-quantum and quantum systems. With a cross-cutting approach, WINC aims to validate the hypothesis by (i) revealing the fundamental limits of wireless communications within computing packages, (ii) developing antennas and protocols that operate close to those limits while complying with the stringent constraints of the scenario, and (iii) developing radically novel architectures that translate the unique benefits of the wireless vision into order-of-magnitude improvements at the system level. If successful, WINC will be the seed of a new generation of non-quantum and quantum systems and foster progress in the computing field for the decades to come.
 
-### 2014
-- [**Status of the Voyager project**](https://github.com/{{ site.author.github }}/space-technology-i/blob/master/essay/space_technology_essay_antonio.pdf) - Essay submitted to Space Technology I (TTT4234) during my semester at the Norwegian University of Science and Technology (Fall 2014). The essay firstly provides the necessary background knowledge about the Voyager project, as it's considered that's the proper way to understand what are the physical limitations or constraints that are defining and will define the possibilities of their missions. And next, it summarizes what are the current and future studies carried out by both probes that constitute the Voyager project; the Voyager 1 and Voyager 2.
+ 
 
-- [**WLAN Security Analysis and Construction**](https://github.com/{{ site.author.github }}/wireless-network-security/blob/master/lab_report/ttm4137_lab_report.pdf) - Lab [description](https://github.com/{{ site.author.github }}/wireless-network-security/blob/master/lab_report/ttm4137_lab_description.pdf) and [report](https://github.com/{{ site.author.github }}/wireless-network-security/blob/master/lab_report/ttm4137_lab_report.pdf) submitted to Wireless Network Security (TTM4137) during my semester at the Norwegian University of Science and Technology (Fall 2014). Awarded as the best lab report in class. Together with my other two labmates, we explored many of the protocols and mechanisms proposed in the IEEE 802.11 standard to provide security for wireless local area networks (WLANs). We performed a security analysis and assessment of WLANs already running, and configured, secured and deployed new ones ourselves. As a result, we got a better understanding of the weaknesses, strengths of these security mechanisms, and the challenges of WLAN security management. 
+### Architecting More than Moore - Wireless Plasticity for Massive Heterogeneous Computer Architectures (WiPLASH)
 
-- [**WPS: A user configuration facility that became a threat**](https://github.com/{{ site.author.github }}/wireless-network-security/blob/master/essay/ttm4137_essay.pdf) - Essay submitted to Wireless Network Security (TTM4137) during my semester at the Norwegian University of Science and Technology (Fall 2014). The essay firstly provides the necessary background knowledge about the Wi-Fi Protected Setup (WPS), then it focuses on why it became a security threat and how does a brute-force attack take advantage of it. Finally, it briefly describes what safety measures can be carried out for preventing this attack.
+(source: wiplash.eu)
 
-### 2013
-- [**Multi threaded instant messaging application in Java**](https://github.com/{{ site.author.github }}/telematics-services-design/tree/master/chat) - Project submitted to Telematics Services Design at UPV (Fall 2013). The application is capable of sending and receiving messages between two machines across the network, as well as performing file transfers.
+This project is funded by European Commission through its FET OPEN program.
 
-- [**Programmable Digital Systems**](https://github.com/{{ site.author.github }}/programmable-digital-systems) - Set of laboratory projects submitted to Programmable Digital Systems at UPV (Spring 2013), written in Verilog an implemented in an Altera DE2 Board (which includes an Altera 90nm Cyclone II FPGA). The design software used was Altera Quartus II.
+The main design principles in computer architecture have shifted from a monolithic scaling-driven approach towards an emergence of heterogeneous architectures that tightly co-integrate multiple specialized computing and memory units. This is motivated by the urgent need of very high parallelism and by energy constraints. Heterogeneous hardware specialization requires interconnection mechanisms that integrate the architecture. State-of-the-art approaches are 3D stacking and 2D architectures complemented with a Network-on-Chip (NoC) to interconnect the components. However, such interconnects are fundamentally monolithic and rigid, and are unable to provide the efficiency and architectural flexibility required by current and future key ICT applications. The main challenge is to introduce diversification and specialization in heterogeneous processor architectures while ensuring their generality and scalability.
 
-- [**Mastermind in 68000 Assembly language with EASy68K**](https://github.com/{{ site.author.github }}/microprocessors-based-systems/tree/master/mastermind) - Together with my labmate, we implemented a version of the classic [Mastermind game](https://en.wikipedia.org/wiki/Mastermind_(board_game)) in [68000 Assembly](https://en.wikibooks.org/wiki/68000_Assembly) (the assembly language for the Motorola 68K-series microprocessors), and assembled/simulated it with [EASy68K](http://www.easy68k.com/).
+In order to achieve this, the WiPLASH project aims to pioneer an on-chip wireless communication plane able to provide architectural plasticity, reconfigurability and adaptation to the application requirements with near-ASIC efficiency but without loss of generality. For this, the WiPLASH consortium will provide solid experimental foundations of the key enablers of on-chip wireless communication at the functional unit level as well as their technological and architectural integration. The main goals are to: (i) Prototype a miniaturized and tunable graphene antenna in the terahertz band, (ii) Co-integrate graphene RF components with submillimeter-wave transceivers, and (iii) demonstrate low-power reconfigurable wireless chip-scale networks.
 
-### 2010
-- [**Mercat Catala**](https://github.com/{{ site.author.github }}/mercat-catala) - Set of scripts for parsing, saving (web scraping) and uploading to a personally-owned database all the cultural events listed in the [Catalan Government's website](http://agenda.cultura.gencat.cat/). Also, once we have all that data, use it in a social network style website (intended to be named **mercatcatala.cat**) for editing, commenting, liking/disliking, etc. the events among the website users. The project was submitted as an ending to a set of technical courses that occur in Spain between High School and College.
+The culminating goal is to demonstrate that the wireless plane offers the plasticity required by future computing platforms by improving at least one key application (mainly biologically-plausible deep learning architectures) by 10× in terms of execution speed and energy-delay product over a state-of-the-art baseline.
 
-- [**Setting up PHP, MySQL, WordPress and Exchange on Windows Server 2003**](https://github.com/{{ site.author.github }}/documentation-windows-server-2003/blob/master/php_mysql_wordpress_exchange_on_windows_server_2003.pdf) - Documentation (in Spanish) showing all the necessary steps to:
-1. Set up a blog site with WordPress on our own Windows Server 2003. The documentation also shows how to install PHP over IIS and MySQL.
-2. Install Exchange Server 2003 in order for the users of our (made-up) company domain to be able to send/receive (and recover in case of accidental deletions) emails.
+ 
+ 
 
-<!--### 2008
-- [**Slot Machine**](https://github.com/{{ site.author.github }}/slot-machine) - Basic game in Javascript emulating a slot machine. Used as a way to learn the very basics of Javascript during a set of technical courses that occur in Spain between High School and College.-->
+### IGNNSPECTOR: Graph-Driven Acceleration of Graph Neural Networks
+
+(more info at: NEC Labs website)
+
+This project is funded by NEC Laboratories Europe through their Student Research Fellowship.
+
+Graph Neural Networks (GNNs) are gaining momentum due to their ability to model and learn from graph-structured data, with profound implications in areas like computer networks, natural language processing, quantum chemistry, or bioscience. However, computing GNNs efficiently is an open problem due to their unique characteristics, i.e. alternating dense and massively sparse phases, dependence on an input graph, and potential need for scaling to large graphs. These render GPU/TPU and DNN accelerators inefficient. This proect aims to tackle this open problem via software acceleration, although the solution can also help speed up hardware-software co-designed solutions. In particular, we want to demonstrate that both the optimal dataflows and software acceleration techniques for GNN computation depend on the GNN algorithm and the graph connectivity, and that optimality may change across partitions of the same graph. Then, the goal is to develop a tool, which we call iGNNspector, that streamlines the training/inference of a GNN based on this knowledge. In more detail, iGNNspector will profile a wide variety of graph datasets and analyze their performance for different GNN variants and frameworks/accelerators. These results will be used to derive a set of heuristics to guide partitioning, scheduling, and runtime for CPU/GPU platforms, and to determine the most appropriate dataflows for ASIC platforms.
+
+ 
+### VISORSURF: A Hardware Platform for Software-driven Functional Metasurface
+
+(more info at: N3Cat, Visorsurf.eu)
+
+This project is funded by European Commission through its FET OPEN program. Media coverage:
+- [ENG] PublicNow | UPC News | The Register
+- [ESP] La Vanguardia | El Periódico
+
+Metasurfaces, thin film planar, artificial structures, have recently enabled the realization of novel electromagnetic and optical components with engineered and even unnatural functionalities. These include electromagnetic invisibility of objects (cloaking), total radiation absorption, filtering and steering of light and sound, as well as ultra-efficient, miniaturized antennas for sensors and implantable communication devices. Nonetheless, metasurfaces are presently non-adaptive and non-reusable, restricting their applicability to a single functionality per structure (e.g., steering light towards a fixed direction) and to static structures only.
+
+Moreover, designing a metasurface remains a task for specialized researchers, limiting their accessibility from the broad engineering field. VISORSURF proposes a hardware platform-the HyperSurface-that can host metasurface functionalities described in software. The HyperSurface essentially merges existing metasurfaces with nanonetworks, acting as a reconfigurable (globally, locally, upon request or depending on the environment) metasurface, whose properties can be changed via a software interface. This control is achieved by a network of miniaturized controllers, incorporated into the structure of the metasurface. The controllers receive programmatic directives and perform simple alterations on the metasur-face structure, adjusting its electromagnetic behavior. The required end-functionality is described in well-defined, reusable software modules, adding the potential for hosting multiple functionalities concurrently and adaptively. VISORSURF will study in depth the novel and unexplored theoretical capabilities of the HyperSurface concept.
+
+ 
+
+### Towards Ubiquitous GRAphene based RF COmmunications – demonstrating and understanding graphene based plasmonic THz antenna potential and limitations (TUGRACO)
+
+(more info at: N3Cat)
+
+This project is funded by the GRAPHENE Flagship European Project.
+
+Nanotechnology is increasingly providing a plethora of new tools to design and manufacture miniaturized devices such as ubiquitous sensors, wearable electronics or pervasive computing systems. Such devices require wireless communications for information sharing and coordination. Unfortunately, reducing the size (and concomitantly cost) of such devices is severely restricted by the dimensions of metallic antennas. Graphene offers a radical alternative to downscale antennas by orders of magnitude thanks to its special dispersion relation and its ability to support surface-plasmon polaritons (SPP) in the terahertz frequency band. Indeed, a graphene RF plasmonic micro-antenna with lateral dimensions of a few micrometers is predicted to resonate in the terahertz band (0.3-10 THz) at a frequency up to two orders of magnitude lower and with higher radiation efficiency with respect to metallic counterparts. In consequence, graphene micro-antennas provide a huge integration potential for future miniaturized wireless systems and represents an enabling technology for the future dominant ICT applications envisioned by e.g. Internet of Things.
+
+
+### Graphene-enabled Wireless Communications (GWC)
+
+(more info at: N3Cat)
+
+This project is funded by SAMSUNG under its Global Research Outreach (GRO) program, as well as by INTEL through its Doctoral Student Honor Programme. Media Coverage:
+- [ENG] ExtremeTech | Alpha Galileo | Graphene Tracker
+- [ESP] ThinkBig (Telefonica) | Europa Press | La Razón
+- [CAT] UPC | Ràdio4 (RTVE - Local Radio Station)
+
+Graphene, a flat monoatomic layer of carbon atoms tightly packed in a two-dimensional honeycomb lattice, has recently attracted the attention of the research community due to its novel mechanical, thermal, chemical, electronic and optical properties. Since its first isolation by the Nobel laureates Andre Geim and Konstantin Novoselov back in 2004, graphene has given rise to a plethora of potential applications in diverse fields, attracting, as a result, multimillion dollar research funding.
+
+A remarkably promising application of graphene is that of Graphene-enabled Wireless Communications (GWC). GWC advocate for the use of graphene-based plasmonic antennas -graphennas, see Fig. 1- whose plasmonic effects allow them to radiate EM waves in the terahertz band (0.1 – 10 THz). Moreover, preliminary results sustain that this frequency band is up to two orders of magnitude below the optical frequencies at which metallic antennas of the same size resonate, thereby enhancing the transmission range of graphene-based antennas and lowering the requirements on the corresponding transceivers. In short, graphene enables the implementation of nano-antennas just a few micrometers in size that are not doable with traditional metallic materials.
+
+Thanks to both the reduced size and unique radiation capabilities of graphennas, GWC may represent a breakthrough in the ultra-short range communications research area. In this project we will study the application of GWC within the scenario of off-chip communication, which includes communication between different chips of a given device, e.g. a cell phone. The advantages of the resulting Off-Chip Graphene-based Wireless Communication are manifold but can be summarized in two points. On the one hand, the potential of GWC to radiate in the terahertz band provides a huge transmission bandwidth, allowing not only the transmission of information at extremely high speeds but also the design of ultra-low-power and low-complexity schemes. On the other hand, the reduced size of such antennas results in a smaller area overhead than with conventional metallic antennas, factor that may be critical in area constrained scenarios. Moreover, improving the directivity values by means of graphene-based antenna arrays could be possible due to the aforementioned reduced size.

@@ -13,13 +13,12 @@ Campus Nord - UPC, D6-002  <br/>
 Jordi Girona 1-3  <br/>
 08034 Barcelona, Spain <br/> 
 Tel: (+34)934017423  <br/>
+  <br/>
 </div>
   
-<div style="float:left; width: 50%;">aaa<br/><br/><br/><br/><br/><br/><br/><br/></div>
+<div style="float:left; width: 50%;">aaa<br/><br/><br/><br/><br/><br/><br/><br/><br/></div>
 
 
-<br/>
-<br/>
 
 
 ---

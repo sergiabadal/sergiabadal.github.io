@@ -3,8 +3,6 @@ layout: page
 comments: false
 ---
 
-<div style="witdh: 80%;">
-  
   
   <div style="float:left; width: 50%;">
     
@@ -19,13 +17,13 @@ Tel: (+34)934017423  <br/>
     
   </div>
   
-    <div style="float:right; width: 50%;">
+    <div style="float:left; width: 50%;">
       
-      <p align="center"><img src="/img/3.jpg" alt="Profile picture" width="180" height="236" alt=""></p>
+      <p align="center"><img src="/img/3.jpg" alt="Profile picture" width="180" height="236"></p>
   
   </div>
   
-</div>
+
 
 
 

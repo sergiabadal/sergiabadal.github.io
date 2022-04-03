@@ -14,12 +14,13 @@ Jordi Girona 1-3  <br/>
 Tel: (+34)934017423  <br/>
 </div>
   
-
+<div>
 
 
 
 
 ---
+
 ### News
 - **Apr 2021**: A new project starts with NEC Labs Europe! It is called IGNNSPECTOR, <a href="./research.html">check it out</a>
 - **Mar 2021**: New papers accepted or presented at IEEE JSAC, NSDI, HPCA, ISCAS.

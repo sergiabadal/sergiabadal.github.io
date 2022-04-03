@@ -3,7 +3,7 @@ layout: page
 comments: false
 ---
 
-<p align="center"><img src="/img/sergi-brick.jpg" alt="Profile picture" width="70%"/><br/>
+<p align="center"><img src="/img/sergi-brick.jpg" alt="Profile picture" width="80%"/><br/>
   <br/>
 Distinguished Researcher | ERC Grantee <br/> 
 Ambassador of the European Innovation Council<br/>

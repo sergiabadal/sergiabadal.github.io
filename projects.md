@@ -8,7 +8,7 @@ title: Projects
 {% endif %}
 <p style="text-align:center"><a href="#winc">WINC</a> | <a href="#wiplash">WiPLASH</a> | <a href="#gnn">IGNNSPECTOR</a> | <a href="#visorsurf">VISORSURF</a> | <a href="#tugraco">TUGRACO</a> | <a href="#gwc">GWC</a></p>
 
-
+<br/><br/>
 ### <a name="winc"></a> Wireless Networks within Next-Generation Computing Systems (WINC)
 - Website: [www.winc-project.eu](https://www.winc-project.eu)
 - Project Type: ERC Starting Grant
@@ -22,7 +22,7 @@ A common trait of current computing systems is that their internal data communic
 In this context, the WINC project envisions a revolution in computer architecture enabled by the integration of wireless networks within computing systems. The main hypothesis is that wireless terahertz technology will lead to at least a tenfold improvement in the speed, efficiency, and scalability of both non-quantum and quantum systems. With a cross-cutting approach, WINC aims to validate the hypothesis by (i) revealing the fundamental limits of wireless communications within computing packages, (ii) developing antennas and protocols that operate close to those limits while complying with the stringent constraints of the scenario, and (iii) developing radically novel architectures that translate the unique benefits of the wireless vision into order-of-magnitude improvements at the system level. If successful, WINC will be the seed of a new generation of non-quantum and quantum systems and foster progress in the computing field for the decades to come.
 
  
-
+<br/><br/>
 ### <a name="wiplash"></a> Architecting More than Moore - Wireless Plasticity for Massive Heterogeneous Computer Architectures (WiPLASH)
 - Website: [www.wiplash.eu](https://www.wiplash.eu)
 - Project Type: H2020 FET-OPEN
@@ -39,7 +39,7 @@ In order to achieve this, the WiPLASH project aims to pioneer an on-chip wireles
 The culminating goal is to demonstrate that the wireless plane offers the plasticity required by future computing platforms by improving at least one key application (mainly biologically-plausible deep learning architectures) by 10× in terms of execution speed and energy-delay product over a state-of-the-art baseline.
 
  
-
+<br/><br/>
 ### <a name="gnn"></a> IGNNSPECTOR: Graph-Driven Acceleration of Graph Neural Networks
 - Website: [NEC Labs Europe](https://www.neclab.eu/careers/nec-student-research-fellowship-program#fellow-985)
 - Project Type: NEC Labs Europe - Student Research Fellowship
@@ -49,7 +49,7 @@ The culminating goal is to demonstrate that the wireless plane offers the plasti
 Graph Neural Networks (GNNs) are gaining momentum due to their ability to model and learn from graph-structured data, with profound implications in areas like computer networks, natural language processing, quantum chemistry, or bioscience. However, computing GNNs efficiently is an open problem due to their unique characteristics, i.e. alternating dense and massively sparse phases, dependence on an input graph, and potential need for scaling to large graphs. These render GPU/TPU and DNN accelerators inefficient. This proect aims to tackle this open problem via software acceleration, although the solution can also help speed up hardware-software co-designed solutions. In particular, we want to demonstrate that both the optimal dataflows and software acceleration techniques for GNN computation depend on the GNN algorithm and the graph connectivity, and that optimality may change across partitions of the same graph. Then, the goal is to develop a tool, which we call iGNNspector, that streamlines the training/inference of a GNN based on this knowledge. In more detail, iGNNspector will profile a wide variety of graph datasets and analyze their performance for different GNN variants and frameworks/accelerators. These results will be used to derive a set of heuristics to guide partitioning, scheduling, and runtime for CPU/GPU platforms, and to determine the most appropriate dataflows for ASIC platforms.
 
  
- 
+ <br/><br/>
 ### <a name="visorsurf"></a> VISORSURF: A Hardware Platform for Software-driven Functional Metasurface
 - Website: [www.visorsurf.eu](http://www.visorsurf.eu)
 - Project Type: H2020 FET-OPEN
@@ -65,7 +65,7 @@ Metasurfaces, thin film planar, artificial structures, have recently enabled the
 Moreover, designing a metasurface remains a task for specialized researchers, limiting their accessibility from the broad engineering field. VISORSURF proposes a hardware platform-the HyperSurface-that can host metasurface functionalities described in software. The HyperSurface essentially merges existing metasurfaces with nanonetworks, acting as a reconfigurable (globally, locally, upon request or depending on the environment) metasurface, whose properties can be changed via a software interface. This control is achieved by a network of miniaturized controllers, incorporated into the structure of the metasurface. The controllers receive programmatic directives and perform simple alterations on the metasur-face structure, adjusting its electromagnetic behavior. The required end-functionality is described in well-defined, reusable software modules, adding the potential for hosting multiple functionalities concurrently and adaptively. VISORSURF will study in depth the novel and unexplored theoretical capabilities of the HyperSurface concept.
 
  
-
+<br/><br/>
 ### <a name="tugraco"></a> Towards Ubiquitous GRAphene based RF COmmunications – demonstrating and understanding graphene based plasmonic THz antenna potential and limitations (TUGRACO)
 - Website: [N3Cat Projects](http://www.n3cat.upc.edu/projects/tugraco)
 - Project Type: H2020 FLAG-ERA - Graphene Flagship
@@ -75,7 +75,7 @@ Moreover, designing a metasurface remains a task for specialized researchers, li
 Nanotechnology is increasingly providing a plethora of new tools to design and manufacture miniaturized devices such as ubiquitous sensors, wearable electronics or pervasive computing systems. Such devices require wireless communications for information sharing and coordination. Unfortunately, reducing the size (and concomitantly cost) of such devices is severely restricted by the dimensions of metallic antennas. Graphene offers a radical alternative to downscale antennas by orders of magnitude thanks to its special dispersion relation and its ability to support surface-plasmon polaritons (SPP) in the terahertz frequency band. Indeed, a graphene RF plasmonic micro-antenna with lateral dimensions of a few micrometers is predicted to resonate in the terahertz band (0.3-10 THz) at a frequency up to two orders of magnitude lower and with higher radiation efficiency with respect to metallic counterparts. In consequence, graphene micro-antennas provide a huge integration potential for future miniaturized wireless systems and represents an enabling technology for the future dominant ICT applications envisioned by e.g. Internet of Things.
 
 
-
+<br/><br/>
 ### <a name="gwc"></a> Graphene-enabled Wireless Communications (GWC)
 - Website: [N3Cat Projects](http://www.n3cat.upc.edu/projects/gwc)
 - Project Type: SAMSUNG Global Research Outreach | INTEL Doctoral Student Honor Programme

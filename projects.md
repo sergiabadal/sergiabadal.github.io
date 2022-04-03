@@ -10,7 +10,7 @@ title: Projects
 
 
 ### <a name="winc"></a> Wireless Networks within Next-Generation Computing Systems (WINC)
-- Website: www.winc-project.eu
+- Website: [www.winc-project.eu](https://www.winc-project.eu)
 - Project Type: ERC Starting Grant
 - Funding: 1.5 M€
 - Duration: 2022-2027
@@ -24,7 +24,7 @@ In this context, the WINC project envisions a revolution in computer architectur
  
 
 ### <a name="wiplash"></a> Architecting More than Moore - Wireless Plasticity for Massive Heterogeneous Computer Architectures (WiPLASH)
-- Website: www.wiplash.eu
+- Website: [www.wiplash.eu](https://www.wiplash.eu)
 - Project Type: H2020 FET-OPEN
 - Funding: 2.9 M€
 - Duration: 2019-2023
@@ -41,7 +41,7 @@ The culminating goal is to demonstrate that the wireless plane offers the plasti
  
 
 ### <a name="gnn"></a> IGNNSPECTOR: Graph-Driven Acceleration of Graph Neural Networks
-- Website: https://www.neclab.eu/careers/nec-student-research-fellowship-program#fellow-985
+- Website: [NEC Labs Europe](https://www.neclab.eu/careers/nec-student-research-fellowship-program#fellow-985)
 - Project Type: NEC Labs Europe - Student Research Fellowship
 - Funding: 75 K€
 - Duration: 2021-2022
@@ -51,7 +51,7 @@ Graph Neural Networks (GNNs) are gaining momentum due to their ability to model 
  
  
 ### <a name="visorsurf"></a> VISORSURF: A Hardware Platform for Software-driven Functional Metasurface
-- Website: www.visorsurf.eu
+- Website: [www.visorsurf.eu](http://www.visorsurf.eu)
 - Project Type: H2020 FET-OPEN
 - Funding: 4.5 M€
 - Duration: 2017-2021
@@ -67,7 +67,7 @@ Moreover, designing a metasurface remains a task for specialized researchers, li
  
 
 ### <a name="tugraco"></a> Towards Ubiquitous GRAphene based RF COmmunications – demonstrating and understanding graphene based plasmonic THz antenna potential and limitations (TUGRACO)
-- Website: http://www.n3cat.upc.edu/projects/tugraco
+- Website: [N3Cat Projects](http://www.n3cat.upc.edu/projects/tugraco)
 - Project Type: H2020 FLAG-ERA - Graphene Flagship
 - Funding: 250 K€
 - Duration: 2016-2019
@@ -77,7 +77,7 @@ Nanotechnology is increasingly providing a plethora of new tools to design and m
 
 
 ### <a name="gwc"></a> Graphene-enabled Wireless Communications (GWC)
-- Website: http://www.n3cat.upc.edu/projects/gwc
+- Website: [N3Cat Projects](http://www.n3cat.upc.edu/projects/gwc)
 - Project Type: SAMSUNG Global Research Outreach | INTEL Doctoral Student Honor Programme
 - Funding: 150 K€
 - Duration: 2012-2016

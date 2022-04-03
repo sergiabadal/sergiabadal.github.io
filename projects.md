@@ -15,7 +15,7 @@ title: Projects
 - Funding: 1.5 M€
 - Duration: 2022-2027
 
-<p align="center"><img src="https://lh3.googleusercontent.com/b8MsYmMe_TkUpA_rmYs8MZIJ-ByVmGS_nS-gu228OtSOahgJMevHX20p1xDZV-pUWqAXj1YpfXYDD-YI4a7FWlUCvlC6lu7cEwrpTId8A988wo9ZmjaWPKgFdcFLn0ZJzg=w1280" width="70%"/></p>
+<p align="center"><img src="https://lh3.googleusercontent.com/b8MsYmMe_TkUpA_rmYs8MZIJ-ByVmGS_nS-gu228OtSOahgJMevHX20p1xDZV-pUWqAXj1YpfXYDD-YI4a7FWlUCvlC6lu7cEwrpTId8A988wo9ZmjaWPKgFdcFLn0ZJzg=w1280" width="80%"/></p>
 
 Computing systems are ubiquitous in our daily life and have transformed the way we learn, work, or communicate with each other, to the point that progress is intimately tied to the improvements brought by new generations of the processors that lie at the heart of these systems.
 
@@ -31,7 +31,7 @@ In this context, the WINC project envisions a revolution in computer architectur
 - Funding: 2.9 M€
 - Duration: 2019-2023
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_78MthY30nM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p align="center"><iframe width="80%" src="https://www.youtube.com/embed/_78MthY30nM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 	
     
 The main design principles in computer architecture have shifted from a monolithic scaling-driven approach towards an emergence of heterogeneous architectures that tightly co-integrate multiple specialized computing and memory units. This is motivated by the urgent need of very high parallelism and by energy constraints. Heterogeneous hardware specialization requires interconnection mechanisms that integrate the architecture. State-of-the-art approaches are 3D stacking and 2D architectures complemented with a Network-on-Chip (NoC) to interconnect the components. However, such interconnects are fundamentally monolithic and rigid, and are unable to provide the efficiency and architectural flexibility required by current and future key ICT applications. The main challenge is to introduce diversification and specialization in heterogeneous processor architectures while ensuring their generality and scalability.
@@ -57,10 +57,9 @@ Graph Neural Networks (GNNs) are gaining momentum due to their ability to model 
 - Project Type: H2020 FET-OPEN
 - Funding: 4.5 M€
 - Duration: 2017-2021
-
-Media coverage:
-- [ENG] [PublicNow](http://www.publicnow.com/view/B0BA04ADDCC57999D9F4C16BFC8D6F405A889DC6?2017-07-21-10:00:11+01:00-xxx1004) \| [UPC News](http://www.upc.edu/saladepremsa/al-dia/mes-noticies/scientists-from-the-upc-investigate-reconfigurable-and-programmable-metamaterials) \| [The Register](https://www.theregister.com/2020/06/01/irs_wireless_jamming/)
-- [ESP] [La Vanguardia](http://www.lavanguardia.com/vida/20170710/424038208290/cientificos-de-la-upc-investigan-materiales-reconfigurables-y-programables.html) \| [El Periódico](http://www.elperiodico.com/es/sociedad/20170710/cientificos-de-la-upc-investigan-materiales-reconfigurables-y-programables-6158737)
+- Media coverage:
+     - [ENG] [PublicNow](http://www.publicnow.com/view/B0BA04ADDCC57999D9F4C16BFC8D6F405A889DC6?2017-07-21-10:00:11+01:00-xxx1004) \| [UPC News](http://www.upc.edu/saladepremsa/al-dia/mes-noticies/scientists-from-the-upc-investigate-reconfigurable-and-programmable-metamaterials) \| [The Register](https://www.theregister.com/2020/06/01/irs_wireless_jamming/)
+     - [ESP] [La Vanguardia](http://www.lavanguardia.com/vida/20170710/424038208290/cientificos-de-la-upc-investigan-materiales-reconfigurables-y-programables.html) \| [El Periódico](http://www.elperiodico.com/es/sociedad/20170710/cientificos-de-la-upc-investigan-materiales-reconfigurables-y-programables-6158737)
 
 Metasurfaces, thin film planar, artificial structures, have recently enabled the realization of novel electromagnetic and optical components with engineered and even unnatural functionalities. These include electromagnetic invisibility of objects (cloaking), total radiation absorption, filtering and steering of light and sound, as well as ultra-efficient, miniaturized antennas for sensors and implantable communication devices. Nonetheless, metasurfaces are presently non-adaptive and non-reusable, restricting their applicability to a single functionality per structure (e.g., steering light towards a fixed direction) and to static structures only.
 

@@ -19,22 +19,22 @@ Currently, he works as a PostDoc researcher at the N3Cat group, at the Computer 
  
 ### Honors and Awards
  
-- Top 2% scientists in the world in 2020, according to the Stanford's Ioannidis dataset. September 2021. DATA
+- Top 2% scientists in the world in 2020, according to the Stanford's Ioannidis dataset. September 2021. [[DATA]](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3)
 - National Champion of the European Innovation Council (EIC), designated to ~100 influential researchers and enterpreneurs across Europe. February 2021.
 - Editor of the Year at the Nano Communication Networks Journal, awarded to the best performing editor in a natural year. December 2019.
-- Nano Communication Networks Journal Young Investigator Award, awarded to a Young researcher active in the fields of Nanoscale Communication and Networking. September 2019. ANNOUNCEMENT
-- UPC Outstanding Dissertation Award, awarded to best PhD theses at Universitat Politècnica de Catalunya. Academic Year 2016. ANNOUNCEMENT
+- Nano Communication Networks Journal Young Investigator Award, awarded to a Young researcher active in the fields of Nanoscale Communication and Networking. September 2019. [ANNOUNCEMENT](https://www.journals.elsevier.com/nano-communication-networks/news/dr-sergi-abadal-receives-the-young-investigator-award)
+- UPC Outstanding Dissertation Award, awarded to best PhD theses at Universitat Politècnica de Catalunya. Academic Year 2016. [ANNOUNCEMENT](https://doctorat.upc.edu/ca/tesi/premis-extraordinaris/carpeta-2018/convocatoria-2018)
 - INTEL Fellowship, within the INTEL Doctoral Student Honor Programme, awarded to exceptional PhD candidates pursuing leading-edge innovation in fields related to Intel's business and research interests in the European Union, Switzerland and Russia. Fall 2013 - Spring 2015.
 - Accenture Award, bestowed to the best academic record within the Master in Information and Communication Technologies (MINT) at the Universitat Politècnica de Catalunya (UPC). September 2012.
 - Vodafone Foundation Fellowship, awarded to outstanding graduate students in the Escola Tècnica i Superior d'Enginyeria de Telecomunicació de Barcelona, to conduct graduate research in the USA, Fall 2009-Spring 2010.
 - ASPLOS '16 Travel Grant, awarded to selected students to attend the 21st ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Atlanta, April 2016.
-- Sentinel of Science 2016-2017, awarded by the website Publons to the Top 1 per cent of researchers contributing to the peer review of the field of Computer Science, 2017. The same was granted in 2016 to the Top 10 per cent reviewers in Engineering.
+- Sentinel of Science 2016-2017, awarded by the website Publons to the [Top 1%](http://sergiabadal.com/pdf/publons_certificate_2017.pdf) of researchers contributing to the peer review of the field of Computer Science, 2017. The same was granted in 2016 to the [Top 10%](http://sergiabadal.com/pdf/publons_certificate_2016.pdf) reviewers in Engineering.
  
 
 ### News Appearances
-- [ENG] The Register. Blight the power: Jamming attack cripples wireless signals using clever reflective technology. June 2020. [LINK]
-- [CAT] Diari de Terrassa. Interview about 5G: present and future. April 2020. [LINK] [LINK2]
-- [ESP] Lavanguardia/El Periódico. Scientists from UPC investigate reconfigurable and programmable metamaterials. July 2017. [LINK] [LINK2]
-- [ENG] IEEE Xplore Spotlight. Graphennas: The Wonder Compound Meets Nano-Scale Wireless Communications. October 2015. [LINK]
+- [ENG] The Register. Blight the power: Jamming attack cripples wireless signals using clever reflective technology. June 2020. [LINK](https://www.theregister.com/2020/06/01/irs_wireless_jamming/)
+- [CAT] Diari de Terrassa. Interview about 5G: present and future. April 2020. [LINK](http://www.diarideterrassa.es/gentdt/2020/03/21/ara-mateix-5g-tecnologia-enfocada/135166.html) [LINK2](https://www.citm.upc.edu/blog/el-diari-de-terrassa-entrevista-al-profesor-sergi-abadal-para-analizar-los-retos-de-la-tecnologia-5g/)
+- [ESP] Lavanguardia/El Periódico. Scientists from UPC investigate reconfigurable and programmable metamaterials. July 2017. [LINK](http://www.lavanguardia.com/vida/20170710/424038208290/cientificos-de-la-upc-investigan-materiales-reconfigurables-y-programables.html) [LINK2](http://www.elperiodico.com/es/sociedad/20170710/cientificos-de-la-upc-investigan-materiales-reconfigurables-y-programables-6158737)
+- [ENG] IEEE Xplore Spotlight. Graphennas: The Wonder Compound Meets Nano-Scale Wireless Communications. October 2015. [LINK](http://ieeexplore-spotlight.ieee.org/article/graphennas-the-wonder-compound-meets-nano-scale-wireless-communications/)
 
  

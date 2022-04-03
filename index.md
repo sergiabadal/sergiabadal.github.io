@@ -17,7 +17,9 @@ Tel: (+34)934017423  <br/>
 </div>
   
 <div style="float:left; width: 50%;">
+  
   <p align="center"><img class="profile_picture" src="/img/3.jpg" alt="Profile picture" width="180" height="236"></p>
+
 </div>
 
 

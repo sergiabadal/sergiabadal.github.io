@@ -6,11 +6,14 @@ title: Projects
 {% if page.subtitle == "" %}
 <div class="empty_subtitle"></div>
 {% endif %}
+<p style="text-align:center"><a href="#winc">WINC</a> | <a href="#wiplash">WiPLASH</a> | <a href="#book">Book Chapters</a> | <a href="#journal">Journal Papers</a> | <a href="#conference">Conference Papers</a> | <a href="#poster">Abstracts</a></p>
 
 
 ### Wireless Networks within Next-Generation Computing Systems (WINC)
-
-This project is funded by European Research Council (ERC) through its Starting Grant program.
+- Website: www.winc-project.eu
+- Project Type: ERC Starting Grant
+- Funding: 1.5 M€
+- Duration: 2022-2027
 
 Computing systems are ubiquitous in our daily life and have transformed the way we learn, work, or communicate with each other, to the point that progress is intimately tied to the improvements brought by new generations of the processors that lie at the heart of these systems.
 
@@ -21,10 +24,10 @@ In this context, the WINC project envisions a revolution in computer architectur
  
 
 ### Architecting More than Moore - Wireless Plasticity for Massive Heterogeneous Computer Architectures (WiPLASH)
-
-(source: wiplash.eu)
-
-This project is funded by European Commission through its FET OPEN program.
+- Website: www.wiplash.eu
+- Project Type: H2020 FET-OPEN
+- Funding: 2.9 M€
+- Duration: 2019-2023
 
 The main design principles in computer architecture have shifted from a monolithic scaling-driven approach towards an emergence of heterogeneous architectures that tightly co-integrate multiple specialized computing and memory units. This is motivated by the urgent need of very high parallelism and by energy constraints. Heterogeneous hardware specialization requires interconnection mechanisms that integrate the architecture. State-of-the-art approaches are 3D stacking and 2D architectures complemented with a Network-on-Chip (NoC) to interconnect the components. However, such interconnects are fundamentally monolithic and rigid, and are unable to provide the efficiency and architectural flexibility required by current and future key ICT applications. The main challenge is to introduce diversification and specialization in heterogeneous processor architectures while ensuring their generality and scalability.
 
@@ -33,22 +36,24 @@ In order to achieve this, the WiPLASH project aims to pioneer an on-chip wireles
 The culminating goal is to demonstrate that the wireless plane offers the plasticity required by future computing platforms by improving at least one key application (mainly biologically-plausible deep learning architectures) by 10× in terms of execution speed and energy-delay product over a state-of-the-art baseline.
 
  
- 
 
 ### IGNNSPECTOR: Graph-Driven Acceleration of Graph Neural Networks
-
-(more info at: NEC Labs website)
-
-This project is funded by NEC Laboratories Europe through their Student Research Fellowship.
+- Website: https://www.neclab.eu/careers/nec-student-research-fellowship-program#fellow-985
+- Project Type: NEC Labs Europe - Student Research Fellowship
+- Funding: 75 K€
+- Duration: 2021-2022
 
 Graph Neural Networks (GNNs) are gaining momentum due to their ability to model and learn from graph-structured data, with profound implications in areas like computer networks, natural language processing, quantum chemistry, or bioscience. However, computing GNNs efficiently is an open problem due to their unique characteristics, i.e. alternating dense and massively sparse phases, dependence on an input graph, and potential need for scaling to large graphs. These render GPU/TPU and DNN accelerators inefficient. This proect aims to tackle this open problem via software acceleration, although the solution can also help speed up hardware-software co-designed solutions. In particular, we want to demonstrate that both the optimal dataflows and software acceleration techniques for GNN computation depend on the GNN algorithm and the graph connectivity, and that optimality may change across partitions of the same graph. Then, the goal is to develop a tool, which we call iGNNspector, that streamlines the training/inference of a GNN based on this knowledge. In more detail, iGNNspector will profile a wide variety of graph datasets and analyze their performance for different GNN variants and frameworks/accelerators. These results will be used to derive a set of heuristics to guide partitioning, scheduling, and runtime for CPU/GPU platforms, and to determine the most appropriate dataflows for ASIC platforms.
 
  
+ 
 ### VISORSURF: A Hardware Platform for Software-driven Functional Metasurface
+- Website: www.visorsurf.eu
+- Project Type: H2020 FET-OPEN
+- Funding: 4.5 M€
+- Duration: 2017-2021
 
-(more info at: N3Cat, Visorsurf.eu)
-
-This project is funded by European Commission through its FET OPEN program. Media coverage:
+Media coverage:
 - [ENG] PublicNow | UPC News | The Register
 - [ESP] La Vanguardia | El Periódico
 
@@ -59,19 +64,22 @@ Moreover, designing a metasurface remains a task for specialized researchers, li
  
 
 ### Towards Ubiquitous GRAphene based RF COmmunications – demonstrating and understanding graphene based plasmonic THz antenna potential and limitations (TUGRACO)
-
-(more info at: N3Cat)
-
-This project is funded by the GRAPHENE Flagship European Project.
+- Website: http://www.n3cat.upc.edu/projects/tugraco
+- Project Type: H2020 FLAG-ERA - Graphene Flagship
+- Funding: 250 K€
+- Duration: 2016-2019
 
 Nanotechnology is increasingly providing a plethora of new tools to design and manufacture miniaturized devices such as ubiquitous sensors, wearable electronics or pervasive computing systems. Such devices require wireless communications for information sharing and coordination. Unfortunately, reducing the size (and concomitantly cost) of such devices is severely restricted by the dimensions of metallic antennas. Graphene offers a radical alternative to downscale antennas by orders of magnitude thanks to its special dispersion relation and its ability to support surface-plasmon polaritons (SPP) in the terahertz frequency band. Indeed, a graphene RF plasmonic micro-antenna with lateral dimensions of a few micrometers is predicted to resonate in the terahertz band (0.3-10 THz) at a frequency up to two orders of magnitude lower and with higher radiation efficiency with respect to metallic counterparts. In consequence, graphene micro-antennas provide a huge integration potential for future miniaturized wireless systems and represents an enabling technology for the future dominant ICT applications envisioned by e.g. Internet of Things.
 
 
+
 ### Graphene-enabled Wireless Communications (GWC)
+- Website: http://www.n3cat.upc.edu/projects/gwc
+- Project Type: SAMSUNG Global Research Outreach | INTEL Doctoral Student Honor Programme
+- Funding: 150 K€
+- Duration: 2012-2016
 
-(more info at: N3Cat)
-
-This project is funded by SAMSUNG under its Global Research Outreach (GRO) program, as well as by INTEL through its Doctoral Student Honor Programme. Media Coverage:
+Media Coverage:
 - [ENG] ExtremeTech | Alpha Galileo | Graphene Tracker
 - [ESP] ThinkBig (Telefonica) | Europa Press | La Razón
 - [CAT] UPC | Ràdio4 (RTVE - Local Radio Station)

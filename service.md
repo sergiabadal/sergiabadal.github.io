@@ -1,51 +1,63 @@
 ---
 layout: page
 title: Service
+sbutitle: See a comprehensive list of reviewer and editor service in 
+link_name: Publons
+link_url: http://publons.com/author/1004804/sergi-abadal#profile
 ---
 
 {% if page.subtitle == "" %}
 <div class="empty_subtitle"></div>
 {% endif %}
 
+
+### Grant or Prize Reviewer
+
+- European Commission
+- Chinese Academy of Sciences
+- Qatar National Research Fund
+- Czech Science Foundation
+
+
 ### Editorial Work
 
-- Area Editor, Nano Communication Networks (Elsevier) Journal, since Feb. 2018.
+- Area Editor, [Nano Communication Networks (Elsevier) Journal](https://www.journals.elsevier.com/nano-communication-networks), since February 2018.
     * Editor of the Year 2019.
-- Associate Editor, Frontiers in Communications and Networks, Non Conventional Communications and Networking Section, since June 2020.
-- Guest Editor, Special Section: "Nanoscale Computing, Communication, and Applications", IEEE Transactions on Nanotechnology, 2022.
-- Guest Editor, Special Issue: "Research Trends in Network-on-Chip Architectures and Selected Papers from NoCArc 2020", Journal of Low Power Electronics and Applications (JLPEA), 2021.
-- Guest Editor, Special Issue: "Nanonetworking Communications: Latest Advances and Prospects", MDPI Electronics, 2021.
-- Lead Guest Editor, Special Issue: "Programmable Metamaterials for Software-Defined Electromagnetic Control: Circuits, Systems, and Architectures", IEEE Journal on Emerging and Selected Topics in Circuits and Systems, 2020.
-- Lead Guest Editor, Special Issue: "Chip-scale Nanonetworks: Recent Trends, Emerging Technologies, Disruptive Applications", Nano Communication Networks (Elsevier) Journal, 2020.
+- Associate Editor, [Frontiers in Communications and Networks](https://www.frontiersin.org/journals/communications-and-networks), Non Conventional Communications and Networking Section, since June 2020.
+- Guest Editor, Special Section: [Nanoscale Computing, Communication, and Applications](https://tnano.org/2021/10/special-section-on-nanoscale-computing-communication-and-applications-nanococoa-2021/), IEEE Transactions on Nanotechnology, 2022.
+- Guest Editor, Special Issue: [Research Trends in Network-on-Chip Architectures and Selected Papers from NoCArc 2020](https://www.mdpi.com/journal/jlpea/special_issues/NoCArc_2020), Journal of Low Power Electronics and Applications (JLPEA), 2021.
+#- Guest Editor, Special Issue: "Nanonetworking Communications: Latest Advances and Prospects", MDPI Electronics, 2021.
+- Lead Guest Editor, Special Issue: [Programmable Metamaterials for Software-Defined Electromagnetic Control: Circuits, Systems, and Architectures](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=9032228&punumber=5503868), IEEE Journal on Emerging and Selected Topics in Circuits and Systems, 2020.
+- Lead Guest Editor, Special Issue: [Chip-scale Nanonetworks: Recent Trends, Emerging Technologies, Disruptive Applications](https://www.sciencedirect.com/journal/nano-communication-networks/special-issue/10BK331LHTP), Nano Communication Networks (Elsevier) Journal, 2020.
 
 
 ### Chairmanships
 
-- General Chair of the 16th IEEE/ACM International Symposium on Networks-on-Chip (NOCS 2022), Shanghai, China, October 2022.
-- Vice-General Chair of the 9th ACM International Conference on Nanoscale Computing and Communication (ACM NANOCOM), Barcelona, Spain, September 2022.
-- Program Chair of the Fifth IEEE Workshop on Terahertz Communications, at the IEEE International Conference on Communications, Seoul, South Korea, May 2022.
-- General Chair of the 2nd ACM International Workshop on Nanoscale Computing, Communication, and Applications (ACM NanoCoCoA 2021), in conjunction with the 19th ACM Conference on Embedded Networked Sensor Systems (SenSys), Coimbra, Portugal, November 2021.
-- Program Chair of the 15th IEEE/ACM International Symposium on Networks-on-Chip (NOCS 2021), Virtual Event, October 2021.
-- Steering Committee Chair of the 14th International Workshop on Network-on-Chip Architectures (NoCArc), in conjunction with the 54th IEEE/ACM International Symposium on Microarchitecture (MICRO), Athens, Greece, October 2021.
-- Program Chair of the 8th ACM International Conference on Nanoscale Computing and Communication (ACM NANOCOM), Catania, Italy, September 2021.
-- Workshop Chair of the 18th ACM International Conference on Computing Frontiers (CF'21), Catania, Italy, May 2021.
-- General Chair of the 1st ACM International Workshop on Nanoscale Computing, Communication, and Applications (ACM NanoCoCoA 2020), in conjunction with the 18th ACM Conference on Embedded Networked Sensor Systems (SenSys), Yokohama, Japan, November 2020.
-- General Chair of the 13th International Workshop on Network-on-Chip Architectures (NoCArc), in conjunction with the 53rd IEEE/ACM International Symposium on Microarchitecture (MICRO), Athens, Greece, October 2020.
-- Publicity Chair of the 14th IEEE/ACM International Symposium on Networks-on-Chip (NOCS 2020), Hamburg, Germany, October 2020.
-- Finance Chair of the 7th ACM International Conference on Nanoscale Computing and Communication (ACM NANOCOM), College Park, MD, USA, September 2020.
-- Program Chair of the 12th International Workshop on Network-on-Chip Architectures (NoCArc), Columbus, USA, October 2019.
-- Publicity Chair of the 6th ACM International Conference on Nanoscale Computing and Communication (ACM NANOCOM), Dublin, Ireland, September 2019.
-- Program Chair of the 4th International Workshop on Advanced Interconnect Solutions and Technologies for Emerging Computing Systems (AISTECS), Valencia, Spain, January 2019.
-- Local Organizing Committee at the 19th International Conference on Transport Optical Networks (ICTON), Girona, Spain, July 2017.
+- General Chair of the **16th IEEE/ACM International Symposium on Networks-on-Chip (NOCS 2022)**, Shanghai, China, October 2022.
+- Vice-General Chair of the **9th ACM International Conference on Nanoscale Computing and Communication (ACM NANOCOM)**, Barcelona, Spain, September 2022.
+- Program Chair of the **Fifth IEEE Workshop on Terahertz Communications**, at the IEEE International Conference on Communications, Seoul, South Korea, May 2022.
+- General Chair of the **2nd ACM International Workshop on Nanoscale Computing, Communication, and Applications (ACM NanoCoCoA 2021)**, in conjunction with the 19th ACM Conference on Embedded Networked Sensor Systems (SenSys), Coimbra, Portugal, November 2021.
+- Program Chair of the **15th IEEE/ACM International Symposium on Networks-on-Chip (NOCS 2021)**, Virtual Event, October 2021.
+- Steering Committee Chair of the **14th International Workshop on Network-on-Chip Architectures (NoCArc)**, in conjunction with the 54th IEEE/ACM International Symposium on Microarchitecture (MICRO), Athens, Greece, October 2021.
+- Program Chair of the **8th ACM International Conference on Nanoscale Computing and Communication (ACM NANOCOM)**, Catania, Italy, September 2021.
+- Workshop Chair of the **18th ACM International Conference on Computing Frontiers (CF'21)**, Catania, Italy, May 2021.
+- General Chair of the **1st ACM International Workshop on Nanoscale Computing, Communication, and Applications (ACM NanoCoCoA 2020)**, in conjunction with the 18th ACM Conference on Embedded Networked Sensor Systems (SenSys), Yokohama, Japan, November 2020.
+- General Chair of the **13th International Workshop on Network-on-Chip Architectures (NoCArc)**, in conjunction with the 53rd IEEE/ACM International Symposium on Microarchitecture (MICRO), Athens, Greece, October 2020.
+- Publicity Chair of the **14th IEEE/ACM International Symposium on Networks-on-Chip (NOCS 2020)**, Hamburg, Germany, October 2020.
+- Finance Chair of the **7th ACM International Conference on Nanoscale Computing and Communication (ACM NANOCOM)**, College Park, MD, USA, September 2020.
+- Program Chair of the **12th International Workshop on Network-on-Chip Architectures (NoCArc)**, in conjunction with the 52nd IEEE/ACM International Symposium on Microarchitecture (MICRO), Columbus, USA, October 2019.
+- Publicity Chair of the **6th ACM International Conference on Nanoscale Computing and Communication (ACM NANOCOM)**, Dublin, Ireland, September 2019.
+- Program Chair of the **4th International Workshop on Advanced Interconnect Solutions and Technologies for Emerging Computing Systems (AISTECS)**, Valencia, Spain, January 2019.
+- Local Organizing Committee at the **19th International Conference on Transport Optical Networks (ICTON)**, Girona, Spain, July 2017.
 
 
 ### Special Session / Tutorial Organization
 
-- "Using gem5 and full-system RISC-V simulation to enable the optimization of heterogeneous architectures," HiPEAC 2021, Budapest, Hungary, January 2021.
-- "Terahertz Communications for Nanonetworks", 7th ACM International Conference on Nanoscale Computing and Communication (NanoCom), College Park, MD, September 2020.
-- "Emerging Technologies for Network-on-Chip: Interfaces and Feasibility", IEEE Conference on Design of Circuits and Integrated Systems (DCIS), Lyon, France, November 2018.
-- "Circuits and Systems for Fully Programmable Metamaterials", IEEE International Symposium on Circuits & Systems (ISCAS), Florence, Italy, May 2018.
-- "Advanced Wireless Networks-on-Chip for Future Manycore Architectures", ACM/IEEE 9th International Symposium on Networks-on-Chip (NOCS), Vancouver, Canada, September 2015.
+- **Using gem5 and full-system RISC-V simulation to enable the optimization of heterogeneous architectures,** HiPEAC 2021, Budapest, Hungary, January 2021.
+- **Terahertz Communications for Nanonetworks", 7th ACM International Conference on Nanoscale Computing and Communication (NanoCom),** College Park, MD, September 2020.
+- **Emerging Technologies for Network-on-Chip: Interfaces and Feasibility**, IEEE Conference on Design of Circuits and Integrated Systems (DCIS), Lyon, France, November 2018.
+- **Circuits and Systems for Fully Programmable Metamaterials**, IEEE International Symposium on Circuits & Systems (ISCAS), Florence, Italy, May 2018.
+- **Advanced Wireless Networks-on-Chip for Future Manycore Architectures**, ACM/IEEE 9th International Symposium on Networks-on-Chip (NOCS), Vancouver, Canada, September 2015.
 
 
 ### TPC Memberships
@@ -76,23 +88,15 @@ title: Service
 
 ### Other Services at Conferences
 
-- Chair of Session PHY29 at the IEEE Wireless Communications and Networking Conference (WCNC), Barcelona, Spain, April 2018.
-- Organization assistant at the TMA Workshop, Barcelona, Spain, April 2015.
-- Organization assistant at the 3rd NaNoNetworking Summit, Barcelona, Spain, June 2011.
-- Organization assistant at the 2nd NaNoNetworking Day, Barcelona, Spain, June 2010.
-- Organization assistant at the 1st NaNoNetworking Day, Barcelona, Spain, July 2009.
+- Chair of Session PHY29 at the **IEEE Wireless Communications and Networking Conference (WCNC)**, Barcelona, Spain, April 2018.
+- Organization assistant at the **TMA Workshop**, Barcelona, Spain, April 2015.
+- Organization assistant at the **3rd NaNoNetworking Summit**, Barcelona, Spain, June 2011.
+- Organization assistant at the **2nd NaNoNetworking Day**, Barcelona, Spain, June 2010.
+- Organization assistant at the **1st NaNoNetworking Day**, Barcelona, Spain, July 2009.
 
-
-### Grant or Prize Reviewer
-
-- Chinese Academy of Sciences
-- Qatar National Research Fund
-- Czech Science Foundation
 
 
 ### Journal Reviewer
-
-See full list in my [Publons profile](http://publons.com/author/1004804/sergi-abadal#profile)
 
 - Advanced Materials (Wiley)
 - Advanced Science (Wiley)

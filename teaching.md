@@ -4,7 +4,9 @@ title: Teaching
 subtitle:
 ---
 
-
+{% if page.subtitle == "" %}
+<div class="empty_subtitle"></div>
+{% endif %}
 
 
 ### Courses

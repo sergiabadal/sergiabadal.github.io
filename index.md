@@ -43,5 +43,4 @@ Tel: (+34)934017423
 - **May 2020**: New papers at IEEE TCOM, IEEE Access, IEEE JETCAS. Sergi will be co-editor of a special issue at <a href="https://www.mdpi.com/journal/electronics/special_issues/Nanonetworking_Communications">MDPI Electronics</a>.
 - **Oct 2019**: Sergi coordinates the new H2020 FETOPEN project <a href="http://www.wiplash.eu">WIPLASH</a>.
 - **Sep 2019**: Sergi has been awarded with the NanoComNet <a href="https://www.journals.elsevier.com/nano-communication-networks/news/dr-sergi-abadal-receives-the-young-investigator-award">Young Investigator Award</a>.
-
 - **Dec 2020**: [NeuMAC](/docs/Neumac_NSDI_2021.pdf) has been accepted to **NSDI '21**

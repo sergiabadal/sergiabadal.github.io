@@ -14,7 +14,7 @@ Jordi Girona 1-3  <br/>
 Tel: (+34)934017423  <br/>
 </div>
   
-<div style="float:left; width: 10%;">aaa</div>
+<div style="float:left; width: 100%;">aaa</div>
 
 
 

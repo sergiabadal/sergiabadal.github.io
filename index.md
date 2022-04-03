@@ -3,8 +3,6 @@ layout: page
 comments: false
 ---
 
-<div class="index_header_space"></div>
-
 <div style="witdh: 100%;">
   
   <div style="float:left; width: 10%;"><br/></div>

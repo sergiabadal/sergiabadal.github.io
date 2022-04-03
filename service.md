@@ -21,14 +21,14 @@ link_url: http://publons.com/author/1004804/sergi-abadal#profile
 
 ### Editorial Work
 
-- Area Editor, [Nano Communication Networks (Elsevier) Journal](https://www.journals.elsevier.com/nano-communication-networks), since February 2018.
+- Area Editor, **[Nano Communication Networks (Elsevier) Journal](https://www.journals.elsevier.com/nano-communication-networks)**, since February 2018.
     * Editor of the Year 2019.
-- Associate Editor, [Frontiers in Communications and Networks](https://www.frontiersin.org/journals/communications-and-networks), Non Conventional Communications and Networking Section, since June 2020.
-- Guest Editor, Special Section: [Nanoscale Computing, Communication, and Applications](https://tnano.org/2021/10/special-section-on-nanoscale-computing-communication-and-applications-nanococoa-2021/), IEEE Transactions on Nanotechnology, 2022.
-- Guest Editor, Special Issue: [Research Trends in Network-on-Chip Architectures and Selected Papers from NoCArc 2020](https://www.mdpi.com/journal/jlpea/special_issues/NoCArc_2020), Journal of Low Power Electronics and Applications (JLPEA), 2021.
+- Associate Editor, **[Frontiers in Communications and Networks](https://www.frontiersin.org/journals/communications-and-networks)**, Non Conventional Communications and Networking Section, since June 2020.
+- Guest Editor, Special Section: **[Nanoscale Computing, Communication, and Applications](https://tnano.org/2021/10/special-section-on-nanoscale-computing-communication-and-applications-nanococoa-2021/)**, IEEE Transactions on Nanotechnology, 2022.
+- Guest Editor, Special Issue: **[Research Trends in Network-on-Chip Architectures and Selected Papers from NoCArc 2020](https://www.mdpi.com/journal/jlpea/special_issues/NoCArc_2020)**, Journal of Low Power Electronics and Applications (JLPEA), 2021.
 #- Guest Editor, Special Issue: "Nanonetworking Communications: Latest Advances and Prospects", MDPI Electronics, 2021.
-- Lead Guest Editor, Special Issue: [Programmable Metamaterials for Software-Defined Electromagnetic Control: Circuits, Systems, and Architectures](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=9032228&punumber=5503868), IEEE Journal on Emerging and Selected Topics in Circuits and Systems, 2020.
-- Lead Guest Editor, Special Issue: [Chip-scale Nanonetworks: Recent Trends, Emerging Technologies, Disruptive Applications](https://www.sciencedirect.com/journal/nano-communication-networks/special-issue/10BK331LHTP), Nano Communication Networks (Elsevier) Journal, 2020.
+- Lead Guest Editor, Special Issue: **[Programmable Metamaterials for Software-Defined Electromagnetic Control: Circuits, Systems, and Architectures](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=9032228&punumber=5503868)**, IEEE Journal on Emerging and Selected Topics in Circuits and Systems, 2020.
+- Lead Guest Editor, Special Issue: **[Chip-scale Nanonetworks: Recent Trends, Emerging Technologies, Disruptive Applications](https://www.sciencedirect.com/journal/nano-communication-networks/special-issue/10BK331LHTP)**, Nano Communication Networks (Elsevier) Journal, 2020.
 
 
 ### Chairmanships
@@ -86,13 +86,13 @@ link_url: http://publons.com/author/1004804/sergi-abadal#profile
 - Global Symposium on Millimeter-Waves (GSMM), Emerging Technologies Track, 2015, 2016.
 
 
-### Other Services at Conferences
-
-- Chair of Session PHY29 at the **IEEE Wireless Communications and Networking Conference (WCNC)**, Barcelona, Spain, April 2018.
-- Organization assistant at the **TMA Workshop**, Barcelona, Spain, April 2015.
-- Organization assistant at the **3rd NaNoNetworking Summit**, Barcelona, Spain, June 2011.
-- Organization assistant at the **2nd NaNoNetworking Day**, Barcelona, Spain, June 2010.
-- Organization assistant at the **1st NaNoNetworking Day**, Barcelona, Spain, July 2009.
+#Other Services at Conferences
+#
+#- Chair of Session PHY29 at the **IEEE Wireless Communications and Networking Conference (WCNC)**, Barcelona, Spain, April 2018.
+#- Organization assistant at the **TMA Workshop**, Barcelona, Spain, April 2015.
+#- Organization assistant at the **3rd NaNoNetworking Summit**, Barcelona, Spain, June 2011.
+#- Organization assistant at the **2nd NaNoNetworking Day**, Barcelona, Spain, June 2010.
+#- Organization assistant at the **1st NaNoNetworking Day**, Barcelona, Spain, July 2009.
 
 
 

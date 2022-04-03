@@ -83,9 +83,10 @@ Nanotechnology is increasingly providing a plethora of new tools to design and m
 - Duration: 2012-2016
 
 Media Coverage:
-- [ENG] ExtremeTech | Alpha Galileo | Graphene Tracker
-- [ESP] ThinkBig (Telefonica) | Europa Press | La Razón
-- [CAT] UPC | Ràdio4 (RTVE - Local Radio Station)
+- [ENG] [ExtremeTech](http://www.extremetech.com/extreme/149172-samsung-funds-graphene-antenna-project-for-wireless-ultra-fast-intra-chip-links) | [Alpha Galileo](http://www.alphagalileo.es/ViewItem.aspx?ItemId=128752&CultureCode=en) | [Graphene Tracker](http://www.graphenetracker.com/samsung-backs-project-to-develop-graphene-based-micro-antennas/)
+- [ESP] [ThinkBig (Telefonica)](http://blogthinkbig.com/microantenas-de-grafeno-capacidad-computacional/) | [Europa Press](http://www.europapress.es/portaltic/empresas/noticia-samsung-financia-120000-dolares-proyecto-liderado-upc-desarrollar-microantenas-20130218182118.html) | [La Razón](http://www.larazon.es/detalle_normal/noticias/1208199/samsung-financia-un-programa-espanol-de-microa#.UhifKBunqaI)
+- [CAT] `[UPC](http://www.upc.edu/saladepremsa/al-dia/mes-noticies/samsung-aposta-per-un-projecte-liderat-per-la-upc-per-desenvolupar-microantenes-basades-en-el-grafe) | [Ràdio4 (RTVE - Local Radio Station)](http://www.rtve.es/alacarta/audios/lobservatori/lobservatori-2-marc-2013/1701205/)
+
 
 Graphene, a flat monoatomic layer of carbon atoms tightly packed in a two-dimensional honeycomb lattice, has recently attracted the attention of the research community due to its novel mechanical, thermal, chemical, electronic and optical properties. Since its first isolation by the Nobel laureates Andre Geim and Konstantin Novoselov back in 2004, graphene has given rise to a plethora of potential applications in diverse fields, attracting, as a result, multimillion dollar research funding.
 

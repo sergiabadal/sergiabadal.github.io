@@ -3,15 +3,14 @@ layout: page
 comments: false
 ---
 
-<p align="center"><img src="/img/sergi-brick.jpg" alt="Profile picture" /><br/>
-Distinguished Researcher<br/>  
-Coordinator of the FET-OPEN project WiPLASH<br/>  
+<p align="center"><img src="/img/sergi-brick.jpg" alt="Profile picture" width="70%"/><br/>
+  <br/>
+Distinguished Researcher | ERC Grantee <br/> 
 Ambassador of the European Innovation Council<br/>
 Universitat Politècnica de Catalunya (UPC)<br/>
-Campus Nord - UPC, D6-002  <br/>
-Jordi Girona 1-3  <br/>
-08034 Barcelona, Spain <br/> 
+C/ Jordi Girona 1-3, D6-002, 08034 Barcelona, Spain <br/> 
 Tel: (+34)934017423  <br/>
+<a href="mailto:&#97;&#98;&#97;&#100;&#97;&#108;&#64;&#97;&#99;&#46;&#117;&#112;&#99;&#46;&#101;&#100;&#117;"><img src="/img/mail.png" width="155" height="16" alt="" class="diff" style="text-decoration:none"/></a><br/>
 </p>
 
 ---

@@ -6,7 +6,7 @@ comments: false
 <div class="index_header_space"></div>
 
 <div style="witdh: 100%;">
-  <div style="float:left; width: 10%;">
+  <div style="float:left; width: 10%;"></div>
   <div style="float:left; width: 35%;">
 Distinguished Researcher
 

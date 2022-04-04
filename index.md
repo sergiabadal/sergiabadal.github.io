@@ -26,6 +26,8 @@ Tel: (+34)934017423<br/>
 ### News
 - **Apr 2022**: New website! Thanks to [Antonio Franques](https://afranques.com/) for the support.
 - **Mar 2022**: Sergi has been awarded with an **ERC Starting Grant**! The project is called WINC, <a href="https://www.winc-project.eu">check it out</a>
+- **Feb 2022**: Axel Wassington starts as a new PhD student. Welcome Axel!
+- **Sep 2021**: Fátima Rodríguez starts as a new PhD student. Welcome Fátima!
 - **Apr 2021**: A new project starts with **NEC Labs Europe**! It is called IGNNSPECTOR, <a href="/projects">check it out</a>
 - **Mar 2021**: New papers accepted or presented at **IEEE JSAC, NSDI, HPCA, ISCAS**.
 - **Feb 2021**: Sergi is named National Champion of the European Innovation Council (EIC).

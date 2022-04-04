@@ -15,7 +15,7 @@ title: Projects
 - **Funding:** 1.5 M€
 - **Duration:** 2022-2027
 
-<p align="center"><img src="./img/ERC-2021-StG-WINC.jpg" width="80%"/></p>
+<p align="center"><img src="/img/ERC-2021-StG-WINC.jpg" width="80%"/></p>
 
 Computing systems are ubiquitous in our daily life and have transformed the way we learn, work, or communicate with each other, to the point that progress is intimately tied to the improvements brought by new generations of the processors that lie at the heart of these systems.
 

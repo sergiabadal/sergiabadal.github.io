@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Service
-sbutitle: See a comprehensive list of reviewer and editor service in 
+subtitle: See a comprehensive list of reviewer and editor service in 
 link_name: Publons
 link_url: http://publons.com/author/1004804/sergi-abadal#profile
 ---

@@ -32,14 +32,14 @@ title: Team Members
 
 ### Alumni
 
-- Akshay Jain (PostDoc, 2020-2021)
-- Hamidreza Taghvaee (PhD, 2018-2021)
+- [Akshay Jain](https://www.linkedin.com/in/akshay91jain) (PostDoc, 2020-2021)
+- [Hamidreza Taghvaee](https://www.nottingham.ac.uk/research/groups/ggiemr/people/hamidreza.taghvaee) (PhD, 2018-2021)
 - Ioanna Kastaniotti (MSc, Fall '21 from DUTh)
 - Ruizhe Yu Xia (MSc, Fall '21)
 - Axel Wassington (MSc, Fall '21)
 - Carlos Gascón (MSc, Fall '21)
 - Emilie Pietersoone (BSc, Fall '21 from INSA Lyon)
-- Robert Guirado (MSc, Spring '21 @ IBM Research Zurich)
+- [Robert Guirado](https://gea.ssr.upm.es/equipo/robert-guirado/) (MSc, Spring '21 @ IBM Research Zurich)
 - Cristina Tubert (BSc, Spring '21)
 - Carlos Gascón (BSc, Spring '21)
 - Pau Serra Jensen (BSc, Spring '21)
@@ -47,7 +47,7 @@ title: Team Members
 - Andreu Olaortua (BSc, Spring '21)
 - Jorge López Alonso (MSc, Spring '20)
 - Marc de Pedro Gràcia (BSc, Spring '20)
-- Robert Guirado (BSc, Spring '19 @ Georgia Tech)
+- [Robert Guirado](https://gea.ssr.upm.es/equipo/robert-guirado/) (BSc, Spring '19 @ Georgia Tech)
 - Roshni Maniraj (BSc, Spring '19 from Amrita)
 - Pau Olivé (BSc, Spring '19)
 - Carlos Manso (MSc, Spring '18)

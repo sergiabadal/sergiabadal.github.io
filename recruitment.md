@@ -17,8 +17,8 @@ We currently have four open positions (click on the link to know more details):
 - **Full PhD Scholarship** in [Quantum Computing Architecture]
 - **Full PhD Scholarship** in [Next-Generation Multiprocessor Architecture]
 
-The positions will remain open until suitable candidates have been hired. 
-Applications are regularly reviewed and potential candidates are contacted.
+The positions will remain open until suitable candidates are hired. 
+Candidates are eviewed and interviewed in a rolling basis, so you do not need to wait to apply.
 
 <strong>Questions? <a href="mailto:&#97;&#98;&#97;&#100;&#97;&#108;&#64;&#97;&#99;&#46;&#117;&#112;&#99;&#46;&#101;&#100;&#117;">Contact me.</a></strong>
 

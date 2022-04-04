@@ -9,7 +9,7 @@ title: Team Members
 
 ### Current Team
 
-- Axel Wassington (PhD, 2022-2025)
+- [Axel Wassington](https://www.linkedin.com/in/axel-wassington-258792a0/) (PhD, 2022-2025)
 - Fátima Rodríguez (PhD, 2021-2024)
 - Santiago Rodrigo (PhD, 2019-2022)
 - Llorenç Fanals (MSc, Spring '21 @ Stanford/Equal1)

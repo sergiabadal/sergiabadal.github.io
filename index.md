@@ -26,20 +26,25 @@ Tel: (+34)934017423<br/>
 ### News
 - **Apr 2022**: New website! Thanks to [Antonio Franques](https://afranques.com/) for the support.
 - **Mar 2022**: Sergi has been awarded with an **ERC Starting Grant**! The project is called WINC, <a href="https://www.winc-project.eu">check it out.</a>
+- **Mar 2022**: New paper on [graphene metasurfaces for 6G](https://arxiv.org/pdf/2203.10298.pdf) accepted at **IEEE Vehicular Technology Magazine**.
 - **Feb 2022**: [Axel Wassington](https://www.linkedin.com/in/axel-wassington-258792a0/) starts as a new PhD student. He will work on the acceleration of Graph Neural Networks (GNNs). Welcome Axel!
+- **Feb 2022**: New paper summarizing [a vision of heterogeneous interconnects for chiplet-based systems](https://sergiabadal.com/publications/pdf/IEEE_Micro_Mag_NoCArc2020_Panel.pdf) accepted at **IEEE MICRO**.
+- **Jan 2022**: I will be General Chair of **NOCS'22** (hybrid, Shanghai) and Vice-General Chair of **NANOCOM'22** (Barcelona), both in October. Submit your best work and also come to Barcelona!
+- **Jan 2022**: [OMEGA](https://arxiv.org/abs/2103.07977) has been nominated as best paper candidate at **IPDPS'22**! Fingers crossed!
 - **Sep 2021**: Fátima Rodríguez starts as a new PhD student. She will do research in electromagnetic propagation in on-chip network scenarios. Welcome Fátima!
 - **Jul 2021**: Hamidreza defended his PhD thesis titled **[On scalable, reconfigurable, and intelligent metasurfaces](https://upcommons.upc.edu/handle/2117/351118)**. Hamidreza will join the University of Nottingham as a postdoc. Congratulations and all the best, Hamidreza!!
 - **Apr 2021**: A new project starts with **NEC Labs Europe**! It is called IGNNSPECTOR, <a href="/projects">check it out</a>
-- **Mar 2021**: New papers accepted or presented at **IEEE JSAC, NSDI, HPCA, ISCAS**.
-- **Feb 2021**: Sergi is named National Champion of the European Innovation Council (EIC).
+- **Mar 2021**: New papers accepted or presented at **IEEE JSAC, HPCA, ISCAS**.
+- **Feb 2021**: I have been appointed National Champion of the European Innovation Council (EIC).
 - **Feb 2021**: Gonzalo has defended his BSc thesis. Congrats Gonzalo!
 - **Dec 2020**: [NeuMAC](/docs/Neumac_NSDI_2021.pdf) has been accepted to **NSDI'21**
 - **Aug 2020**: New poster at **SIGCOMM'20**, 3rd place at the Student Research Competition. 
 - **Jul 2020**: Jorge has defended his MSc thesis. Congrats Jorge!
-- **Jun 2020**: Sergi appointed as Associate Editor of Frontiers in Communications and Networks. General Chair at NoCARC'20, founding co-chair of ACM NanoCoCoA @ ACM SenSys. 
-- **May 2020**: New papers at IEEE TCOM, IEEE Access, IEEE JETCAS. Sergi will be co-editor of a special issue at <a href="https://www.mdpi.com/journal/electronics/special_issues/Nanonetworking_Communications">MDPI Electronics</a>.
-- **Oct 2019**: Sergi coordinates the new H2020 FETOPEN project <a href="https://www.wiplash.eu">WIPLASH</a>.
-- **Sep 2019**: Sergi has been awarded with the <strong>NanoComNet<a href="https://www.journals.elsevier.com/nano-communication-networks/news/dr-sergi-abadal-receives-the-young-investigator-award">Young Investigator Award</a></strong>.
+- **Jun 2020**: I have been appointed as Associate Editor of **Frontiers in Communications and Networks**, General Chair at **NoCARC'20**, founding co-chair of **ACM NanoCoCoA @ ACM SenSys**. 
+- **May 2020**: New papers at **IEEE TCOM, IEEE Access, IEEE JETCAS**. 
+- **May 2020**: I will be co-editor of a special issue at <a href="https://www.mdpi.com/journal/electronics/special_issues/Nanonetworking_Communications">MDPI Electronics</a>.
+- **Oct 2019**: I will be coordinating the new H2020 FETOPEN project <a href="https://www.wiplash.eu">WIPLASH</a>.
+- **Sep 2019**: I have been awarded with the <strong>NanoComNet<a href="https://www.journals.elsevier.com/nano-communication-networks/news/dr-sergi-abadal-receives-the-young-investigator-award">Young Investigator Award</a></strong>.
 
 
 

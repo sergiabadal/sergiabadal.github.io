@@ -29,7 +29,7 @@ link_url: http://publons.com/author/1004804/sergi-abadal#profile
 - Lead Guest Editor, Special Issue: **[Programmable Metamaterials for Software-Defined Electromagnetic Control: Circuits, Systems, and Architectures](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=9032228&punumber=5503868)**, IEEE Journal on Emerging and Selected Topics in Circuits and Systems, 2020.
 - Lead Guest Editor, Special Issue: **[Chip-scale Nanonetworks: Recent Trends, Emerging Technologies, Disruptive Applications](https://www.sciencedirect.com/journal/nano-communication-networks/special-issue/10BK331LHTP)**, Nano Communication Networks (Elsevier) Journal, 2020.
 <!---
-- Guest Editor, Special Issue: "Nanonetworking Communications: Latest Advances and Prospects", MDPI Electronics, 2021.
+#- Guest Editor, Special Issue: "Nanonetworking Communications: Latest Advances and Prospects", MDPI Electronics, 2021.
 -->
 
 ### Chairmanships

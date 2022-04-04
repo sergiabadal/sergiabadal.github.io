@@ -20,7 +20,7 @@ We currently have four open positions (click on the link to know more details):
 The positions will remain open until suitable candidates have been hired. 
 Applications are regularly reviewed and potential candidates are contacted.
 
-<strong>Questions? <a href="mailto:&#97;&#98;&#97;&#100;&#97;&#108;&#64;&#97;&#99;&#46;&#117;&#112;&#99;&#46;&#101;&#100;&#117;">Contact me.</strong></a>
+<strong>Questions? <a href="mailto:&#97;&#98;&#97;&#100;&#97;&#108;&#64;&#97;&#99;&#46;&#117;&#112;&#99;&#46;&#101;&#100;&#117;">Contact me.</a></strong>
 
 <br/><br/>
 <img src="/img/join.PNG" width="100%"/>

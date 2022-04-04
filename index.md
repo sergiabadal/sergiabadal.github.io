@@ -28,6 +28,7 @@ Tel: (+34)934017423<br/>
 - **Mar 2022**: Sergi has been awarded with an **ERC Starting Grant**! The project is called WINC, <a href="https://www.winc-project.eu">check it out</a>
 - **Feb 2022**: Axel Wassington starts as a new PhD student. Welcome Axel!
 - **Sep 2021**: Fátima Rodríguez starts as a new PhD student. Welcome Fátima!
+- **Jul 2021**: Hamidreza defended his PhD thesis titled **[On scalable, reconfigurable, and intelligent metasurfaces](https://upcommons.upc.edu/handle/2117/351118)**. Hamidreza will join the University of Nottingham as a postdoc. Congratulations and all the best, Hamidreza!!
 - **Apr 2021**: A new project starts with **NEC Labs Europe**! It is called IGNNSPECTOR, <a href="/projects">check it out</a>
 - **Mar 2021**: New papers accepted or presented at **IEEE JSAC, NSDI, HPCA, ISCAS**.
 - **Feb 2021**: Sergi is named National Champion of the European Innovation Council (EIC).

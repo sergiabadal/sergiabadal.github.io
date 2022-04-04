@@ -103,6 +103,7 @@ link_url: http://publons.com/author/1004804/sergi-abadal#profile
 - Advanced Science (Wiley)
 - Scientific Reports (Nature)
 - IEEE Journal on Selected Areas in Communications
+- IEEE Communications Magazine
 - IEEE Vehicular Technology Magazine
 - IEEE Internet of Things Journal
 - IEEE Transactions on Fuzzy Systems

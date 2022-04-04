@@ -25,7 +25,7 @@ Tel: (+34)934017423<br/>
 
 ### News
 - **Apr 2022**: New website! Thanks to [Antonio Franques](https://afranques.com/) for the support.
-- **Mar 2022**: Sergi has been awarded with an **ERC Starting Grant**! The project is called WINC, <a href="https://www.winc-project.eu">check it out</a>
+- **Mar 2022**: Sergi has been awarded with an **ERC Starting Grant**! The project is called WINC, <a href="https://www.winc-project.eu">check it out.</a>
 - **Feb 2022**: Axel Wassington starts as a new PhD student. Welcome Axel!
 - **Sep 2021**: Fátima Rodríguez starts as a new PhD student. Welcome Fátima!
 - **Jul 2021**: Hamidreza defended his PhD thesis titled **[On scalable, reconfigurable, and intelligent metasurfaces](https://upcommons.upc.edu/handle/2117/351118)**. Hamidreza will join the University of Nottingham as a postdoc. Congratulations and all the best, Hamidreza!!

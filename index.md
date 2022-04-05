@@ -23,6 +23,12 @@ Tel: (+34)934017423<br/>
 
 ---
 
+### We are hiring!
+
+Check out the details [here](/recruitment).
+
+---
+
 ### News
 - **Apr 2022**: New website! Thanks to [Antonio Franques](https://afranques.com/) for the support.
 - **Mar 2022**: Sergi has been awarded with an **ERC Starting Grant**! The project is called WINC, <a href="https://www.winc-project.eu">check it out.</a>

@@ -1,6 +1,9 @@
 ---
 layout: page
-title: Team Members
+title: Team
+subtitle: If you would like to be part of the team,  
+link_name: check this
+link_url: /recruitment
 ---
 
 {% if page.subtitle == "" %}

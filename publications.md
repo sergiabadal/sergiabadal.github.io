@@ -86,7 +86,7 @@ S. Rodrigo, S. Abadal, E. Alarcón, C. Almudéver, <strong>"Exploring a Double F
 ### <a name="journal"></a> Journal Papers
 [J35] H. Taghvaee, A. Pitilakis, O. Tsilipakos, A. C. Tasolamprou, N. V. Kantartzis, M. Kafesaki, A. Cabellos-Aparicio, E. Alarcón, and S. Abadal, <strong>"Multi-Wideband Terahertz Communications via Tunable Graphene-based Metasurfaces in 6G Networks,"</strong> IEEE Vehicular Technology Magazine, 2022. <a href="https://arxiv.org/pdf/2203.10298.pdf"><strong>[PDF]</strong></a>
 
-[J34] A. Ganguly, S. Abadal, I. Thakkar, N. Enright Jerger, M. Riedel, M. Babaie, R. Balasubramonian, A. Sebastian, S. Pasricha, and B. Taskin, <strong>"Interconnects for DNA, Quantum, In-Memory and Optical Computing: Insights from a Panel Discussion,"</strong> IEEE Micro, 2022. <a href="./pdf/IEEE_Micro_Mag_NoCArc2020_Panel.pdf"><strong>[PDF]</strong></a>
+[J34] A. Ganguly, S. Abadal, I. Thakkar, N. Enright Jerger, M. Riedel, M. Babaie, R. Balasubramonian, A. Sebastian, S. Pasricha, and B. Taskin, <strong>"Interconnects for DNA, Quantum, In-Memory and Optical Computing: Insights from a Panel Discussion,"</strong> IEEE Micro, 2022. <a href="https://personals.ac.upc.edu/abadal/pdf/IEEE_Micro_Mag_NoCArc2020_Panel.pdf"><strong>[PDF]</strong></a>
 
 [J33] T. Saeed, S. Abadal, C. Liaskos, A. Pitsillides, H. Taghvaee, A. Cabellos-Aparicio, V. Soteriou, E. Alarcon, I. F. Akyildiz, 
 M. Lestas, <strong>"Workload Characterization and Traffic Analysis for Reconfigurable Intelligent Surfaces within 6G Wireless Systems,"</strong> IEEE Transactions on Mobile Computing, 2021.
@@ -96,7 +96,7 @@ M. Lestas, <strong>"Workload Characterization and Traffic Analysis for Reconfigu
 [J31] F. Lemic, S. Abadal, W. Tavernier, P. Stroobant, D. Colle, E. Alarcón, J. Marquez-Barja, J. Famaey, <strong>"Survey on Terahertz Nanocommunication and Networking: A Top-Down Perspective,"</strong>  IEEE Journal on Selected Areas in Communications, vol. 36, no. 9, pp. 1506-1543, 2021. <strong><a href="https://arxiv.org/pdf/1909.05703.pdf">[PDF]</a></strong> <strong><a href="https://www.youtube.com/watch?v=j_WOGmeEmoU">[VIDEO]</a></strong> 
  
 [J30] K. Rouhi, S. E. Hosseininejad, S. Abadal, M. Khalily, R. Tafazolli, <strong>"Multi-Channel Near-Field Terahertz Communications Using
-Reprogrammable Graphene-Based Digital Metasurface,"</strong> IEEE/OSA Journal of Lightwave Technology, vol. 39, no. 21, pp. 6893-6907, 2021. <strong><a href="./pdf/JLT-28104-2021.R2.pdf">[PDF]</a></strong>
+Reprogrammable Graphene-Based Digital Metasurface,"</strong> IEEE/OSA Journal of Lightwave Technology, vol. 39, no. 21, pp. 6893-6907, 2021. <strong><a href="https://personals.ac.upc.edu/abadal/pdf/JLT-28104-2021.R2.pdf">[PDF]</a></strong>
  
 [J29] F. Lemic, S. Abadal, C. Han, J. Marquez-Barja, E. Alarcón, J. Famaey, <strong>"Localization in Power-Constrained Terahertz-Operating Software-Defined Metamaterials,"</strong> Nano Communication Networks (Elsevier), 2021. <strong><a href="https://arxiv.org/pdf/2011.02335.pdf">[PDF]</a></strong>
  
@@ -187,11 +187,11 @@ Wireless Network-on-Chip Architecture,”</strong> in IEEE Transactions on Paral
     
 [C42] A. Franques, S. Abadal, H. Hassanieh, J. Torrellas, <strong>“Fuzzy-Token: An Adaptive MAC Protocol for Wireless-Enabled Manycores,”</strong> in Proceedings of the DATE 2021, Grenoble, France, February 2021. <strong><a href="https://afranques.com/docs/Fuzzy_Token_DATE_2021.pdf">[PDF]</a></strong>
     
-[C41] R. Guirado, H. Kwon, S. Abadal, E. Alarcón, T. Krishna, <strong>“Dataflow-Architecture Co-Design for 2.5D DNN Accelerators using Wireless Network-on-Package,”</strong> in Proceedings of the ASP-DAC '21, Tokyo, Japan, January 2021. <strong><a href="https://arxiv.org/pdf/2011.14755.pdf">[PDF]</a></strong> <strong></strong><a href="./pdf/Guirado_ASPDAC.pdf">[SLIDES]</a></strong> <strong><a href="https://youtu.be/g7J6iWcKFvA">[VIDEO]</a></strong> 
+[C41] R. Guirado, H. Kwon, S. Abadal, E. Alarcón, T. Krishna, <strong>“Dataflow-Architecture Co-Design for 2.5D DNN Accelerators using Wireless Network-on-Package,”</strong> in Proceedings of the ASP-DAC '21, Tokyo, Japan, January 2021. <strong><a href="https://arxiv.org/pdf/2011.14755.pdf">[PDF]</a></strong> <strong></strong><a href="https://personals.ac.upc.edu/abadal/pdf/Guirado_ASPDAC.pdf">[SLIDES]</a></strong> <strong><a href="https://youtu.be/g7J6iWcKFvA">[VIDEO]</a></strong> 
     
-[C40] M. Imani, S. Abadal, P. Del Hougne, <strong>“Toward Dynamically Adapting Wireless Intra-Chip Channels to Traffic Needs with a Programmable Metasurface,”</strong> in Proceedings of the ACM NanoCoCoA '20, Yokohama, Japan, November 2020. <strong><a href="./pdf/Nanococoa20.pdf">[PDF]</a></strong> 
+[C40] M. Imani, S. Abadal, P. Del Hougne, <strong>“Toward Dynamically Adapting Wireless Intra-Chip Channels to Traffic Needs with a Programmable Metasurface,”</strong> in Proceedings of the ACM NanoCoCoA '20, Yokohama, Japan, November 2020. <strong><a href="https://personals.ac.upc.edu/abadal/pdf/Nanococoa20.pdf">[PDF]</a></strong> 
     
-[C39] S. Rodrigo, S. Abadal, E. Alarcón, C. G. Almudéver, <strong>“Will Quantum Computers Scale Without Inter-Chip Comms? A Structured Design Exploration to the Monolithic vs Distributed Architectures Quest,”</strong> in Proceedings of the DCIS ’20, Segovia, Spain, November 2020. <strong><a href="./pdf/DCIS2020.pdf">[PDF]</a></strong> <strong><a href="https://youtu.be/ltyOaMQ22UI">[VIDEO]</a></strong> 
+[C39] S. Rodrigo, S. Abadal, E. Alarcón, C. G. Almudéver, <strong>“Will Quantum Computers Scale Without Inter-Chip Comms? A Structured Design Exploration to the Monolithic vs Distributed Architectures Quest,”</strong> in Proceedings of the DCIS ’20, Segovia, Spain, November 2020. <strong><a href="https://personals.ac.upc.edu/abadal/pdf/DCIS2020.pdf">[PDF]</a></strong> <strong><a href="https://youtu.be/ltyOaMQ22UI">[VIDEO]</a></strong> 
     
 [C38] F. Lemic, S. Abadal, J. Famaey, <strong>"Toward Localization in Terahertz-Operating Energy Harvesting Software-Defined Metamaterials: Context Analysis"</strong> in Proceedings of the ACM NANOCOM '20, September 2020. <strong><a href="https://arxiv.org/pdf/2012.12730.pdf">[PDF]</a></strong>
     
@@ -255,7 +255,7 @@ Communications within Computing Packages,”</strong> in Proceedings of the ACM/
        
 [C9] S. Abadal, A. Mestres, R. Martínez, E. Alarcón, and A. Cabellos-Aparicio, &quot;<strong>Multicast On-Chip Traffic Analysis Targeting Manycore NoC Design,&quot;</strong> in Proceedings of the Euromicro PDP '15, pp. 370-378, March 2015. <strong><a href="http://www.n3cat.upc.edu/papers/Multicast_On-Chip_Traffic_Analysis_Targeting_Manycore_NoC_Design.pdf">[PDF]</a></strong>
 			    
-[C8] S. Abadal, A. Mestres, M. Iannazzo, J. Solé-Pareta, E. Alarcón, and A. Cabellos-Aparicio, <strong>&quot;Evaluating the Feasibility of Wireless Networks-on-Chip Enabled by Graphene,&quot;</strong> in Proceedings of the ACM/IEEE NoCArC '14 (MICRO-47 Workshops), pp. 51-56, December 2014. <strong><a href="./pdf/feasibilityGWNoC.pdf">[PDF]</a></strong>
+[C8] S. Abadal, A. Mestres, M. Iannazzo, J. Solé-Pareta, E. Alarcón, and A. Cabellos-Aparicio, <strong>&quot;Evaluating the Feasibility of Wireless Networks-on-Chip Enabled by Graphene,&quot;</strong> in Proceedings of the ACM/IEEE NoCArC '14 (MICRO-47 Workshops), pp. 51-56, December 2014. <strong><a href="https://personals.ac.upc.edu/abadal/pdf/feasibilityGWNoC.pdf">[PDF]</a></strong>
 			    
 [C7] G. Piro, S. Abadal, A. Mestres, E. Alarcón, J. Solé-Pareta, L. A. Grieco, G. Boggia,<strong>“Initial MAC Exploration for Graphene-enabled Wireless Networks-on-Chip,”</strong> in Proceedings of the ACM NANOCOM '14, May 2014
 	    
@@ -298,7 +298,7 @@ Communications within Computing Packages,”</strong> in Proceedings of the ACM/
 		
 [P6] H. Taghvaee, S. Abadal, A. Cabellos-Aparicio, E. Alarcón, <strong>“On the use of Genetic Algorithm to Design and Optimize Graphene-based Absorbers”</strong>, in Proceedings of the NANOP, Rome, Italy, October 2018. 
 	           
-[P5] X. Timoneda, S. Abadal, A. Cabellos-Aparicio, E. Alarcón, <strong>“Modeling the EM Field Distribution within a Computer Chip Package”</strong>, in Proceedings of the WCNC, Barcelona, Spain, April 2018. <strong><a href="./pdf/WCNC_2018_EM_Field_Package.pdf">[PDF]</a></strong>
+[P5] X. Timoneda, S. Abadal, A. Cabellos-Aparicio, E. Alarcón, <strong>“Modeling the EM Field Distribution within a Computer Chip Package”</strong>, in Proceedings of the WCNC, Barcelona, Spain, April 2018. <strong><a href="https://personals.ac.upc.edu/abadal/pdf/WCNC_2018_EM_Field_Package.pdf">[PDF]</a></strong>
 	    
 [P4] S. Abadal, R. Martínez, E. Alarcón and A. Cabellos-Aparicio <strong>“Scalability-Oriented Multicast Traffic Characterization,”</strong> in Proceedings of the NoCS '14, pp. 180-181, September 2014. <strong><a href="http://www.n3cat.upc.edu/papers/Scalability-Oriented_Multicast_Traffic_Characterization.pdf">[PDF]</a></strong>
 	    

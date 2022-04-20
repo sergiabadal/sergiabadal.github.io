@@ -14,6 +14,9 @@ title: Projects
 - **Project Type:** ERC Starting Grant
 - **Funding:** 1.5 M€
 - **Duration:** 2022-2027
+- **Media coverage:**
+     - [ENG] [UPC News](https://www.upc.edu/en/press-room/news/starting-grant-for-upc-researcher-sergi-abadal-to-develop-a-new-generation-of-faster-and-more-efficient-processors-with-wireless-communication-systems-and-quantum-computing)
+     - [CAT] [Espai Mèdia](https://espai.media/politiques-digitals-i-id/sergi-abadal-de-la-upc-destinara-lajut-starting-grant-al-projecte-winc/)
 
 <p align="center"><img src="/img/ERC-2021-StG-WINC.jpg" width="80%"/></p>
 
@@ -30,6 +33,9 @@ In this context, the WINC project envisions a revolution in computer architectur
 - **Project Type:** H2020 FET-OPEN
 - **Funding:** 2.9 M€
 - **Duration:** 2019-2023
+- **Media coverage:**
+     - [ENG] [UPC News](https://barcelonatech-upc.eu/en/press-room/news/the-upc-leads-a-project-to-develop-faster-lower-power-processors-for-artificial-intelligence)
+     - [ESP] [Computing.es](https://www.computing.es/movilidad/noticias/1121206046501/upc-investiga-desarrollar-procesadores-ia-mas-sostenibles.1.html)
 
 <p align="center">
 <iframe width="80%" height="315" src="https://www.youtube.com/embed/_78MthY30nM" frameborder="0" allowfullscreen></iframe>

@@ -84,6 +84,8 @@ S. Rodrigo, S. Abadal, E. Alarcón, C. Almudéver, <strong>"Exploring a Double F
 
 <br/><br/>
 ### <a name="journal"></a> Journal Papers
+[J36] M. Imani, S. Abadal, P. Del Hougne, "Metasurface-Programmable Wireless Network-on-Chip", Advanced Science, 2022.
+
 [J35] H. Taghvaee, A. Pitilakis, O. Tsilipakos, A. C. Tasolamprou, N. V. Kantartzis, M. Kafesaki, A. Cabellos-Aparicio, E. Alarcón, and S. Abadal, <strong>"Multi-Wideband Terahertz Communications via Tunable Graphene-based Metasurfaces in 6G Networks,"</strong> IEEE Vehicular Technology Magazine, 2022. <a href="https://arxiv.org/pdf/2203.10298.pdf"><strong>[PDF]</strong></a>
 
 [J34] A. Ganguly, S. Abadal, I. Thakkar, N. Enright Jerger, M. Riedel, M. Babaie, R. Balasubramonian, A. Sebastian, S. Pasricha, and B. Taskin, <strong>"Interconnects for DNA, Quantum, In-Memory and Optical Computing: Insights from a Panel Discussion,"</strong> IEEE Micro, 2022. <a href="https://personals.ac.upc.edu/abadal/pdf/IEEE_Micro_Mag_NoCArc2020_Panel.pdf"><strong>[PDF]</strong></a>

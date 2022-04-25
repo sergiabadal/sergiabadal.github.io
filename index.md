@@ -30,6 +30,7 @@ Check out the details [here](/recruitment).
 ---
 
 ### News
+- **Apr 2022**: New paper on metasurface-programmable wireless networks-on-chip accepted at **Advanced Science**.
 - **Apr 2022**: New website! Thanks to [Antonio Franques](https://afranques.com/) for the support.
 - **Mar 2022**: Sergi has been awarded with an **ERC Starting Grant**! The project is called WINC, <a href="https://www.winc-project.eu">check it out.</a>
 - **Mar 2022**: New paper on [graphene metasurfaces for 6G](https://arxiv.org/pdf/2203.10298.pdf) accepted at **IEEE Vehicular Technology Magazine**.

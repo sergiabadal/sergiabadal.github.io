@@ -15,7 +15,7 @@ title: Projects
 - **Funding:** 1.5 M€
 - **Duration:** 2022-2027
 - **Media coverage:**
-     - [ENG] [UPC News](https://www.upc.edu/en/press-room/news/starting-grant-for-upc-researcher-sergi-abadal-to-develop-a-new-generation-of-faster-and-more-efficient-processors-with-wireless-communication-systems-and-quantum-computing)
+     - [ENG] [Spain Arts & Culture](https://spainculturescience.co.uk/winc-sergi-abadal/) \| [UPC News](https://www.upc.edu/en/press-room/news/starting-grant-for-upc-researcher-sergi-abadal-to-develop-a-new-generation-of-faster-and-more-efficient-processors-with-wireless-communication-systems-and-quantum-computing) 
      - [CAT] [Espai Mèdia](https://espai.media/politiques-digitals-i-id/sergi-abadal-de-la-upc-destinara-lajut-starting-grant-al-projecte-winc/)
 
 <p align="center"><img src="/img/ERC-2021-StG-WINC.jpg" width="80%"/></p>

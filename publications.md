@@ -165,6 +165,8 @@ Wireless Network-on-Chip Architecture,”</strong> in IEEE Transactions on Paral
 <br/><br/>
 ### <a name="conference"></a> Conference Papers
 
+[C54] R. Guirado, A. Rahimi, G. Karunaratne, E. Alarcón, A. Sebastian, and S. Abadal, <strong>"Wireless On-Chip Communications for Scalable In-memory Hyperdimensional Computing,"</strong> Proceedings of the IJCNN/WCCI 2022, Padova, Italy, July 2022.
+
 [C53] N. Bruschi, G. Tagliavini, F. Conti, S. Abadal, A. Cabellos-Aparicio, E. Alarcón, G. Karunaratne, I. Boybat, L. Benini, and D. Rossi <strong>"Scale up your In-Memory Accelerator: Leveraging Wireless-on-Chip Communication for AIMC-based CNN Inference," </strong> Proceedings of the AICAS 2022, Incheon, Korea, June 2022.
  
 [C52] K. Ntontin, A.-A. A. Boulogeorgos, E. Björnson, D. Selimis, W. A. Martins, S. Abadal, A. Alexiou, F. Lazarakis, S. Kisseleff, S. Chatziontas,  <strong>"Autonomous Reconfigurable Intelligent Surfaces Through Wireless Energy Harvesting," </strong> Proceedings of the VTC2022-Spring, Helsinki, Finland, June 2022.

@@ -34,6 +34,7 @@ link_url: http://publons.com/author/1004804/sergi-abadal#profile
 
 ### Chairmanships
 
+- General Chair of the **Sixth IEEE Workshop on Terahertz Communications**, at the IEEE Global Communications Conference, Rio de Janeiro, Brazil, December 2022.
 - General Chair of the **16th IEEE/ACM International Symposium on Networks-on-Chip (NOCS 2022)**, Shanghai, China, October 2022.
 - Vice-General Chair of the **9th ACM International Conference on Nanoscale Computing and Communication (ACM NANOCOM)**, Barcelona, Spain, September 2022.
 - Program Chair of the **Fifth IEEE Workshop on Terahertz Communications**, at the IEEE International Conference on Communications, Seoul, South Korea, May 2022.

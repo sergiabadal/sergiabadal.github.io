@@ -283,6 +283,9 @@ Communications within Computing Packages,”</strong> in Proceedings of the ACM/
 
 <br/><br/>
 ### <a name="poster"></a> Posters and Abstracts
+[P15] S. Abadal, <strong>"Graphene-based Wireless Interconnects for Next-Generation Computing Systems",</strong> Graphene Conference 2022, Aachen Germany, July 2022.
+ <strong><a href="https://phantomsfoundation.com/GRAPHENECONF/2022/Abstracts/Grapheneconf2022_Abadal.pdf">[PDF]</a></strong>
+
 [P14] M. Imani, S. Abadal, P. Del Hougne, <strong>"Engineering Multiple Scattering in On-chip Wireless Communication Networks"</strong>, 2022 IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting (AP-S/URSI), Denver, USA, July 2022.
 
 [P13] S. Rodrigo, S. Abadal, M. Bandiç, H. van Someren, S. Feld, C. G. Almudéver, E. Alarcón, <strong>"Quantum Intranets for Scalable Multi-Core Quantum Computing,"</strong> International Conference on Science and Technology of Quantum Matter (QuantumMatter 2022), Barcelona, Spain, June 2022.

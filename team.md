@@ -65,7 +65,8 @@ link_url: /recruitment
 
 ### Visiting Scholars
 
-- Filip Lemic (Postdoc / MSCA Fellow, University of Antwerpen, several times in 2021)
+- Mounir Arioua (Professor, Abdelmalek Essaâdi University, Morocco; May 2022)
+- Filip Lemic (Postdoc / MSCA Fellow, University of Antwerpen, Belgium; 2021 and 2022)
 - Taqua Saeed (PhD candidate, Frederick University, Cyprus; February 2019)
 - Seyed Ehsan Hosseininejad (PostDoc, University of Tehran, Iran; April 2018)
 - Pieter Stroobant (PhD candidate, University of Ghent, Belgium; May 2017)

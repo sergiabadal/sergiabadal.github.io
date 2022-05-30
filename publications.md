@@ -46,6 +46,8 @@ S. Abadal, I. Llatser, A. Mestres, H. Lee, E. Alarcón and A. Cabellos-Aparicio,
 <br/><br/>
 ### <a name="pre"></a> Pre-prints
 
+A. Wassington, S. Abadal, <strong>"Bias Reduction via Cooperative Bargaining in Synthetic Graph Dataset Generation",</strong> arXiv:2205.13901, 2022. <strong><a href="https://arxiv.org/pdf/2205.13901.pdf">[PDF]</a></strong>
+
 K. Ntontin, A.-A. A. Boulogeorgos, E. BJörnson, D. Selimis, W. A. Martins, S. Kisseleff, S. Abadal, E. Alarcón, A. Papazafeiropoulos, F. Lazarakis,  A. Alexiou, S. Chatzinotas, <strong>"Toward Autonomous Reconfigurable Intelligent Surfaces Through Wireless Energy Harvesting",</strong> arXiv:2108.07953, 2021. <strong><a href="https://arxiv.org/pdf/2108.07953.pdf">[PDF]</a></strong>
 
 H. Taghvaee, A. Jain, S. Abadal, E. Alarcón, A. Cabellos-Aparicio, <strong>"On the Enabling of Multi-user Communications with Reconfigurable Intelligent Surfaces",</strong> 2021. <strong><a href="https://arxiv.org/pdf/2106.06789.pdf">[PDF]</a></strong>

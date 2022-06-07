@@ -287,7 +287,9 @@ Communications within Computing Packages,”</strong> in Proceedings of the ACM/
 <br/><br/>
 ### <a name="poster"></a> Posters and Abstracts
 
-[P16] E. Pereira de Santana, A. K. Wigger, Z. Wang, K.-T. Wang, S. Abadal, M. Lemme, P. Haring Bolívar, <strong>"Integrated Graphene Patch Antenna For Communications At THz Frequencies,"</strong> 2022 47th International Conference on Infrared, Millimeter and Terahertz Waves (IRMMW-THz), Delft, The Netherlands, September 2022.
+[P17] E. Pereira de Santana, A. K. Wigger, Z. Wang, K.-T. Wang, S. Abadal, M. Lemme, P. Haring Bolívar, <strong>"Integrated Graphene Patch Antenna For Communications At THz Frequencies,"</strong> 2022 47th International Conference on Infrared, Millimeter and Terahertz Waves (IRMMW-THz), Delft, The Netherlands, September 2022.
+
+[P16] F. Rodríguez-Galán, E. Alarcón and S. Abadal, <strong>"The WiPLASH project: A Tale of Technical and Gender Actions,"</strong> 9th ACM Celebration of Women in Computing (womENcourage 2022), Larnaka, Cyprus, September 2022.
 
 [P15] S. Abadal, <strong>"Graphene-based Wireless Interconnects for Next-Generation Computing Systems",</strong> Graphene Conference 2022, Aachen Germany, July 2022.
  <strong><a href="https://phantomsfoundation.com/GRAPHENECONF/2022/Abstracts/Grapheneconf2022_Abadal.pdf">[PDF]</a></strong>

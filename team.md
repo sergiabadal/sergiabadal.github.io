@@ -43,6 +43,8 @@ link_url: /recruitment
 - Carlos Gascón (MSc, Fall '21)
 - Emilie Pietersoone (BSc, Fall '21 from INSA Lyon)
 - [Robert Guirado](https://gea.ssr.upm.es/equipo/robert-guirado/) (MSc, Spring '21 @ IBM Research Zurich)
+  - IN-NOVA Award to the best master thesis 
+  - IBM Award to the best academic record 
 - Cristina Tubert (BSc, Spring '21)
 - Carlos Gascón (BSc, Spring '21)
 - Pau Serra Jensen (BSc, Spring '21)

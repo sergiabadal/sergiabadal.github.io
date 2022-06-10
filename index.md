@@ -30,6 +30,7 @@ Check out the details [here](/recruitment).
 ---
 
 ### News
+- **Jun 2022**: Our alumni **Robert Guirado** won the IN-NOVA Award to the best master thesis and the IBM Award to the best academic record for his work on [wireless over-the-air computation in on-chip scanrios](https://arxiv.org/pdf/2205.10889.pdf) accepted at **IJCNN/WCCI 2022**. These awards are given by the COIT (Spanish Association of Telecommunication Engineers) and recognize the best works in Spain.
 - **Apr 2022**: New paper on metasurface-programmable wireless networks-on-chip accepted at **Advanced Science**.
 - **Apr 2022**: New website! Thanks to [Antonio Franques](https://afranques.com/) for the support.
 - **Mar 2022**: Sergi has been awarded with an **ERC Starting Grant**! The project is called WINC, <a href="https://www.winc-project.eu">check it out.</a>

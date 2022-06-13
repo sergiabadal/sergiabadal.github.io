@@ -170,7 +170,7 @@ Wireless Network-on-Chip Architecture,”</strong> in IEEE Transactions on Paral
 
 [C54] A. Wassington and S. Abadal <strong>"ProGNNosis: A Data-driven Model to Predict GNN Computation Time Using Graph Metrics," </strong> Proceedings of the AccML Workshop (HiPEAC) 2022, Budapest, Hungary, June 2022.
  
-[C53] N. Bruschi, G. Tagliavini, F. Conti, S. Abadal, A. Cabellos-Aparicio, E. Alarcón, G. Karunaratne, I. Boybat, L. Benini, and D. Rossi <strong>"Scale up your In-Memory Accelerator: Leveraging Wireless-on-Chip Communication for AIMC-based CNN Inference," </strong> Proceedings of the AICAS 2022, Incheon, Korea, June 2022.
+[C53] N. Bruschi, G. Tagliavini, F. Conti, S. Abadal, A. Cabellos-Aparicio, E. Alarcón, G. Karunaratne, I. Boybat, L. Benini, and D. Rossi <strong>"Scale up your In-Memory Accelerator: Leveraging Wireless-on-Chip Communication for AIMC-based CNN Inference," </strong> Proceedings of the AICAS 2022, Incheon, Korea, June 2022.  <strong><a href="https://arxiv.org/pdf/2206.04796.pdf">[PDF]</a></strong> 
 
 [C52] K. Ntontin, A.-A. A. Boulogeorgos, E. Björnson, D. Selimis, W. A. Martins, S. Abadal, A. Alexiou, F. Lazarakis, S. Kisseleff, S. Chatziontas,  <strong>"Autonomous Reconfigurable Intelligent Surfaces Through Wireless Energy Harvesting," </strong> Proceedings of the VTC2022-Spring, Helsinki, Finland, June 2022.
 
@@ -194,7 +194,7 @@ Wireless Network-on-Chip Architecture,”</strong> in IEEE Transactions on Paral
     
 [C42] A. Franques, S. Abadal, H. Hassanieh, J. Torrellas, <strong>“Fuzzy-Token: An Adaptive MAC Protocol for Wireless-Enabled Manycores,”</strong> in Proceedings of the DATE 2021, Grenoble, France, February 2021. <strong><a href="https://afranques.com/docs/Fuzzy_Token_DATE_2021.pdf">[PDF]</a></strong>
     
-[C41] R. Guirado, H. Kwon, S. Abadal, E. Alarcón, T. Krishna, <strong>“Dataflow-Architecture Co-Design for 2.5D DNN Accelerators using Wireless Network-on-Package,”</strong> in Proceedings of the ASP-DAC '21, Tokyo, Japan, January 2021. <strong><a href="https://arxiv.org/pdf/2011.14755.pdf">[PDF]</a></strong> <strong></strong><a href="https://personals.ac.upc.edu/abadal/pdf/Guirado_ASPDAC.pdf">[SLIDES]</a></strong> <strong><a href="https://youtu.be/g7J6iWcKFvA">[VIDEO]</a></strong> 
+[C41] R. Guirado, H. Kwon, S. Abadal, E. Alarcón, T. Krishna, <strong>“Dataflow-Architecture Co-Design for 2.5D DNN Accelerators using Wireless Network-on-Package,”</strong> in Proceedings of the ASP-DAC '21, Tokyo, Japan, January 2021. <strong><a href="https://arxiv.org/pdf/2011.14755.pdf">[PDF]</a></strong> <strong><a href="https://personals.ac.upc.edu/abadal/pdf/Guirado_ASPDAC.pdf">[SLIDES]</a></strong> <strong><a href="https://youtu.be/g7J6iWcKFvA">[VIDEO]</a></strong> 
     
 [C40] M. Imani, S. Abadal, P. Del Hougne, <strong>“Toward Dynamically Adapting Wireless Intra-Chip Channels to Traffic Needs with a Programmable Metasurface,”</strong> in Proceedings of the ACM NanoCoCoA '20, Yokohama, Japan, November 2020. <strong><a href="https://personals.ac.upc.edu/abadal/pdf/Nanococoa20.pdf">[PDF]</a></strong> 
     

@@ -168,7 +168,7 @@ Wireless Network-on-Chip Architecture,”</strong> in IEEE Transactions on Paral
 
 [C55] R. Guirado, A. Rahimi, G. Karunaratne, E. Alarcón, A. Sebastian, and S. Abadal, <strong>"Wireless On-Chip Communications for Scalable In-memory Hyperdimensional Computing,"</strong> Proceedings of the IJCNN/WCCI 2022, Padova, Italy, July 2022. <strong><a href="https://arxiv.org/pdf/2205.10889.pdf">[PDF]</a></strong>
 
-[C54] A. Wassington and S. Abadal <strong>"ProGNNosis: A Data-driven Model to Predict GNN Computation Time Using Graph Metrics," </strong> Proceedings of the AccML Workshop (HiPEAC) 2022, Budapest, Hungary, June 2022.
+[C54] A. Wassington and S. Abadal <strong>"ProGNNosis: A Data-driven Model to Predict GNN Computation Time Using Graph Metrics," </strong> Proceedings of the AccML Workshop (HiPEAC) 2022, Budapest, Hungary, June 2022. <strong><a href="https://arxiv.org/pdf/2206.08258.pdf">[PDF]</a></strong> 
  
 [C53] N. Bruschi, G. Tagliavini, F. Conti, S. Abadal, A. Cabellos-Aparicio, E. Alarcón, G. Karunaratne, I. Boybat, L. Benini, and D. Rossi <strong>"Scale up your In-Memory Accelerator: Leveraging Wireless-on-Chip Communication for AIMC-based CNN Inference," </strong> Proceedings of the AICAS 2022, Incheon, Korea, June 2022.  <strong><a href="https://arxiv.org/pdf/2206.04796.pdf">[PDF]</a></strong> 
 

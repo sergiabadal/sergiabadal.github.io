@@ -85,7 +85,7 @@ S. Rodrigo, S. Abadal, E. Alarcón, C. Almudéver, <strong>"Exploring a Double F
 
 <br/><br/>
 ### <a name="journal"></a> Journal Papers
-[J36] M. Imani, S. Abadal, P. Del Hougne, <strong>"Metasurface-Programmable Wireless Network-on-Chip"</strong>, Advanced Science, 2022. <a href="https://arxiv.org/pdf/2109.03284.pdf"><strong>[PDF]</strong></a>
+[J36] M. Imani, S. Abadal, P. Del Hougne, <strong>"Metasurface-Programmable Wireless Network-on-Chip"</strong>, Advanced Science, 2022. <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/advs.202201458"><strong>[PDF]</strong></a>
 
 [J35] H. Taghvaee, A. Pitilakis, O. Tsilipakos, A. C. Tasolamprou, N. V. Kantartzis, M. Kafesaki, A. Cabellos-Aparicio, E. Alarcón, and S. Abadal, <strong>"Multi-Wideband Terahertz Communications via Tunable Graphene-based Metasurfaces in 6G Networks,"</strong> IEEE Vehicular Technology Magazine, 2022. <a href="https://arxiv.org/pdf/2203.10298.pdf"><strong>[PDF]</strong></a>
 
@@ -165,6 +165,8 @@ Wireless Network-on-Chip Architecture,”</strong> in IEEE Transactions on Paral
 
 <br/><br/>
 ### <a name="conference"></a> Conference Papers
+
+[C56] H. Taghvaee, A. Pitilakis, O. Tsilipakos, A. C. Tasolamprou, N. V. Kantartzis, M. Kafesaki, A. Cabellos-Aparicio, E. Alarcón, S. Abadal, and G. Gradoni, <strong>"Tunable Graphene-based Metasurfaces for Multi-Wideband 6G Communications",</strong> Proceedings of the Metamaterials Conference 2022, Siena, Italy, September 2022.
 
 [C55] R. Guirado, A. Rahimi, G. Karunaratne, E. Alarcón, A. Sebastian, and S. Abadal, <strong>"Wireless On-Chip Communications for Scalable In-memory Hyperdimensional Computing,"</strong> Proceedings of the IJCNN/WCCI 2022, Padova, Italy, July 2022. <strong><a href="https://arxiv.org/pdf/2205.10889.pdf">[PDF]</a></strong>
 

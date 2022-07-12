@@ -65,7 +65,7 @@ link_url: http://publons.com/author/1004804/sergi-abadal#profile
 ### TPC Memberships
 
 - ACM 29th Annual International Conference On Mobile Computing And Networking (MobiCom), 2023.
-- IEEE International Conference on Communications (ICC), Molecular, Biological and Multi-Scale Communications Track, 2022.
+- IEEE International Conference on Communications (ICC), Molecular, Biological and Multi-Scale Communications Track, 2022, 2023.
 - IEEE Vehicular Technology Conference (VTC-Spring), 2019, 2020, 2021.
 - IEEE Vehicular Technology Conference (VTC-Fall), 2018, 2019, 2020, 2021.
 - IEEE Global Communications Conference (GLOBECOM), Molecular, Biological and Multi-Scale Communications Track, 2019, 2020, 2021, 2022.

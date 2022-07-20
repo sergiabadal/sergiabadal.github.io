@@ -27,7 +27,8 @@ subtitle:
 
 ### Invited Lectures
 
-- **Graphene-based Wireless Nanocommunications: from Networks-on-chips to Reconfigurable Metasurfaces**, at the Future Internet Networks course, Facultat d'Informàtica de Barcelona (FIB), Universitat Politècnica de Catalunya (UPC), December 2018, December 2019, December 2020
+- **Graphene-based Wireless Interconnects for Next-Generation Computing Systems,** at the GreEnergy Summer School, Ancona, Italy, July 2022. [https://youtu.be/ImMWk_nXMD0]([VIDEO])
+- **Graphene-based Wireless Nanocommunications: from Networks-on-chips to Reconfigurable Metasurfaces**, at the Future Internet Networks course, Facultat d'Informàtica de Barcelona (FIB), Universitat Politècnica de Catalunya (UPC), December 2018, December 2019, December 2020.
 - **IoT scaled to the limit: Nanotechnologies applied to Energy Harvesting and Wireless Communications**, at the International School on Data Science and IoT, University of Catania, September 2019.
 - **Software-defined and software-driven metasurface paradigm”, at the summer school course: Tunable and Software-Driven Functional Metasurfaces**, Aalto University, June 2018
 - **Wireless Communications and Networks enabled by Nanotechnology**, at the Future Internet Networks course, Facultat d'Informàtica de Barcelona (FIB), Universitat Politècnica de Catalunya (UPC), January 2018

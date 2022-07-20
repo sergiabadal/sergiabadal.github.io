@@ -56,7 +56,9 @@ The culminating goal is to demonstrate that the wireless plane offers the plasti
 - **Project Type:** NEC Labs Europe - Student Research Fellowship
 - **Funding:** 75 K€
 - **Duration:** 2021-2022
-
+- **Media coverage:**
+     - [ENG] [NEC Laboratories Europe](https://www.neclab.eu/blog/nec-student-research-fellowship-interview-with-dr-sergi-abadal)
+     
 Graph Neural Networks (GNNs) are gaining momentum due to their ability to model and learn from graph-structured data, with profound implications in areas like computer networks, natural language processing, quantum chemistry, or bioscience. However, computing GNNs efficiently is an open problem due to their unique characteristics, i.e. alternating dense and massively sparse phases, dependence on an input graph, and potential need for scaling to large graphs. These render GPU/TPU and DNN accelerators inefficient. This proect aims to tackle this open problem via software acceleration, although the solution can also help speed up hardware-software co-designed solutions. In particular, we want to demonstrate that both the optimal dataflows and software acceleration techniques for GNN computation depend on the GNN algorithm and the graph connectivity, and that optimality may change across partitions of the same graph. Then, the goal is to develop a tool, which we call iGNNspector, that streamlines the training/inference of a GNN based on this knowledge. In more detail, iGNNspector will profile a wide variety of graph datasets and analyze their performance for different GNN variants and frameworks/accelerators. These results will be used to derive a set of heuristics to guide partitioning, scheduling, and runtime for CPU/GPU platforms, and to determine the most appropriate dataflows for ASIC platforms.
 
  

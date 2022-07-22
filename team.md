@@ -12,20 +12,26 @@ link_url: /recruitment
 
 ### Current Team
 
-#- Abhijit Das (PostDoc, 2022-2023)
+<!--
+#- Abhijit Das (PostDoc, 2023-2024)
 #- Ethungshan Shitiri (PostDoc, 2022-2023)
 #- Hamza Abbas Kiani (PhD, 2022-2025)
 #- Sahar Ben Rached (PhD, 2022-2025)
+#- Ama Bandara (PhD, 2022-2025)
+-->
 - [Axel Wassington](https://www.linkedin.com/in/axel-wassington-258792a0/) (PhD, 2022-2025)
 - Fátima Rodríguez (PhD, 2021-2024)
 - Santiago Rodrigo (PhD, 2019-2022)
+<!--
 #- Llorenç Fanals (MSc, Spring '22 @ Stanford/Equal1)
+-->
 - Rocco Picone (MSc, Spring '22 from Reggio-Calabria)
 - Domenico Spanò (MSc, Spring '22 from Reggio-Calabria)
 - Nitish Arya (MSc, Spring '22)
 - Martina Gallego (BSc, Fall '22 @ Georgia Tech)
 - Pau Talarn (BSc, Spring '22)
 - Bernat Ollé (BSc, Spring '22)
+- Druhin Abrol (BSc, Spring '22 from IIT Kharagpur)
 - Manoj Malipeddi (BSc, Spring '22 from IIT Kharagpur)
 - Shakti Prasad Nanda (BSc, Spring '22 from IIT Kharagpur)
 - Rohit Mistry (BSc, Spring '22 from IIT Kharagpur)

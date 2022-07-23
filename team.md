@@ -19,6 +19,7 @@ link_url: /recruitment
 #- Sahar Ben Rached (PhD, 2022-2025)
 #- Ama Bandara (PhD, 2022-2025)
 #- Llorenç Fanals (MSc, Spring '22 @ Stanford/Equal1)
+#- Pau Escofet (MSc, Spring '22)
 -->
 - [Axel Wassington](https://www.linkedin.com/in/axel-wassington-258792a0/) (PhD, 2022-2025)
 - Fátima Rodríguez (PhD, 2021-2024)

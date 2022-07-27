@@ -50,8 +50,6 @@ A. Wassington, S. Abadal, <strong>"Bias Reduction via Cooperative Bargaining in 
 
 K. Ntontin, A.-A. A. Boulogeorgos, E. BJörnson, D. Selimis, W. A. Martins, S. Kisseleff, S. Abadal, E. Alarcón, A. Papazafeiropoulos, F. Lazarakis,  A. Alexiou, S. Chatzinotas, <strong>"Toward Autonomous Reconfigurable Intelligent Surfaces Through Wireless Energy Harvesting",</strong> arXiv:2108.07953, 2021. <strong><a href="https://arxiv.org/pdf/2108.07953.pdf">[PDF]</a></strong>
 
-H. Taghvaee, A. Jain, S. Abadal, E. Alarcón, A. Cabellos-Aparicio, <strong>"On the Enabling of Multi-user Communications with Reconfigurable Intelligent Surfaces",</strong> 2021. <strong><a href="https://arxiv.org/pdf/2106.06789.pdf">[PDF]</a></strong>
-
 F. Lemic, S. Abadal, E. Alarcón, and J. Famaey, <strong>"Toward Location-aware In-body Terahertz Nanonetworks with Energy Harvesting"</strong> arXiv:2101.01952, 2021. <strong><a href="https://arxiv.org/pdf/2101.01952.pdf">[PDF]</a></strong>
 
 K. Ntontin, A.-A. A. Boulogeorgos, E. BJörnson, D. Selimis, W. A. Martins, S. Abadal, A. Alexiou, F. Lazarakis, S. Kisseleff, S. Chatzinotas, <strong>"Autonomous Reconfigurable Intelligent Surfaces Through Wireless Energy Harvesting",</strong> 2021. <strong><a href="https://www.researchgate.net/publication/351245904_Autonomous_Reconfigurable_Intelligent_Surfaces_Through_Wireless_Energy_Harvesting">[PDF]</a></strong>
@@ -85,6 +83,8 @@ S. Rodrigo, S. Abadal, E. Alarcón, C. Almudéver, <strong>"Exploring a Double F
 
 <br/><br/>
 ### <a name="journal"></a> Journal Papers
+[J37] H. Taghvaee, A. Jain, S. Abadal, E. Alarcón, A. Cabellos-Aparicio, <strong>"On the Enabling of Multi-user Communications with Reconfigurable Intelligent Surfaces",</strong> IEEE Transactions on Nanotechnology, 2022. <strong><a href="https://arxiv.org/pdf/2106.06789.pdf">[PDF]</a></strong>
+
 [J36] M. Imani, S. Abadal, P. Del Hougne, <strong>"Metasurface-Programmable Wireless Network-on-Chip"</strong>, Advanced Science, 2022. <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/advs.202201458"><strong>[PDF]</strong></a>
 
 [J35] H. Taghvaee, A. Pitilakis, O. Tsilipakos, A. C. Tasolamprou, N. V. Kantartzis, M. Kafesaki, A. Cabellos-Aparicio, E. Alarcón, and S. Abadal, <strong>"Multi-Wideband Terahertz Communications via Tunable Graphene-based Metasurfaces in 6G Networks,"</strong> IEEE Vehicular Technology Magazine, 2022. <a href="https://arxiv.org/pdf/2203.10298.pdf"><strong>[PDF]</strong></a>

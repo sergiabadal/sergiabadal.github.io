@@ -84,7 +84,7 @@ Massive Heterogeneous Multi-chip Processors,"</strong> IEEE Wireless Communicati
 - [ENG] <a href="https://www.upc.edu/en/press-room/news/the-upc-leads-a-project-to-develop-faster-lower-power-processors-for-artificial-intelligence">UPC Press Release</a>
 - [ESP] <a href="https://www.computing.es/movilidad/noticias/1121206046501/upc-investiga-desarrollar-procesadores-ia-mas-sostenibles.1.html">Computing.es</a>
 
-[J37] H. Taghvaee, A. Jain, S. Abadal, E. Alarcón, A. Cabellos-Aparicio, <strong>"On the Enabling of Multi-user Communications with Reconfigurable Intelligent Surfaces",</strong> IEEE Transactions on Nanotechnology, 2022. <strong><a href="https://arxiv.org/pdf/2106.06789.pdf">[PDF]</a></strong>
+[J37] H. Taghvaee, A. Jain, S. Abadal, G. Gradoni, E. Alarcón, A. Cabellos-Aparicio, <strong>"On the Enabling of Multi-user Communications with Reconfigurable Intelligent Surfaces",</strong> IEEE Transactions on Nanotechnology, 2022. <strong><a href="https://arxiv.org/pdf/2106.06789.pdf">[PDF]</a></strong>
 
 [J36] M. Imani, S. Abadal, P. Del Hougne, <strong>"Metasurface-Programmable Wireless Network-on-Chip"</strong>, Advanced Science, 2022. <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/advs.202201458"><strong>[PDF]</strong></a>
 

@@ -167,6 +167,8 @@ Wireless Network-on-Chip Architecture,”</strong> in IEEE Transactions on Paral
 <br/><br/>
 ### <a name="conference"></a> Conference Papers
 
+[C57] K. Ntontin, A.-A. A. Boulogeorgos, Z. Abdullah, A. Mesodiakaki, S. Abadal, and S. Chatziontas, <strong>"Time vs. Unit Cell Splitting for Autonomous Reconfigurable Intelligent Surfaces",</strong> Proceedings of the GLOBECOM 2022, Rio de Janeiro, Brazil, December 2022.
+
 [C56] H. Taghvaee, A. Pitilakis, O. Tsilipakos, A. C. Tasolamprou, N. V. Kantartzis, M. Kafesaki, A. Cabellos-Aparicio, E. Alarcón, S. Abadal, and G. Gradoni, <strong>"Tunable Graphene-based Metasurfaces for Multi-Wideband 6G Communications",</strong> Proceedings of the Metamaterials Conference 2022, Siena, Italy, September 2022.
 
 [C55] R. Guirado, A. Rahimi, G. Karunaratne, E. Alarcón, A. Sebastian, and S. Abadal, <strong>"Wireless On-Chip Communications for Scalable In-memory Hyperdimensional Computing,"</strong> Proceedings of the IJCNN/WCCI 2022, Padova, Italy, July 2022. <strong><a href="https://arxiv.org/pdf/2205.10889.pdf">[PDF]</a></strong>

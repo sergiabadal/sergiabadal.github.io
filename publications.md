@@ -14,10 +14,16 @@ link_url: https://scholar.google.com/citations?user=FntFEnYAAAAJ
 
 <br/>
 ### <a name="selected"></a> Selected Publications
+
+S. Abadal, R. Guirado, H. Taghvaee, A. Jain, E. Pereira de Santana, P. Haring Bolívar, M. Saeed, R. Negra, Z. Wang, K-T. Wang, M. C. Lemme, J. Klein, M. Zapater, A. Levisse, D. Atienza, D. Rossi, F. Conti, M. Dazzi, G. Karunaratne, I. Boybat and A. Sebastian <strong>"Graphene-based Wireless Agile Interconnects for
+Massive Heterogeneous Multi-chip Processors,"</strong> IEEE Wireless Communications Magazine, 2022. <strong><a href="https://arxiv.org/pdf/2011.04107.pdf">[PDF]</a></strong>
+- [ENG] <a href="https://www.upc.edu/en/press-room/news/the-upc-leads-a-project-to-develop-faster-lower-power-processors-for-artificial-intelligence">UPC Press Release</a>
+- [ESP] <a href="https://www.computing.es/movilidad/noticias/1121206046501/upc-investiga-desarrollar-procesadores-ia-mas-sostenibles.1.html">Computing.es</a>
+
 S. Jog, Z. Liu, A. Franques, V. Fernando, S. Abadal, J. Torrellas, H. Hassanieh, <strong>"One Protocol to Rule Them All: Wireless Network-on-Chip using Deep Reinforcement Learning,"</strong> in Proceedings of NSDI 2021, Virtual Event, April 2021. <strong><a href="http://sjog2.web.engr.illinois.edu/images/papers/neumac_sjog_nsdi21.pdf">[PDF]</a></strong> <strong><a href="https://www.usenix.org/system/files/nsdi21_slides_jog.pdf">[SLIDES]</a></strong> <strong><a href="http://sjog2.web.engr.illinois.edu/images/papers/poster_sigcomm20.pdf">[POSTER]</a></strong> <strong><a href="https://youtu.be/f2nRNkxNr88">[VIDEO]</a></strong>
 - Winners of the <a href="https://conferences.sigcomm.org/sigcomm/2020/cf-posters.html">SIGCOMM Student Research Competition.</a> Third Place!
 
-S. Abadal, A. Jain, R. Guirado, J. López-Alonso, E. Alarcón, <strong>"Computing Graph Neural Networks: A Survey from Algorithms to   Accelerators,"</strong> ACM Computing Surveys, vol. 54, no. 9, pp. 191:1-38, 2021. <strong><a href="https://dl.acm.org/doi/pdf/10.1145/3477141">[OPEN ACCESS]</a></strong>
+S. Abadal, A. Jain, R. Guirado, J. López-Alonso, E. Alarcón, <strong>"Computing Graph Neural Networks: A Survey from Algorithms to Accelerators,"</strong> ACM Computing Surveys, vol. 54, no. 9, pp. 191:1-38, 2021. <strong><a href="https://dl.acm.org/doi/pdf/10.1145/3477141">[OPEN ACCESS]</a></strong>
    
 S. Rodrigo, S. Abadal, E. Alarcón, M. Bandic, J. van Someren, C. G. Almudever, <strong>"On Double Full-Stack Communications-Enabled Architectures for Multi-Core Quantum Computers,"</strong> IEEE MICRO, vol. 41, no. 5, pp. 48-56, 2021. <a href="https://upcommons.upc.edu/bitstream/handle/2117/349287/09465720.pdf?sequence=3"><strong>[PDF]</strong></a> <strong><a href="https://youtu.be/ltyOaMQ22UI">[VIDEO]</a></strong> 
 
@@ -29,17 +35,9 @@ S. Abadal, C. Liaskos, A. Tsioliaridou, S. Ioannidis, A. Pitsillides, J. Solé-P
 - [ENG] <a href="http://www.publicnow.com/view/B0BA04ADDCC57999D9F4C16BFC8D6F405A889DC6?2017-07-21-10:00:11+01:00-xxx1004">PublicNow</a> \| <a href="https://www.upc.edu/en/press-room/news/scientists-from-the-upc-investigate-reconfigurable-and-programmable-metamaterials">UPC News</a> \| <a href="https://www.theregister.com/2020/06/01/irs_wireless_jamming/">The Register</a>
 - [ESP] <a href="http://www.lavanguardia.com/vida/20170710/424038208290/cientificos-de-la-upc-investigan-materiales-reconfigurables-y-programables.html">La Vanguardia</a> \| <a href="http://www.elperiodico.com/es/sociedad/20170710/cientificos-de-la-upc-investigan-materiales-reconfigurables-y-programables-6158737">El Periódico </a>
 
-S. Abadal, J. Torrellas, E. Alarcón, and A. Cabellos-Aparicio, <strong>“OrthoNoC: A Broadcast-Oriented Dual-Plane
-Wireless Network-on-Chip Architecture,”</strong> in IEEE Transactions on Parallel and Distributed Systems, vol. 29, no. 3, pp. 628-641, Mar. 2018. <strong><a href="http://www.n3cat.upc.edu/papers/OrthoNoC_A_Broadcast-Oriented_Dual-Plane_Wireless_Network-on-Chip_Architecture.pdf">[PDF]</a></strong>			
-				
 V. Fernando, A. Franques, S. Abadal, S. Misailovic, J. Torrellas, <strong>“Replica: A Wireless Manycore for
 Communication-Intensive and Approximate Data,”</strong> in Proceedings of the ASPLOS ’19, Providence, RI, USA, April 2019. <strong><a href="http://iacoma.cs.uiuc.edu/iacoma-papers/asplos19.pdf">[PDF]</a></strong> <strong><a href="http://iacoma.cs.uiuc.edu/iacoma-papers/PRES/present_asplos19.pdf">[SLIDES]</a></strong>
     
-S. Abadal, E. Alarcón, M. C. Lemme, M. Nemirovsky and A. Cabellos-Aparicio,   <strong>&quot;Graphene-enabled Wireless Communication for Massive Multicore Architectures,&quot;</strong> IEEE Communications Magazine, vol. 51, no. 11, pp. 137-143, November 2013. <strong><a href="http://www.n3cat.upc.edu/papers/Graphene-enabled_Wireless_Communication_for_Massive_Multicore_Architectures.pdf">[PDF]</a></strong>
-- [ENG] <a href="http://www.extremetech.com/extreme/149172-samsung-funds-graphene-antenna-project-for-wireless-ultra-fast-intra-chip-links">ExtremeTech</a> \| <a href="http://www.alphagalileo.es/ViewItem.aspx?ItemId=128752&amp;CultureCode=en">Alpha Galileo </a> \| <a href="http://www.graphenetracker.com/samsung-backs-project-to-develop-graphene-based-micro-antennas/">Graphene Tracker</a>
-- [ESP] <a href="http://blogthinkbig.com/microantenas-de-grafeno-capacidad-computacional/">ThinkBig (Telefonica)</a> \| <a href="http://www.europapress.es/portaltic/empresas/noticia-samsung-financia-120000-dolares-proyecto-liderado-upc-desarrollar-microantenas-20130218182118.html">Europa Press</a> \| <a href="http://www.larazon.es/detalle_normal/noticias/1208199/samsung-financia-un-programa-espanol-de-microa#.UhifKBunqaI">La Razón</a>	
-- [CAT] <a href="http://www.upc.edu/saladepremsa/al-dia/mes-noticies/samsung-aposta-per-un-projecte-liderat-per-la-upc-per-desenvolupar-microantenes-basades-en-el-grafe">UPC</a> \| <a href="http://www.rtve.es/alacarta/audios/lobservatori/lobservatori-2-marc-2013/1701205/">Ràdio4 (RTVE - Local Radio Station)</a>
-
 S. Abadal, I. Llatser, A. Mestres, H. Lee, E. Alarcón and A. Cabellos-Aparicio,<strong>&quot;Time-Domain Analysis of Graphene-based Miniaturized Antennas for Ultra-short-range Impulse Radio Communications,&quot;</strong> IEEE Transactions on Communications, vol. 63, no. 4, pp. 1470-1482, Apr. 2015. <strong><a href="http://www.n3cat.upc.edu/papers/Time-Domain_Analysis_of_Graphene-based_Miniaturized_Antennas_for_Ultra-short-range_Impulse_Radio_Communications.pdf">[PDF]</a></strong>
 - <a href="http://ieeexplore-spotlight.ieee.org/article/graphennas-the-wonder-compound-meets-nano-scale-wireless-communications/">IEEE Xplore Spotlight Blog</a>
 
@@ -159,6 +157,9 @@ Wireless Network-on-Chip Architecture,”</strong> in IEEE Transactions on Paral
 [J3] S. Abadal, I. Llatser, E. Alarcón and A. Cabellos-Aparicio,   <strong>&quot;Cooperative Signal Amplification for Molecular Communication in Nanonetworks,&quot;</strong> Wireless Networks (Springer), vol. 20, no. 6, pp. 1611-1626, 2014. <strong><a href="http://personals.ac.upc.edu/acabello/PDF/AmpliQS-Abadal-Springer.pdf">[PDF]</a></strong>
                 
 [J2] S. Abadal, E. Alarcón, M. C. Lemme, M. Nemirovsky and A. Cabellos-Aparicio,   <strong>&quot;Graphene-enabled Wireless Communication for Massive Multicore Architectures,&quot;</strong> IEEE Communications Magazine, vol. 51, no. 11, pp. 137-143, November 2013. <strong><a href="http://www.n3cat.upc.edu/papers/Graphene-enabled_Wireless_Communication_for_Massive_Multicore_Architectures.pdf">[PDF]</a></strong>    
+- [ENG] <a href="http://www.extremetech.com/extreme/149172-samsung-funds-graphene-antenna-project-for-wireless-ultra-fast-intra-chip-links">ExtremeTech</a> \| <a href="http://www.alphagalileo.es/ViewItem.aspx?ItemId=128752&amp;CultureCode=en">Alpha Galileo </a> \| <a href="http://www.graphenetracker.com/samsung-backs-project-to-develop-graphene-based-micro-antennas/">Graphene Tracker</a>
+- [ESP] <a href="http://blogthinkbig.com/microantenas-de-grafeno-capacidad-computacional/">ThinkBig (Telefonica)</a> \| <a href="http://www.europapress.es/portaltic/empresas/noticia-samsung-financia-120000-dolares-proyecto-liderado-upc-desarrollar-microantenas-20130218182118.html">Europa Press</a> \| <a href="http://www.larazon.es/detalle_normal/noticias/1208199/samsung-financia-un-programa-espanol-de-microa#.UhifKBunqaI">La Razón</a>	
+- [CAT] <a href="http://www.upc.edu/saladepremsa/al-dia/mes-noticies/samsung-aposta-per-un-projecte-liderat-per-la-upc-per-desenvolupar-microantenes-basades-en-el-grafe">UPC</a> \| <a href="http://www.rtve.es/alacarta/audios/lobservatori/lobservatori-2-marc-2013/1701205/">Ràdio4 (RTVE - Local Radio Station)</a>
 
 [J1] S. Abadal and I. F. Akyildiz, <strong>&quot;Automata Modeling of Quorum Sensing for Nanocommunication Networks,&quot; </strong> Nano Communication Networks (Elsevier), Volume 2, Issue 1, March 2011, pp. 74-83. 
 		     

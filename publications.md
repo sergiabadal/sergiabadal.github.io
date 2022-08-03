@@ -48,8 +48,6 @@ A. Wassington, S. Abadal, <strong>"Bias Reduction via Cooperative Bargaining in 
 
 K. Ntontin, A.-A. A. Boulogeorgos, E. BJörnson, D. Selimis, W. A. Martins, S. Kisseleff, S. Abadal, E. Alarcón, A. Papazafeiropoulos, F. Lazarakis,  A. Alexiou, S. Chatzinotas, <strong>"Toward Autonomous Reconfigurable Intelligent Surfaces Through Wireless Energy Harvesting",</strong> arXiv:2108.07953, 2021. <strong><a href="https://arxiv.org/pdf/2108.07953.pdf">[PDF]</a></strong>
 
-F. Lemic, S. Abadal, E. Alarcón, and J. Famaey, <strong>"Toward Location-aware In-body Terahertz Nanonetworks with Energy Harvesting"</strong> arXiv:2101.01952, 2021. <strong><a href="https://arxiv.org/pdf/2101.01952.pdf">[PDF]</a></strong>
-
 K. Ntontin, A.-A. A. Boulogeorgos, E. BJörnson, D. Selimis, W. A. Martins, S. Abadal, A. Alexiou, F. Lazarakis, S. Kisseleff, S. Chatzinotas, <strong>"Autonomous Reconfigurable Intelligent Surfaces Through Wireless Energy Harvesting",</strong> 2021. <strong><a href="https://www.researchgate.net/publication/351245904_Autonomous_Reconfigurable_Intelligent_Surfaces_Through_Wireless_Energy_Harvesting">[PDF]</a></strong>
 
 S. Rodrigo, S. Abadal, E. Alarcón, C. Almudéver, <strong>"Exploring a Double Full-Stack Communications-Enabled Architecture for Multi-Core Quantum Computers,"</strong> arXiv:2009.08186, 2020. <strong><a href="https://arxiv.org/pdf/2009.08186.pdf">[PDF]</a></strong> <strong><a href="https://youtu.be/ltyOaMQ22UI">[VIDEO]</a></strong> 
@@ -174,7 +172,7 @@ Wireless Network-on-Chip Architecture,”</strong> in IEEE Transactions on Paral
 
 [C58] S. Rodrigo, D. Spanò, M. Bandic, S. Abadal, H. van Someren, A. Ovide, S. Feld, C. G. Almudever, E. Alarcón, "Characterizing the Spatio-Temporal Qubit Traffic of a Quantum Intranet aiming at Modular Quantum Computer Architectures," Proceedings of the ACM NANOCOM'22, Barcelona, Spain, October 2022.
 
-[C57] F. Lemic, S. Abadal, A. Stevanovic, E. Alarcón, J. Famaey, "Toward Location-aware In-body Terahertz Nanonetworks with Energy Harvesting," Proceedings of the ACM NANOCOM'22, Barcelona, Spain, October 2022.
+[C57] F. Lemic, S. Abadal, A. Stevanovic, E. Alarcón, J. Famaey, "Toward Location-aware In-body Terahertz Nanonetworks with Energy Harvesting," Proceedings of the ACM NANOCOM'22, Barcelona, Spain, October 2022. <strong><a href="https://arxiv.org/pdf/2101.01952.pdf">[PDF]</a></strong>
 
 [C56] H. Taghvaee, A. Pitilakis, O. Tsilipakos, A. C. Tasolamprou, N. V. Kantartzis, M. Kafesaki, A. Cabellos-Aparicio, E. Alarcón, S. Abadal, and G. Gradoni, <strong>"Tunable Graphene-based Metasurfaces for Multi-Wideband 6G Communications",</strong> Proceedings of the Metamaterials Conference 2022, Siena, Italy, September 2022.
 

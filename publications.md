@@ -48,8 +48,6 @@ A. Wassington, S. Abadal, <strong>"Bias Reduction via Cooperative Bargaining in 
 
 K. Ntontin, A.-A. A. Boulogeorgos, E. BJörnson, D. Selimis, W. A. Martins, S. Kisseleff, S. Abadal, E. Alarcón, A. Papazafeiropoulos, F. Lazarakis,  A. Alexiou, S. Chatzinotas, <strong>"Toward Autonomous Reconfigurable Intelligent Surfaces Through Wireless Energy Harvesting",</strong> arXiv:2108.07953, 2021. <strong><a href="https://arxiv.org/pdf/2108.07953.pdf">[PDF]</a></strong>
 
-K. Ntontin, A.-A. A. Boulogeorgos, E. BJörnson, D. Selimis, W. A. Martins, S. Abadal, A. Alexiou, F. Lazarakis, S. Kisseleff, S. Chatzinotas, <strong>"Autonomous Reconfigurable Intelligent Surfaces Through Wireless Energy Harvesting",</strong> 2021. <strong><a href="https://www.researchgate.net/publication/351245904_Autonomous_Reconfigurable_Intelligent_Surfaces_Through_Wireless_Energy_Harvesting">[PDF]</a></strong>
-
 S. Rodrigo, S. Abadal, E. Alarcón, C. Almudéver, <strong>"Exploring a Double Full-Stack Communications-Enabled Architecture for Multi-Core Quantum Computers,"</strong> arXiv:2009.08186, 2020. <strong><a href="https://arxiv.org/pdf/2009.08186.pdf">[PDF]</a></strong> <strong><a href="https://youtu.be/ltyOaMQ22UI">[VIDEO]</a></strong> 
 
 <br/><br/>
@@ -182,7 +180,7 @@ Wireless Network-on-Chip Architecture,”</strong> in IEEE Transactions on Paral
  
 [C53] N. Bruschi, G. Tagliavini, F. Conti, S. Abadal, A. Cabellos-Aparicio, E. Alarcón, G. Karunaratne, I. Boybat, L. Benini, and D. Rossi <strong>"Scale up your In-Memory Accelerator: Leveraging Wireless-on-Chip Communication for AIMC-based CNN Inference," </strong> Proceedings of the AICAS 2022, Incheon, Korea, June 2022.  <strong><a href="https://arxiv.org/pdf/2206.04796.pdf">[PDF]</a></strong> 
 
-[C52] K. Ntontin, A.-A. A. Boulogeorgos, E. Björnson, D. Selimis, W. A. Martins, S. Abadal, A. Alexiou, F. Lazarakis, S. Kisseleff, S. Chatziontas,  <strong>"Autonomous Reconfigurable Intelligent Surfaces Through Wireless Energy Harvesting," </strong> Proceedings of the VTC2022-Spring, Helsinki, Finland, June 2022.
+[C52] K. Ntontin, A.-A. A. Boulogeorgos, E. Björnson, D. Selimis, W. A. Martins, S. Abadal, A. Alexiou, F. Lazarakis, S. Kisseleff, S. Chatziontas,  <strong>"Autonomous Reconfigurable Intelligent Surfaces Through Wireless Energy Harvesting," </strong> Proceedings of the VTC2022-Spring, Helsinki, Finland, June 2022. <strong><a href="https://arxiv.org/pdf/2105.00163.pdf">[PDF]</a></strong>
 
 [C51] R. Garg, E. Qin, F. Muñoz-Martínez, R. Guirado, A. Jain, S. Abadal, J. L. Abellán, M. E. Acacio, E. Alarcón, S. Rajamanickam, T. Krishna, <strong>"Understanding the Design Space of Sparse/Dense Multiphase Dataflows for Mapping Graph Neural Networks on Spatial Accelerators"</strong> Proceedings of the IPDPS'22, 2022. <strong><a href="https://arxiv.org/abs/2103.07977">[PDF]</a></strong> *<span style="color:red">BEST PAPER CANDIDATE!</span>*
  

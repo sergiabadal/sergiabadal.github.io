@@ -168,7 +168,13 @@ Wireless Network-on-Chip Architecture,”</strong> in IEEE Transactions on Paral
 <br/><br/>
 ### <a name="conference"></a> Conference Papers
 
-[C57] K. Ntontin, A.-A. A. Boulogeorgos, Z. Abdullah, A. Mesodiakaki, S. Abadal, and S. Chatziontas, <strong>"Time vs. Unit Cell Splitting for Autonomous Reconfigurable Intelligent Surfaces",</strong> Proceedings of the GLOBECOM 2022, Rio de Janeiro, Brazil, December 2022.
+[C60] K. Ntontin, A.-A. A. Boulogeorgos, Z. Abdullah, A. Mesodiakaki, S. Abadal, and S. Chatziontas, <strong>"Time vs. Unit Cell Splitting for Autonomous Reconfigurable Intelligent Surfaces",</strong> Proceedings of the GLOBECOM 2022, Rio de Janeiro, Brazil, December 2022.
+
+[C59] F. Rodríguez-Galán, E. Pereira de Santana, P. Haring Bolívar, S. Abadal, E. Alarcón, "Towards Spatial Multiplexing in Wireless Networks within Computing Packages," Proceedings of the ACM NANOCOM'22, Barcelona, Spain, October 2022.
+
+[C58] S. Rodrigo, D. Spanò, M. Bandic, S. Abadal, H. van Someren, A. Ovide, S. Feld, C. G. Almudever, E. Alarcón, "Characterizing the Spatio-Temporal Qubit Traffic of a Quantum Intranet aiming at Modular Quantum Computer Architectures," Proceedings of the ACM NANOCOM'22, Barcelona, Spain, October 2022.
+
+[C57] F. Lemic, S. Abadal, A. Stevanovic, E. Alarcón, J. Famaey, "Toward Location-aware In-body Terahertz Nanonetworks with Energy Harvesting," Proceedings of the ACM NANOCOM'22, Barcelona, Spain, October 2022.
 
 [C56] H. Taghvaee, A. Pitilakis, O. Tsilipakos, A. C. Tasolamprou, N. V. Kantartzis, M. Kafesaki, A. Cabellos-Aparicio, E. Alarcón, S. Abadal, and G. Gradoni, <strong>"Tunable Graphene-based Metasurfaces for Multi-Wideband 6G Communications",</strong> Proceedings of the Metamaterials Conference 2022, Siena, Italy, September 2022.
 

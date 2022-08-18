@@ -80,7 +80,7 @@ Massive Heterogeneous Multi-chip Processors,"</strong> IEEE Wireless Communicati
 
 [J38] K. Ntontin, A.-A. A. Boulogeorgos, E. BJörnson, W. A. Martins, S. Kisseleff, S. Abadal, E. Alarcón, A. Papazafeiropoulos, F. Lazarakis, S. Chatzinotas, "Wireless Energy Harvesting For Autonomous Reconfigurable Intelligent Surfaces," IEEE Transactions on Green Communications and Networking, 2022.
 
-[J37] H. Taghvaee, A. Jain, S. Abadal, G. Gradoni, E. Alarcón, A. Cabellos-Aparicio, <strong>"On the Enabling of Multi-user Communications with Reconfigurable Intelligent Surfaces",</strong> IEEE Transactions on Nanotechnology, 2022. <strong><a href="https://arxiv.org/pdf/2106.06789.pdf">[PDF]</a></strong>
+[J37] H. Taghvaee, A. Jain, S. Abadal, G. Gradoni, E. Alarcón, A. Cabellos-Aparicio, <strong>"On the Enabling of Multi-user Communications with Reconfigurable Intelligent Surfaces",</strong> IEEE Transactions on Nanotechnology, vol. 21, pp. 413-423, 2022. <strong><a href="https://arxiv.org/pdf/2106.06789.pdf">[PDF]</a></strong>
 
 [J36] M. Imani, S. Abadal, P. Del Hougne, <strong>"Metasurface-Programmable Wireless Network-on-Chip"</strong>, Advanced Science, 2022. <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/advs.202201458"><strong>[PDF]</strong></a>
 

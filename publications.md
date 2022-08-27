@@ -78,7 +78,7 @@ Massive Heterogeneous Multi-chip Processors,"</strong> IEEE Wireless Communicati
 - [ENG] <a href="https://www.upc.edu/en/press-room/news/the-upc-leads-a-project-to-develop-faster-lower-power-processors-for-artificial-intelligence">UPC Press Release</a>
 - [ESP] <a href="https://www.computing.es/movilidad/noticias/1121206046501/upc-investiga-desarrollar-procesadores-ia-mas-sostenibles.1.html">Computing.es</a>
 
-[J38] K. Ntontin, A.-A. A. Boulogeorgos, E. BJörnson, W. A. Martins, S. Kisseleff, S. Abadal, E. Alarcón, A. Papazafeiropoulos, F. Lazarakis, S. Chatzinotas, "Wireless Energy Harvesting For Autonomous Reconfigurable Intelligent Surfaces," IEEE Transactions on Green Communications and Networking, 2022.
+[J38] K. Ntontin, A.-A. A. Boulogeorgos, E. BJörnson, W. A. Martins, S. Kisseleff, S. Abadal, E. Alarcón, A. Papazafeiropoulos, F. Lazarakis, S. Chatzinotas, <strong>"Wireless Energy Harvesting For Autonomous Reconfigurable Intelligent Surfaces,"</strong> IEEE Transactions on Green Communications and Networking, 2022.
 
 [J37] H. Taghvaee, A. Jain, S. Abadal, G. Gradoni, E. Alarcón, A. Cabellos-Aparicio, <strong>"On the Enabling of Multi-user Communications with Reconfigurable Intelligent Surfaces",</strong> IEEE Transactions on Nanotechnology, vol. 21, pp. 413-423, 2022. <strong><a href="https://arxiv.org/pdf/2106.06789.pdf">[PDF]</a></strong>
 
@@ -168,11 +168,11 @@ Wireless Network-on-Chip Architecture,”</strong> in IEEE Transactions on Paral
 
 [C60] K. Ntontin, A.-A. A. Boulogeorgos, Z. Abdullah, A. Mesodiakaki, S. Abadal, and S. Chatziontas, <strong>"Time vs. Unit Cell Splitting for Autonomous Reconfigurable Intelligent Surfaces",</strong> Proceedings of the GLOBECOM 2022, Rio de Janeiro, Brazil, December 2022.
 
-[C59] F. Rodríguez-Galán, E. Pereira de Santana, P. Haring Bolívar, S. Abadal, E. Alarcón, "Towards Spatial Multiplexing in Wireless Networks within Computing Packages," Proceedings of the ACM NANOCOM'22, Barcelona, Spain, October 2022.
+[C59] F. Rodríguez-Galán, E. Pereira de Santana, P. Haring Bolívar, S. Abadal, E. Alarcón, <strong>"Towards Spatial Multiplexing in Wireless Networks within Computing Packages,"</strong> Proceedings of the ACM NANOCOM'22, Barcelona, Spain, October 2022.
 
-[C58] S. Rodrigo, D. Spanò, M. Bandic, S. Abadal, H. van Someren, A. Ovide, S. Feld, C. G. Almudever, E. Alarcón, "Characterizing the Spatio-Temporal Qubit Traffic of a Quantum Intranet aiming at Modular Quantum Computer Architectures," Proceedings of the ACM NANOCOM'22, Barcelona, Spain, October 2022.
+[C58] S. Rodrigo, D. Spanò, M. Bandic, S. Abadal, H. van Someren, A. Ovide, S. Feld, C. G. Almudever, E. Alarcón, <strong>"Characterizing the Spatio-Temporal Qubit Traffic of a Quantum Intranet aiming at Modular Quantum Computer Architectures,"</strong> Proceedings of the ACM NANOCOM'22, Barcelona, Spain, October 2022.
 
-[C57] F. Lemic, S. Abadal, A. Stevanovic, E. Alarcón, J. Famaey, "Toward Location-aware In-body Terahertz Nanonetworks with Energy Harvesting," Proceedings of the ACM NANOCOM'22, Barcelona, Spain, October 2022. <strong><a href="https://arxiv.org/pdf/2101.01952.pdf">[PDF]</a></strong>
+[C57] F. Lemic, S. Abadal, A. Stevanovic, E. Alarcón, J. Famaey, <strong>"Toward Location-aware In-body Terahertz Nanonetworks with Energy Harvesting,"</strong> Proceedings of the ACM NANOCOM'22, Barcelona, Spain, October 2022. <strong><a href="https://arxiv.org/pdf/2101.01952.pdf">[PDF]</a></strong>
 
 [C56] H. Taghvaee, A. Pitilakis, O. Tsilipakos, A. C. Tasolamprou, N. V. Kantartzis, M. Kafesaki, A. Cabellos-Aparicio, E. Alarcón, S. Abadal, and G. Gradoni, <strong>"Tunable Graphene-based Metasurfaces for Multi-Wideband 6G Communications",</strong> Proceedings of the Metamaterials Conference 2022, Siena, Italy, September 2022.
 

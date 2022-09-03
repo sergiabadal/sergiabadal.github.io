@@ -170,7 +170,7 @@ Wireless Network-on-Chip Architecture,”</strong> in IEEE Transactions on Paral
 
 [C59] F. Rodríguez-Galán, E. Pereira de Santana, P. Haring Bolívar, S. Abadal, E. Alarcón, <strong>"Towards Spatial Multiplexing in Wireless Networks within Computing Packages,"</strong> Proceedings of the ACM NANOCOM'22, Barcelona, Spain, October 2022.
 
-[C58] S. Rodrigo, D. Spanò, M. Bandic, S. Abadal, H. van Someren, A. Ovide, S. Feld, C. G. Almudever, E. Alarcón, <strong>"Characterizing the Spatio-Temporal Qubit Traffic of a Quantum Intranet aiming at Modular Quantum Computer Architectures,"</strong> Proceedings of the ACM NANOCOM'22, Barcelona, Spain, October 2022.
+[C58] S. Rodrigo, D. Spanò, M. Bandic, S. Abadal, H. van Someren, A. Ovide, S. Feld, C. G. Almudever, E. Alarcón, <strong>"Characterizing the Spatio-Temporal Qubit Traffic of a Quantum Intranet aiming at Modular Quantum Computer Architectures,"</strong> Proceedings of the ACM NANOCOM'22, Barcelona, Spain, October 2022. <strong><a href="https://arxiv.org/pdf/2209.00126.pdf">[PDF]</a></strong>
 
 [C57] F. Lemic, S. Abadal, A. Stevanovic, E. Alarcón, J. Famaey, <strong>"Toward Location-aware In-body Terahertz Nanonetworks with Energy Harvesting,"</strong> Proceedings of the ACM NANOCOM'22, Barcelona, Spain, October 2022. <strong><a href="https://arxiv.org/pdf/2101.01952.pdf">[PDF]</a></strong>
 

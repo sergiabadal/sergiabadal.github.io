@@ -31,6 +31,7 @@ link_url: /recruitment
 - Arnau Brosa (BSc, Fall '22)
 - Pau Talarn (BSc, Fall '22)
 - Bernat Ollé (BSc, Fall '22)
+- Roger González Sedano (BSc, Fall '22)
 
 
 

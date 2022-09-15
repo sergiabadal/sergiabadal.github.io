@@ -82,7 +82,7 @@ Massive Heterogeneous Multi-chip Processors,"</strong> IEEE Wireless Communicati
 
 [J37] H. Taghvaee, A. Jain, S. Abadal, G. Gradoni, E. Alarcón, A. Cabellos-Aparicio, <strong>"On the Enabling of Multi-user Communications with Reconfigurable Intelligent Surfaces",</strong> IEEE Transactions on Nanotechnology, vol. 21, pp. 413-423, 2022. <strong><a href="https://arxiv.org/pdf/2106.06789.pdf">[PDF]</a></strong>
 
-[J36] M. Imani, S. Abadal, P. Del Hougne, <strong>"Metasurface-Programmable Wireless Network-on-Chip"</strong>, Advanced Science, 2022. <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/advs.202201458"><strong>[PDF]</strong></a>
+[J36] M. Imani, S. Abadal, P. Del Hougne, <strong>"Metasurface-Programmable Wireless Network-on-Chip"</strong>, Advanced Science, vol. 9, no. 26, p. 2201458, 2022. <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/advs.202201458"><strong>[PDF]</strong></a>
 
 [J35] H. Taghvaee, A. Pitilakis, O. Tsilipakos, A. C. Tasolamprou, N. V. Kantartzis, M. Kafesaki, A. Cabellos-Aparicio, E. Alarcón, and S. Abadal, <strong>"Multi-Wideband Terahertz Communications via Tunable Graphene-based Metasurfaces in 6G Networks,"</strong> IEEE Vehicular Technology Magazine, 2022. <a href="https://arxiv.org/pdf/2203.10298.pdf"><strong>[PDF]</strong></a>
 

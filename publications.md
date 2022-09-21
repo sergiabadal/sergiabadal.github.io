@@ -192,7 +192,7 @@ Wireless Network-on-Chip Architecture,”</strong> in IEEE Transactions on Paral
     
 [C49] R. Asorey-Cacheda, F. Lemic, A.-J. García-Sánchez, S. Abadal, J. Famaey, J. García-Haro, <strong>"Nanorouter Awareness in Flow-Guided Nanocommunication Networks,"</strong> in Proceedings of the WiMob'21 Workshops, Virtual, October 2021. <a href="https://upcommons.upc.edu/bitstream/handle/2117/358664/cc-44.pdf?sequence=1&isAllowed=y"><strong>[PDF]</strong></a>
 
-[C48] S. Rodrigo, S. Abadal, C. G. Almudéver, E. Alarcón, <strong>"Modelling Short-range Quantum Teleportation for Scalable Multi-Core Quantum Computing Architectures,"</strong> in Proceedings of the ACM NANOCOM '21, Catania, Italy, September 2021.
+[C48] S. Rodrigo, S. Abadal, C. G. Almudéver, E. Alarcón, <strong>"Modelling Short-range Quantum Teleportation for Scalable Multi-Core Quantum Computing Architectures,"</strong> in Proceedings of the ACM NANOCOM '21, Catania, Italy, September 2021. <a href="https://upcommons.upc.edu/bitstream/handle/2117/359098/NanoCom_21.pdf?sequence=5&isAllowed=y"><strong>[PDF]</strong></a>
     
 [C47] T. Saeed, H. Taghvaee, E. Emoyon-Iredia, W. Aziz, S. Abadal, A. Pitsillides, V. Vassiliou, C. Liaskos, A. Tsioliaridou, S. Ioannidis, I. F. Akyildiz, M. Lestas, <strong>"On the Use of Programmable Metasurfaces in Vehicular Networks,"</strong> in Proceedings of the IEEE SPAWC '21, Lucca, Italy, September 2021. <a href="https://upcommons.upc.edu/bitstream/handle/2117/358659/Vehicular_Workload_Characterization_Reduction.pdf?sequence=1&isAllowed=y"><strong>[PDF]</strong></a>
     

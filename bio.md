@@ -19,7 +19,7 @@ Currently, he works as a distinguished researcher at the N3Cat group, at the Com
  
 ### Honors and Awards
 
-- **ACM NanoCom Outstanding Milestone Award**, in recognition for his transversal contributions in the field of wireless chip-scale communications, from electromagnetics to wireless-enabled computer architectures. October 2022.
+- **ACM NanoCom Outstanding Milestone Award**, in recognition for his transversal contributions in the field of wireless chip-scale communications, from electromagnetics to wireless-enabled computer architectures. October 2022. Past recipients of this award are Robert Schober, Ian Akyildiz, Sasitharan Balasubramaniam, Josep M. Jornet, and Ozgur Akan.
 - **Top 2% scientists in the world in 2020**, according to the Stanford's Ioannidis dataset. September 2021. **[[DATA]](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3)**
 - **National Champion of the European Innovation Council (EIC)**, designated to ~100 influential researchers and enterpreneurs across Europe. February 2021.
 - **Editor of the Year at the Nano Communication Networks Journal**, awarded to the best performing editor in a natural year. December 2019.

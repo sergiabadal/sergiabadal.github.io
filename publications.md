@@ -96,7 +96,7 @@ M. Lestas, <strong>"Workload Characterization and Traffic Analysis for Reconfigu
 [J31] F. Lemic, S. Abadal, W. Tavernier, P. Stroobant, D. Colle, E. Alarcón, J. Marquez-Barja, J. Famaey, <strong>"Survey on Terahertz Nanocommunication and Networking: A Top-Down Perspective,"</strong>  IEEE Journal on Selected Areas in Communications, vol. 36, no. 9, pp. 1506-1543, 2021. <strong><a href="https://arxiv.org/pdf/1909.05703.pdf">[PDF]</a></strong> <strong><a href="https://www.youtube.com/watch?v=j_WOGmeEmoU">[VIDEO]</a></strong> 
  
 [J30] K. Rouhi, S. E. Hosseininejad, S. Abadal, M. Khalily, R. Tafazolli, <strong>"Multi-Channel Near-Field Terahertz Communications Using
-Reprogrammable Graphene-Based Digital Metasurface,"</strong> IEEE/OSA Journal of Lightwave Technology, vol. 39, no. 21, pp. 6893-6907, 2021. <strong><a href="https://personals.ac.upc.edu/abadal/pdf/JLT-28104-2021.R2.pdf">[PDF]</a></strong>
+Reprogrammable Graphene-Based Digital Metasurface,"</strong> IEEE/OSA Journal of Lightwave Technology, vol. 39, no. 21, pp. 6893-6907, 2021. <strong><a href="https://upcommons.upc.edu/bitstream/handle/2117/355520/JLT-28104-2021.R2.pdf?sequence=3&isAllowed=y">[PDF]</a></strong>
  
 [J29] F. Lemic, S. Abadal, C. Han, J. Marquez-Barja, E. Alarcón, J. Famaey, <strong>"Localization in Power-Constrained Terahertz-Operating Software-Defined Metamaterials,"</strong> Nano Communication Networks (Elsevier), 2021. <strong><a href="https://arxiv.org/pdf/2011.02335.pdf">[PDF]</a></strong>
  

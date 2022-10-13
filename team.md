@@ -16,10 +16,11 @@ link_url: /recruitment
 #- Abhijit Das (PostDoc, 2023-2024)
 #- Ethungshan Shitiri (PostDoc, 2022-2023)
 #- Hamza Abbas Kiani (PhD, 2022-2025)
-#- Sahar Ben Rached (PhD, 2022-2025)
-#- Ama Bandara (PhD, 2022-2025)
+#- Mariam Musavi (PhD, 2022-2025)
 #- Llorenç Fanals (MSc, Spring '22 @ Stanford/Equal1)
 -->
+- Sahar Ben Rached (PhD, 2022-2025)
+- Ama Bandara (PhD, 2022-2025)
 - [Axel Wassington](https://www.linkedin.com/in/axel-wassington-258792a0/) (PhD, 2022-2025)
 - Fátima Rodríguez (PhD, 2021-2024)
 - Santiago Rodrigo (PhD, 2019-2022)

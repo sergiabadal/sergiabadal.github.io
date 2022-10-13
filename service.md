@@ -129,6 +129,7 @@ link_url: http://publons.com/author/1004804/sergi-abadal#profile
 - IEEE/OSA Journal of Lightwave Technology
 - IEEE Photonics Technology Letters
 - IEEE Access
+- IEEE Computer Architecture Letters
 - ACM Journal on Emerging Technologies in Computing Systems
 - ACM Transactions on Parallel Computing
 - Nanophotonics (De Gruyter)

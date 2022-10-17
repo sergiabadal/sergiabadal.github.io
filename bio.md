@@ -34,6 +34,7 @@ Currently, he works as a distinguished researcher at the N3Cat group, at the Com
  
 
 ### News Appearances
+- **[ENG] HiPEAC Info Magazine.** Interview with Dr. Sergi Abadal. October 2022. **[[LINK]](https://www.hipeac.net/magazine/7163.pdf)**
 - **[ENG] NEC Laboratories Europe.** NEC Student Research Fellowship Interview with Dr. Sergi Abadal. July 2022. **[[LINK]](https://www.neclab.eu/blog/nec-student-research-fellowship-interview-with-dr-sergi-abadal)** 
 - **[ESP] Atlas Tecnológico.** Quantum is worried about communications. May 2022. **[[LINK]](https://atlastecnologico.com/a-la-cuantica-le-preocupan-las-comunicaciones/)**
 - **[CAT] L'econòmic.** Europe jumps on the quantum bandwagon. April 2022. **[[LINK]](https://www.leconomic.cat/article/2125091-europa-puja-al-tren-de-la-quantica.html)**

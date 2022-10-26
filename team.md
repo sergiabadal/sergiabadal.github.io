@@ -22,6 +22,7 @@ link_url: /recruitment
 - Sahar Ben Rached (PhD, 2022-2025)
 - Ama Bandara (PhD, 2022-2025)
 - [Axel Wassington](https://www.linkedin.com/in/axel-wassington-258792a0/) (PhD, 2022-2025)
+- Eric Monné (PhD, 2022-2025)
 - Fátima Rodríguez (PhD, 2021-2024)
 - Santiago Rodrigo (PhD, 2019-2022)
 - Pau Escofet (MSc, Fall '22)

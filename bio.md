@@ -8,8 +8,6 @@ title: Biography
 {% endif %}
 
 
-### Biography
-
 Sergi Abadal received the PhD in Computer Architecture from the Department of Computer Architecture, Universitat Politècnica de Catalunya (UPC), Barcelona, Spain, in July 2016. Previously, he had obtained the M.Sc. in Information and Communication Technologies (MINT) and the B.Sc. in Telecommunication Engineering from the Telecommunication Engineering School (Telecom BCN), UPC, Barcelona, Spain, in 2011 and 2010, respectively.
 
 Sergi has held several visiting researcher positions. From September 2009 to May 2010, he was at the Broadband Wireless Networking Lab, Georgia Tech, under the supervision of Prof. Ian F. Akyildiz. For several months in 2015/2017/2019, he has been visiting the i-acoma group, School of Computer Science, University of Illinois, Urbana-Champaign (USA), led by Prof. Josep Torrellas. In July and August 2018, he visited Dr. Liaskos and Dr. Ioannidis at FORTH, Crete, Greece.

@@ -66,9 +66,10 @@ link_url: http://publons.com/author/1004804/sergi-abadal#profile
 
 - ACM 29th Annual International Conference On Mobile Computing And Networking (MobiCom), 2023.
 - IEEE International Conference on Communications (ICC), Molecular, Biological and Multi-Scale Communications Track, 2022, 2023.
+- IEEE Global Communications Conference (GLOBECOM), Molecular, Biological and Multi-Scale Communications Track, 2019, 2020, 2021, 2022.
+- IEEE International Symposium on Circuits & Systems (ISCAS), 2019, 2020, 2021, 2022, 2023.
 - IEEE Vehicular Technology Conference (VTC-Spring), 2019, 2020, 2021.
 - IEEE Vehicular Technology Conference (VTC-Fall), 2018, 2019, 2020, 2021.
-- IEEE Global Communications Conference (GLOBECOM), Molecular, Biological and Multi-Scale Communications Track, 2019, 2020, 2021, 2022.
 - IEEE Int'l Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC), 2018, 2019, 2020, 2021.
 - International Conference on Innovation and Intelligence for Informatics, Computing, and Technologies (3ICT), 2019, 2020.
 - IEEE/ACM International Symposium on Networks-on-Chip (NOCS), October 2020.

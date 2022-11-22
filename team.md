@@ -25,7 +25,7 @@ link_url: /recruitment
 - Eric Monné (PhD, 2022-2025)
 - Fátima Rodríguez (PhD, 2021-2024)
 - Santiago Rodrigo (PhD, 2019-2022)
-- Pau Escofet (MSc, Fall '22)
+- [Pau Escofet](http://pauescofet.com/) (MSc, Fall '22)
 - Nitish Arya (MSc, Fall '22)
 - Arnau Brosa (BSc, Fall '22)
 - Pau Talarn (BSc, Fall '22)

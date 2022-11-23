@@ -166,7 +166,7 @@ Wireless Network-on-Chip Architecture,”</strong> in IEEE Transactions on Paral
 <br/><br/>
 ### <a name="conference"></a> Conference Papers
 
-[C61] R. Medina, J. Klein, G. Ansaloni, M. Zapater, S. Abadal, E. Alarcón, and D. Atienza, <strong>"System-Level Exploration of In-Package Wireless Communication for Multi-Chiplet Platforms",</strong> Proceedings of the ASP-DAC 2023, Tokyo, Japan, January 2023.
+[C61] R. Medina, J. Klein, G. Ansaloni, M. Zapater, S. Abadal, E. Alarcón, and D. Atienza, <strong>"System-Level Exploration of In-Package Wireless Communication for Multi-Chiplet Platforms",</strong> Proceedings of the ASP-DAC 2023, Tokyo, Japan, January 2023. <strong><a href="https://infoscience.epfl.ch/record/298245/files/System-Level%20Exploration%20of%20In-Package%20Wireless%20Communication%20for%20Multi-Chiplet%20Platforms.pdf">[PDF]</a></strong>
 
 [C60] K. Ntontin, A.-A. A. Boulogeorgos, Z. Abdullah, A. Mesodiakaki, S. Abadal, and S. Chatziontas, <strong>"Time vs. Unit Cell Splitting for Autonomous Reconfigurable Intelligent Surfaces",</strong> Proceedings of the GLOBECOM 2022, Rio de Janeiro, Brazil, December 2022.
 

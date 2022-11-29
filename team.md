@@ -25,11 +25,12 @@ link_url: /recruitment
 - Eric Monné (PhD, 2022-2025)
 - Fátima Rodríguez (PhD, 2021-2024)
 - Santiago Rodrigo (PhD, 2019-2022)
-- [Pau Escofet](http://pauescofet.com/) (MSc, Fall '22)
-- Nitish Arya (MSc, Fall '22)
+- [Pau Escofet](http://pauescofet.com/) (MSc, Spring '23)
+- Walid Ider (MSc, Spring '23)
+- Nitish Arya (MSc, Spring '23)
+- Pau Talarn (BSc, Spring '23)
+- Bernat Ollé (BSc, Spring '23)
 - Arnau Brosa (BSc, Fall '22)
-- Pau Talarn (BSc, Fall '22)
-- Bernat Ollé (BSc, Fall '22)
 - Roger González Sedano (BSc, Fall '22)
 
 

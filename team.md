@@ -17,6 +17,7 @@ link_url: /recruitment
 #- Ethungshan Shitiri (PostDoc, 2022-2023)
 #- Hamza Abbas Kiani (PhD, 2022-2025)
 #- Mariam Musavi (PhD, 2022-2025)
+#- Haroon Ahmed (PhD, 2022-2025)
 #- Llorenç Fanals (MSc, Spring '22 @ Stanford/Equal1)
 -->
 - Sahar Ben Rached (PhD, 2022-2025)

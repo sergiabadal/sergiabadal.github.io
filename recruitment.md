@@ -14,6 +14,7 @@ Our research group is always looking for bright and motivated individuals to joi
 Check some of the links below for more details:
 - **Post-Doctoral Researcher** in [Scalable Quantum Computing](https://euraxess.ec.europa.eu/jobs/856042)
 - **Full PhD Scholarship** in [Quantum Computing Architecture](https://euraxess.ec.europa.eu/jobs/856013)
+- **Full PhD Scholarship** in [Next-Generation Computing Architecture](https://euraxess.ec.europa.eu/jobs/53365)
 
 
 The positions will remain open until suitable candidates are hired. 

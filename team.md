@@ -17,8 +17,6 @@ link_url: /recruitment
 #- Ethungshan Shitiri (PostDoc, 2022-2023)
 #- Hamza Abbas Kiani (PhD, 2022-2025)
 #- Mariam Musavi (PhD, 2022-2025)
-#- Haroon Ahmed (PhD, 2022-2025)
-#- Llorenç Fanals (MSc, Spring '22 @ Stanford/Equal1)
 -->
 - Sahar Ben Rached (PhD, 2022-2025)
 - Ama Bandara (PhD, 2022-2025)
@@ -29,6 +27,7 @@ link_url: /recruitment
 - [Pau Escofet](http://pauescofet.com/) (MSc, Spring '23)
 - Walid Ider (MSc, Spring '23)
 - Nitish Arya (MSc, Spring '23)
+- Arnau Pastor (BSc, Spring '23)
 - Pau Talarn (BSc, Spring '23)
 - Bernat Ollé (BSc, Spring '23)
 - Arnau Brosa (BSc, Fall '22)

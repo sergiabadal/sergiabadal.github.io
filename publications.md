@@ -168,7 +168,11 @@ Wireless Network-on-Chip Architecture,”</strong> in IEEE Transactions on Paral
 <br/><br/>
 ### <a name="conference"></a> Conference Papers
 
-[C62] B. Ollé, P. Talarn, A. Cabellos-Aparicio, F. Lemic, E. Alarcón, and S. Abadal, <strong>"Multi-Channel Medium Access Control Protocols for Wireless Networks Within Computing Packages",</strong> Proceedings of the IEEE ISCAS 2023, Monterey, USA, May 2023.
+[C64] B. Ollé, P. Talarn, A. Cabellos-Aparicio, F. Lemic, E. Alarcón, and S. Abadal, <strong>"Multi-Channel Medium Access Control Protocols for Wireless Networks Within Computing Packages",</strong> Proceedings of the IEEE ISCAS 2023, Monterey, USA, May 2023.
+
+[C63] E. Alarcón, S. Abadal, F. Sebastiano, M. Babaie, E. Charbon, P. Haring Bolívar, M. Palesi, E. Blokhina, D. Leipold, B. Staszewski, A. Garcia, and C. G. Almudever, <strong>"Scalable multi-Chip Quantum Architectures Enabled by Cryogenic Hybrid wireless/quantum-Coherent network-in-Package",</strong> Proceedings of the IEEE ISCAS 2023, Monterey, USA, May 2023.
+
+[C62] A. Ovide, S. Rodrigo, M. Bandic, H. Van Someren, S. Feld, S. Abadal, E. Alarcón, and C. Almudéver, <strong>"Mapping Quantum Algorithms to multi-Core Quantum Computing Architectures",</strong> Proceedings of the IEEE ISCAS 2023, Monterey, USA, May 2023.
 
 [C61] R. Medina, J. Klein, G. Ansaloni, M. Zapater, S. Abadal, E. Alarcón, and D. Atienza, <strong>"System-Level Exploration of In-Package Wireless Communication for Multi-Chiplet Platforms",</strong> Proceedings of the ASP-DAC 2023, Tokyo, Japan, January 2023. <strong><a href="https://infoscience.epfl.ch/record/298245/files/System-Level%20Exploration%20of%20In-Package%20Wireless%20Communication%20for%20Multi-Chiplet%20Platforms.pdf">[PDF]</a></strong>
 

@@ -27,6 +27,7 @@ link_url: /recruitment
 - [Pau Escofet](http://pauescofet.com/) (MSc, Spring '23)
 - Walid Ider (MSc, Spring '23)
 - Nitish Arya (MSc, Spring '23)
+- Pablo Galván (BSc, Spring '23)
 - Arnau Pastor (BSc, Spring '23)
 - Pau Talarn (BSc, Spring '23)
 - Bernat Ollé (BSc, Spring '23)

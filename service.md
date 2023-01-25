@@ -113,6 +113,7 @@ link_url: http://publons.com/author/1004804/sergi-abadal#profile
 - IEEE Transactions on Communications
 - IEEE Transactions on Wireless Communications
 - IEEE Transactions on Antennas and Propagation
+- IEEE Transactions on Microwave Theory and Techniques
 - IEEE Transactions on Nanotechnology
 - IEEE Transactions on Quantum Engineering
 - IEEE Transactions on Vehicular Technology

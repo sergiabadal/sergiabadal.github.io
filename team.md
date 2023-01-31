@@ -15,7 +15,6 @@ link_url: /recruitment
 <!--
 #- Abhijit Das (PostDoc, 2023-2024)
 #- Ethungshan Shitiri (PostDoc, 2022-2023)
-#- Hamza Abbas Kiani (PhD, 2022-2025)
 #- Mariam Musavi (PhD, 2022-2025)
 -->
 - Sahar Ben Rached (PhD, 2022-2025)
@@ -27,6 +26,7 @@ link_url: /recruitment
 - [Pau Escofet](http://pauescofet.com/) (MSc, Spring '23)
 - Walid Ider (MSc, Spring '23)
 - Nitish Arya (MSc, Spring '23)
+- Mehdi Hassanpour (MSc, Spring '23)
 - Pablo Galván (BSc, Spring '23)
 - Arnau Pastor (BSc, Spring '23)
 - Isaac López Agudo (BSc, Spring '23)

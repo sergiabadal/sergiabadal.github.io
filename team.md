@@ -32,6 +32,7 @@ link_url: /recruitment
 - Isaac López Agudo (BSc, Spring '23)
 - Pau Talarn (BSc, Spring '23)
 - Bernat Ollé (BSc, Spring '23)
+- Gerard Calvo (BSc, Spring '23)
 - Abderrahman Ettahrioui (BSc, Spring '23 @ Polimi)
 - Arnau Brosa (BSc, Fall '22)
 - Roger González Sedano (BSc, Fall '22)

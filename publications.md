@@ -73,6 +73,8 @@ S. Rodrigo, S. Abadal, E. Alarcón, C. Almudéver, <strong>"Exploring a Double F
 <br/><br/>
 ### <a name="journal"></a> Journal Papers
 
+[J41] R. Guirado, A. Rahimi, G. Karunaratne, E. Alarcón, A. Sebastian and S. Abadal, <strong>"WHYPE: A Scale-Out Architecture with Wireless Over-the-Air Majority for Scalable In-memory Hyperdimensional Computing,"</strong> IEEE Journal on Emerging and Selected Topics in Circuits and Systems, 2023.
+
 [J40] N. Ashraf, T. Saeed, H. Taghvaee, S. Abadal, V. Vassiliou, C. Liaskos, A. Pitsillides and M. Lestas, <strong>"Intelligent Beam Steering for Wireless Communication Using Programmable Metasurfaces,"</strong> IEEE Transactions on Intelligent Transportation Systems, 2023.
 
 [J39] S. Abadal, R. Guirado, H. Taghvaee, A. Jain, E. Pereira de Santana, P. Haring Bolívar, M. Saeed, R. Negra, Z. Wang, K-T. Wang, M. C. Lemme, J. Klein, M. Zapater, A. Levisse, D. Atienza, D. Rossi, F. Conti, M. Dazzi, G. Karunaratne, I. Boybat and A. Sebastian, <strong>"Graphene-based Wireless Agile Interconnects for

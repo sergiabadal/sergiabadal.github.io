@@ -35,14 +35,12 @@ link_url: /recruitment
 - Gerard Calvo (BSc, Spring '23)
 - Abderrahman Ettahrioui (BSc, Spring '23 @ Polimi)
 - Arnau Brosa (BSc, Fall '22)
-- Roger González Sedano (BSc, Fall '22)
-
-
 
 ### Alumni
 
 - [Akshay Jain](https://www.linkedin.com/in/akshay91jain) (PostDoc, 2020-2021)
 - [Hamidreza Taghvaee](https://www.nottingham.ac.uk/research/groups/ggiemr/people/hamidreza.taghvaee) (PhD, 2018-2021)
+- Roger González Sedano (BSc, Fall '22)
 - Dimas Ávila (MSc, Spring '22)
 - Rocco Picone (MSc, Spring '22 from Reggio-Calabria)
 - Domenico Spanò (MSc, Spring '22 from Reggio-Calabria)

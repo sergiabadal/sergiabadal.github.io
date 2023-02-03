@@ -30,7 +30,7 @@ Check out the details [here](/recruitment).
 ---
 
 ### News
-- **Jan 2023**: Three papers have been accepted at **IEEE ISCAS 2023**. Congrats to **Bernat Ollé** and **Pau Talarn** for their first paper! 
+- **Jan 2023**: Three papers have been accepted at **IEEE ISCAS 2023** and one paper in **IEEE JETCAS**. Congrats to **Bernat Ollé** and **Pau Talarn** for their first paper! 
 - **Oct 2022**: Sergi has been given the **ACM NanoCom Outstanding Milestone Award** for his contributions in wireless chip-scale communications! 
 - **Jun 2022**: Our alumni **Robert Guirado** won the IN-NOVA Award to the best master thesis and the IBM Award to the best academic record for his work on [wireless over-the-air computation in on-chip scenarios](https://arxiv.org/pdf/2205.10889.pdf) accepted at **IJCNN/WCCI 2022**. These awards are given by the COIT (Spanish Association of Telecommunication Engineers) and recognize the best works in Spain. See the list [here](https://www.coit.es/sites/default/files/premiados_xlii_convocatoria.pdf).
 - **Apr 2022**: New paper on metasurface-programmable wireless networks-on-chip accepted at **Advanced Science**.

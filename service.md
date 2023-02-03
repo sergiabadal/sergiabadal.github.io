@@ -118,6 +118,7 @@ link_url: http://publons.com/author/1004804/sergi-abadal#profile
 - IEEE Transactions on Quantum Engineering
 - IEEE Transactions on Vehicular Technology
 - IEEE Transactions on Emerging Topics in Computing
+- IEEE Transactions on Sustainable Computing
 - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
 - IEEE Transactions on Very Large Scale Integration
 - IEEE Transactions on Computers

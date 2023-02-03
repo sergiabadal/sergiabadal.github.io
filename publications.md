@@ -186,7 +186,7 @@ Wireless Network-on-Chip Architecture,”</strong> in IEEE Transactions on Paral
 
 [C57] F. Lemic, S. Abadal, A. Stevanovic, E. Alarcón, J. Famaey, <strong>"Toward Location-aware In-body Terahertz Nanonetworks with Energy Harvesting,"</strong> Proceedings of the ACM NANOCOM'22, Barcelona, Spain, October 2022. <strong><a href="https://arxiv.org/pdf/2101.01952.pdf">[PDF]</a></strong>
 
-[C56] H. Taghvaee, A. Pitilakis, O. Tsilipakos, A. C. Tasolamprou, N. V. Kantartzis, M. Kafesaki, A. Cabellos-Aparicio, E. Alarcón, S. Abadal, and G. Gradoni, <strong>"Tunable Graphene-based Metasurfaces for Multi-Wideband 6G Communications",</strong> Proceedings of the Metamaterials Conference 2022, Siena, Italy, September 2022.
+[C56] H. Taghvaee, A. Pitilakis, O. Tsilipakos, A. C. Tasolamprou, N. V. Kantartzis, M. Kafesaki, A. Cabellos-Aparicio, E. Alarcón, S. Abadal, and G. Gradoni, <strong>"Tunable Graphene-based Metasurfaces for Multi-Wideband 6G Communications",</strong> Proceedings of the Metamaterials Conference 2022, Siena, Italy, September 2022. <strong><a href="https://upcommons.upc.edu/bitstream/handle/2117/382089/Meta_Conf_2022__Multiband_.pdf">[PDF]</a></strong>
 
 [C55] R. Guirado, A. Rahimi, G. Karunaratne, E. Alarcón, A. Sebastian, and S. Abadal, <strong>"Wireless On-Chip Communications for Scalable In-memory Hyperdimensional Computing,"</strong> Proceedings of the IJCNN/WCCI 2022, Padova, Italy, July 2022. <strong><a href="https://arxiv.org/pdf/2205.10889.pdf">[PDF]</a></strong>
 

@@ -14,6 +14,7 @@ title: Talks
 
 ### Talks and Seminars
 
+- **Accelerating Computing with Wireless Networks inside Computing Packages** at the Chinese Association for Artificial Intelligence (CAAI) academic workshops, Remote, February 2023.
 - **Graphene nano-antennas for wireless communications at the chip scale,** at the 3rd Annual Congress of Nanoscience and Nanotechnology, Barcelona, Spain, November 2021. **[[VIDEO]](https://www.youtube.com/watch?v=FBXCrbkieeI)**
 - **Towards Wireless-enabled Multicore Computer Architectures,** RWTH Aachen, November 2021.
 - **Towards the internet of everything: THz wireless networks for next generation compute platforms,** in the WWRF Workshop of THz Waves: Fast Lane Journey to 6G, Wireless World Research Forum, Virtual Event, April 2021.

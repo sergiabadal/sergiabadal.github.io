@@ -82,7 +82,7 @@ Massive Heterogeneous Multi-chip Processors,"</strong> IEEE Wireless Communicati
 - [ENG] <a href="https://www.upc.edu/en/press-room/news/the-upc-leads-a-project-to-develop-faster-lower-power-processors-for-artificial-intelligence">UPC Press Release</a>
 - [ESP] <a href="https://www.computing.es/movilidad/noticias/1121206046501/upc-investiga-desarrollar-procesadores-ia-mas-sostenibles.1.html">Computing.es</a>
 
-[J38] K. Ntontin, A.-A. A. Boulogeorgos, E. BJörnson, W. A. Martins, S. Kisseleff, S. Abadal, E. Alarcón, A. Papazafeiropoulos, F. Lazarakis, S. Chatzinotas, <strong>"Wireless Energy Harvesting For Autonomous Reconfigurable Intelligent Surfaces,"</strong> IEEE Transactions on Green Communications and Networking, 2022. <a href="https://upcommons.upc.edu/bitstream/handle/2117/375467/Wireless_Energy_Harvesting_For_Autonomous_Reconfigurable_Intelligent_Surfaces.pdf"><strong>[PDF]</strong></a>
+[J38] K. Ntontin, A.-A. A. Boulogeorgos, E. BJörnson, W. A. Martins, S. Kisseleff, S. Abadal, E. Alarcón, A. Papazafeiropoulos, F. Lazarakis, S. Chatzinotas, <strong>"Wireless Energy Harvesting For Autonomous Reconfigurable Intelligent Surfaces,"</strong> IEEE Transactions on Green Communications and Networking, vol. 7, no. 1, pp. 114-129, 2023. <a href="https://upcommons.upc.edu/bitstream/handle/2117/375467/Wireless_Energy_Harvesting_For_Autonomous_Reconfigurable_Intelligent_Surfaces.pdf"><strong>[PDF]</strong></a>
 
 [J37] H. Taghvaee, A. Jain, S. Abadal, G. Gradoni, E. Alarcón, A. Cabellos-Aparicio, <strong>"On the Enabling of Multi-user Communications with Reconfigurable Intelligent Surfaces",</strong> IEEE Transactions on Nanotechnology, vol. 21, pp. 413-423, 2022. <strong><a href="https://arxiv.org/pdf/2106.06789.pdf">[PDF]</a></strong>
 

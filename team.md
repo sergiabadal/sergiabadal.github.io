@@ -27,6 +27,7 @@ link_url: /recruitment
 - Walid Ider (MSc, Spring '23)
 - Nitish Arya (MSc, Spring '23)
 - Mehdi Hassanpour (MSc, Spring '23)
+- Alberto Mármol (MSc, Spring '23)
 - Pablo Galván (BSc, Spring '23)
 - Arnau Pastor (BSc, Spring '23)
 - Isaac López Agudo (BSc, Spring '23)

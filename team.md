@@ -16,7 +16,7 @@ link_url: /recruitment
 #- Mariam Musavi (PhD, 2023-2026)
 #- Kianoosh Kazemi (PhD, 2023-2026)
 -->
-- Abhijit Das (PostDoc, 2023-2024)
+- [Abhijit Das](https://abhijitcse.github.io/) (PostDoc, 2023-2024)
 - Ethungshan Shitiri (PostDoc, 2023-2024)
 - Sahar Ben Rached (PhD, 2022-2025)
 - Ama Bandara (PhD, 2022-2025)

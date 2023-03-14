@@ -14,16 +14,15 @@ link_url: /recruitment
 
 <!--
 #- Mariam Musavi (PhD, 2023-2026)
-#- Kianoosh Kazemi (PhD, 2023-2026)
 -->
 - [Abhijit Das](https://abhijitcse.github.io/) (PostDoc, 2023-2024)
-- Ethungshan Shitiri (PostDoc, 2023-2024)
+- [Ethungshan Shitiri](https://sites.google.com/view/ethungshanshitiri/) (PostDoc, 2023-2024)
 - Sahar Ben Rached (PhD, 2022-2025)
-- Ama Bandara (PhD, 2022-2025)
+- [Ama Bandara](https://www.linkedin.com/in/ama-bandara-a02a5a168/) (PhD, 2022-2025)
 - [Axel Wassington](https://www.linkedin.com/in/axel-wassington-258792a0/) (PhD, 2022-2025)
 - Eric Monné (PhD, 2022-2025)
 - Fátima Rodríguez (PhD, 2021-2024)
-- Santiago Rodrigo (PhD, 2019-2022)
+- Santiago Rodrigo (PhD, 2019-2023)
 - [Pau Escofet](http://pauescofet.com/) (MSc, Spring '23)
 - Walid Ider (MSc, Spring '23)
 - Nitish Arya (MSc, Spring '23)
@@ -34,7 +33,7 @@ link_url: /recruitment
 - Isaac López Agudo (BSc, Spring '23)
 - Pau Talarn (BSc, Spring '23)
 - Bernat Ollé (BSc, Spring '23)
-- Gerard Calvo (BSc, Spring '23)
+- [Gerard Calvo](https://www.linkedin.com/in/gerard-calvo-bartra-306a41167/) (BSc, Spring '23)
 - Abderrahman Ettahrioui (BSc, Spring '23 @ Polimi)
 - Arnau Brosa (BSc, Fall '22)
 
@@ -57,7 +56,7 @@ link_url: /recruitment
 - Pritkumar Godhani (BSc, Spring '22 from IIT Kharagpur)
 - Yash Agrawal (BSc, Spring '22 from IIT Kharagpur)
 - Ioanna Kastaniotti (MSc, Fall '21 from DUTh)
-- Ruizhe Yu Xia (MSc, Fall '21)
+- [Ruizhe Yu Xia](https://www.linkedin.com/in/ruizheyuxia/) (MSc, Fall '21)
 - Axel Wassington (MSc, Fall '21)
 - Carlos Gascón (MSc, Fall '21)
 - Emilie Pietersoone (BSc, Fall '21 from INSA Lyon)
@@ -76,10 +75,10 @@ link_url: /recruitment
 - Pau Olivé (BSc, Spring '19)
 - Carlos Manso (MSc, Spring '18)
 - Premkumara Viswanathan (MSc, Spring '18)
-- Adrián Marruedo (BSc, Spring '18 @ University of Illinois at Urbana-Champaign)
+- [Adrián Marruedo](https://adrian-marruedo.com/) (BSc, Spring '18 @ University of Illinois at Urbana-Champaign)
 - Alejandro Barcia (BSc, Spring '18)
 - Àlex Martinavarro (BSc, Fall '18)
-- Alejandro López Lao (BSc, Fall '18)
+- [Alejandro López Lao](https://www.linkedin.com/in/alejandro-l%C3%B3pez-lao-213a84151) (BSc, Fall '18)
 - Xavier Timoneda (BSc, Spring '17 @ University of Illinois at Urbana-Champaign)
 
 

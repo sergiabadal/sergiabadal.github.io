@@ -28,7 +28,7 @@ link_url: /recruitment
 - Nitish Arya (MSc, Spring '23)
 - [Mehdi Hassanpour](https://www.linkedin.com/in/mehdi-hassanpour-391a67a8/) (MSc, Spring '23)
 - Alberto Mármol (MSc, Spring '23)
-- Pablo Galván (BSc, Spring '23)
+- [Pablo Galván](https://www.linkedin.com/in/pablo-galv%C3%A1n-calder%C3%B3n-057298265) (BSc, Spring '23)
 - [Arnau Pastor](https://www.linkedin.com/in/arnaupastor/) (BSc, Spring '23)
 - [Isaac López Agudo](https://www.linkedin.com/in/isaac-lopez-agudo/) (BSc, Spring '23)
 - Pau Talarn (BSc, Spring '23)
@@ -73,7 +73,7 @@ link_url: /recruitment
 - [Robert Guirado](https://gea.ssr.upm.es/equipo/robert-guirado/) (BSc, Spring '19 @ Georgia Tech)
 - Roshni Maniraj (BSc, Spring '19 from Amrita)
 - Pau Olivé (BSc, Spring '19)
-- Carlos Manso (MSc, Spring '18)
+- [Carlos Manso](https://www.cttc.cat/people/carlos-manso) (MSc, Spring '18)
 - Premkumara Viswanathan (MSc, Spring '18)
 - [Adrián Marruedo](https://adrian-marruedo.com/) (BSc, Spring '18 @ University of Illinois at Urbana-Champaign)
 - Alejandro Barcia (BSc, Spring '18)
@@ -85,11 +85,11 @@ link_url: /recruitment
 
 ### Visiting Scholars
 
-- Mounir Arioua (Professor, Abdelmalek Essaâdi University, Morocco; May 2022)
-- Filip Lemic (Postdoc / MSCA Fellow, University of Antwerpen, Belgium; 2021 and 2022)
-- Taqua Saeed (PhD candidate, Frederick University, Cyprus; February 2019)
-- Seyed Ehsan Hosseininejad (PostDoc, University of Tehran, Iran; April 2018)
-- Pieter Stroobant (PhD candidate, University of Ghent, Belgium; May 2017)
+- [Mounir Arioua](https://ieeexplore.ieee.org/author/37589390700) (Professor, Abdelmalek Essaâdi University, Morocco; May 2022)
+- [Filip Lemic](https://sites.google.com/view/filip-lemic/home) (Postdoc / MSCA Fellow, University of Antwerpen, Belgium; 2021 and 2022)
+- [Taqua Saeed](https://www.linkedin.com/in/taqwa-saeed-11498152) (PhD candidate, Frederick University, Cyprus; February 2019)
+- [Seyed Ehsan Hosseininejad](https://ieeexplore.ieee.org/author/38581149000) (PostDoc, University of Tehran, Iran; April 2018)
+- [Pieter Stroobant](https://www.linkedin.com/in/pieter-stroobant-b38938197) (PhD candidate, University of Ghent, Belgium; May 2017)
 
 
 

@@ -22,7 +22,7 @@ link_url: /recruitment
 - [Axel Wassington](https://www.linkedin.com/in/axel-wassington-258792a0/) (PhD, 2022-2025)
 - Eric Monné (PhD, 2022-2025)
 - [Fátima Rodríguez](https://www.linkedin.com/in/f%C3%A1tima-yolanda-rodr%C3%ADguez-gal%C3%A1n-96b3381a8/) (PhD, 2021-2024)
-- Santiago Rodrigo (PhD, 2019-2023)
+- [Santiago Rodrigo](https://www.linkedin.com/in/santiago-rodrigo-mu%C3%B1oz-5b14a743) (PhD, 2019-2023)
 - [Pau Escofet](http://pauescofet.com/) (MSc, Spring '23)
 - Walid Ider (MSc, Spring '23)
 - Nitish Arya (MSc, Spring '23)

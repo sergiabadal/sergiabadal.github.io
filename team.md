@@ -20,7 +20,7 @@ link_url: /recruitment
 - Sahar Ben Rached (PhD, 2022-2025)
 - [Ama Bandara](https://www.linkedin.com/in/ama-bandara-a02a5a168/) (PhD, 2022-2025)
 - [Axel Wassington](https://www.linkedin.com/in/axel-wassington-258792a0/) (PhD, 2022-2025)
-- Eric Monné (PhD, 2022-2025)
+- [Eric Monné](http://www.ericmonne.me/) (PhD, 2022-2025)
 - [Fátima Rodríguez](https://www.linkedin.com/in/f%C3%A1tima-yolanda-rodr%C3%ADguez-gal%C3%A1n-96b3381a8/) (PhD, 2021-2024)
 - [Santiago Rodrigo](https://www.linkedin.com/in/santiago-rodrigo-mu%C3%B1oz-5b14a743) (PhD, 2019-2023)
 - [Pau Escofet](http://pauescofet.com/) (MSc, Spring '23)

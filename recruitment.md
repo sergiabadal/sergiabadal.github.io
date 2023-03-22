@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Join us!
-subtitle: If you think you can make a difference, even if you do not see an open position,  
+subtitle: If you think you can make a difference, even if you do not see an open position or they have expired,  
 link_name: send me your CV
 link_url: mailto:&#97;&#98;&#97;&#100;&#97;&#108;&#64;&#97;&#99;&#46;&#117;&#112;&#99;&#46;&#101;&#100;&#117;
 ---

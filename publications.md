@@ -75,7 +75,7 @@ S. Rodrigo, S. Abadal, E. Alarcón, C. Almudéver, <strong>"Exploring a Double F
 <br/><br/>
 ### <a name="journal"></a> Journal Papers
 
-[J41] R. Guirado, A. Rahimi, G. Karunaratne, E. Alarcón, A. Sebastian and S. Abadal, <strong>"WHYPE: A Scale-Out Architecture with Wireless Over-the-Air Majority for Scalable In-memory Hyperdimensional Computing,"</strong> IEEE Journal on Emerging and Selected Topics in Circuits and Systems, 2023. <strong><a href="https://arxiv.org/pdf/2303.08067.pdf">[PDF]</a></strong>
+[J41] R. Guirado, A. Rahimi, G. Karunaratne, E. Alarcón, A. Sebastian and S. Abadal, <strong>"WHYPE: A Scale-Out Architecture with Wireless Over-the-Air Majority for Scalable In-memory Hyperdimensional Computing,"</strong> IEEE Journal on Emerging and Selected Topics in Circuits and Systems, vol. 13, no. 1, pp. 137-149, 2023. <strong><a href="https://arxiv.org/pdf/2303.08067.pdf">[PDF]</a></strong>
 
 [J40] N. Ashraf, T. Saeed, H. Taghvaee, S. Abadal, V. Vassiliou, C. Liaskos, A. Pitsillides and M. Lestas, <strong>"Intelligent Beam Steering for Wireless Communication Using Programmable Metasurfaces,"</strong> IEEE Transactions on Intelligent Transportation Systems, 2023. <strong><a href="https://www.researchgate.net/publication/368439002_Intelligent_Beam_Steering_for_Wireless_Communication_Using_Programmable_Metasurfaces">[PDF]</a></strong>
 

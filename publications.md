@@ -290,20 +290,15 @@ Communications within Computing Packages,”</strong> in Proceedings of the ACM/
 			    
 [C7] G. Piro, S. Abadal, A. Mestres, E. Alarcón, J. Solé-Pareta, L. A. Grieco, G. Boggia,<strong>“Initial MAC Exploration for Graphene-enabled Wireless Networks-on-Chip,”</strong> in Proceedings of the ACM NANOCOM '14, May 2014
 	    
-[C6] I. Llatser, S. Abadal, A. Mestres, A. Cabellos-Aparicio and E. Alarcón, <strong>“Graphene-enabled Wireless Networks-on-Chip,”</strong> in Proceedings of the IEEE BlackSeaCom '13, pp. 69–73, July 2013.  
-<strong><a href="http://www.n3cat.upc.edu/papers/Graphene-enabled_Wireless_Networks-on-Chip.pdf">[PDF]</a></strong>
+[C6] I. Llatser, S. Abadal, A. Mestres, A. Cabellos-Aparicio and E. Alarcón, <strong>“Graphene-enabled Wireless Networks-on-Chip,”</strong> in Proceedings of the IEEE BlackSeaCom '13, pp. 69–73, July 2013. <strong><a href="http://www.n3cat.upc.edu/papers/Graphene-enabled_Wireless_Networks-on-Chip.pdf">[PDF]</a></strong>
           
-[C5] S. Abadal, A. Cabellos-Aparicio, J. A. Lázaro, M. Nemirovsky, E. Alarcón and J. Solé-Pareta,  <strong>&quot;Area and Laser Power Scalability Analysis in Photonic Networks-on-Chip&quot;</strong>, in Proceedings of the IEEE ONDM '13, pp. 131-136, April 2013.
-<strong><a href="http://www.n3cat.upc.edu/papers/Area_and_Laser_Power_Scalability_Analysis_in_Photonic_Networks-on-Chip.pdf">[PDF]</a></strong>
+[C5] S. Abadal, A. Cabellos-Aparicio, J. A. Lázaro, M. Nemirovsky, E. Alarcón and J. Solé-Pareta,  <strong>&quot;Area and Laser Power Scalability Analysis in Photonic Networks-on-Chip&quot;</strong>, in Proceedings of the IEEE ONDM '13, pp. 131-136, April 2013. <strong><a href="http://www.n3cat.upc.edu/papers/Area_and_Laser_Power_Scalability_Analysis_in_Photonic_Networks-on-Chip.pdf">[PDF]</a></strong>
                  
-[C4] S. Abadal, A. Cabellos-Aparicio, J. A. Lázaro, E. Alarcón and J. Solé-Pareta, <strong>“Scalable NoC Architectures: Efficient and Low Energy Consumption Chip Communication</strong>,” in Proceedings of the IEEE Photonics in Switching, September 2012. 
-<strong><a href="http://www.n3cat.upc.edu/papers/Scalable_NoC_Arquitectures_Efficient_and_Low_Energy_Chip_Communication.pdf">[PDF]</a></strong>
+[C4] S. Abadal, A. Cabellos-Aparicio, J. A. Lázaro, E. Alarcón and J. Solé-Pareta, <strong>“Scalable NoC Architectures: Efficient and Low Energy Consumption Chip Communication</strong>,” in Proceedings of the IEEE Photonics in Switching, September 2012. <strong><a href="http://www.n3cat.upc.edu/papers/Scalable_NoC_Arquitectures_Efficient_and_Low_Energy_Chip_Communication.pdf">[PDF]</a></strong>
                  
-[C3] S. Abadal, A. Cabellos-Aparicio, J. A. Lázaro, E. Alarcón and J. Solé-Pareta, <strong>“Graphene-enabled hybrid architectures for multiprocessors: bridging nanophotonics and nanoscale wireless communication</strong>,” in Proceedings of the IEEE ICTON '14, July 2012.    
-<strong><a href="http://www.n3cat.upc.edu/papers/Graphene-enabled_hybrid_architectures_for_multiprocessors-bridging_nanophotonics_and_nanoscale_wireless_communication.pdf">[PDF]</a></strong>
+[C3] S. Abadal, A. Cabellos-Aparicio, J. A. Lázaro, E. Alarcón and J. Solé-Pareta, <strong>“Graphene-enabled hybrid architectures for multiprocessors: bridging nanophotonics and nanoscale wireless communication</strong>,” in Proceedings of the IEEE ICTON '12, July 2012. <strong><a href="http://www.n3cat.upc.edu/papers/Graphene-enabled_hybrid_architectures_for_multiprocessors-bridging_nanophotonics_and_nanoscale_wireless_communication.pdf">[PDF]</a></strong>
 		     
-[C2] S. Abadal, I. Llatser, E. Alarcón, E. and A. Cabellos-Aparicio, <strong>&quot;Quorum  Sensing-enabled Amplification for Molecular Nanonetworks,&quot;</strong>in Proceedings of the IEEE MoNaCom '12 (ICC Workshops), June 2012. 
-<strong><a href="http://www.n3cat.upc.edu/papers/Quorum_Sensing-enabled_Amplification_for_Molecular_Nanonetworks.pdf">[PDF]</a></strong>
+[C2] S. Abadal, I. Llatser, E. Alarcón, E. and A. Cabellos-Aparicio, <strong>&quot;Quorum  Sensing-enabled Amplification for Molecular Nanonetworks,&quot;</strong>in Proceedings of the IEEE MoNaCom '12 (ICC Workshops), June 2012. <strong><a href="http://www.n3cat.upc.edu/papers/Quorum_Sensing-enabled_Amplification_for_Molecular_Nanonetworks.pdf">[PDF]</a></strong>
 		                    
 [C1] S. Abadal and I. F. Akyildiz, <strong>&quot;Bio-Inspired Synchronization for Nanocommunication Networks,&quot; </strong>Proceedings of the IEEE GLOBECOM 2011, Houston, USA, December 2011.                
 

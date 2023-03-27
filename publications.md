@@ -174,7 +174,7 @@ Wireless Network-on-Chip Architecture,”</strong> in IEEE Transactions on Paral
 
 [C64] B. Ollé, P. Talarn, A. Cabellos-Aparicio, F. Lemic, E. Alarcón, and S. Abadal, <strong>"Multi-Channel Medium Access Control Protocols for Wireless Networks Within Computing Packages",</strong> Proceedings of the IEEE ISCAS 2023, Monterey, USA, May 2023. <strong><a href="https://arxiv.org/pdf/2301.11471.pdf">[PDF]</a></strong>
 
-[C63] E. Alarcón, S. Abadal, F. Sebastiano, M. Babaie, E. Charbon, P. Haring Bolívar, M. Palesi, E. Blokhina, D. Leipold, B. Staszewski, A. Garcia, and C. G. Almudever, <strong>"Scalable multi-Chip Quantum Architectures Enabled by Cryogenic Hybrid wireless/quantum-Coherent network-in-Package",</strong> Proceedings of the IEEE ISCAS 2023, Monterey, USA, May 2023.
+[C63] E. Alarcón, S. Abadal, F. Sebastiano, M. Babaie, E. Charbon, P. Haring Bolívar, M. Palesi, E. Blokhina, D. Leipold, B. Staszewski, A. Garcia, and C. G. Almudever, <strong>"Scalable multi-Chip Quantum Architectures Enabled by Cryogenic Hybrid wireless/quantum-Coherent network-in-Package",</strong> Proceedings of the IEEE ISCAS 2023, Monterey, USA, May 2023. <strong><a href="https://arxiv.org/pdf/2303.14008.pdf">[PDF]</a></strong>
 
 [C62] A. Ovide, S. Rodrigo, M. Bandic, H. Van Someren, S. Feld, S. Abadal, E. Alarcón, and C. Almudéver, <strong>"Mapping Quantum Algorithms to multi-Core Quantum Computing Architectures",</strong> Proceedings of the IEEE ISCAS 2023, Monterey, USA, May 2023.
 

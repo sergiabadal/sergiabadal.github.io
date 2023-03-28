@@ -180,7 +180,7 @@ Wireless Network-on-Chip Architecture,”</strong> in IEEE Transactions on Paral
 
 [C61] R. Medina, J. Klein, G. Ansaloni, M. Zapater, S. Abadal, E. Alarcón, and D. Atienza, <strong>"System-Level Exploration of In-Package Wireless Communication for Multi-Chiplet Platforms",</strong> Proceedings of the ASP-DAC 2023, Tokyo, Japan, January 2023. <strong><a href="https://infoscience.epfl.ch/record/298245/files/System-Level%20Exploration%20of%20In-Package%20Wireless%20Communication%20for%20Multi-Chiplet%20Platforms.pdf">[PDF]</a></strong>
 
-[C60] K. Ntontin, A.-A. A. Boulogeorgos, Z. Abdullah, A. Mesodiakaki, S. Abadal, and S. Chatziontas, <strong>"Time vs. Unit Cell Splitting for Autonomous Reconfigurable Intelligent Surfaces",</strong> Proceedings of the GLOBECOM 2022, Rio de Janeiro, Brazil, December 2022.
+[C60] K. Ntontin, A.-A. A. Boulogeorgos, Z. Abdullah, A. Mesodiakaki, S. Abadal, and S. Chatziontas, <strong>"Time vs. Unit Cell Splitting for Autonomous Reconfigurable Intelligent Surfaces",</strong> Proceedings of the GLOBECOM 2022, Rio de Janeiro, Brazil, December 2022. <strong><a href="https://orbilu.uni.lu/bitstream/10993/53124/1/Time_vs_UC_Splitting_Globecom_2022_paper.pdf">[PDF]</a></strong>
 
 [C59] F. Rodríguez-Galán, E. Pereira de Santana, P. Haring Bolívar, S. Abadal, E. Alarcón, <strong>"Towards Spatial Multiplexing in Wireless Networks within Computing Packages,"</strong> Proceedings of the ACM NANOCOM'22, Barcelona, Spain, October 2022. <strong><a href="https://arxiv.org/pdf/2209.07233.pdf">[PDF]</a></strong>
 

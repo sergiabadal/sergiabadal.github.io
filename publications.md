@@ -208,7 +208,7 @@ Wireless Network-on-Chip Architecture,”</strong> in IEEE Transactions on Paral
     
 [C47] T. Saeed, H. Taghvaee, E. Emoyon-Iredia, W. Aziz, S. Abadal, A. Pitsillides, V. Vassiliou, C. Liaskos, A. Tsioliaridou, S. Ioannidis, I. F. Akyildiz, M. Lestas, <strong>"On the Use of Programmable Metasurfaces in Vehicular Networks,"</strong> in Proceedings of the IEEE SPAWC '21, Lucca, Italy, September 2021. <a href="https://upcommons.upc.edu/bitstream/handle/2117/358659/Vehicular_Workload_Characterization_Reduction.pdf?sequence=1&isAllowed=y"><strong>[PDF]</strong></a>
     
-[C46] S. Rodrigo, M. Bandic, J. Van Someren, S. Abadal, E. Alarcón, C. G. Almudéver, <strong>“Scaling of Multi-Core Quantum Architectures: A Communications-Aware Structured Gap Analysis,”</strong> in Proceedings of the CF ’21, Catania, Italy, May 2021. 
+[C46] S. Rodrigo, M. Bandic, J. Van Someren, S. Abadal, E. Alarcón, C. G. Almudéver, <strong>“Scaling of Multi-Core Quantum Architectures: A Communications-Aware Structured Gap Analysis,”</strong> in Proceedings of the CF ’21, Catania, Italy, May 2021. <a href="https://upcommons.upc.edu/bitstream/handle/2117/346123/CF_2021.pdf?sequence=3"><strong>[PDF]</strong></a>
     
 [C45] R. Guirado, A. Jain, S. Abadal, E. Alarcón, <strong>"Characterizing the Communication Requirements of GNN Accelerators: A Model-Based Approach,"</strong> in Proceedings of ISCAS 2021, Daegu, Korea, May 2021. <strong><a href="https://arxiv.org/pdf/2103.10515">[PDF]</a></strong>
     

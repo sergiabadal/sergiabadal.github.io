@@ -24,7 +24,7 @@ link_url: http://publons.com/author/1004804/sergi-abadal#profile
 - Area Editor, **[Nano Communication Networks (Elsevier) Journal](https://www.journals.elsevier.com/nano-communication-networks)**, since February 2018.
     * Editor of the Year 2019.
 - Associate Editor, **[Frontiers in Communications and Networks](https://www.frontiersin.org/journals/communications-and-networks)**, Non Conventional Communications and Networking Section, since June 2020.
-- Guest Editor, Special Issue: **Electromagnetic Nanonetworks: From On-chip Communication to Wearable and Implantable Networks**, IEEE Journal on Selected Areas in Communications, 2023.
+- Guest Editor, Special Issue: **[Electromagnetic Nanonetworks: From On-chip Communication to Wearable and Implantable Networks](https://www.comsoc.org/publications/journals/ieee-jsac/cfp/electromagnetic-nanonetworks-chip-communication-wearable-and)**, IEEE Journal on Selected Areas in Communications, 2023.
 - Guest Editor, Special Section: **[Nanoscale Computing, Communication, and Applications](https://tnano.org/2021/10/special-section-on-nanoscale-computing-communication-and-applications-nanococoa-2021/)**, IEEE Transactions on Nanotechnology, 2022.
 - Guest Editor, Special Issue: **[Research Trends in Network-on-Chip Architectures and Selected Papers from NoCArc 2020](https://www.mdpi.com/journal/jlpea/special_issues/NoCArc_2020)**, Journal of Low Power Electronics and Applications (JLPEA), 2021.
 - Lead Guest Editor, Special Issue: **[Programmable Metamaterials for Software-Defined Electromagnetic Control: Circuits, Systems, and Architectures](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=9032228&punumber=5503868)**, IEEE Journal on Emerging and Selected Topics in Circuits and Systems, 2020.

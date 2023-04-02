@@ -77,7 +77,7 @@ S. Rodrigo, S. Abadal, E. Alarcón, C. Almudéver, <strong>"Exploring a Double F
 
 [J42] R. Guirado, A. Rahimi, G. Karunaratne, E. Alarcón, A. Sebastian and S. Abadal, <strong>"WHYPE: A Scale-Out Architecture with Wireless Over-the-Air Majority for Scalable In-memory Hyperdimensional Computing,"</strong> IEEE Journal on Emerging and Selected Topics in Circuits and Systems, vol. 13, no. 1, pp. 137-149, 2023. <strong><a href="https://arxiv.org/pdf/2303.08067.pdf">[PDF]</a></strong>
 
-[J41] K. Ntontin, E. Björnson, A.–A. A. Boulogeorgos, Z. Abdullah, A. Mesodiakaki, S. Abadal, and S. Chatzinotas, "Time- and Unit-Cell Splitting Comparison for the Autonomous Operation of Reconfigurable Intelligent Surfaces," IEEE Transactions on Green Communications and Networking, 2023.
+[J41] K. Ntontin, E. Björnson, A.–A. A. Boulogeorgos, Z. Abdullah, A. Mesodiakaki, S. Abadal, and S. Chatzinotas, <strong>"Time- and Unit-Cell Splitting Comparison for the Autonomous Operation of Reconfigurable Intelligent Surfaces,"</strong> IEEE Transactions on Green Communications and Networking, 2023.
 
 [J40] N. Ashraf, T. Saeed, H. Taghvaee, S. Abadal, V. Vassiliou, C. Liaskos, A. Pitsillides and M. Lestas, <strong>"Intelligent Beam Steering for Wireless Communication Using Programmable Metasurfaces,"</strong> IEEE Transactions on Intelligent Transportation Systems, 2023. <strong><a href="https://www.researchgate.net/publication/368439002_Intelligent_Beam_Steering_for_Wireless_Communication_Using_Programmable_Metasurfaces">[PDF]</a></strong>
 

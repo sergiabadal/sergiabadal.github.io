@@ -30,6 +30,7 @@ Check out the details [here](/recruitment).
 ---
 
 ### News
+- **Apr 2023**: [Pau Escofet](https://pauescofet.com/) and his team have [won the first prize](https://www.linkedin.com/feed/update/urn:li:activity:7048688554599751680?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7048688554599751680%29) in the [Qiskit Hackathon Barcelona 2023](https://www.quantumhackbcn.com/)!
 - **Jan 2023**: Three papers have been accepted at **IEEE ISCAS 2023** and one paper in **IEEE JETCAS**. Congrats to **Bernat Ollé** and **Pau Talarn** for their first paper! 
 - **Oct 2022**: Sergi has been given the **ACM NanoCom Outstanding Milestone Award** for his contributions in wireless chip-scale communications! 
 - **Jun 2022**: Our alumni **Robert Guirado** won the IN-NOVA Award to the best master thesis and the IBM Award to the best academic record for his work on [wireless over-the-air computation in on-chip scenarios](https://arxiv.org/pdf/2205.10889.pdf) accepted at **IJCNN/WCCI 2022**. These awards are given by the COIT (Spanish Association of Telecommunication Engineers) and recognize the best works in Spain. See the list [here](https://www.coit.es/sites/default/files/premiados_xlii_convocatoria.pdf).

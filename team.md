@@ -25,7 +25,7 @@ link_url: /recruitment
 - [Santiago Rodrigo](https://www.linkedin.com/in/santiago-rodrigo-mu%C3%B1oz-5b14a743) (PhD, 2019-2023)
 - [Pau Escofet](http://pauescofet.com/) (MSc, Spring '23)
 - Walid Ider (MSc, Spring '23)
-- Nitish Arya (MSc, Spring '23)
+- [Nitish Arya](https://www.linkedin.com/in/nitish-arya-ab3741214/) (MSc, Spring '23)
 - [Mehdi Hassanpour](https://www.linkedin.com/in/mehdi-hassanpour-391a67a8/) (MSc, Spring '23)
 - Alberto Mármol (MSc, Spring '23)
 - [Pablo Galván](https://www.linkedin.com/in/pablo-galv%C3%A1n-calder%C3%B3n-057298265) (BSc, Spring '23)

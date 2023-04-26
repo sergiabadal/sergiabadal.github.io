@@ -36,6 +36,7 @@ link_url: /recruitment
 - Bernat Ollé (BSc, Spring '23)
 - [Gerard Calvo](https://www.linkedin.com/in/gerard-calvo-bartra-306a41167/) (BSc, Spring '23)
 - Abderrahman Ettahrioui (BSc, Spring '23 @ Polimi)
+- Raj Abhinav (BSc, Spring '23 from IIT Roorkee)
 - Arnau Brosa (BSc, Fall '22)
 
 ### Alumni

@@ -14,6 +14,8 @@ link_url: /recruitment
 
 <!--
 #- Mariam Musavi (PhD, 2023-2026)
+#- Niklas Moser (MSc, Fall '23 from TU Berlin)
+#- Mohammad Shahmoradi (PhD, 2023-2026)
 -->
 - [Abhijit Das](https://abhijitcse.github.io/) (PostDoc, 2023-2024)
 - [Ethungshan Shitiri](https://sites.google.com/view/ethungshanshitiri/) (PostDoc, 2023-2024)

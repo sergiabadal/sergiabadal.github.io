@@ -15,6 +15,8 @@ link_url: /recruitment
 <!--
 #- Mariam Musavi (PhD, 2023-2026)
 #- Niklas Moser (MSc, Fall '23 from TU Berlin)
+#- Roger González Sedano (MSc, Fall '23)
+#- Sergio Navarro (MSc, Fall '23)
 #- Mohammad Shahmoradi (PhD, 2023-2026)
 -->
 - [Abhijit Das](https://abhijitcse.github.io/) (PostDoc, 2023-2024)

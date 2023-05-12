@@ -44,6 +44,8 @@ S. Abadal, I. Llatser, A. Mestres, H. Lee, E. Alarcón and A. Cabellos-Aparicio,
 <br/><br/>
 ### <a name="pre"></a> Pre-prints
 
+M. Bandic, L. Prielinger, J. Nußlein, A. Ovide, S. Rodrigo, S. Abadal, H. van Someren, G. Vardoyan, E. Alarcón, C. G. Almudever and S. Feld, <strong>"Mapping Quantum Circuits to Modular Architectures with QUBO",</strong> arXiv:2305.06687, 2023. <strong><a href="https://arxiv.org/pdf/2305.06687.pdf">[PDF]</a></strong>
+
 A. Brosa-López, F. Lemic, J. Struye, J. Torres-Gómez, E. Municio, C. Delgado, G. Calvo-Bartra, F. Dressler, E. Alarcón, J. Famaey, S. Abadal, X. Costa-Pérez, <strong>"Toward Standardized Performance Evaluation of Flow-guided Nanoscale Localization",</strong> arXiv:2303.07804, 2023. <strong><a href="https://arxiv.org/pdf/2303.07804.pdf">[PDF]</a></strong>
 
 A. Wassington, S. Abadal, <strong>"Bias Reduction via Cooperative Bargaining in Synthetic Graph Dataset Generation",</strong> arXiv:2205.13901, 2022. <strong><a href="https://arxiv.org/pdf/2205.13901.pdf">[PDF]</a></strong>

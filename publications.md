@@ -44,6 +44,8 @@ S. Abadal, I. Llatser, A. Mestres, H. Lee, E. Alarcón and A. Cabellos-Aparicio,
 <br/><br/>
 ### <a name="pre"></a> Pre-prints
 
+F. Lemic, G. Calvo-Bartra, A. Brosa-López, J. Torres-Gómez, J. Struye, F. Dressler, S. Abadal, X. Costa-Pérez, <strong>"Insights from the Design Space Exploration of Flow-Guided Nanoscale Localization,"</strong> arxiv:2305.18493, 2023. <strong><a href="https://arxiv.org/pdf/2305.18493.pdf">[PDF]</a></strong>
+
 M. Bandic, L. Prielinger, J. Nußlein, A. Ovide, S. Rodrigo, S. Abadal, H. van Someren, G. Vardoyan, E. Alarcón, C. G. Almudever and S. Feld, <strong>"Mapping Quantum Circuits to Modular Architectures with QUBO",</strong> arXiv:2305.06687, 2023. <strong><a href="https://arxiv.org/pdf/2305.06687.pdf">[PDF]</a></strong>
 
 A. Brosa-López, F. Lemic, J. Struye, J. Torres-Gómez, E. Municio, C. Delgado, G. Calvo-Bartra, F. Dressler, E. Alarcón, J. Famaey, S. Abadal, X. Costa-Pérez, <strong>"Toward Standardized Performance Evaluation of Flow-guided Nanoscale Localization",</strong> arXiv:2303.07804, 2023. <strong><a href="https://arxiv.org/pdf/2303.07804.pdf">[PDF]</a></strong>

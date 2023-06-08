@@ -17,9 +17,12 @@ link_url: /recruitment
 #- Niklas Moser (MSc, Fall '23 from TU Berlin)
 #- Sergio Navarro (MSc, Fall '23)
 #- Marcel Vilalta (MSc, Fall '23)
+#- Sergio Sánchez (MSc, Fall '23)
+#- Álmos Veres-Vitályos (MSc, Fall '23 from TU Cluj-Napoca)
 #- Mohammad Shahmoradi (PhD, 2023-2026)
 #- Junaid Khan (PhD, 2023-2026)
 #- Rupayan Bhattarchajee (PhD, 2023-2026)
+#- Raj Abhinav (BSc, Spring '23 from IIT Roorkee)
 -->
 - [Abhijit Das](https://abhijitcse.github.io/) (PostDoc, 2023-2024)
 - [Ethungshan Shitiri](https://sites.google.com/view/ethungshanshitiri/) (PostDoc, 2023-2024)
@@ -44,7 +47,6 @@ link_url: /recruitment
 - Bernat Ollé (BSc, Spring '23)
 - [Gerard Calvo](https://www.linkedin.com/in/gerard-calvo-bartra-306a41167/) (BSc, Spring '23)
 - Abderrahman Ettahrioui (BSc, Spring '23 @ Polimi)
-- Raj Abhinav (BSc, Spring '23 from IIT Roorkee)
 
 
 ### Alumni

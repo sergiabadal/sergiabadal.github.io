@@ -11,6 +11,8 @@ subtitle:
 
 ### Courses
 
+- **Spring 22/23:** Object-Oriented Programming - Bachelor's Degree in Telecommunications Technologies and Services Engineering (ETSETB, UPC-BarcelonaTech)
+- **Fall 22/23:** Networks and On-line Gaming - Bachelor's Degree in Video Game Design and Development (CITM, UPC-BarcelonaTech)
 - **Spring 21/22:** Object-Oriented Programming - Bachelor's Degree in Telecommunications Technologies and Services Engineering (ETSETB, UPC-BarcelonaTech)
 - **Fall 21/22:** Networks and On-line Gaming - Bachelor's Degree in Video Game Design and Development (CITM, UPC-BarcelonaTech)
 - **Spring 20/21:** Object-Oriented Programming - Bachelor's Degree in Telecommunications Technologies and Services Engineering (ETSETB, UPC-BarcelonaTech)

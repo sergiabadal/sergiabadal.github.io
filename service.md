@@ -109,6 +109,7 @@ link_url: http://publons.com/author/1004804/sergi-abadal#profile
 
 - Advanced Materials (Wiley)
 - Advanced Science (Wiley)
+- Advanced Optical Materials (Wiley)
 - Scientific Reports (Nature)
 - IEEE Journal on Selected Areas in Communications
 - IEEE Communications Magazine

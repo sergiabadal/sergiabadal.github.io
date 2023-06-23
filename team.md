@@ -18,6 +18,7 @@ link_url: /recruitment
 #- Sergio Navarro (MSc, Fall '23)
 #- Marcel Vilalta (MSc, Fall '23)
 #- Sergio Sánchez (MSc, Fall '23)
+#- Eloi Gómez (MSc, Fall '23)
 #- Álmos Veres-Vitályos (MSc, Fall '23 from TU Cluj-Napoca)
 #- Mohammad Shahmoradi (PhD, 2023-2026)
 #- Junaid Khan (PhD, 2023-2026)

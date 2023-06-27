@@ -36,14 +36,10 @@ link_url: /recruitment
 - [Santiago Rodrigo](https://www.linkedin.com/in/santiago-rodrigo-mu%C3%B1oz-5b14a743) (PhD, 2019-2023)
 - Roger González Sedano (MSc, Fall '23)
 - [Pau Escofet](http://pauescofet.com/) (MSc, Spring '23)
-- Walid Ider (MSc, Spring '23)
 - [Nitish Arya](https://www.linkedin.com/in/nitish-arya-ab3741214/) (MSc, Spring '23)
 - [Mehdi Hassanpour](https://www.linkedin.com/in/mehdi-hassanpour-391a67a8/) (MSc, Spring '23)
 - Alberto Mármol (MSc, Spring '23)
 - Pol Puigdemont (BSc, Fall '23)
-- [Pablo Galván](https://www.linkedin.com/in/pablo-galv%C3%A1n-calder%C3%B3n-057298265) (BSc, Spring '23)
-- [Arnau Pastor](https://www.linkedin.com/in/arnaupastor/) (BSc, Spring '23)
-- [Isaac López Agudo](https://www.linkedin.com/in/isaac-lopez-agudo/) (BSc, Spring '23)
 - Pau Talarn (BSc, Spring '23)
 - Bernat Ollé (BSc, Spring '23)
 - [Gerard Calvo](https://www.linkedin.com/in/gerard-calvo-bartra-306a41167/) (BSc, Spring '23)
@@ -54,6 +50,7 @@ link_url: /recruitment
 
 - [Akshay Jain](https://www.linkedin.com/in/akshay91jain) (PostDoc, 2020-2021)
 - [Hamidreza Taghvaee](https://www.nottingham.ac.uk/research/groups/ggiemr/people/hamidreza.taghvaee) (PhD, 2018-2021)
+- Walid Ider (MSc, Spring '23)  
 - Dimas Ávila (MSc, Spring '22)
 - Rocco Picone (MSc, Spring '22 from Reggio-Calabria)
 - Domenico Spanò (MSc, Spring '22 from Reggio-Calabria)
@@ -65,6 +62,9 @@ link_url: /recruitment
   - [IN-NOVA Award 2021](https://www.coit.es/sites/default/files/premiados_xlii_convocatoria.pdf) to the best master thesis by the COIT
   - [IBM Award 2021](https://www.coit.es/sites/default/files/premiados_xlii_convocatoria.pdf) to the best academic record by the COIT
 - Jorge López Alonso (MSc, Spring '20)
+- [Pablo Galván](https://www.linkedin.com/in/pablo-galv%C3%A1n-calder%C3%B3n-057298265) (BSc, Spring '23)
+- [Arnau Pastor](https://www.linkedin.com/in/arnaupastor/) (BSc, Spring '23)
+- [Isaac López Agudo](https://www.linkedin.com/in/isaac-lopez-agudo/) (BSc, Spring '23)
 - Roger González Sedano (BSc, Fall '22)
 - Arnau Brosa (BSc, Fall '22)
 - Martina Gallego (BSc, Spring '22 @ Georgia Tech)

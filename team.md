@@ -100,6 +100,7 @@ link_url: /recruitment
 ### Visiting Scholars
 
 - [Marios Lestas](https://www.frederick.ac.cy/en/about-us/faculty-staff/faculty?view=page&id=108&lid=758) (Professor, Frederick University, Cyprus; July 2023)
+- [Philipp del Hougne](https://sites.google.com/view/pdelhougne/home) (Professor, CNRS & Université de Rennes, France; June 2023)
 - [Mounir Arioua](https://ieeexplore.ieee.org/author/37589390700) (Professor, Abdelmalek Essaâdi University, Morocco; May 2022)
 - [Filip Lemic](https://sites.google.com/view/filip-lemic/home) (Postdoc / MSCA Fellow, University of Antwerpen, Belgium; 2021 and 2022)
 - [Taqua Saeed](https://www.linkedin.com/in/taqwa-saeed-11498152) (PhD candidate, Frederick University, Cyprus; February 2019)

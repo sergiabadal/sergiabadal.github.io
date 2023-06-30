@@ -178,6 +178,9 @@ Wireless Network-on-Chip Architecture,”</strong> in IEEE Transactions on Paral
 <br/><br/>
 ### <a name="conference"></a> Conference Papers
 
+[C65] A. Bandara, F. Rodríguez-Galán, E. Pereira de Santana, P. Haring Bolívar, E. Alarcón, S. Abadal, <strong>"Exploration of Time Reversal for
+Wireless Communications within Computing Packages,"</strong> Proceedings of the ACM NANOCOM'22, Barcelona, Spain, October 2022. <strong><a href="">[PDF]</a></strong>
+
 [C64] B. Ollé, P. Talarn, A. Cabellos-Aparicio, F. Lemic, E. Alarcón, and S. Abadal, <strong>"Multi-Channel Medium Access Control Protocols for Wireless Networks Within Computing Packages",</strong> Proceedings of the IEEE ISCAS 2023, Monterey, USA, May 2023. <strong><a href="https://arxiv.org/pdf/2301.11471.pdf">[PDF]</a></strong>
 
 [C63] E. Alarcón, S. Abadal, F. Sebastiano, M. Babaie, E. Charbon, P. Haring Bolívar, M. Palesi, E. Blokhina, D. Leipold, B. Staszewski, A. Garcia, and C. G. Almudever, <strong>"Scalable multi-Chip Quantum Architectures Enabled by Cryogenic Hybrid wireless/quantum-Coherent network-in-Package",</strong> Proceedings of the IEEE ISCAS 2023, Monterey, USA, May 2023. <strong><a href="https://arxiv.org/pdf/2303.14008.pdf">[PDF]</a></strong>

@@ -36,7 +36,6 @@ link_url: /recruitment
 - [Santiago Rodrigo](https://www.linkedin.com/in/santiago-rodrigo-mu%C3%B1oz-5b14a743) (PhD, 2019-2023)
 - Roger González Sedano (MSc, Fall '23)
 - [Pau Escofet](http://pauescofet.com/) (MSc, Spring '23)
-- [Nitish Arya](https://www.linkedin.com/in/nitish-arya-ab3741214/) (MSc, Spring '23)
 - [Mehdi Hassanpour](https://www.linkedin.com/in/mehdi-hassanpour-391a67a8/) (MSc, Spring '23)
 - Alberto Mármol (MSc, Spring '23)
 - Pol Puigdemont (BSc, Fall '23)
@@ -50,7 +49,9 @@ link_url: /recruitment
 
 - [Akshay Jain](https://www.linkedin.com/in/akshay91jain) (PostDoc, 2020-2021)
 - [Hamidreza Taghvaee](https://www.nottingham.ac.uk/research/groups/ggiemr/people/hamidreza.taghvaee) (PhD, 2018-2021)
+  - [UPC Special Doctoral Award](https://doctorat.upc.edu/en/doctoral-thesis/extraordinary-awards/Resolucindefinitivapremiosextraordinarios2023_CAST.pdf) to a selection of best PhD thesis at UPC in the 2020-2021 graduation year.
 - Walid Ider (MSc, Spring '23)  
+- [Nitish Arya](https://www.linkedin.com/in/nitish-arya-ab3741214/) (MSc, Spring '23)
 - Dimas Ávila (MSc, Spring '22)
 - Rocco Picone (MSc, Spring '22 from Reggio-Calabria)
 - Domenico Spanò (MSc, Spring '22 from Reggio-Calabria)

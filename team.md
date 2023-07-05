@@ -20,6 +20,7 @@ link_url: /recruitment
 #- Sergio Sánchez (MSc, Fall '23)
 #- Eloi Gómez (MSc, Fall '23)
 #- Álmos Veres-Vitályos (MSc, Fall '23 from TU Cluj-Napoca)
+#- Aina Péred Rodas (BSc, Fall '23)
 #- Mohammad Shahmoradi (PhD, 2023-2026)
 #- Junaid Khan (PhD, 2023-2026)
 #- Rupayan Bhattarchajee (PhD, 2023-2026)
@@ -39,8 +40,8 @@ link_url: /recruitment
 - [Mehdi Hassanpour](https://www.linkedin.com/in/mehdi-hassanpour-391a67a8/) (MSc, Spring '23)
 - Alberto Mármol (MSc, Spring '23)
 - Pol Puigdemont (BSc, Fall '23)
-- Pau Talarn (BSc, Spring '23)
-- Bernat Ollé (BSc, Spring '23)
+- Pau Talarn (BSc, Fall '23)
+- Bernat Ollé (BSc, Fall '23)
 - [Gerard Calvo](https://www.linkedin.com/in/gerard-calvo-bartra-306a41167/) (BSc, Spring '23)
 - Abderrahman Ettahrioui (BSc, Spring '23 @ Polimi)
 

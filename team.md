@@ -18,6 +18,7 @@ link_url: /recruitment
 #- Sergio Navarro (MSc, Fall '23)
 #- Marcel Vilalta (MSc, Fall '23)
 #- Sergio Sánchez (MSc, Fall '23)
+#- Laura Rayón (MSc, Fall '23)
 #- Eloi Gómez (MSc, Fall '23)
 #- Álmos Veres-Vitályos (MSc, Fall '23 from TU Cluj-Napoca)
 #- Aina Péred Rodas (BSc, Fall '23)
@@ -43,7 +44,6 @@ link_url: /recruitment
 - Pau Talarn (BSc, Fall '23)
 - Bernat Ollé (BSc, Fall '23)
 - [Gerard Calvo](https://www.linkedin.com/in/gerard-calvo-bartra-306a41167/) (BSc, Spring '23)
-- Abderrahman Ettahrioui (BSc, Spring '23 @ Polimi)
 
 
 ### Alumni
@@ -67,6 +67,7 @@ link_url: /recruitment
 - [Pablo Galván](https://www.linkedin.com/in/pablo-galv%C3%A1n-calder%C3%B3n-057298265) (BSc, Spring '23)
 - [Arnau Pastor](https://www.linkedin.com/in/arnaupastor/) (BSc, Spring '23)
 - [Isaac López Agudo](https://www.linkedin.com/in/isaac-lopez-agudo/) (BSc, Spring '23)
+- Abderrahman Ettahrioui (BSc, Spring '23 @ Polimi)
 - Roger González Sedano (BSc, Fall '22)
 - Arnau Brosa (BSc, Fall '22)
 - Martina Gallego (BSc, Spring '22 @ Georgia Tech)

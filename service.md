@@ -118,6 +118,7 @@ link_url: http://publons.com/author/1004804/sergi-abadal#profile
 - IEEE Communications Magazine
 - IEEE Vehicular Technology Magazine
 - IEEE Internet of Things Journal
+- IEEE Transactions on Neural Networks and Learning Systems
 - IEEE Transactions on Fuzzy Systems
 - IEEE Transactions on Communications
 - IEEE Transactions on Wireless Communications

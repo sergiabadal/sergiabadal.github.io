@@ -18,6 +18,7 @@ link_url: /recruitment
 #- Sergio Navarro (MSc, Fall '23)
 #- Marcel Vilalta (MSc, Fall '23)
 #- Sergio Sánchez (MSc, Fall '23)
+#- Raúl Higueras (MSc, Fall '23)
 #- Laura Rayón (MSc, Fall '23)
 #- Eloi Gómez (MSc, Fall '23)
 #- Álmos Veres-Vitályos (MSc, Fall '23 from TU Cluj-Napoca)

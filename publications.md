@@ -46,8 +46,6 @@ S. Abadal, I. Llatser, A. Mestres, H. Lee, E. Alarcón and A. Cabellos-Aparicio,
 
 F. Lemic, G. Calvo-Bartra, A. Brosa-López, J. Torres-Gómez, J. Struye, F. Dressler, S. Abadal, X. Costa-Pérez, <strong>"Insights from the Design Space Exploration of Flow-Guided Nanoscale Localization,"</strong> arxiv:2305.18493, 2023. <strong><a href="https://arxiv.org/pdf/2305.18493.pdf">[PDF]</a></strong>
 
-M. Bandic, L. Prielinger, J. Nußlein, A. Ovide, S. Rodrigo, S. Abadal, H. van Someren, G. Vardoyan, E. Alarcón, C. G. Almudever and S. Feld, <strong>"Mapping Quantum Circuits to Modular Architectures with QUBO",</strong> arXiv:2305.06687, 2023. <strong><a href="https://arxiv.org/pdf/2305.06687.pdf">[PDF]</a></strong>
-
 A. Brosa-López, F. Lemic, J. Struye, J. Torres-Gómez, E. Municio, C. Delgado, G. Calvo-Bartra, F. Dressler, E. Alarcón, J. Famaey, S. Abadal, X. Costa-Pérez, <strong>"Toward Standardized Performance Evaluation of Flow-guided Nanoscale Localization",</strong> arXiv:2303.07804, 2023. <strong><a href="https://arxiv.org/pdf/2303.07804.pdf">[PDF]</a></strong>
 
 A. Wassington, S. Abadal, <strong>"Bias Reduction via Cooperative Bargaining in Synthetic Graph Dataset Generation",</strong> arXiv:2205.13901, 2022. <strong><a href="https://arxiv.org/pdf/2205.13901.pdf">[PDF]</a></strong>
@@ -178,8 +176,10 @@ Wireless Network-on-Chip Architecture,”</strong> in IEEE Transactions on Paral
 <br/><br/>
 ### <a name="conference"></a> Conference Papers
 
+[C66] M. Bandic, L. Prielinger, J. Nußlein, A. Ovide, S. Rodrigo, S. Abadal, H. van Someren, G. Vardoyan, E. Alarcón, C. G. Almudever and S. Feld, <strong>"Mapping Quantum Circuits to Modular Architectures with QUBO",</strong> Proceedings of the IEEE QCE'23, 2023. <strong><a href="https://arxiv.org/pdf/2305.06687.pdf">[PDF]</a></strong>
+
 [C65] A. Bandara, F. Rodríguez-Galán, E. Pereira de Santana, P. Haring Bolívar, E. Alarcón, S. Abadal, <strong>"Exploration of Time Reversal for
-Wireless Communications within Computing Packages,"</strong> Proceedings of the ACM NANOCOM'22, Barcelona, Spain, October 2022. <strong><a href="">[PDF]</a></strong>
+Wireless Communications within Computing Packages,"</strong> Proceedings of the ACM NANOCOM'23, Coventry, UK, September 2023. <strong><a href="">[PDF]</a></strong>
 
 [C64] B. Ollé, P. Talarn, A. Cabellos-Aparicio, F. Lemic, E. Alarcón, and S. Abadal, <strong>"Multi-Channel Medium Access Control Protocols for Wireless Networks Within Computing Packages",</strong> Proceedings of the IEEE ISCAS 2023, Monterey, USA, May 2023. <strong><a href="https://arxiv.org/pdf/2301.11471.pdf">[PDF]</a></strong>
 

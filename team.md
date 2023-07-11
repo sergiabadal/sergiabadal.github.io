@@ -51,7 +51,7 @@ link_url: /recruitment
 
 - [Akshay Jain](https://www.linkedin.com/in/akshay91jain) (PostDoc, 2020-2021)
 - [Hamidreza Taghvaee](https://www.nottingham.ac.uk/research/groups/ggiemr/people/hamidreza.taghvaee) (PhD, 2018-2021)
-  - [UPC Special Doctoral Award](https://doctorat.upc.edu/en/doctoral-thesis/extraordinary-awards/Resolucindefinitivapremiosextraordinarios2023_CAST.pdf) to a selection of best PhD thesis at UPC in the 2020-2021 graduation year.
+  - [UPC Special Doctoral Award](https://doctorat.upc.edu/en/doctoral-thesis/extraordinary-awards/Resolucindefinitivapremiosextraordinarios2023_CAST.pdf) to the top PhD thesis at UPC (24/305) in 2021.
 - Walid Ider (MSc, Spring '23)  
 - [Nitish Arya](https://www.linkedin.com/in/nitish-arya-ab3741214/) (MSc, Spring '23)
 - Dimas Ávila (MSc, Spring '22)

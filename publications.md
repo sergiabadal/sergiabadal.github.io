@@ -44,6 +44,8 @@ S. Abadal, I. Llatser, A. Mestres, H. Lee, E. Alarcón and A. Cabellos-Aparicio,
 <br/><br/>
 ### <a name="pre"></a> Pre-prints
 
+G. Calvo-Bartra, F. Lemic, S. Abadal, X. Costa-Pérez, <strong>"Graph Neural Network-enabled Terahertz-based Flow-guided Nanoscale Localization,"</strong> arxiv:2307.05551, 2023. <strong><a href="https://arxiv.org/pdf/2307.05551.pdf">[PDF]</a></strong>
+
 F. Lemic, G. Calvo-Bartra, A. Brosa-López, J. Torres-Gómez, J. Struye, F. Dressler, S. Abadal, X. Costa-Pérez, <strong>"Insights from the Design Space Exploration of Flow-Guided Nanoscale Localization,"</strong> arxiv:2305.18493, 2023. <strong><a href="https://arxiv.org/pdf/2305.18493.pdf">[PDF]</a></strong>
 
 A. Brosa-López, F. Lemic, J. Struye, J. Torres-Gómez, E. Municio, C. Delgado, G. Calvo-Bartra, F. Dressler, E. Alarcón, J. Famaey, S. Abadal, X. Costa-Pérez, <strong>"Toward Standardized Performance Evaluation of Flow-guided Nanoscale Localization",</strong> arXiv:2303.07804, 2023. <strong><a href="https://arxiv.org/pdf/2303.07804.pdf">[PDF]</a></strong>

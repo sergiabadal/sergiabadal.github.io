@@ -183,7 +183,7 @@ Wireless Network-on-Chip Architecture,”</strong> in IEEE Transactions on Paral
 [C66] M. Bandic, L. Prielinger, J. Nußlein, A. Ovide, S. Rodrigo, S. Abadal, H. van Someren, G. Vardoyan, E. Alarcón, C. G. Almudever and S. Feld, <strong>"Mapping Quantum Circuits to Modular Architectures with QUBO",</strong> Proceedings of the IEEE QCE'23, 2023. <strong><a href="https://arxiv.org/pdf/2305.06687.pdf">[PDF]</a></strong>
 
 [C65] A. Bandara, F. Rodríguez-Galán, E. Pereira de Santana, P. Haring Bolívar, E. Alarcón, S. Abadal, <strong>"Exploration of Time Reversal for
-Wireless Communications within Computing Packages,"</strong> Proceedings of the ACM NANOCOM'23, Coventry, UK, September 2023. <strong><a href="">[PDF]</a></strong>
+Wireless Communications within Computing Packages,"</strong> Proceedings of the ACM NANOCOM'23, Coventry, UK, September 2023. <strong><a href="https://arxiv.org/pdf/2307.10820.pdf">[PDF]</a></strong>
 
 [C64] B. Ollé, P. Talarn, A. Cabellos-Aparicio, F. Lemic, E. Alarcón, and S. Abadal, <strong>"Multi-Channel Medium Access Control Protocols for Wireless Networks Within Computing Packages",</strong> Proceedings of the IEEE ISCAS 2023, Monterey, USA, May 2023. <strong><a href="https://arxiv.org/pdf/2301.11471.pdf">[PDF]</a></strong>
 

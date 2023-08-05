@@ -178,7 +178,9 @@ Wireless Network-on-Chip Architecture,”</strong> in IEEE Transactions on Paral
 <br/><br/>
 ### <a name="conference"></a> Conference Papers
 
-[C66] M. Bandic, L. Prielinger, J. Nußlein, A. Ovide, S. Rodrigo, S. Abadal, H. van Someren, G. Vardoyan, E. Alarcón, C. G. Almudever and S. Feld, <strong>"Mapping Quantum Circuits to Modular Architectures with QUBO",</strong> Proceedings of the IEEE QCE'23, 2023. <strong><a href="https://arxiv.org/pdf/2305.06687.pdf">[PDF]</a></strong>
+[C67] F. Rodríguez-Galán, A. Bandara, E. Pereira de Santana, P. Haring Bolívar, E. Alarcón, S. Abadal, <strong>"Collective Communication Patterns using Time-Reversal Terahertz Links at the Chip Scale,"</strong> Proceedings of the IEEE GLOBECOM '23, Kuala Lumpur, Malaysia, December 2023. <strong><a href=".">[PDF]</a></strong>
+
+[C66] M. Bandic, L. Prielinger, J. Nußlein, A. Ovide, S. Rodrigo, S. Abadal, H. van Someren, G. Vardoyan, E. Alarcón, C. G. Almudever and S. Feld, <strong>"Mapping Quantum Circuits to Modular Architectures with QUBO",</strong> Proceedings of the IEEE QCE'23, September 2023. <strong><a href="https://arxiv.org/pdf/2305.06687.pdf">[PDF]</a></strong>
 
 [C65] A. Bandara, F. Rodríguez-Galán, E. Pereira de Santana, P. Haring Bolívar, E. Alarcón, S. Abadal, <strong>"Exploration of Time Reversal for
 Wireless Communications within Computing Packages,"</strong> Proceedings of the ACM NANOCOM'23, Coventry, UK, September 2023. <strong><a href="https://arxiv.org/pdf/2307.10820.pdf">[PDF]</a></strong>

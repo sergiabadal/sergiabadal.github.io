@@ -13,14 +13,14 @@ link_url: /recruitment
 ### Current Team
 
 <!--
-#- Mariam Musavi (PhD, 2023-2026)
-#- Mohammad Shahmoradi (PhD, 2023-2026)
 #- Junaid Khan (PhD, 2023-2026)
 #- Rupayan Bhattarchajee (PhD, 2023-2026)
 -->
 - [Abhijit Das](https://abhijitcse.github.io/) (PostDoc, 2023-2024)
 - [Ethungshan Shitiri](https://sites.google.com/view/ethungshanshitiri/) (PostDoc, 2023-2024)
 - [Pau Escofet](http://pauescofet.com/) (PhD, 2023-2026)
+- Mariam Musavi (PhD, 2023-2026)
+- Mohammad Shahmoradi (PhD, 2023-2026)
 - Ángela López Cardona (PhD at Telefónica I+D, 2023-2025)
 - George Koutroumpas (PhD at Telefónica I+D, 2023-2025)
 - Sahar Ben Rached (PhD, 2022-2025)

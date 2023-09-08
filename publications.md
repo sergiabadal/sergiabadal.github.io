@@ -46,7 +46,7 @@ S. Abadal, I. Llatser, A. Mestres, H. Lee, E. Alarcón and A. Cabellos-Aparicio,
 
 K. Ntontin, A.-A. A. Boulogeorgos, S. Abadal, A. Mesodiakaki, S. Chatzinotas, B. Ottersten, <strong>"Perpetual Reconfigurable Intelligent Surfaces Through In-Band Energy Harvesting: Architectures, Protocols, and Challenges,"</strong> arxiv:2308.08267, 2023. <strong><a href="https://arxiv.org/pdf/2308.08267.pdf">[PDF]</a></strong>
 
-G. Calvo-Bartra, F. Lemic, S. Abadal, X. Costa-Pérez, <strong>"Graph Neural Network-enabled Terahertz-based Flow-guided Nanoscale Localization,"</strong> arxiv:2307.05551, 2023. <strong><a href="https://arxiv.org/pdf/2307.05551.pdf">[PDF]</a></strong>
+G. Calvo-Bartra, F. Lemic, J. Struye, S. Abadal, X. Costa-Pérez, <strong>"Graph Neural Network-enabled Terahertz-based Flow-guided Nanoscale Localization,"</strong> arxiv:2307.05551, 2023. <strong><a href="https://arxiv.org/pdf/2307.05551.pdf">[PDF]</a></strong>
 
 F. Lemic, G. Calvo-Bartra, A. Brosa-López, J. Torres-Gómez, J. Struye, F. Dressler, S. Abadal, X. Costa-Pérez, <strong>"Insights from the Design Space Exploration of Flow-Guided Nanoscale Localization,"</strong> arxiv:2305.18493, 2023. <strong><a href="https://arxiv.org/pdf/2305.18493.pdf">[PDF]</a></strong>
 

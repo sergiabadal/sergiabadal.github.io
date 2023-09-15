@@ -179,7 +179,9 @@ Wireless Network-on-Chip Architecture,”</strong> in IEEE Transactions on Paral
 <br/><br/>
 ### <a name="conference"></a> Conference Papers
 
-[C67] F. Rodríguez-Galán, A. Bandara, E. Pereira de Santana, P. Haring Bolívar, E. Alarcón, S. Abadal, <strong>"Collective Communication Patterns using Time-Reversal Terahertz Links at the Chip Scale,"</strong> Proceedings of the IEEE GLOBECOM '23, Kuala Lumpur, Malaysia, December 2023. <strong><a href="https://arxiv.org/pdf/2309.01428.pdf">[PDF]</a></strong>
+[C68] F. Rodríguez-Galán, A. Bandara, E. Pereira de Santana, P. Haring Bolívar, E. Alarcón and S. Abadal, <strong>"Collective Communication Patterns using Time-Reversal Terahertz Links at the Chip Scale,"</strong> Proceedings of the IEEE GLOBECOM '23, Kuala Lumpur, Malaysia, December 2023. <strong><a href="https://arxiv.org/pdf/2309.01428.pdf">[PDF]</a></strong>
+
+[C67] P. Escofet, S. Ben Rached, S. Rodrigo, C. G. Almudever, E. Alarcón and S. Abadal, <strong>"Interconnect Fabrics for Multi-Core Quantum Processors: A Context Analysis,"</strong> Proceedings of the IEEE/ACM NoCArc '23, Toronto, Canada, October 2023. <strong><a href="https://arxiv.org/pdf/2309.07313.pdf">[PDF]</a></strong>
 
 [C66] M. Bandic, L. Prielinger, J. Nußlein, A. Ovide, S. Rodrigo, S. Abadal, H. van Someren, G. Vardoyan, E. Alarcón, C. G. Almudever and S. Feld, <strong>"Mapping Quantum Circuits to Modular Architectures with QUBO",</strong> Proceedings of the IEEE QCE'23, September 2023. <strong><a href="https://arxiv.org/pdf/2305.06687.pdf">[PDF]</a></strong>
 

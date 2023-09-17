@@ -16,7 +16,7 @@ link_url: https://scholar.google.com/citations?user=FntFEnYAAAAJ
 ### <a name="selected"></a> Selected Publications
 
 S. Abadal, R. Guirado, H. Taghvaee, A. Jain, E. Pereira de Santana, P. Haring Bolívar, M. Saeed, R. Negra, Z. Wang, K-T. Wang, M. C. Lemme, J. Klein, M. Zapater, A. Levisse, D. Atienza, D. Rossi, F. Conti, M. Dazzi, G. Karunaratne, I. Boybat and A. Sebastian <strong>"Graphene-based Wireless Agile Interconnects for
-Massive Heterogeneous Multi-chip Processors,"</strong> IEEE Wireless Communications Magazine, 2022. <strong><a href="https://arxiv.org/pdf/2011.04107.pdf">[PDF]</a></strong>
+Massive Heterogeneous Multi-chip Processors,"</strong> IEEE Wireless Communications Magazine, vol. 30, no. 4, pp. 162-169, 2023. <strong><a href="https://arxiv.org/pdf/2011.04107.pdf">[PDF]</a></strong>
 - [ENG] <a href="https://www.upc.edu/en/press-room/news/the-upc-leads-a-project-to-develop-faster-lower-power-processors-for-artificial-intelligence">UPC Press Release</a>
 - [ESP] <a href="https://www.computing.es/movilidad/noticias/1121206046501/upc-investiga-desarrollar-procesadores-ia-mas-sostenibles.1.html">Computing.es</a>
 
@@ -87,7 +87,7 @@ S. Rodrigo, S. Abadal, E. Alarcón, C. Almudéver, <strong>"Exploring a Double F
 
 [J40] N. Ashraf, T. Saeed, H. Taghvaee, S. Abadal, V. Vassiliou, C. Liaskos, A. Pitsillides and M. Lestas, <strong>"Intelligent Beam Steering for Wireless Communication Using Programmable Metasurfaces,"</strong> IEEE Transactions on Intelligent Transportation Systems, vol. 24, no. 5, pp. 4848-61, 2023. <strong><a href="https://www.researchgate.net/publication/368439002_Intelligent_Beam_Steering_for_Wireless_Communication_Using_Programmable_Metasurfaces">[PDF]</a></strong>
 
-[J39] S. Abadal, R. Guirado, H. Taghvaee, A. Jain, E. Pereira de Santana, P. Haring Bolívar, M. Saeed, R. Negra, Z. Wang, K-T. Wang, M. C. Lemme, J. Klein, M. Zapater, A. Levisse, D. Atienza, D. Rossi, F. Conti, M. Dazzi, G. Karunaratne, I. Boybat and A. Sebastian, <strong>"Graphene-based Wireless Agile Interconnects for Massive Heterogeneous Multi-chip Processors,"</strong> IEEE Wireless Communications Magazine, 2022. <strong><a href="https://arxiv.org/pdf/2011.04107.pdf">[PDF]</a></strong>
+[J39] S. Abadal, R. Guirado, H. Taghvaee, A. Jain, E. Pereira de Santana, P. Haring Bolívar, M. Saeed, R. Negra, Z. Wang, K-T. Wang, M. C. Lemme, J. Klein, M. Zapater, A. Levisse, D. Atienza, D. Rossi, F. Conti, M. Dazzi, G. Karunaratne, I. Boybat and A. Sebastian, <strong>"Graphene-based Wireless Agile Interconnects for Massive Heterogeneous Multi-chip Processors,"</strong> IEEE Wireless Communications Magazine, vol. 30, no. 4, pp. 162-169, 2023. <strong><a href="https://arxiv.org/pdf/2011.04107.pdf">[PDF]</a></strong>
 - [ENG] <a href="https://www.upc.edu/en/press-room/news/the-upc-leads-a-project-to-develop-faster-lower-power-processors-for-artificial-intelligence">UPC Press Release</a>
 - [ESP] <a href="https://www.computing.es/movilidad/noticias/1121206046501/upc-investiga-desarrollar-procesadores-ia-mas-sostenibles.1.html">Computing.es</a>
 

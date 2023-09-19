@@ -58,8 +58,9 @@ link_url: http://publons.com/author/1004804/sergi-abadal#profile
 - Local Organizing Committee at the **19th International Conference on Transport Optical Networks (ICTON)**, Girona, Spain, July 2017.
 
 
-### Special Session / Tutorial Organization
+### Special Session / Tutorial / Panel Organization
 
+- **Interconnects in the Post-Moore Era: Challenges and Opportunities,** IEEE/ACM NOCS 2023, Hamburg, Germany, September 2023.
 - **Using gem5 and full-system RISC-V simulation to enable the optimization of heterogeneous architectures,** HiPEAC 2021, Budapest, Hungary, January 2021.
 - **Terahertz Communications for Nanonetworks", 7th ACM International Conference on Nanoscale Computing and Communication (NanoCom),** College Park, MD, September 2020.
 - **Emerging Technologies for Network-on-Chip: Interfaces and Feasibility**, IEEE Conference on Design of Circuits and Integrated Systems (DCIS), Lyon, France, November 2018.

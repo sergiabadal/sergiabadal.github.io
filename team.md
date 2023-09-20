@@ -13,8 +13,9 @@ link_url: /recruitment
 ### Current Team
 
 <!--
-
 #- Rupayan Bhattarchajee (PhD, 2023-2026)
+#- Joan Cuy (MSc, Fall '23)
+#- Martí Cortada (MSc, Fall '23)
 -->
 - [Abhijit Das](https://abhijitcse.github.io/) (PostDoc, 2023-2024)
 - [Ethungshan Shitiri](https://sites.google.com/view/ethungshanshitiri/) (PostDoc, 2023-2024)
@@ -31,11 +32,12 @@ link_url: /recruitment
 - George Koutroumpas (PhD at Telefónica I+D, 2023-2025)
 - Roger González Sedano (MSc, Fall '23)
 - Sergio Navarro (MSc, Fall '23)
-- Sergio Sánchez (MSc, Fall '23)
+- Stefano Petrilli (MSc, Fall '23)
 - Raúl Higueras (MSc, Fall '23)
 - Eloi Gómez (MSc, Fall '23)
 - Niklas Moser (MSc, Fall '23 from TU Berlin)
 - Álmos Veres-Vitályos (MSc, Fall '23 from TU Cluj-Napoca)
+- Sergi Sánchez (MSc, Fall '23)
 - Laura Rayón (MSc, Fall '23)
 - Marcel Vilalta (MSc, Fall '23)
 - [Mehdi Hassanpour](https://www.linkedin.com/in/mehdi-hassanpour-391a67a8/) (MSc, Spring '23)

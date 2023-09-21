@@ -81,6 +81,8 @@ S. Rodrigo, S. Abadal, E. Alarcón, C. Almudéver, <strong>"Exploring a Double F
 <br/><br/>
 ### <a name="journal"></a> Journal Papers
 
+[J43] P. Escofet, A. Ovide, C. G. Almudever, E. Alarcón and S. Abadal, <strong>"Hungarian Qubit Assignment for Optimized Mapping of Quantum Circuits on Multi-Core Architectures,"</strong> IEEE Computer Architecture Letters, 2023.
+
 [J42] R. Guirado, A. Rahimi, G. Karunaratne, E. Alarcón, A. Sebastian and S. Abadal, <strong>"WHYPE: A Scale-Out Architecture with Wireless Over-the-Air Majority for Scalable In-memory Hyperdimensional Computing,"</strong> IEEE Journal on Emerging and Selected Topics in Circuits and Systems, vol. 13, no. 1, pp. 137-149, 2023. <strong><a href="https://arxiv.org/pdf/2303.08067.pdf">[PDF]</a></strong>
 
 [J41] K. Ntontin, E. Björnson, A.–A. A. Boulogeorgos, Z. Abdullah, A. Mesodiakaki, S. Abadal, and S. Chatzinotas, <strong>"Time- and Unit-Cell Splitting Comparison for the Autonomous Operation of Reconfigurable Intelligent Surfaces,"</strong> IEEE Transactions on Green Communications and Networking, vol. 7, no. 3, pp. 1566-1582, 2023.

@@ -36,6 +36,7 @@ link_url: /recruitment
 - Raúl Higueras (MSc, Fall '23)
 - [Pablo Galván](https://www.linkedin.com/in/pablo-galv%C3%A1n-calder%C3%B3n-057298265) (MSc, Fall '23)
 - Eloi Gómez (MSc, Fall '23)
+- Joan Cuy (MSc, Fall '23)
 - Niklas Moser (MSc, Fall '23 from TU Berlin)
 - Álmos Veres-Vitályos (MSc, Fall '23 from TU Cluj-Napoca)
 - Sergi Sánchez (MSc, Fall '23)

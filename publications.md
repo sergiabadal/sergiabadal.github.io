@@ -44,6 +44,9 @@ S. Abadal, I. Llatser, A. Mestres, H. Lee, E. Alarcón and A. Cabellos-Aparicio,
 <br/><br/>
 ### <a name="pre"></a> Pre-prints
 
+
+S. Ben Rached, I. López Agudo, S. Rodrigo, M. Bandic, S. Feld, H. Van Someren, E. Alarcón, C. G. Almudéver and S. Abadal, <strong>"Characterizing the Inter-Core Qubit Traffic in Large-Scale Quantum Modular Architectures,"</strong> arxiv:2310.01921, 2023. <strong><a href="https://arxiv.org/pdf/2310.01921.pdf">[PDF]</a></strong>
+
 K. Ntontin, A.-A. A. Boulogeorgos, S. Abadal, A. Mesodiakaki, S. Chatzinotas, B. Ottersten, <strong>"Perpetual Reconfigurable Intelligent Surfaces Through In-Band Energy Harvesting: Architectures, Protocols, and Challenges,"</strong> arxiv:2308.08267, 2023. <strong><a href="https://arxiv.org/pdf/2308.08267.pdf">[PDF]</a></strong>
 
 G. Calvo-Bartra, F. Lemic, J. Struye, S. Abadal, X. Costa-Pérez, <strong>"Graph Neural Network-enabled Terahertz-based Flow-guided Nanoscale Localization,"</strong> arxiv:2307.05551, 2023. <strong><a href="https://arxiv.org/pdf/2307.05551.pdf">[PDF]</a></strong>

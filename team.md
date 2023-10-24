@@ -34,7 +34,6 @@ link_url: /recruitment
 - Sergio Navarro (MSc, Fall '23)
 - Stefano Petrilli (MSc, Fall '23)
 - Raúl Higueras (MSc, Fall '23)
-- Martí Cortada (MSc, Fall '23)
 - [Pablo Galván](https://www.linkedin.com/in/pablo-galv%C3%A1n-calder%C3%B3n-057298265) (MSc, Fall '23)
 - Eloi Gómez (MSc, Fall '23)
 - Joan Cuy (MSc, Fall '23)
@@ -48,7 +47,6 @@ link_url: /recruitment
 - Aina Pérez Rodas (BSc, Fall '23)
 - Pau Talarn (BSc, Fall '23)
 - Bernat Ollé (BSc, Fall '23)
-- [Gerard Calvo](https://www.linkedin.com/in/gerard-calvo-bartra-306a41167/) (BSc, Spring '23)
 
 
 ### Alumni
@@ -71,6 +69,7 @@ link_url: /recruitment
   - [IN-NOVA Award 2021](https://www.coit.es/sites/default/files/premiados_xlii_convocatoria.pdf) to the best master thesis by the COIT
   - [IBM Award 2021](https://www.coit.es/sites/default/files/premiados_xlii_convocatoria.pdf) to the best academic record by the COIT
 - Jorge López Alonso (MSc, Spring '20)
+- [Gerard Calvo](https://www.linkedin.com/in/gerard-calvo-bartra-306a41167/) (BSc, Spring '23)
 - [Pablo Galván](https://www.linkedin.com/in/pablo-galv%C3%A1n-calder%C3%B3n-057298265) (BSc, Spring '23)
 - [Arnau Pastor](https://www.linkedin.com/in/arnaupastor/) (BSc, Spring '23)
 - [Isaac López Agudo](https://www.linkedin.com/in/isaac-lopez-agudo/) (BSc, Spring '23)

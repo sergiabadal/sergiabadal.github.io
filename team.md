@@ -14,8 +14,8 @@ link_url: /recruitment
 
 <!--
 #- Rupayan Bhattarchajee (PhD, 2023-2026)
-#- Joan Cuy (MSc, Fall '23)
 #- Martí Cortada (MSc, Fall '23)
+#- Marakala Satvika Santhoshi (BSc, Spring '24)
 -->
 - [Abhijit Das](https://abhijitcse.github.io/) (PostDoc, 2023-2024)
 - [Ethungshan Shitiri](https://sites.google.com/view/ethungshanshitiri/) (PostDoc, 2023-2024)

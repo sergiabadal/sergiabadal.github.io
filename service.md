@@ -147,6 +147,7 @@ link_url: http://publons.com/author/1004804/sergi-abadal#profile
 - ACM Journal on Emerging Technologies in Computing Systems
 - ACM Transactions on Parallel Computing
 - Nanophotonics (De Gruyter)
+- Neural Networks (Elsevier)
 - Carbon (Elsevier)
 - Engineering (Elsevier)
 - Computer Networks (Elsevier)

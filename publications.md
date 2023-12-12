@@ -47,8 +47,6 @@ S. Abadal, I. Llatser, A. Mestres, H. Lee, E. Alarcón and A. Cabellos-Aparicio,
 
 S. Ben Rached, I. López Agudo, S. Rodrigo, M. Bandic, S. Feld, H. Van Someren, E. Alarcón, C. G. Almudéver and S. Abadal, <strong>"Characterizing the Inter-Core Qubit Traffic in Large-Scale Quantum Modular Architectures,"</strong> arxiv:2310.01921, 2023. <strong><a href="https://arxiv.org/pdf/2310.01921.pdf">[PDF]</a></strong>
 
-K. Ntontin, A.-A. A. Boulogeorgos, S. Abadal, A. Mesodiakaki, S. Chatzinotas, B. Ottersten, <strong>"Perpetual Reconfigurable Intelligent Surfaces Through In-Band Energy Harvesting: Architectures, Protocols, and Challenges,"</strong> arxiv:2308.08267, 2023. <strong><a href="https://arxiv.org/pdf/2308.08267.pdf">[PDF]</a></strong>
-
 G. Calvo-Bartra, F. Lemic, J. Struye, S. Abadal, X. Costa-Pérez, <strong>"Graph Neural Network-enabled Terahertz-based Flow-guided Nanoscale Localization,"</strong> arxiv:2307.05551, 2023. <strong><a href="https://arxiv.org/pdf/2307.05551.pdf">[PDF]</a></strong>
 
 F. Lemic, G. Calvo-Bartra, A. Brosa-López, J. Torres-Gómez, J. Struye, F. Dressler, S. Abadal, X. Costa-Pérez, <strong>"Insights from the Design Space Exploration of Flow-Guided Nanoscale Localization,"</strong> arxiv:2305.18493, 2023. <strong><a href="https://arxiv.org/pdf/2305.18493.pdf">[PDF]</a></strong>
@@ -83,6 +81,8 @@ S. Rodrigo, S. Abadal, E. Alarcón, C. Almudéver, <strong>"Exploring a Double F
 
 <br/><br/>
 ### <a name="journal"></a> Journal Papers
+
+[J44] K. Ntontin, A.-A. A. Boulogeorgos, S. Abadal, A. Mesodiakaki, S. Chatzinotas, B. Ottersten, <strong>"Perpetual Reconfigurable Intelligent Surfaces Through In-Band Energy Harvesting: Architectures, Protocols, and Challenges,"</strong> IEEE Vehicular Technology Magazine, 2023. <strong><a href="https://arxiv.org/pdf/2308.08267.pdf">[PDF]</a></strong>
 
 [J43] P. Escofet, A. Ovide, C. G. Almudever, E. Alarcón and S. Abadal, <strong>"Hungarian Qubit Assignment for Optimized Mapping of Quantum Circuits on Multi-Core Architectures,"</strong> IEEE Computer Architecture Letters, 2023. <strong><a href="https://arxiv.org/pdf/2309.12182">[PDF]</a></strong>
 

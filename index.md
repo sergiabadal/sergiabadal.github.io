@@ -30,6 +30,7 @@ Check out the details [here](/recruitment).
 ---
 
 ### News
+- **Nov 2023**: Sergi holds new editorial positions as DC AEiC of **IEEE JETCAS** and AE of **IEEE TMBMC**.
 - **Apr 2023**: [Ama Bandara](https://www.linkedin.com/in/ama-bandara-a02a5a168/) has obtained a full scholarship to attend the [IEEE ComSoc school on 6G Communication and Wireless Technology](https://www.comsoc.org/education-training/ieee-comsoc-school-series/2023-ieee-comsoc-school-series-boston-usa-event)!
 - **Apr 2023**: [Pau Escofet](https://pauescofet.com/) and his team have [won the first prize](https://www.linkedin.com/feed/update/urn:li:activity:7048688554599751680?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7048688554599751680%29) in the [Qiskit Hackathon Barcelona 2023](https://www.quantumhackbcn.com/)!
 - **Jan 2023**: Three papers have been accepted at **IEEE ISCAS 2023** and one paper in **IEEE JETCAS**. Congrats to **Bernat Ollé** and **Pau Talarn** for their first paper! 

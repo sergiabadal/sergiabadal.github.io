@@ -22,6 +22,7 @@ link_url: http://publons.com/author/1004804/sergi-abadal#profile
 ### Editorial Work
 
 - Associate Editor-in-Chief of Digital Media, **[IEEE Journal on Emerging and Selected Topics in Circuits and Systems](https://ieee-cas.org/publication/JETCAS)**, 2024-2025.
+- Associate Editor, **[IEEE Transactions on Molecular, Biological, and Multi-Scale Communications](https://www.comsoc.org/publications/journals/ieee-tmbmc)**, since December 2023.
 - Area Editor, **[Nano Communication Networks (Elsevier) Journal](https://www.journals.elsevier.com/nano-communication-networks)**, since February 2018.
     * Editor of the Year 2019.
 - Associate Editor, **[Frontiers in Communications and Networks](https://www.frontiersin.org/journals/communications-and-networks)**, Non Conventional Communications and Networking Section, since June 2020.

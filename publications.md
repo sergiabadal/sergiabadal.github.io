@@ -184,6 +184,8 @@ Wireless Network-on-Chip Architecture,”</strong> in IEEE Transactions on Paral
 <br/><br/>
 ### <a name="conference"></a> Conference Papers
 
+[C69] H. Prodhomme, M. F. Imani, S. Abadal and P. del Hougne, <strong>"RIS-Based Over-The-Air Channel Equalization in Resource-Constrained Wireless Networks,"</strong> Proceedings of the EuCAP '24, Glasgow, Scotland, March 2024. <strong><a href="">[PDF]</a></strong>
+
 [C68] F. Rodríguez-Galán, A. Bandara, E. Pereira de Santana, P. Haring Bolívar, E. Alarcón and S. Abadal, <strong>"Collective Communication Patterns using Time-Reversal Terahertz Links at the Chip Scale,"</strong> Proceedings of the IEEE GLOBECOM '23, Kuala Lumpur, Malaysia, December 2023. <strong><a href="https://arxiv.org/pdf/2309.01428.pdf">[PDF]</a></strong>
 
 [C67] P. Escofet, S. Ben Rached, S. Rodrigo, C. G. Almudever, E. Alarcón and S. Abadal, <strong>"Interconnect Fabrics for Multi-Core Quantum Processors: A Context Analysis,"</strong> Proceedings of the IEEE/ACM NoCArc '23, Toronto, Canada, October 2023. <strong><a href="https://arxiv.org/pdf/2309.07313.pdf">[PDF]</a></strong>

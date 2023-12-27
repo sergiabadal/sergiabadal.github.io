@@ -31,7 +31,11 @@ Check out the details [here](/recruitment).
 
 ### News
 - **Dec 2023**: Sergi holds new editorial positions as DC AEiC of **IEEE JETCAS** and AE of **IEEE TMC** and **IEEE TMBMC**.
-- **Dec 2023**: Santiago has defended his PhD thesis on quantum multi-core processors. Check out [his amazing work](https://scholar.google.com/citations?user=hKkLPTYAAAAJ&hl=es&oi=ao).
+- **Dec 2023**: Santiago has defended his PhD thesis on quantum multi-core processors. Check out [his amazing work](https://scholar.google.com/citations?user=hKkLPTYAAAAJ&hl=es&oi=ao). Congratulations, Santi!!
+- **Jul 2023**: We travel to Valencia for the kick-off of our new project QUADRATURE, [check it out](https://www.quadrature-project.eu/)! We will investigate how to architecte quantum multi-core processors.
+- **Jun 2023**: Our alumni **Hamidreza Taghvaee** has won the UPC outstanding thesis award for his work on programmable metasurfaces. More details [here](https://doctorat.upc.edu/en/doctoral-thesis/extraordinary-awards).
+- **Jun 2023**: We traveled to Vilanova i la Geltrú for our first group workshop. [It was great](https://www.linkedin.com/posts/sergi-abadal-190a591a_metasurfaces-chips-wireless-activity-7081587399792676864-9c0j?utm_source=share&utm_medium=member_desktop)!
+- **May 2023**: Sergi will be guest editor in a **IEEE JSAC** [special issue on electromagnetic nanonetworks](https://www.comsoc.org/publications/journals/ieee-jsac/cfp/electromagnetic-nanonetworks-chip-communication-wearable-and).
 - **Apr 2023**: [Ama Bandara](https://www.linkedin.com/in/ama-bandara-a02a5a168/) has obtained a full scholarship to attend the [IEEE ComSoc school on 6G Communication and Wireless Technology](https://www.comsoc.org/education-training/ieee-comsoc-school-series/2023-ieee-comsoc-school-series-boston-usa-event)!
 - **Apr 2023**: [Pau Escofet](https://pauescofet.com/) and his team have [won the first prize](https://www.linkedin.com/feed/update/urn:li:activity:7048688554599751680?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7048688554599751680%29) in the [Qiskit Hackathon Barcelona 2023](https://www.quantumhackbcn.com/)!
 - **Jan 2023**: Three papers have been accepted at **IEEE ISCAS 2023** and one paper in **IEEE JETCAS**. Congrats to **Bernat Ollé** and **Pau Talarn** for their first paper! 

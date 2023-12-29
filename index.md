@@ -8,7 +8,7 @@ comments: false
 Distinguished Researcher | ERC Grantee <br/> 
 Ambassador of the European Innovation Council<br/>
 Universitat Politècnica de Catalunya (UPC)<br/>
-C/ Jordi Girona 1-3, D6-002, 08034 Barcelona, Spain <br/> 
+C/ Jordi Girona 1-3, C6-112, 08034 Barcelona, Spain <br/> 
 Tel: (+34)934017423<br/>
 <a href="mailto:&#97;&#98;&#97;&#100;&#97;&#108;&#64;&#97;&#99;&#46;&#117;&#112;&#99;&#46;&#101;&#100;&#117;"><img src="/img/mail.png" width="155" height="16" alt="" class="diff" style="text-decoration:none"/></a><br/>
 </p>

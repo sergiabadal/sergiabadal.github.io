@@ -125,6 +125,7 @@ link_url: http://publons.com/author/1004804/sergi-abadal#profile
 - IEEE Transactions on Fuzzy Systems
 - IEEE Transactions on Communications
 - IEEE Transactions on Wireless Communications
+- IEEE Transactions on Networking
 - IEEE Transactions on Antennas and Propagation
 - IEEE Transactions on Microwave Theory and Techniques
 - IEEE Transactions on Nanotechnology

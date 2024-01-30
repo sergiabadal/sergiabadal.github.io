@@ -13,12 +13,7 @@ link_url: /recruitment
 ### Current Team
 
 <!--
-#- Sandra Navarro (MSc, Spring '24)
-#- Eneko Ibarluzea (MSc, Spring '24)
-#- Aleksandar Yordanov (MSc, Spring '24)
-#- Emmanuel Irabor (MSc, Spring '24)
 #- Martí Cortada (MSc, Fall '23)
-#- Marakala Satvika Santhoshi (BSc, Spring '24)
 -->
 - [Abhijit Das](https://abhijitcse.github.io/) (PostDoc, 2023-2024)
 - [Ethungshan Shitiri](https://sites.google.com/view/ethungshanshitiri/) (PostDoc, 2023-2024)
@@ -34,16 +29,21 @@ link_url: /recruitment
 - Ángela López Cardona (PhD at Telefónica I+D, 2023-2025)
 - George Koutroumpas (PhD at Telefónica I+D, 2023-2025)
 - Rupayan Bhattarchajee (PhD, 2024-2027)
+- Sandra Navarro (MSc, Spring '24)
+- Eneko Ibarluzea (MSc, Spring '24)
+- Aleksandar Yordanov (MSc, Spring '24)
+- Emmanuel Irabor (MSc, Spring '24)
 - Roger González Sedano (MSc, Spring '24)
 - Sergio Navarro (MSc, Spring '24)
 - Stefano Petrilli (MSc, Spring '24)
 - [Pablo Galván](https://www.linkedin.com/in/pablo-galv%C3%A1n-calder%C3%B3n-057298265) (MSc, Spring '24)
 - Sergi Sánchez (MSc, Fall '23)
 - Laura Rayón (MSc, Fall '23)
-- Pol Puigdemont (BSc, Fall '23)
-- Aina Pérez Rodas (BSc, Fall '23)
+- Bernat Ollé (BSc, Spring '24 @ University of Illinois at Urbana-Champaign)
+- Pol Puigdemont (BSc, Spring '24 @ Georgia Tech)
+- Marakala Satvika Santhoshi (BSc, Spring '24 from Sastra University) 
 - Pau Talarn (BSc, Fall '23)
-- Bernat Ollé (BSc, Fall '23)
+
 
 
 ### Alumni
@@ -74,6 +74,7 @@ link_url: /recruitment
   - [IN-NOVA Award 2021](https://www.coit.es/sites/default/files/premiados_xlii_convocatoria.pdf) to the best master thesis by the COIT
   - [IBM Award 2021](https://www.coit.es/sites/default/files/premiados_xlii_convocatoria.pdf) to the best academic record by the COIT
 - Jorge López Alonso (MSc, Spring '20)
+- Aina Pérez Rodas (BSc, Fall '23)
 - [Gerard Calvo](https://www.linkedin.com/in/gerard-calvo-bartra-306a41167/) (BSc, Spring '23)
 - [Pablo Galván](https://www.linkedin.com/in/pablo-galv%C3%A1n-calder%C3%B3n-057298265) (BSc, Spring '23)
 - [Arnau Pastor](https://www.linkedin.com/in/arnaupastor/) (BSc, Spring '23)

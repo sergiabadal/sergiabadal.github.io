@@ -14,6 +14,8 @@ link_url: /recruitment
 
 <!--
 #- Martí Cortada (MSc, Fall '23)
+#- Miquel Muñoz (BSc, Spring '24)
+#- Shawn Azimov (MSc, Spring '24)
 -->
 - [Abhijit Das](https://abhijitcse.github.io/) (PostDoc, 2023-2024)
 - [Ethungshan Shitiri](https://sites.google.com/view/ethungshanshitiri/) (PostDoc, 2023-2024)
@@ -37,10 +39,13 @@ link_url: /recruitment
 - Sergio Navarro (MSc, Spring '24)
 - Stefano Petrilli (MSc, Spring '24)
 - [Pablo Galván](https://www.linkedin.com/in/pablo-galv%C3%A1n-calder%C3%B3n-057298265) (MSc, Spring '24)
+- Daniel Trujillo (MSc, Spring '24)
 - Sergi Sánchez (MSc, Fall '23)
 - Laura Rayón (MSc, Fall '23)
 - Bernat Ollé (BSc, Spring '24 @ University of Illinois at Urbana-Champaign)
 - Pol Puigdemont (BSc, Spring '24 @ Georgia Tech)
+- Arnau Esteban (BSc, Spring '24)
+- Óscar Ramos (BSc, Spring '24)
 - Marakala Satvika Santhoshi (BSc, Spring '24 from Sastra University) 
 - Pau Talarn (BSc, Fall '23)
 

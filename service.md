@@ -74,7 +74,7 @@ link_url: http://publons.com/author/1004804/sergi-abadal#profile
 
 - ACM 29th Annual International Conference On Mobile Computing And Networking (MobiCom), 2023, 2024.
 - IEEE Global Communications Conference (GLOBECOM), Wireless Communications Track, 2023.
-- IEEE Global Communications Conference (GLOBECOM), Terahertz Communications Track, 2023.
+- IEEE Global Communications Conference (GLOBECOM), Terahertz Communications Track, 2023, 2024.
 - IEEE International Conference on Communications (ICC), Molecular, Biological and Multi-Scale Communications Track, 2022, 2023.
 - IEEE Global Communications Conference (GLOBECOM), Molecular, Biological and Multi-Scale Communications Track, 2019, 2020, 2021, 2022.
 - IEEE International Symposium on Circuits & Systems (ISCAS), 2019, 2020, 2021, 2022, 2023.

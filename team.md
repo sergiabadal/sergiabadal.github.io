@@ -13,9 +13,7 @@ link_url: /recruitment
 ### Current Team
 
 <!--
-#- Martí Cortada (MSc, Fall '23)
-#- Miquel Muñoz (BSc, Spring '24)
-#- Shawn Azimov (MSc, Spring '24)
+#- XXXX
 -->
 - [Abhijit Das](https://abhijitcse.github.io/) (PostDoc, 2023-2024)
 - [Ethungshan Shitiri](https://sites.google.com/view/ethungshanshitiri/) (PostDoc, 2023-2024)
@@ -44,10 +42,11 @@ link_url: /recruitment
 - Laura Rayón (MSc, Fall '23)
 - Bernat Ollé (BSc, Spring '24 @ University of Illinois at Urbana-Champaign)
 - Pol Puigdemont (BSc, Spring '24 @ Georgia Tech)
+- Miquel Muñoz (BSc, Spring '24)
 - Arnau Esteban (BSc, Spring '24)
 - Óscar Ramos (BSc, Spring '24)
 - Marakala Satvika Santhoshi (BSc, Spring '24 from Sastra University) 
-- Pau Talarn (BSc, Fall '23)
+- Pau Talarn (BSc, Spring '24)
 
 
 

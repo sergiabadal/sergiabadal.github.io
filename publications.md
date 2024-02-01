@@ -184,6 +184,10 @@ Wireless Network-on-Chip Architecture,”</strong> in IEEE Transactions on Paral
 <br/><br/>
 ### <a name="conference"></a> Conference Papers
 
+[C71] A. Pastor, P. Escofet, S. Ben Rached, E. Alarcón, P. Barlet-Ros, S. Abadal, <strong>"Circuit Partitioning for Multi-Core Quantum Architectures with Deep Reinforcement Learning,"</strong>Proceedings of the ISCAS '24, Singapore, May 2024. <strong><a href="https://arxiv.org/abs/2401.17976">[PDF]</a></strong>
+
+[C70] S. Ben Rached, C. G. Almudéver, E. Alarcón, S. Abadal, <strong>"Spatio-Temporal Characterization of Qubit Routing in Connectivity-Constrained Quantum Processors,"</strong> Proceedings of the ISCAS '24, Singapore, May 2024. <strong><a href="">[PDF]</a></strong>
+
 [C69] H. Prodhomme, M. F. Imani, S. Abadal and P. del Hougne, <strong>"RIS-Based Over-The-Air Channel Equalization in Resource-Constrained Wireless Networks,"</strong> Proceedings of the EuCAP '24, Glasgow, Scotland, March 2024. <strong><a href="">[PDF]</a></strong>
 
 [C68] F. Rodríguez-Galán, A. Bandara, E. Pereira de Santana, P. Haring Bolívar, E. Alarcón and S. Abadal, <strong>"Collective Communication Patterns using Time-Reversal Terahertz Links at the Chip Scale,"</strong> Proceedings of the IEEE GLOBECOM '23, Kuala Lumpur, Malaysia, December 2023. <strong><a href="https://arxiv.org/pdf/2309.01428.pdf">[PDF]</a></strong>

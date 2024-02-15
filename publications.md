@@ -333,7 +333,9 @@ Communications within Computing Packages,”</strong> in Proceedings of the ACM/
 <br/><br/>
 ### <a name="poster"></a> Posters and Abstracts
 
-P. Talarn, B. Ollé, F. Lemic, S. Abadal, X. Costa-Pérez, <strong>"Demo: Real-time Generation of 3-Dimensional Representations of Static Objects using Small Unmanned Aerial Vehicles,"</strong>, 2023 International Conference on Mobile Computing and Networking (ACM MobiCom), 2023. <strong><a href="https://www.researchgate.net/publication/372316079_Real-time_Generation_of_3-Dimensional_Representations_of_Static_Objects_using_Small_Unmanned_Aerial_Vehicles">[PDF]</a></strong>
+[P20] N. Moser, E. Gómez, S. Abadal, E. Alarcón, F. Lemic, E. Shitiri, <strong>"Liquid Biopsy Using Intra-Body Nanonetworks: Perspective and Approach,"</strong> 8th Workshop on Molecular Communications, Oslo, Norway, April 2024.
+
+[P19] P. Talarn, B. Ollé, F. Lemic, S. Abadal, X. Costa-Pérez, <strong>"Demo: Real-time Generation of 3-Dimensional Representations of Static Objects using Small Unmanned Aerial Vehicles,"</strong>, 2023 International Conference on Mobile Computing and Networking (ACM MobiCom), 2023. <strong><a href="https://www.researchgate.net/publication/372316079_Real-time_Generation_of_3-Dimensional_Representations_of_Static_Objects_using_Small_Unmanned_Aerial_Vehicles">[PDF]</a></strong>
 
 [P18] E. Pereira de Santana, D. Stock, Z. Wang, K.-T. Wang, S. Abadal, M. Lemme, P. Haring Bolívar, <strong>"Tunable Plasmonic Graphene Antenna Array for Communications at THz Frequencies,"</strong> 2023 48th International Conference on Infrared, Millimeter and Terahertz Waves (IRMMW-THz), Montréal, Canada, September 2023.
 

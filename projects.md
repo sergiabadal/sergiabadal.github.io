@@ -29,7 +29,7 @@ In this context, the WINC project envisions a revolution in computer architectur
 
  
 <br/><br/>
-### <a name="quad"></a> QUADRATURE: Wireless Networks within Next-Generation Computing Systems
+### <a name="quad"></a> QUADRATURE: Scalable Multi-Chip Quantum Architectures Enabled by Cryogenic Wireless/Quantum-Coherent Network-in-Package
 - **Website:** [www.quadrature-project.eu](https://www.quadrature-project.eu)
 - **Project Type:** EIC PATHFINDER
 - **Funding:** 3.4 M€

@@ -82,7 +82,7 @@ S. Rodrigo, S. Abadal, E. Alarcón, C. Almudéver, <strong>"Exploring a Double F
 <br/><br/>
 ### <a name="journal"></a> Journal Papers
 
-[J45] P. Escofet, A. Ovide, M. Babdic, L. Prielinger, H. Van Someren, S. Feld, E. Alarcón, S. Abadal, C. G. Almudéver, <strong>"Revisiting the Mapping of Quantum Circuits: Entering the Multi-Core Era,"</strong> ACM Transactions on Quantum Computing, 2024. <strong><a href="https://arxiv.org/pdf/2403.17205.pdf">[PDF]</a></strong>
+[J45] P. Escofet, A. Ovide, M. Bandic, L. Prielinger, H. Van Someren, S. Feld, E. Alarcón, S. Abadal, C. G. Almudéver, <strong>"Revisiting the Mapping of Quantum Circuits: Entering the Multi-Core Era,"</strong> ACM Transactions on Quantum Computing, 2024. <strong><a href="https://arxiv.org/pdf/2403.17205.pdf">[PDF]</a></strong>
 
 [J44] K. Ntontin, A.-A. A. Boulogeorgos, S. Abadal, A. Mesodiakaki, S. Chatzinotas, B. Ottersten, <strong>"Perpetual Reconfigurable Intelligent Surfaces Through In-Band Energy Harvesting: Architectures, Protocols, and Challenges,"</strong> IEEE Vehicular Technology Magazine, vol. 19, no. 1, pp. 36-44, 2024. <strong><a href="https://arxiv.org/pdf/2308.08267.pdf">[PDF]</a></strong>
 

@@ -15,8 +15,8 @@ link_url: /recruitment
 <!--
 #- XXXX
 -->
+- [Ethungshan Shitiri](https://sites.google.com/view/ethungshanshitiri/) (MSCA PostDoctoral Fellow, 2024-2026)
 - [Abhijit Das](https://abhijitcse.github.io/) (PostDoc, 2023-2024)
-- [Ethungshan Shitiri](https://sites.google.com/view/ethungshanshitiri/) (PostDoc, 2023-2024; MSCA PostDoctoral Fellow, 2024-2026)
 - [Santiago Rodrigo](https://www.linkedin.com/in/santiago-rodrigo-mu%C3%B1oz-5b14a743) (PostDoc, 2024)
 - [Fátima Rodríguez](https://www.linkedin.com/in/f%C3%A1tima-yolanda-rodr%C3%ADguez-gal%C3%A1n-96b3381a8/) (PhD, 2021-2024)
 - Sahar Ben Rached (PhD, 2022-2025)
@@ -53,6 +53,7 @@ link_url: /recruitment
 
 ### Alumni
 
+- [Ethungshan Shitiri](https://sites.google.com/view/ethungshanshitiri/) (PostDoc, 2023-2024)
 - [Akshay Jain](https://www.linkedin.com/in/akshay91jain) (PostDoc, 2020-2021)
 - [Santiago Rodrigo](https://www.linkedin.com/in/santiago-rodrigo-mu%C3%B1oz-5b14a743) (PhD, 2019-2023)
 - [Hamidreza Taghvaee](https://www.nottingham.ac.uk/research/groups/ggiemr/people/hamidreza.taghvaee) (PhD, 2018-2021)

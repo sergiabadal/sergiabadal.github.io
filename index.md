@@ -30,6 +30,7 @@ Check out the details [here](/recruitment).
 ---
 
 ### News
+- **Mar 2024**: Ethungshan has won a **Marie Curie Postdoctoral Grant**! It is called BeNiFIt, [check it out](https://sites.google.com/view/benifit-project)!
 - **Dec 2023**: Sergi holds new editorial positions as DC AEiC of **IEEE JETCAS** and AE of **IEEE TMC** and **IEEE TMBMC**.
 - **Dec 2023**: Santiago has defended his PhD thesis on quantum multi-core processors. Check out [his amazing work](https://scholar.google.com/citations?user=hKkLPTYAAAAJ&hl=es&oi=ao). Congratulations, Santi!!
 - **Jul 2023**: We travel to Valencia for the kick-off of our new project QUADRATURE, [check it out](https://www.quadrature-project.eu/)! We will investigate how to architecte quantum multi-core processors.

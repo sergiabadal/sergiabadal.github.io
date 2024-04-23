@@ -81,11 +81,11 @@ link_url: http://publons.com/author/1004804/sergi-abadal#profile
 - IEEE International Symposium on Circuits & Systems (ISCAS), 2019, 2020, 2021, 2022, 2023.
 - IEEE Vehicular Technology Conference (VTC-Spring), 2019, 2020, 2021.
 - IEEE Vehicular Technology Conference (VTC-Fall), 2018, 2019, 2020, 2021.
+- ACM International Conference on Nanoscale Computing and Communication (ACM NANOCOM), 2020, 2023, 2024.
 - IEEE Int'l Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC), 2018, 2019, 2020, 2021.
 - International Conference on Innovation and Intelligence for Informatics, Computing, and Technologies (3ICT), 2019, 2020.
 - IEEE/ACM International Symposium on Networks-on-Chip (NOCS), October 2020.
 - IEEE Asia Pacific Conference on Circuits and Systems (APCCAS 2020), 2020.
-- ACM International Conference on Nanoscale Computing and Communication (ACM NANOCOM), 2020, 2023.
 - IEEE International Workshop on Terahertz Communications (TeraCom), IEEE ICC Workshops, 2020, 2021.
 - IEEE International Workshop on Wireless Communications and Networking in Extreme Environments (IEEE WCNEE), IEEE INFOCOM Workshops, 2020, 2021, 2022.
 - IEEE International Workshop on Terahertz Communications, IEEE GLOBECOM Workshops, 2019.

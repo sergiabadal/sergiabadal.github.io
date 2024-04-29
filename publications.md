@@ -44,6 +44,7 @@ S. Abadal, I. Llatser, A. Mestres, H. Lee, E. Alarcón and A. Cabellos-Aparicio,
 <br/><br/>
 ### <a name="pre"></a> Pre-prints
 
+A. Bandara, F. Rodríguez-Galán, P. Talarn, E. Pereira de Santana, P. Haring Bolívar, E. Alarcón and S. Abadal, <strong>"Towards Scalable Multi-Chip Wireless Networks with Near-Field Time Reversal,"</strong> arxiv:2404.17325, 2024. <strong><a href="https://arxiv.org/pdf/2404.17325">[PDF]</a></strong>
 
 S. Ben Rached, I. López Agudo, S. Rodrigo, M. Bandic, S. Feld, H. Van Someren, E. Alarcón, C. G. Almudéver and S. Abadal, <strong>"Characterizing the Inter-Core Qubit Traffic in Large-Scale Quantum Modular Architectures,"</strong> arxiv:2310.01921, 2023. <strong><a href="https://arxiv.org/pdf/2310.01921.pdf">[PDF]</a></strong>
 

@@ -189,9 +189,11 @@ Wireless Network-on-Chip Architecture,”</strong> in IEEE Transactions on Paral
 <br/><br/>
 ### <a name="conference"></a> Conference Papers
 
-[C71] A. Pastor, P. Escofet, S. Ben Rached, E. Alarcón, P. Barlet-Ros, S. Abadal, <strong>"Circuit Partitioning for Multi-Core Quantum Architectures with Deep Reinforcement Learning,"</strong> Proceedings of the ISCAS '24, Singapore, May 2024. <strong><a href="https://arxiv.org/abs/2401.17976">[PDF]</a></strong>
+[C72] J. Torres Gómez, J. Simonjan, J. Engstrand, S. Abadal, R. Augustine, T. Voigt and F. Dressler, <strong>"Mobility Matters at Nanoscale: Rendering the Received Terahertz Signal Power in Human Blood Vessels,"</strong> Proceedings of the BalkanCom '24, Ljubljana, Slovenia, June 2024.  <strong><a href=".">[PDF]</a></strong>
 
-[C70] S. Ben Rached, C. G. Almudéver, E. Alarcón, S. Abadal, <strong>"Spatio-Temporal Characterization of Qubit Routing in Connectivity-Constrained Quantum Processors,"</strong> Proceedings of the ISCAS '24, Singapore, May 2024. <strong><a href="https://arxiv.org/pdf/2402.00469.pdf">[PDF]</a></strong>
+[C71] A. Pastor, P. Escofet, S. Ben Rached, E. Alarcón, P. Barlet-Ros and S. Abadal, <strong>"Circuit Partitioning for Multi-Core Quantum Architectures with Deep Reinforcement Learning,"</strong> Proceedings of the ISCAS '24, Singapore, May 2024. <strong><a href="https://arxiv.org/abs/2401.17976">[PDF]</a></strong>
+
+[C70] S. Ben Rached, C. G. Almudéver, E. Alarcón and S. Abadal, <strong>"Spatio-Temporal Characterization of Qubit Routing in Connectivity-Constrained Quantum Processors,"</strong> Proceedings of the ISCAS '24, Singapore, May 2024. <strong><a href="https://arxiv.org/pdf/2402.00469.pdf">[PDF]</a></strong>
 
 [C69] H. Prodhomme, M. F. Imani, S. Abadal and P. del Hougne, <strong>"RIS-Based Over-The-Air Channel Equalization in Resource-Constrained Wireless Networks,"</strong> Proceedings of the EuCAP '24, Glasgow, Scotland, March 2024. <strong><a href="">[PDF]</a></strong> *<span style="color:red">BEST PAPER CANDIDATE (top 5 over 1016 papers)!</span>*
 

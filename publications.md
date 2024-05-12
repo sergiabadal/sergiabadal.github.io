@@ -15,8 +15,9 @@ link_url: https://scholar.google.com/citations?user=FntFEnYAAAAJ
 <br/>
 ### <a name="selected"></a> Selected Publications
 
-S. Abadal, R. Guirado, H. Taghvaee, A. Jain, E. Pereira de Santana, P. Haring Bolívar, M. Saeed, R. Negra, Z. Wang, K-T. Wang, M. C. Lemme, J. Klein, M. Zapater, A. Levisse, D. Atienza, D. Rossi, F. Conti, M. Dazzi, G. Karunaratne, I. Boybat and A. Sebastian <strong>"Graphene-based Wireless Agile Interconnects for
-Massive Heterogeneous Multi-chip Processors,"</strong> IEEE Wireless Communications Magazine, vol. 30, no. 4, pp. 162-169, 2023. <strong><a href="https://arxiv.org/pdf/2011.04107.pdf">[PDF]</a></strong>
+S. Abadal, C. Han, V. Petrov, L. Galluccio, I. F. Akyildiz, J. M. Jornet, <strong>"Electromagnetic Nanonetworks Beyond 6G: From Wearable and Implantable Networks to On-chip and Quantum Communication,"</strong> IEEE Journal on Selected Areas in Communications, vol. 42 , no. 8, 2024. <strong><a href=".">[PDF]</a></strong>
+
+S. Abadal, R. Guirado, H. Taghvaee, A. Jain, E. Pereira de Santana, P. Haring Bolívar, M. Saeed, R. Negra, Z. Wang, K-T. Wang, M. C. Lemme, J. Klein, M. Zapater, A. Levisse, D. Atienza, D. Rossi, F. Conti, M. Dazzi, G. Karunaratne, I. Boybat and A. Sebastian <strong>"Graphene-based Wireless Agile Interconnects for Massive Heterogeneous Multi-chip Processors,"</strong> IEEE Wireless Communications Magazine, vol. 30, no. 4, pp. 162-169, 2023. <strong><a href="https://arxiv.org/pdf/2011.04107.pdf">[PDF]</a></strong>
 - [ENG] <a href="https://www.upc.edu/en/press-room/news/the-upc-leads-a-project-to-develop-faster-lower-power-processors-for-artificial-intelligence">UPC Press Release</a>
 - [ESP] <a href="https://www.computing.es/movilidad/noticias/1121206046501/upc-investiga-desarrollar-procesadores-ia-mas-sostenibles.1.html">Computing.es</a>
 
@@ -28,8 +29,6 @@ S. Abadal, A. Jain, R. Guirado, J. López-Alonso, E. Alarcón, <strong>"Computin
 S. Rodrigo, S. Abadal, E. Alarcón, M. Bandic, J. van Someren, C. G. Almudever, <strong>"On Double Full-Stack Communications-Enabled Architectures for Multi-Core Quantum Computers,"</strong> IEEE MICRO, vol. 41, no. 5, pp. 48-56, 2021. <a href="https://upcommons.upc.edu/bitstream/handle/2117/349287/09465720.pdf?sequence=3"><strong>[PDF]</strong></a> <strong><a href="https://youtu.be/ltyOaMQ22UI">[VIDEO]</a></strong> 
 
 X. Timoneda, S. Abadal, A. Franques, D. Manessis, J. Zhou, J. Torrellas, E. Alarcón, and A. Cabellos-Aparicio, <strong>“Engineer the Channel and Adapt to it: Enabling Wireless Intra-Chip Communication,”</strong> IEEE Transactions on Communications, vol. 68, no. 5, pp. 3247-3258, 2020. <strong><a href="https://arxiv.org/pdf/1901.04291.pdf">[PDF]</a></strong>
-
-F. Lemic, S. Abadal, W. Tavernier, P. Stroobant, D. Colle, E. Alarcón, J. Marquez-Barja, J. Famaey, <strong>"Survey on Terahertz Nanocommunication and Networking: A Top-Down Perspective,"</strong> IEEE Journal on Selected Areas in Communications, vol. 36, no. 9, pp. 1506-1543, 2021. <strong><a href="https://arxiv.org/pdf/1909.05703.pdf">[PDF]</a></strong> <strong><a href="https://www.youtube.com/watch?v=j_WOGmeEmoU">[VIDEO]</a></strong> 
 
 S. Abadal, C. Liaskos, A. Tsioliaridou, S. Ioannidis, A. Pitsillides, J. Solé-Pareta, E. Alarcón, and A. Cabellos-Aparicio, <strong>“Computing and Communications for the Software-Defined Metamaterial Paradigm: A Context Analysis,”</strong> IEEE Access, vol. 5, pp. 6225-6235, 2017. <strong><a href="http://www.n3cat.upc.edu/papers/Computing-and-Communications-for-the-Software-Defined-Metamaterial-Paradigm-A-Context-Analysis.pdf">[PDF]</a></strong>
 - [ENG] <a href="http://www.publicnow.com/view/B0BA04ADDCC57999D9F4C16BFC8D6F405A889DC6?2017-07-21-10:00:11+01:00-xxx1004">PublicNow</a> \| <a href="https://www.upc.edu/en/press-room/news/scientists-from-the-upc-investigate-reconfigurable-and-programmable-metamaterials">UPC News</a> \| <a href="https://www.theregister.com/2020/06/01/irs_wireless_jamming/">The Register</a>
@@ -84,6 +83,8 @@ S. Rodrigo, S. Abadal, E. Alarcón, C. Almudéver, <strong>"Exploring a Double F
 
 <br/><br/>
 ### <a name="journal"></a> Journal Papers
+
+[J46] S. Abadal, C. Han, V. Petrov, L. Galluccio, I. F. Akyildiz, J. M. Jornet, <strong>"Electromagnetic Nanonetworks Beyond 6G: From Wearable and Implantable Networks to On-chip and Quantum Communication,"</strong> IEEE Journal on Selected Areas in Communications, vol. 42 , no. 8, 2024. <strong><a href=".">[PDF]</a></strong>
 
 [J45] P. Escofet, A. Ovide, M. Bandic, L. Prielinger, H. Van Someren, S. Feld, E. Alarcón, S. Abadal, C. G. Almudéver, <strong>"Revisiting the Mapping of Quantum Circuits: Entering the Multi-Core Era,"</strong> ACM Transactions on Quantum Computing, 2024. <strong><a href="https://arxiv.org/pdf/2403.17205.pdf">[PDF]</a></strong>
 

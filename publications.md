@@ -15,7 +15,7 @@ link_url: https://scholar.google.com/citations?user=FntFEnYAAAAJ
 <br/>
 ### <a name="selected"></a> Selected Publications
 
-S. Abadal, C. Han, V. Petrov, L. Galluccio, I. F. Akyildiz, J. M. Jornet, <strong>"Electromagnetic Nanonetworks Beyond 6G: From Wearable and Implantable Networks to On-chip and Quantum Communication,"</strong> IEEE Journal on Selected Areas in Communications, vol. 42 , no. 8, 2024. <strong><a href=".">[PDF]</a></strong>
+S. Abadal, C. Han, V. Petrov, L. Galluccio, I. F. Akyildiz, J. M. Jornet, <strong>"Electromagnetic Nanonetworks Beyond 6G: From Wearable and Implantable Networks to On-chip and Quantum Communication,"</strong> IEEE Journal on Selected Areas in Communications, vol. 42 , no. 8, 2024. <strong><a href="https://arxiv.org/pdf/2405.07812">[PDF]</a></strong>
 
 S. Abadal, R. Guirado, H. Taghvaee, A. Jain, E. Pereira de Santana, P. Haring Bolívar, M. Saeed, R. Negra, Z. Wang, K-T. Wang, M. C. Lemme, J. Klein, M. Zapater, A. Levisse, D. Atienza, D. Rossi, F. Conti, M. Dazzi, G. Karunaratne, I. Boybat and A. Sebastian <strong>"Graphene-based Wireless Agile Interconnects for Massive Heterogeneous Multi-chip Processors,"</strong> IEEE Wireless Communications Magazine, vol. 30, no. 4, pp. 162-169, 2023. <strong><a href="https://arxiv.org/pdf/2011.04107.pdf">[PDF]</a></strong>
 - [ENG] <a href="https://www.upc.edu/en/press-room/news/the-upc-leads-a-project-to-develop-faster-lower-power-processors-for-artificial-intelligence">UPC Press Release</a>
@@ -84,7 +84,7 @@ S. Rodrigo, S. Abadal, E. Alarcón, C. Almudéver, <strong>"Exploring a Double F
 <br/><br/>
 ### <a name="journal"></a> Journal Papers
 
-[J46] S. Abadal, C. Han, V. Petrov, L. Galluccio, I. F. Akyildiz, J. M. Jornet, <strong>"Electromagnetic Nanonetworks Beyond 6G: From Wearable and Implantable Networks to On-chip and Quantum Communication,"</strong> IEEE Journal on Selected Areas in Communications, vol. 42 , no. 8, 2024. <strong><a href=".">[PDF]</a></strong>
+[J46] S. Abadal, C. Han, V. Petrov, L. Galluccio, I. F. Akyildiz, J. M. Jornet, <strong>"Electromagnetic Nanonetworks Beyond 6G: From Wearable and Implantable Networks to On-chip and Quantum Communication,"</strong> IEEE Journal on Selected Areas in Communications, vol. 42 , no. 8, 2024. <strong><a href="https://arxiv.org/pdf/2405.07812">[PDF]</a></strong>
 
 [J45] P. Escofet, A. Ovide, M. Bandic, L. Prielinger, H. Van Someren, S. Feld, E. Alarcón, S. Abadal, C. G. Almudéver, <strong>"Revisiting the Mapping of Quantum Circuits: Entering the Multi-Core Era,"</strong> ACM Transactions on Quantum Computing, 2024. <strong><a href="https://arxiv.org/pdf/2403.17205.pdf">[PDF]</a></strong>
 

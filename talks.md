@@ -18,6 +18,7 @@ title: Talks
 - **ERC** at University of Antwerp, Antwerp, June 2024.
 - **Accelerating Computing with Wireless Networks inside Computing Packages** at Qualcomm, Remote, May 2024.
 --> 
+- **Accelerating Classical and Quantum Computing with Wireless Networks inside Computing Packages** University of Antwerp, June 2024.
 - **Accelerating Computing with Wireless Networks inside Computing Packages** at the Chinese Association for Artificial Intelligence (CAAI) academic workshops, Remote, February 2023. [Viewed by 280.000+ people!](https://www.caai.cn/index.php?s=/home/article/detail/id/2441.html) **[[VIDEO]](https://zhibo.sina.com.cn/mt/685860)**
 - **Graphene Wireless Interconnects for Next-Generation Computing Systems** at the [GreENergy](https://www.greenergy-project.eu/news/) Summer School, Ancona, Italy, June 2022. **[[VIDEO]](https://www.youtube.com/watch?v=EWQhYsNzlRE)**
 - **Graphene nano-antennas for wireless communications at the chip scale,** at the 3rd Annual Congress of Nanoscience and Nanotechnology, Barcelona, Spain, November 2021. **[[VIDEO]](https://www.youtube.com/watch?v=FBXCrbkieeI)**

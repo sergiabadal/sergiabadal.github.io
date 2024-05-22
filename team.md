@@ -30,6 +30,7 @@ link_url: /recruitment
 - George Koutroumpas (PhD at Telefónica I+D, 2023-2025)
 - Rupayan Bhattarchajee (PhD, 2024-2027)
 - Mohammad Nasser (PhD, 2024-2027)
+- Abdollah Rezagholi (PhD, 2024-2027)
 - Sandra Navarro (MSc, Spring '24)
 - Eneko Ibarluzea (MSc, Spring '24)
 - Aleksandar Yordanov (MSc, Spring '24)

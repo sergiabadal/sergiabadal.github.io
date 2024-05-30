@@ -190,7 +190,7 @@ Wireless Network-on-Chip Architecture,”</strong> in IEEE Transactions on Paral
 <br/><br/>
 ### <a name="conference"></a> Conference Papers
 
-[C72] J. Torres Gómez, J. Simonjan, J. Engstrand, S. Abadal, R. Augustine, T. Voigt and F. Dressler, <strong>"Mobility Matters at Nanoscale: Rendering the Received Terahertz Signal Power in Human Blood Vessels,"</strong> Proceedings of the BalkanCom '24, Ljubljana, Slovenia, June 2024.  <strong><a href=".">[PDF]</a></strong>
+[C72] J. Torres Gómez, J. Simonjan, J. Engstrand, S. Abadal, R. Augustine, T. Voigt and F. Dressler, <strong>"Mobility Matters at Nanoscale: Rendering the Received Terahertz Signal Power in Human Blood Vessels,"</strong> Proceedings of the BalkanCom '24, Ljubljana, Slovenia, June 2024.  <strong><a href="https://www.tkn.tu-berlin.de/bib/torres-gomez2024mobility/torres-gomez2024mobility.pdf">[PDF]</a></strong>
 
 [C71] A. Pastor, P. Escofet, S. Ben Rached, E. Alarcón, P. Barlet-Ros and S. Abadal, <strong>"Circuit Partitioning for Multi-Core Quantum Architectures with Deep Reinforcement Learning,"</strong> Proceedings of the ISCAS '24, Singapore, May 2024. <strong><a href="https://arxiv.org/abs/2401.17976">[PDF]</a></strong>
 

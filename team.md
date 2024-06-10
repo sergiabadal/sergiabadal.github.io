@@ -40,15 +40,13 @@ link_url: /recruitment
 - Stefano Petrilli (MSc, Spring '24)
 - [Pablo Galván](https://www.linkedin.com/in/pablo-galv%C3%A1n-calder%C3%B3n-057298265) (MSc, Spring '24)
 - Daniel Trujillo (MSc, Spring '24)
-- Sergi Sánchez (MSc, Fall '23)
-- Laura Rayón (MSc, Fall '23)
 - Bernat Ollé (BSc, Spring '24 @ University of Illinois at Urbana-Champaign)
 - Pol Puigdemont (BSc, Spring '24 @ Georgia Tech)
 - Miquel Muñoz (BSc, Spring '24)
 - Arnau Esteban (BSc, Spring '24)
 - Óscar Ramos (BSc, Spring '24)
 - Marakala Satvika Santhoshi (BSc, Spring '24 from Sastra University) 
-- Pau Talarn (BSc, Spring '24)
+
 
 
 
@@ -60,6 +58,8 @@ link_url: /recruitment
 - [Hamidreza Taghvaee](https://www.nottingham.ac.uk/research/groups/ggiemr/people/hamidreza.taghvaee) (PhD, 2018-2021)
   - [UPC Special Doctoral Award](https://doctorat.upc.edu/en/doctoral-thesis/extraordinary-awards/Resolucindefinitivapremiosextraordinarios2023_CAST.pdf) to the top PhD thesis at UPC (24/305) in 2021.
 - Raúl Higueras (MSc, Fall '23)
+- Sergi Sánchez (MSc, Fall '23)
+- Laura Rayón (MSc, Fall '23)
 - Eloi Gómez (MSc, Fall '23)
 - Joan Cuy (MSc, Fall '23)
 - Niklas Moser (MSc, Fall '23 from TU Berlin)
@@ -81,6 +81,7 @@ link_url: /recruitment
   - [IN-NOVA Award 2021](https://www.coit.es/sites/default/files/premiados_xlii_convocatoria.pdf) to the best master thesis by the COIT
   - [IBM Award 2021](https://www.coit.es/sites/default/files/premiados_xlii_convocatoria.pdf) to the best academic record by the COIT
 - Jorge López Alonso (MSc, Spring '20)
+- Pau Talarn (BSc, Spring '24)
 - Aina Pérez Rodas (BSc, Fall '23)
 - [Gerard Calvo](https://www.linkedin.com/in/gerard-calvo-bartra-306a41167/) (BSc, Spring '23)
 - [Pablo Galván](https://www.linkedin.com/in/pablo-galv%C3%A1n-calder%C3%B3n-057298265) (BSc, Spring '23)

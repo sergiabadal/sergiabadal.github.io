@@ -40,6 +40,7 @@ link_url: /recruitment
 - Stefano Petrilli (MSc, Spring '24)
 - [Pablo Galván](https://www.linkedin.com/in/pablo-galv%C3%A1n-calder%C3%B3n-057298265) (MSc, Spring '24)
 - Daniel Trujillo (MSc, Spring '24)
+- İbrahim Yiğit Zorer (BSc, Summer '24)
 - Bernat Ollé (BSc, Spring '24 @ University of Illinois at Urbana-Champaign)
 - Pol Puigdemont (BSc, Spring '24 @ Georgia Tech)
 - Miquel Muñoz (BSc, Spring '24)

@@ -43,8 +43,6 @@ S. Abadal, I. Llatser, A. Mestres, H. Lee, E. Alarcón and A. Cabellos-Aparicio,
 <br/><br/>
 ### <a name="pre"></a> Pre-prints
 
-F. Rodríguez-Galán, A. Bandara, E. Pereira de Santana, P. Haring Bolívar, E. Alarcón and S. Abadal, <strong>"Time Reversal for Near-Field Communications on Multi-chip Wireless Networks,"</strong> arxiv:2404.18562, 2024. <strong><a href="https://arxiv.org/pdf/2404.18562">[PDF]</a></strong>
-
 A. Bandara, F. Rodríguez-Galán, P. Talarn, E. Pereira de Santana, P. Haring Bolívar, E. Alarcón and S. Abadal, <strong>"Towards Scalable Multi-Chip Wireless Networks with Near-Field Time Reversal,"</strong> arxiv:2404.17325, 2024. <strong><a href="https://arxiv.org/pdf/2404.17325">[PDF]</a></strong>
 
 S. Ben Rached, I. López Agudo, S. Rodrigo, M. Bandic, S. Feld, H. Van Someren, E. Alarcón, C. G. Almudéver and S. Abadal, <strong>"Characterizing the Inter-Core Qubit Traffic in Large-Scale Quantum Modular Architectures,"</strong> arxiv:2310.01921, 2023. <strong><a href="https://arxiv.org/pdf/2310.01921.pdf">[PDF]</a></strong>
@@ -83,6 +81,8 @@ S. Rodrigo, S. Abadal, E. Alarcón, C. Almudéver, <strong>"Exploring a Double F
 
 <br/><br/>
 ### <a name="journal"></a> Journal Papers
+
+[J47] F. Rodríguez-Galán, A. Bandara, E. Pereira de Santana, P. Haring Bolívar, E. Alarcón and S. Abadal, <strong>"Time Reversal for Near-Field Communications on Multi-chip Wireless Networks,"</strong> IEEE Communications Magazine, 2024. <strong><a href="https://arxiv.org/pdf/2404.18562">[PDF]</a></strong>
 
 [J46] S. Abadal, C. Han, V. Petrov, L. Galluccio, I. F. Akyildiz, J. M. Jornet, <strong>"Electromagnetic Nanonetworks Beyond 6G: From Wearable and Implantable Networks to On-chip and Quantum Communication,"</strong> IEEE Journal on Selected Areas in Communications, vol. 42 , no. 8, 2024. <strong><a href="https://arxiv.org/pdf/2405.07812">[PDF]</a></strong>
 

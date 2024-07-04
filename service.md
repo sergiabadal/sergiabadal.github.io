@@ -96,7 +96,7 @@ link_url: http://publons.com/author/1004804/sergi-abadal#profile
 - Workshop on Advanced Stacking Many-core Systems and Architectures, IEEE COINS Workshops, 2019.
 - IEEE Workshop on Ultra-High Broadband Terahertz Communication for 5G and Beyond Networks (UBTCN 2019), IEEE INFOCOM Workshops, 2019.
 - IEEE Conference on Design of Circuits and Integrated Systems (DCIS), On- and Off-chip Interconnects Track, Lyon, France, November 2018.
-- International Workshop on Network-on-Chip Architectures (NoCArc), 2016, 2017, 2018, 2019, 2020.
+- International Workshop on Network-on-Chip Architectures (NoCArc), 2016, 2017, 2018, 2019, 2020, 2024.
 - International Workshop on Advanced Interconnect Solutions and Technologies for Emerging Computing Systems (AISTECS), Stockholm, Sweden, January 2017.
 - Global Symposium on Millimeter-Waves (GSMM), Emerging Technologies Track, 2015, 2016.
 

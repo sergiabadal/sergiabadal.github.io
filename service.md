@@ -62,6 +62,7 @@ link_url: http://publons.com/author/1004804/sergi-abadal#profile
 
 ### Special Session / Tutorial / Panel Organization
 
+- **Wireless Interconnects for Scaling Classical and Quantum Computers,** HiPEAC 2025, Barcelona, Spain, January 2025.
 - **Interconnects in the Post-Moore Era: Challenges and Opportunities,** IEEE/ACM NOCS 2023, Hamburg, Germany, September 2023.
 - **Using gem5 and full-system RISC-V simulation to enable the optimization of heterogeneous architectures,** HiPEAC 2021, Budapest, Hungary, January 2021.
 - **Terahertz Communications for Nanonetworks", 7th ACM International Conference on Nanoscale Computing and Communication (NanoCom),** College Park, MD, September 2020.

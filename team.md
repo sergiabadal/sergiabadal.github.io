@@ -40,7 +40,6 @@ link_url: /recruitment
 - Sergi Tomás (BSc, Fall '24)
 - Laia Mogas (BSc, Fall '24)
 - Xavier Pacheco (BSc, Fall '24)
-- Martina Vichino (BSc, Fall '24)
 - İbrahim Yiğit Zorer (BSc, Summer '24 from Sabanci University)
 - Arnau Esteban (BSc, Spring '24)
 

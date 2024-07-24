@@ -49,10 +49,6 @@ A. Bandara, F. Rodríguez-Galán, P. Talarn, E. Pereira de Santana, P. Haring Bo
 
 S. Ben Rached, I. López Agudo, S. Rodrigo, M. Bandic, S. Feld, H. Van Someren, E. Alarcón, C. G. Almudéver and S. Abadal, <strong>"Characterizing the Inter-Core Qubit Traffic in Large-Scale Quantum Modular Architectures,"</strong> arxiv:2310.01921, 2023. <strong><a href="https://arxiv.org/pdf/2310.01921.pdf">[PDF]</a></strong>
 
-G. Calvo-Bartra, F. Lemic, J. Struye, S. Abadal, X. Costa-Pérez, <strong>"Graph Neural Network-enabled Terahertz-based Flow-guided Nanoscale Localization,"</strong> arxiv:2307.05551, 2023. <strong><a href="https://arxiv.org/pdf/2307.05551.pdf">[PDF]</a></strong>
-
-F. Lemic, G. Calvo-Bartra, A. Brosa-López, J. Torres-Gómez, J. Struye, F. Dressler, S. Abadal, X. Costa-Pérez, <strong>"Insights from the Design Space Exploration of Flow-Guided Nanoscale Localization,"</strong> arxiv:2305.18493, 2023. <strong><a href="https://arxiv.org/pdf/2305.18493.pdf">[PDF]</a></strong>
-
 A. Brosa-López, F. Lemic, J. Struye, J. Torres-Gómez, E. Municio, C. Delgado, G. Calvo-Bartra, F. Dressler, E. Alarcón, J. Famaey, S. Abadal, X. Costa-Pérez, <strong>"Toward Standardized Performance Evaluation of Flow-guided Nanoscale Localization",</strong> arXiv:2303.07804, 2023. <strong><a href="https://arxiv.org/pdf/2303.07804.pdf">[PDF]</a></strong>
 
 A. Wassington, S. Abadal, <strong>"Bias Reduction via Cooperative Bargaining in Synthetic Graph Dataset Generation",</strong> arXiv:2205.13901, 2022. <strong><a href="https://arxiv.org/pdf/2205.13901.pdf">[PDF]</a></strong>
@@ -191,6 +187,16 @@ Wireless Network-on-Chip Architecture,”</strong> in IEEE Transactions on Paral
 
 <br/><br/>
 ### <a name="conference"></a> Conference Papers
+
+[C79] A. Bandara, A. Das, F. Rodríguez-Galán, E. Alarcon, S. Abadal, <strong>"A MAC Protocol on Collective Communications with Time Reversal for Wireless Networks within Computing Systems,"</strong> Proceedings of the ACM NANOCOM'24, October 2024. <strong><a href=".">[PDF]</a></strong>
+
+[C78] E. Shitiri, A. Yadav, S. Abadal, E. Alarcon, H. Cho, <strong>"Enhanced Drug Delivery via Localization-Enabled Relaying in Molecular Communication Nanonetworks,"</strong> Proceedings of the ACM NANOCOM'24, October 2024. <strong><a href=".">[PDF]</a></strong>
+
+[C77] J. Torres Gomez, J. Engstrand, S. Abadal, R. Augustine, T. Voigt, F. Dressler, <strong>"Implications of Nanodevice Mobility on Terahertz Communication Links in the Human Vessels,"</strong> Proceedings of the ACM NANOCOM'24, October 2024. <strong><a href=".">[PDF]</a></strong>
+
+[C76] P. Galván, F. Lemic, G. Calvo, S. Abadal, X. Costa-Perez, <strong>"Tailoring Graph Neural Network-based Flow-guided Localization to Individual Bloodstreams and Activities,"</strong> Proceedings of the ACM NANOCOM'24, October 2024. <strong><a href=".">[PDF]</a></strong>
+
+[C75] F. Lemic, G. Calvo-Bartra, A. Brosa-López, J. Torres-Gómez, J. Struye, F. Dressler, S. Abadal, X. Costa-Pérez, <strong>"Insights from the Design Space Exploration of Flow-Guided Nanoscale Localization,"</strong> Proceedings of the ACM NANOCOM'24, October 2024. <strong><a href="https://arxiv.org/pdf/2305.18493.pdf">[PDF]</a></strong>
 
 [C74] P. Escofet, A. Gonzalvo, E. Alarcón, C. G. Almudéver and S. Abadal, <strong>"Route-Forcing: Scalable Quantum Circuit Mapping for Scalable Quantum Computing Architectures",</strong> Proceedings of the IEEE QCE'24, September 2024. <strong><a href=".">[PDF]</a></strong>
 

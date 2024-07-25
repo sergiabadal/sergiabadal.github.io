@@ -198,7 +198,7 @@ Wireless Network-on-Chip Architecture,”</strong> in IEEE Transactions on Paral
 
 [C75] F. Lemic, G. Calvo-Bartra, A. Brosa-López, J. Torres-Gómez, J. Struye, F. Dressler, S. Abadal, X. Costa-Pérez, <strong>"Insights from the Design Space Exploration of Flow-Guided Nanoscale Localization,"</strong> Proceedings of the ACM NANOCOM'24, October 2024. <strong><a href="https://arxiv.org/pdf/2305.18493.pdf">[PDF]</a></strong>
 
-[C74] P. Escofet, A. Gonzalvo, E. Alarcón, C. G. Almudéver and S. Abadal, <strong>"Route-Forcing: Scalable Quantum Circuit Mapping for Scalable Quantum Computing Architectures",</strong> Proceedings of the IEEE QCE'24, September 2024. <strong><a href=".">[PDF]</a></strong>
+[C74] P. Escofet, A. Gonzalvo, E. Alarcón, C. G. Almudéver and S. Abadal, <strong>"Route-Forcing: Scalable Quantum Circuit Mapping for Scalable Quantum Computing Architectures",</strong> Proceedings of the IEEE QCE'24, September 2024. <strong><a href="[https://arxiv.org/pdf/2407.17306">[PDF]</a></strong>
 
 [C73] S. Ben Rached, S. Navarro-Reyes, J. Khan, C. G. Almudéver, E. Alarcón and S. Abadal, <strong>"Benchmarking Emerging Quantum Interconnect Technologies for Modular Quantum Computers",</strong> Proceedings of the IEEE QCE'24, September 2024. <strong><a href=".">[PDF]</a></strong>
 

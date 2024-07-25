@@ -200,7 +200,7 @@ Wireless Network-on-Chip Architecture,”</strong> in IEEE Transactions on Paral
 
 [C74] P. Escofet, A. Gonzalvo, E. Alarcón, C. G. Almudéver and S. Abadal, <strong>"Route-Forcing: Scalable Quantum Circuit Mapping for Scalable Quantum Computing Architectures",</strong> Proceedings of the IEEE QCE'24, September 2024. <strong><a href="[https://arxiv.org/pdf/2407.17306">[PDF]</a></strong>
 
-[C73] S. Ben Rached, S. Navarro-Reyes, J. Khan, C. G. Almudéver, E. Alarcón and S. Abadal, <strong>"Benchmarking Emerging Quantum Interconnect Technologies for Modular Quantum Computers",</strong> Proceedings of the IEEE QCE'24, September 2024. <strong><a href=".">[PDF]</a></strong>
+[C73] S. Ben Rached, S. Navarro-Reyes, J. Khan, C. G. Almudéver, E. Alarcón and S. Abadal, <strong>"Benchmarking Emerging Cavity-Mediated Quantum Interconnect Technologies for Modular Quantum Computers",</strong> Proceedings of the IEEE QCE'24, September 2024. <strong><a href="https://arxiv.org/pdf/2407.15651">[PDF]</a></strong>
 
 [C72] J. Torres Gómez, J. Simonjan, J. Engstrand, S. Abadal, R. Augustine, T. Voigt and F. Dressler, <strong>"Mobility Matters at Nanoscale: Rendering the Received Terahertz Signal Power in Human Blood Vessels,"</strong> Proceedings of the BalkanCom '24, Ljubljana, Slovenia, June 2024.  <strong><a href="https://www.tkn.tu-berlin.de/bib/torres-gomez2024mobility/torres-gomez2024mobility.pdf">[PDF]</a></strong>
 

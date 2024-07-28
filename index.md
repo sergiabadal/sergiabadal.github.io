@@ -30,6 +30,7 @@ Check out the details [here](/recruitment).
 ---
 
 ### News
+- **Jul 2024**: Sergi and Abhijit have been awarded with an **ERC Proof of Concept** project! The project is called EWiC, <a href="https://sergiabadal.com/projects/#ewic">check it out.</a>
 - **Jun 2024**: New papers accepted at **IEEE JSAC** and **IEEE COMMAG**. Congratulations to Ama and Fátima for their first journal paper!
 - **Mar 2024**: Ethungshan has won a **Marie Curie Postdoctoral Grant**! It is called BeNiFIt, [check it out](https://sites.google.com/view/benifit-project)!
 - **Dec 2023**: Sergi holds new editorial positions as DC AEiC of **IEEE JETCAS** and AE of **IEEE TMC** and **IEEE TMBMC**.

@@ -196,7 +196,7 @@ Reprogrammable Graphene-Based Digital Metasurface,"</strong> IEEE/OSA Journal of
 
 [C75] F. Lemic, G. Calvo-Bartra, A. Brosa-López, J. Torres-Gómez, J. Struye, F. Dressler, S. Abadal, X. Costa-Pérez, <strong>"Insights from the Design Space Exploration of Flow-Guided Nanoscale Localization,"</strong> Proceedings of the ACM NANOCOM'24, October 2024. <strong><a href="https://arxiv.org/pdf/2305.18493.pdf">[PDF]</a></strong>
 
-[C74] P. Escofet, A. Gonzalvo, E. Alarcón, C. G. Almudéver and S. Abadal, <strong>"Route-Forcing: Scalable Quantum Circuit Mapping for Scalable Quantum Computing Architectures",</strong> Proceedings of the IEEE QCE'24, September 2024. <strong><a href="[https://arxiv.org/pdf/2407.17306">[PDF]</a></strong>
+[C74] P. Escofet, A. Gonzalvo, E. Alarcón, C. G. Almudéver and S. Abadal, <strong>"Route-Forcing: Scalable Quantum Circuit Mapping for Scalable Quantum Computing Architectures",</strong> Proceedings of the IEEE QCE'24, September 2024. <strong><a href="https://arxiv.org/pdf/2407.17306">[PDF]</a></strong>
 
 [C73] S. Ben Rached, S. Navarro-Reyes, J. Khan, C. G. Almudéver, E. Alarcón and S. Abadal, <strong>"Benchmarking Emerging Cavity-Mediated Quantum Interconnect Technologies for Modular Quantum Computers",</strong> Proceedings of the IEEE QCE'24, September 2024. <strong><a href="https://arxiv.org/pdf/2407.15651">[PDF]</a></strong>
 
@@ -214,8 +214,7 @@ Reprogrammable Graphene-Based Digital Metasurface,"</strong> IEEE/OSA Journal of
 
 [C66] M. Bandic, L. Prielinger, J. Nußlein, A. Ovide, S. Rodrigo, S. Abadal, H. van Someren, G. Vardoyan, E. Alarcón, C. G. Almudever and S. Feld, <strong>"Mapping Quantum Circuits to Modular Architectures with QUBO",</strong> Proceedings of the IEEE QCE'23, September 2023. <strong><a href="https://arxiv.org/pdf/2305.06687.pdf">[PDF]</a></strong>
 
-[C65] A. Bandara, F. Rodríguez-Galán, E. Pereira de Santana, P. Haring Bolívar, E. Alarcón, S. Abadal, <strong>"Exploration of Time Reversal for
-Wireless Communications within Computing Packages,"</strong> Proceedings of the ACM NANOCOM'23, Coventry, UK, September 2023. <strong><a href="https://arxiv.org/pdf/2307.10820.pdf">[PDF]</a></strong>
+[C65] A. Bandara, F. Rodríguez-Galán, E. Pereira de Santana, P. Haring Bolívar, E. Alarcón, S. Abadal, <strong>"Exploration of Time Reversal for Wireless Communications within Computing Packages,"</strong> Proceedings of the ACM NANOCOM'23, Coventry, UK, September 2023. <strong><a href="https://arxiv.org/pdf/2307.10820.pdf">[PDF]</a></strong>
 
 [C64] B. Ollé, P. Talarn, A. Cabellos-Aparicio, F. Lemic, E. Alarcón, and S. Abadal, <strong>"Multi-Channel Medium Access Control Protocols for Wireless Networks Within Computing Packages",</strong> Proceedings of the IEEE ISCAS 2023, Monterey, USA, May 2023. <strong><a href="https://arxiv.org/pdf/2301.11471.pdf">[PDF]</a></strong>
 
@@ -223,7 +222,7 @@ Wireless Communications within Computing Packages,"</strong> Proceedings of the 
 
 [C62] A. Ovide, S. Rodrigo, M. Bandic, H. Van Someren, S. Feld, S. Abadal, E. Alarcón, and C. Almudéver, <strong>"Mapping Quantum Algorithms to multi-Core Quantum Computing Architectures",</strong> Proceedings of the IEEE ISCAS 2023, Monterey, USA, May 2023. <strong><a href="https://arxiv.org/pdf/2303.16125.pdf">[PDF]</a></strong>
 
-[C61] R. Medina, J. Klein, G. Ansaloni, M. Zapater, S. Abadal, E. Alarcón, and D. Atienza, <strong>"System-Level Exploration of In-Package Wireless Communication for Multi-Chiplet Platforms",</strong> Proceedings of the ASP-DAC 2023, Tokyo, Japan, January 2023. <strong><a href="https://infoscience.epfl.ch/record/298245/files/System-Level%20Exploration%20of%20In-Package%20Wireless%20Communication%20for%20Multi-Chiplet%20Platforms.pdf">[PDF]</a></strong>
+[C61] R. Medina, J. Klein, G. Ansaloni, M. Zapater, S. Abadal, E. Alarcón, and D. Atienza, <strong>"System-Level Exploration of In-Package Wireless Communication for Multi-Chiplet Platforms",</strong> Proceedings of the ASP-DAC 2023, Tokyo, Japan, January 2023. <strong><a href="https://upcommons.upc.edu/bitstream/handle/2117/397395/System-Level%20Exploration%20of%20In-Package%20Wireless%20Communication%20for%20Multi-Chiplet%20Platforms.pdf?sequence=1">[PDF]</a></strong>
 
 [C60] K. Ntontin, A.-A. A. Boulogeorgos, Z. Abdullah, A. Mesodiakaki, S. Abadal, and S. Chatziontas, <strong>"Time vs. Unit Cell Splitting for Autonomous Reconfigurable Intelligent Surfaces",</strong> Proceedings of the GLOBECOM 2022, Rio de Janeiro, Brazil, December 2022. <strong><a href="https://orbilu.uni.lu/bitstream/10993/53124/1/Time_vs_UC_Splitting_Globecom_2022_paper.pdf">[PDF]</a></strong>
 
@@ -259,7 +258,7 @@ Wireless Communications within Computing Packages,"</strong> Proceedings of the 
     
 [C44] S. Jog, Z. Liu, A. Franques, V. Fernando, S. Abadal, J. Torrellas, H. Hassanieh, <strong>"One Protocol to Rule Them All: Wireless Network-on-Chip using Deep Reinforcement Learning,"</strong> in Proceedings of NSDI 2021, Virtual Event, April 2021. <strong><a href="http://sjog2.web.engr.illinois.edu/images/papers/neumac_sjog_nsdi21.pdf">[PDF]</a></strong> <strong><a href="https://www.usenix.org/system/files/nsdi21_slides_jog.pdf">[SLIDES]</a></strong> <strong><a href="https://youtu.be/f2nRNkxNr88">[VIDEO]</a></strong>
     
-[C43] A. Franques, A. Kokolis, S. Abadal, V. Fernando, S. Misailovic, J. Torrellas, <strong>“WiDir: A Wireless-Enabled Directory Cache Coherence Protocol,”</strong> in Proceedings of the HPCA-27, Seoul, South Korea, February 2021. <strong><a href="https://afranques.com/docs/WiDir_HPCA_2021.pdf">[PDF]</a></strong> <strong><a href="https://youtu.be/9RvEh7UH5Uk">[VIDEO]</a></strong>
+[C43] A. Franques, A. Kokolis, S. Abadal, V. Fernando, S. Misailovic, J. Torrellas, <strong>“WiDir: A Wireless-Enabled Directory Cache Coherence Protocol,”</strong> in Proceedings of the HPCA-27, Seoul, South Korea, February 2021. <strong><a href="https://upcommons.upc.edu/bitstream/handle/2117/344401/WiDir_HPCA_2021.pdf?sequence=3">[PDF]</a></strong> <strong><a href="https://youtu.be/9RvEh7UH5Uk">[VIDEO]</a></strong>
     
 [C42] A. Franques, S. Abadal, H. Hassanieh, J. Torrellas, <strong>“Fuzzy-Token: An Adaptive MAC Protocol for Wireless-Enabled Manycores,”</strong> in Proceedings of the DATE 2021, Grenoble, France, February 2021. <strong><a href="https://afranques.com/docs/Fuzzy_Token_DATE_2021.pdf">[PDF]</a></strong>
     
@@ -294,8 +293,7 @@ Communication-Intensive and Approximate Data,”</strong> in Proceedings of the 
     
 [C27] B. Lebiednik, S. Abadal, H. Kwon, T. Krishna, <strong>“Architecting a Secure Wireless Network-on-Chip,”</strong> in Proceedings of the ACM/IEEE NOCS ’18, Torino, Italy, October 2018. <strong><a href="http://www.n3cat.upc.edu/papers/Architecting_a_Secure_Wireless_Network-on-Chip.pdf">[PDF]</a></strong>
     
-[C26] X. Timoneda, A. Cabellos-Aparicio, D. Manessis, E. Alarcón, S. Abadal <strong>“Channel Characterization for Chip-scale Wireless
-Communications within Computing Packages,”</strong> in Proceedings of the ACM/IEEE NOCS ’18, Torino, Italy, October 2018. <strong><a href="http://www.n3cat.upc.edu/papers/Channel_Characterization_for_Chip-scale_Wireless_Communications_within_Computing_Packages.pdf">[PDF]</a></strong>
+[C26] X. Timoneda, A. Cabellos-Aparicio, D. Manessis, E. Alarcón, S. Abadal <strong>“Channel Characterization for Chip-scale Wireless Communications within Computing Packages,”</strong> in Proceedings of the ACM/IEEE NOCS ’18, Torino, Italy, October 2018. <strong><a href="http://www.n3cat.upc.edu/papers/Channel_Characterization_for_Chip-scale_Wireless_Communications_within_Computing_Packages.pdf">[PDF]</a></strong>
     
 [C25] C. Suessmeier, S. Abadal, L. Banszerus, F. Thiel, E. Alarcón, A. K. Wigger, A. Cabellos-Aparicio, C. Stampfer, M. Lemme, P. Haring Bolívar, <strong>"Analysis Of A Plasmonic Graphene Antenna For Microeletronic Applications,"</strong> in Proceedings of the IRMMW-THz '18, September 2018.
    
@@ -333,7 +331,7 @@ Communications within Computing Packages,”</strong> in Proceedings of the ACM/
 			    
 [C8] S. Abadal, A. Mestres, M. Iannazzo, J. Solé-Pareta, E. Alarcón, and A. Cabellos-Aparicio, <strong>&quot;Evaluating the Feasibility of Wireless Networks-on-Chip Enabled by Graphene,&quot;</strong> in Proceedings of the ACM/IEEE NoCArC '14 (MICRO-47 Workshops), pp. 51-56, December 2014. <strong><a href="https://personals.ac.upc.edu/abadal/pdf/feasibilityGWNoC.pdf">[PDF]</a></strong>
 			    
-[C7] G. Piro, S. Abadal, A. Mestres, E. Alarcón, J. Solé-Pareta, L. A. Grieco, G. Boggia,<strong>“Initial MAC Exploration for Graphene-enabled Wireless Networks-on-Chip,”</strong> in Proceedings of the ACM NANOCOM '14, May 2014
+[C7] G. Piro, S. Abadal, A. Mestres, E. Alarcón, J. Solé-Pareta, L. A. Grieco, G. Boggia,<strong>“Initial MAC Exploration for Graphene-enabled Wireless Networks-on-Chip,”</strong> in Proceedings of the ACM NANOCOM '14, May 2014. <strong><a href="https://telematics.poliba.it/wp-content/uploads/publications/2014/PiroNanocom2014.pdf">[PDF]</a></strong>
 	    
 [C6] I. Llatser, S. Abadal, A. Mestres, A. Cabellos-Aparicio and E. Alarcón, <strong>“Graphene-enabled Wireless Networks-on-Chip,”</strong> in Proceedings of the IEEE BlackSeaCom '13, pp. 69–73, July 2013. <strong><a href="http://www.n3cat.upc.edu/papers/Graphene-enabled_Wireless_Networks-on-Chip.pdf">[PDF]</a></strong>
           
@@ -345,7 +343,7 @@ Communications within Computing Packages,”</strong> in Proceedings of the ACM/
 		     
 [C2] S. Abadal, I. Llatser, E. Alarcón, E. and A. Cabellos-Aparicio, <strong>&quot;Quorum  Sensing-enabled Amplification for Molecular Nanonetworks,&quot;</strong>in Proceedings of the IEEE MoNaCom '12 (ICC Workshops), June 2012. <strong><a href="http://www.n3cat.upc.edu/papers/Quorum_Sensing-enabled_Amplification_for_Molecular_Nanonetworks.pdf">[PDF]</a></strong>
 		                    
-[C1] S. Abadal and I. F. Akyildiz, <strong>&quot;Bio-Inspired Synchronization for Nanocommunication Networks,&quot; </strong>Proceedings of the IEEE GLOBECOM 2011, Houston, USA, December 2011.                
+[C1] S. Abadal and I. F. Akyildiz, <strong>&quot;Bio-Inspired Synchronization for Nanocommunication Networks,&quot; </strong>Proceedings of the IEEE GLOBECOM 2011, Houston, USA, December 2011.  <strong><a href="https://www.n3cat.upc.edu/papers/Bio-Inspired_Synchronization_for_Nanocommunication_Networks.pdf">[PDF]</a></strong>          
 
 
 <br/><br/>

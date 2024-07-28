@@ -6,7 +6,7 @@ title: Projects
 {% if page.subtitle == "" %}
 <div class="empty_subtitle"></div>
 {% endif %}
-<p style="text-align:center"><a href="#winc">WINC</a> | <p style="text-align:center"><a href="#ewic">EWiC</a> | <a href="#quad">QUADRATURE</a> | <a href="#wiplash">WiPLASH</a> | <a href="#gnn">IGNNSPECTOR</a> | <a href="#visorsurf">VISORSURF</a> | <a href="#tugraco">TUGRACO</a> | <a href="#gwc">GWC</a></p>
+<p style="text-align:center"><a href="#winc">WINC</a> | <a href="#ewic">EWiC</a> | <a href="#quad">QUADRATURE</a> | <a href="#wiplash">WiPLASH</a> | <a href="#gnn">IGNNSPECTOR</a> | <a href="#visorsurf">VISORSURF</a> | <a href="#tugraco">TUGRACO</a> | <a href="#gwc">GWC</a></p>
 
 <br/>
 ### <a name="winc"></a> WINC: Wireless Networks within Next-Generation Computing Systems
@@ -30,7 +30,7 @@ In this context, the WINC project envisions a revolution in computer architectur
 
 <br/><br/>
 ### <a name="ewic"></a> EWiC: Emulation of Wireless Communication among Chiplets inside a Computing System
-- **Website:** To be 
+- **Website:** To be announced
 - **Project Type:** ERC Proof of Concept
 - **Funding:** 150 K€
 - **Duration:** 2024-2026
@@ -39,9 +39,7 @@ In this context, the WINC project envisions a revolution in computer architectur
  
 <p align="center"><img src="/img/ewic.jpeg" width="50%"/></p>
 
-Today’s tremendous interdisciplinary efforts towards building a quantum computer is aimed at a machine capable of tackling problems beyond the reach of any classical computer. The so-called quantum advantage has been already claimed with state-of-the-art Noisy Intermediate-Scale Quantum (NISQ) computers consisting of several tens of quantum bits (qubits). Nevertheless, it is widely recognized that addressing any real-world problem will require upscaling to thousands or even millions of qubits. Scaling quantum computers to such a large number of qubits is a major challenge due to, among others, the confluence of (i) technology factors confining the qubits to low fidelity, (ii) the need for cryogenic temperatures to reach practical coherence times, (iii) the dense integration of digital/RF control circuits, which are needed on a per-qubit basis, and (iv) the manifold architectural and algorithmic implications of managing noisy and short-lived qubits.
-
-The QUADRATURE project focuses upon the grand challenge of scalability in quantum computers from an architectural or full-stack standpoint. We are aiming to explore the feasibility of architectures composed of multiple quantum processors (Qcores) that allow to scale up quantum computing systems. This is enabled by networks-in-a-package with a dual character that includes a quantum-coherent link for quantum information transfers coexisting with a cryogenic wireless communication network for exchanging classical data and synchronization.
+Domain specialisation (e.g., AI) coupled with skyrocketing manufacturing costs of chips led to a paradigm shift towards chiplet-based computing. However, the current Network-in-Package (NiP) is not suited for the increasing chiplet (CPUs, AI accelerators, etc.) count and their diverse communication needs. As a result, communication has become the main bottleneck to computing advances. Wireless transmission can enable a one-hop communication with low latency parallelism. The wireless links can be reconfigured dynamically for demand-specific services. Finally, the native broadcast capability of wireless transmission will provide natural support for scalability. However, wireless communication is limited by the bandwidth. Hence, the ERC Starting Grant WINC explored via simulation combining wireless communication with the high bandwidth of wired connections, proving potential for >5× speedups. In EWiC, we aim, for the first time, to emulate and demonstrate wireless communication among chiplets inside a computing system. The goal is to experimentally validate our simulation results, which have shown high speedups in multi-chiplet systems. Successful results will generate interest in the industry for further research and application in various domains, such as speeding up computation in pharma for new drug design. EWiC will thus help fully realise the trillion-euro potential of advanced computing, alongside immense social benefits and establishing EU leadership in this field. The EWiC project will thus assess the commercialisation potential of our technology, engaging with key stakeholders such as chipmakers and end-users. Exploitation options including licensing, startup creation, or joint ventures, will be explored based on prototyping results and market entry considerations. Our IPR strategy will involve a thorough analysis to identify and protect the novel results of the project. We will additionally carry out a Freedom to Operate (FTO) analysis to ensure exploitability.
 
 
  

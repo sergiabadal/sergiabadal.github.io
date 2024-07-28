@@ -6,7 +6,7 @@ title: Projects
 {% if page.subtitle == "" %}
 <div class="empty_subtitle"></div>
 {% endif %}
-<p style="text-align:center"><a href="#winc">WINC</a> | <a href="#quad">QUADRATURE</a> | <a href="#wiplash">WiPLASH</a> | <a href="#gnn">IGNNSPECTOR</a> | <a href="#visorsurf">VISORSURF</a> | <a href="#tugraco">TUGRACO</a> | <a href="#gwc">GWC</a></p>
+<p style="text-align:center"><a href="#winc">WINC</a> | <p style="text-align:center"><a href="#ewic">EWiC</a> | <a href="#quad">QUADRATURE</a> | <a href="#wiplash">WiPLASH</a> | <a href="#gnn">IGNNSPECTOR</a> | <a href="#visorsurf">VISORSURF</a> | <a href="#tugraco">TUGRACO</a> | <a href="#gwc">GWC</a></p>
 
 <br/>
 ### <a name="winc"></a> WINC: Wireless Networks within Next-Generation Computing Systems
@@ -26,6 +26,23 @@ Computing systems are ubiquitous in our daily life and have transformed the way 
 A common trait of current computing systems is that their internal data communication has become a fundamental bottleneck. The anticipated death of Moore’s Law has forced computer scientists and architects to find new ways to build faster processors, which include massive parallelization, specialized accelerator design, and disruptive technologies such as quantum computing. These trends cause an exponential increase in the volume and variability of data transfers within computing systems, rendering traditional interconnects insufficient and threatening to halt progress unless fast and versatile communication alternatives are developed.
 
 In this context, the WINC project envisions a revolution in computer architecture enabled by the integration of wireless networks within computing systems. The main hypothesis is that wireless terahertz technology will lead to at least a tenfold improvement in the speed, efficiency, and scalability of both non-quantum and quantum systems. With a cross-cutting approach, WINC aims to validate the hypothesis by (i) revealing the fundamental limits of wireless communications within computing packages, (ii) developing antennas and protocols that operate close to those limits while complying with the stringent constraints of the scenario, and (iii) developing radically novel architectures that translate the unique benefits of the wireless vision into order-of-magnitude improvements at the system level. If successful, WINC will be the seed of a new generation of non-quantum and quantum systems and foster progress in the computing field for the decades to come.
+
+
+<br/><br/>
+### <a name="ewic"></a> EWiC: Emulation of Wireless Communication among Chiplets inside a Computing System
+- **Website:** To be 
+- **Project Type:** ERC Proof of Concept
+- **Funding:** 150 K€
+- **Duration:** 2024-2026
+- **Media coverage:**
+     - [ESP] [UPC](https://www.upc.edu/es/sala-de-prensa/noticias/el-investigador-sergi-abadal-recibe-una-subvencion-de-prueba-de-concepto-para-estudiar-la-comunicacion-inalambrica-en-entornos-de-computacion-integrados)
+ 
+<p align="center"><img src="/img/ewic.jpeg" width="50%"/></p>
+
+Today’s tremendous interdisciplinary efforts towards building a quantum computer is aimed at a machine capable of tackling problems beyond the reach of any classical computer. The so-called quantum advantage has been already claimed with state-of-the-art Noisy Intermediate-Scale Quantum (NISQ) computers consisting of several tens of quantum bits (qubits). Nevertheless, it is widely recognized that addressing any real-world problem will require upscaling to thousands or even millions of qubits. Scaling quantum computers to such a large number of qubits is a major challenge due to, among others, the confluence of (i) technology factors confining the qubits to low fidelity, (ii) the need for cryogenic temperatures to reach practical coherence times, (iii) the dense integration of digital/RF control circuits, which are needed on a per-qubit basis, and (iv) the manifold architectural and algorithmic implications of managing noisy and short-lived qubits.
+
+The QUADRATURE project focuses upon the grand challenge of scalability in quantum computers from an architectural or full-stack standpoint. We are aiming to explore the feasibility of architectures composed of multiple quantum processors (Qcores) that allow to scale up quantum computing systems. This is enabled by networks-in-a-package with a dual character that includes a quantum-coherent link for quantum information transfers coexisting with a cryogenic wireless communication network for exchanging classical data and synchronization.
+
 
  
 <br/><br/>

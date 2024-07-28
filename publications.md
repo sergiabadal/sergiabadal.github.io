@@ -309,11 +309,11 @@ Communication-Intensive and Approximate Data,”</strong> in Proceedings of the 
     
 [C19] B. Lebiednik, S. Abadal, H. Kwon, T. Krishna, <strong>"Spoofing Prevention via RF Power Profiling in Wireless Network-on-Chip"</strong>, in Proceedings of the AISTECS '18 (HiPEAC '18 Workshops), Manchester, United Kingdom, January 2018. <strong><a href="http://www.n3cat.upc.edu/papers/Spoofing_Prevention_via_RF_Power_Profiling_in_Wireless_Network-on-Chip.pdf">[PDF]</a></strong>
     
-[C18] C. Suessmeier, S. Abadal, D. Stock, S. Schaeffer,  E. Alarcón, A. K. Wigger, S. E. Hosseininejad, S. Wagner, A. Cabellos-Aparicio, M. C. Lemme and P. Haring Bolívar, <strong>“Material-Dependencies of the THz Emission from Plasmonic Graphene-Based Photoconductive Antenna Structures,”</strong> in Proceedings of the IRMMW-THz '17, August 2017.
+[C18] C. Suessmeier, S. Abadal, D. Stock, S. Schaeffer,  E. Alarcón, A. K. Wigger, S. E. Hosseininejad, S. Wagner, A. Cabellos-Aparicio, M. C. Lemme and P. Haring Bolívar, <strong>“Material-Dependencies of the THz Emission from Plasmonic Graphene-Based Photoconductive Antenna Structures,”</strong> in Proceedings of the IRMMW-THz '17, August 2017. <strong><a href="https://arxiv.org/pdf/2104.05473">[PDF]</a></strong>
     
 [C17] S. Abadal, S. E. Hosseininejad, A. Cabellos-Aparicio, E. Alarcón, <strong>“Graphene-based Terahertz Antennas for Area-Constrained Applications,”</strong> in Proceedings of the TSP '17, July 2017. <strong><a href="http://www.n3cat.upc.edu/papers/Graphene-based_Terahertz_Antennas_for_Area-Constrained_Applications.pdf">[PDF]</a></strong>
     
-[C16] C. Suessmeier, S. Schaeffer, S. Abadal, E. Alarcón, S. E. Hosseininejad, A. K. Wigger, D. Stock, S. Wagner, A. Cabellos-Aparicio, M. C. Lemme and P. Haring Bolívar, <strong>“A Graphene Based Plasmonic Antenna Design for Communication in the THz Regime,”</strong> in Proceedings of CLEO: Applications and Technology, May 2017.
+[C16] C. Suessmeier, S. Schaeffer, S. Abadal, E. Alarcón, S. E. Hosseininejad, A. K. Wigger, D. Stock, S. Wagner, A. Cabellos-Aparicio, M. C. Lemme and P. Haring Bolívar, <strong>“A Graphene Based Plasmonic Antenna Design for Communication in the THz Regime,”</strong> in Proceedings of CLEO: Applications and Technology, May 2017. <strong><a href="https://upcommons.upc.edu/handle/2117/117292">[PDF]</a></strong>
     
 [C15] A. Mestres, S. Abadal, J. Torrellas, E. Alarcón and A. Cabellos-Aparicio, <strong>“A MAC protocol for Reliable Broadcast Communications in Wireless Network-on-Chip,”</strong> in Proceedings of the ACM/IEEE NoCArC '16 (MICRO-49 Workshops), October 2016. <strong><a href="http://www.n3cat.upc.edu/papers/A_MAC_protocol_for_Reliable_Broadcast_Communications_in_Wireless_Network-on-Chip.pdf">[PDF]</a></strong> <strong><a href="http://iacoma.cs.uiuc.edu/iacoma-papers/PRES/present_nocarc16.pdf">[SLIDES]</a></strong>
     
@@ -341,7 +341,7 @@ Communication-Intensive and Approximate Data,”</strong> in Proceedings of the 
                  
 [C3] S. Abadal, A. Cabellos-Aparicio, J. A. Lázaro, E. Alarcón and J. Solé-Pareta, <strong>“Graphene-enabled hybrid architectures for multiprocessors: bridging nanophotonics and nanoscale wireless communication</strong>,” in Proceedings of the IEEE ICTON '12, July 2012. <strong><a href="http://www.n3cat.upc.edu/papers/Graphene-enabled_hybrid_architectures_for_multiprocessors-bridging_nanophotonics_and_nanoscale_wireless_communication.pdf">[PDF]</a></strong>
 		     
-[C2] S. Abadal, I. Llatser, E. Alarcón, E. and A. Cabellos-Aparicio, <strong>&quot;Quorum  Sensing-enabled Amplification for Molecular Nanonetworks,&quot;</strong>in Proceedings of the IEEE MoNaCom '12 (ICC Workshops), June 2012. <strong><a href="http://www.n3cat.upc.edu/papers/Quorum_Sensing-enabled_Amplification_for_Molecular_Nanonetworks.pdf">[PDF]</a></strong>
+[C2] S. Abadal, I. Llatser, E. Alarcón, E. and A. Cabellos-Aparicio, <strong>&quot;Quorum Sensing-enabled Amplification for Molecular Nanonetworks,&quot;</strong>in Proceedings of the IEEE MoNaCom '12 (ICC Workshops), June 2012. <strong><a href="http://www.n3cat.upc.edu/papers/Quorum_Sensing-enabled_Amplification_for_Molecular_Nanonetworks.pdf">[PDF]</a></strong>
 		                    
 [C1] S. Abadal and I. F. Akyildiz, <strong>&quot;Bio-Inspired Synchronization for Nanocommunication Networks,&quot; </strong>Proceedings of the IEEE GLOBECOM 2011, Houston, USA, December 2011.  <strong><a href="https://www.n3cat.upc.edu/papers/Bio-Inspired_Synchronization_for_Nanocommunication_Networks.pdf">[PDF]</a></strong>          
 
@@ -349,13 +349,13 @@ Communication-Intensive and Approximate Data,”</strong> in Proceedings of the 
 <br/><br/>
 ### <a name="poster"></a> Posters and Abstracts
 
-[P20] N. Moser, E. Gómez, S. Abadal, E. Alarcón, F. Lemic, E. Shitiri, <strong>"Liquid Biopsy Using Intra-Body Nanonetworks: Perspective and Approach,"</strong> 8th Workshop on Molecular Communications, Oslo, Norway, April 2024.
+[P20] N. Moser, E. Gómez, S. Abadal, E. Alarcón, F. Lemic, E. Shitiri, <strong>"Liquid Biopsy Using Intra-Body Nanonetworks: Perspective and Approach,"</strong> 8th Workshop on Molecular Communications, Oslo, Norway, April 2024.  <strong><a href="https://molecularcommunications.org/wp-content/uploads/2024/04/LB_IBN_Pers_Approach_CameraReady.pdf">[PDF]</a></strong>       
 
 [P19] P. Talarn, B. Ollé, F. Lemic, S. Abadal, X. Costa-Pérez, <strong>"Demo: Real-time Generation of 3-Dimensional Representations of Static Objects using Small Unmanned Aerial Vehicles,"</strong>, 2023 International Conference on Mobile Computing and Networking (ACM MobiCom), 2023. <strong><a href="https://www.researchgate.net/publication/372316079_Real-time_Generation_of_3-Dimensional_Representations_of_Static_Objects_using_Small_Unmanned_Aerial_Vehicles">[PDF]</a></strong>
 
-[P18] E. Pereira de Santana, D. Stock, Z. Wang, K.-T. Wang, S. Abadal, M. Lemme, P. Haring Bolívar, <strong>"Tunable Plasmonic Graphene Antenna Array for Communications at THz Frequencies,"</strong> 2023 48th International Conference on Infrared, Millimeter and Terahertz Waves (IRMMW-THz), Montréal, Canada, September 2023.
+[P18] E. Pereira de Santana, D. Stock, Z. Wang, K.-T. Wang, S. Abadal, M. Lemme, P. Haring Bolívar, <strong>"Tunable Plasmonic Graphene Antenna Array for Communications at THz Frequencies,"</strong> 2023 48th International Conference on Infrared, Millimeter and Terahertz Waves (IRMMW-THz), Montréal, Canada, September 2023. <strong><a href="https://upcommons.upc.edu/bitstream/handle/2117/396998/2023157635.pdf?sequence=1">[PDF]</a></strong>  
 
-[P17] E. Pereira de Santana, A. K. Wigger, Z. Wang, K.-T. Wang, S. Abadal, M. Lemme, P. Haring Bolívar, <strong>"Integrated Graphene Patch Antenna For Communications At THz Frequencies,"</strong> 2022 47th International Conference on Infrared, Millimeter and Terahertz Waves (IRMMW-THz), Delft, The Netherlands, September 2022. <strong><a href="https://arxiv.org/ftp/arxiv/papers/2210/2210.05264.pdf">[PDF]</a></strong>
+[P17] E. Pereira de Santana, A. K. Wigger, Z. Wang, K.-T. Wang, S. Abadal, M. Lemme, P. Haring Bolívar, <strong>"Integrated Graphene Patch Antenna For Communications At THz Frequencies,"</strong> 2022 47th International Conference on Infrared, Millimeter and Terahertz Waves (IRMMW-THz), Delft, The Netherlands, September 2022. <strong><a href="https://arxiv.org/pdf/2210.05264">[PDF]</a></strong>
 
 [P16] F. Rodríguez-Galán, E. Alarcón and S. Abadal, <strong>"The WiPLASH project: A Tale of Technical and Gender Actions,"</strong> 9th ACM Celebration of Women in Computing (womENcourage 2022), Larnaka, Cyprus, September 2022.
 
@@ -389,7 +389,7 @@ Communication-Intensive and Approximate Data,”</strong> in Proceedings of the 
             
 [P2] S. Abadal, J. M. Jornet, I. Llatser, A. Cabellos-Aparicio, E. Alarcón and I. F. Akyildiz, <strong>&quot;Wireless NanoSensor Networks using Graphene-based Nano-Antennas,&quot; </strong>poster presentation, GRAPHENE 2011, Bilbao, Spain, April 2011. <strong><a href="http://www.n3cat.upc.edu/papers/Wireless_Nanosensor_Networks_using_Graphene-based_Nano-Antennas-POSTER.pdf">[PDF]</a></strong>
 
-[P1] S. Abadal and I. F. Akyildiz, <strong>&quot;Automata Modeling of Quorum Sensing for Nanocommunication Networks,&quot;</strong> poster presentation,   Second NaNoNetworking Day, Barcelona, Spain, June 2010.   
+[P1] S. Abadal and I. F. Akyildiz, <strong>&quot;Automata Modeling of Quorum Sensing for Nanocommunication Networks,&quot;</strong> poster presentation, Second NaNoNetworking Day, Barcelona, Spain, June 2010.   
 
 
 

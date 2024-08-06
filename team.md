@@ -45,6 +45,19 @@ link_url: /recruitment
 
 
 
+### Visiting Scholars
+
+- [Kosala Herath](https://www.kosalaherath.com/) (Postdoc, University of Melbourne, Australia; November 2024)
+- [Enrico Russo](https://www.linkedin.com/in/russenrico/?originalSubdomain=it) (PhD candidate, University of Catania, Italy; September-November 2024)
+- [Marios Lestas](https://www.frederick.ac.cy/en/about-us/faculty-staff/faculty?view=page&id=108&lid=758) (Professor, Frederick University, Cyprus; July 2023)
+- [Philipp del Hougne](https://sites.google.com/view/pdelhougne/home) (Professor, CNRS & Université de Rennes, France; June 2023)
+- [Mounir Arioua](https://ieeexplore.ieee.org/author/37589390700) (Professor, Abdelmalek Essaâdi University, Morocco; May 2022)
+- [Filip Lemic](https://sites.google.com/view/filip-lemic/home) (Postdoc / MSCA Fellow, University of Antwerpen, Belgium; 2021 and 2022)
+- [Taqua Saeed](https://www.linkedin.com/in/taqwa-saeed-11498152) (PhD candidate, Frederick University, Cyprus; February 2019)
+- [Seyed Ehsan Hosseininejad](https://ieeexplore.ieee.org/author/38581149000) (PostDoc, University of Tehran, Iran; April 2018)
+- [Pieter Stroobant](https://www.linkedin.com/in/pieter-stroobant-b38938197) (PhD candidate, University of Ghent, Belgium; May 2017)
+
+
 ### Alumni
 
 - [Ethungshan Shitiri](https://sites.google.com/view/ethungshanshitiri/) (PostDoc, 2023-2024)
@@ -125,17 +138,6 @@ link_url: /recruitment
 - [Alejandro López Lao](https://www.linkedin.com/in/alejandro-l%C3%B3pez-lao-213a84151) (BSc, Fall '18)
 - Xavier Timoneda (BSc, Spring '17 @ University of Illinois at Urbana-Champaign)
 
-
-
-### Visiting Scholars
-
-- [Marios Lestas](https://www.frederick.ac.cy/en/about-us/faculty-staff/faculty?view=page&id=108&lid=758) (Professor, Frederick University, Cyprus; July 2023)
-- [Philipp del Hougne](https://sites.google.com/view/pdelhougne/home) (Professor, CNRS & Université de Rennes, France; June 2023)
-- [Mounir Arioua](https://ieeexplore.ieee.org/author/37589390700) (Professor, Abdelmalek Essaâdi University, Morocco; May 2022)
-- [Filip Lemic](https://sites.google.com/view/filip-lemic/home) (Postdoc / MSCA Fellow, University of Antwerpen, Belgium; 2021 and 2022)
-- [Taqua Saeed](https://www.linkedin.com/in/taqwa-saeed-11498152) (PhD candidate, Frederick University, Cyprus; February 2019)
-- [Seyed Ehsan Hosseininejad](https://ieeexplore.ieee.org/author/38581149000) (PostDoc, University of Tehran, Iran; April 2018)
-- [Pieter Stroobant](https://www.linkedin.com/in/pieter-stroobant-b38938197) (PhD candidate, University of Ghent, Belgium; May 2017)
 
 
 

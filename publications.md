@@ -192,7 +192,7 @@ Reprogrammable Graphene-Based Digital Metasurface,"</strong> IEEE/OSA Journal of
 
 [C77] J. Torres Gomez, J. Engstrand, S. Abadal, R. Augustine, T. Voigt, F. Dressler, <strong>"Implications of Nanodevice Mobility on Terahertz Communication Links in the Human Vessels,"</strong> Proceedings of the ACM NANOCOM'24, October 2024. <strong><a href=".">[PDF]</a></strong>
 
-[C76] P. Galván, F. Lemic, G. Calvo, S. Abadal, X. Costa-Perez, <strong>"Tailoring Graph Neural Network-based Flow-guided Localization to Individual Bloodstreams and Activities,"</strong> Proceedings of the ACM NANOCOM'24, October 2024. <strong><a href=".">[PDF]</a></strong>
+[C76] P. Galván, F. Lemic, G. Calvo, S. Abadal, X. Costa-Perez, <strong>"Tailoring Graph Neural Network-based Flow-guided Localization to Individual Bloodstreams and Activities,"</strong> Proceedings of the ACM NANOCOM'24, October 2024. <strong><a href="https://arxiv.org/pdf/2408.01239">[PDF]</a></strong>
 
 [C75] F. Lemic, G. Calvo-Bartra, A. Brosa-López, J. Torres-Gómez, J. Struye, F. Dressler, S. Abadal, X. Costa-Pérez, <strong>"Insights from the Design Space Exploration of Flow-Guided Nanoscale Localization,"</strong> Proceedings of the ACM NANOCOM'24, October 2024. <strong><a href="https://arxiv.org/pdf/2305.18493.pdf">[PDF]</a></strong>
 

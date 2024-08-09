@@ -17,6 +17,11 @@ link_url: http://publons.com/author/1004804/sergi-abadal#profile
 - Chinese Academy of Sciences
 - Qatar National Research Fund
 - Czech Science Foundation
+<!---
+#- Cyprus Research and Innovation Foundation
+#- Slovak Research and Development Agency
+-->
+
 
 
 ### Editorial Work

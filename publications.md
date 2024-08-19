@@ -349,6 +349,8 @@ Communication-Intensive and Approximate Data,”</strong> in Proceedings of the 
 <br/><br/>
 ### <a name="poster"></a> Posters and Abstracts
 
+[P21] E. Shitiri, E. Ibraluzea, S. Marakala, F. Lemic, S. Abadal, E. Alarcón, <strong>"Intra-Body Nanonetworks for In Vivo Biomarker Detection in Capillaries,"</strong> Proceedings of the ACM NANOCOM '24 (Work-in-Progress Abstracts), Milano, Italy, October 2024.
+
 [P20] N. Moser, E. Gómez, S. Abadal, E. Alarcón, F. Lemic, E. Shitiri, <strong>"Liquid Biopsy Using Intra-Body Nanonetworks: Perspective and Approach,"</strong> 8th Workshop on Molecular Communications, Oslo, Norway, April 2024.  <strong><a href="https://molecularcommunications.org/wp-content/uploads/2024/04/LB_IBN_Pers_Approach_CameraReady.pdf">[PDF]</a></strong>       
 
 [P19] P. Talarn, B. Ollé, F. Lemic, S. Abadal, X. Costa-Pérez, <strong>"Demo: Real-time Generation of 3-Dimensional Representations of Static Objects using Small Unmanned Aerial Vehicles,"</strong>, 2023 International Conference on Mobile Computing and Networking (ACM MobiCom), 2023. <strong><a href="https://www.researchgate.net/publication/372316079_Real-time_Generation_of_3-Dimensional_Representations_of_Static_Objects_using_Small_Unmanned_Aerial_Vehicles">[PDF]</a></strong>

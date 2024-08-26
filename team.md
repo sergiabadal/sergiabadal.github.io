@@ -47,8 +47,11 @@ link_url: /recruitment
 
 ### Visiting Scholars
 
+<!--
+#- Zezhou Sun (PhD candidate, Tsinghua University, China; November 2024 to March 2025)
+-->
 - [Kosala Herath](https://www.kosalaherath.com/) (Postdoc, University of Melbourne, Australia; November 2024)
-- [Enrico Russo](https://www.linkedin.com/in/russenrico/?originalSubdomain=it) (PhD candidate, University of Catania, Italy; September-November 2024)
+- [Enrico Russo](https://www.linkedin.com/in/russenrico/?originalSubdomain=it) (PhD candidate, University of Catania, Italy; September to November 2024)
 - [Marios Lestas](https://www.frederick.ac.cy/en/about-us/faculty-staff/faculty?view=page&id=108&lid=758) (Professor, Frederick University, Cyprus; July 2023)
 - [Philipp del Hougne](https://sites.google.com/view/pdelhougne/home) (Professor, CNRS & Université de Rennes, France; June 2023)
 - [Mounir Arioua](https://ieeexplore.ieee.org/author/37589390700) (Professor, Abdelmalek Essaâdi University, Morocco; May 2022)

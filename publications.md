@@ -192,7 +192,7 @@ Reprogrammable Graphene-Based Digital Metasurface,"</strong> IEEE/OSA Journal of
 
 [C78] E. Shitiri, A. Yadav, S. Abadal, E. Alarcon, H. Cho, <strong>"Enhanced Drug Delivery via Localization-Enabled Relaying in Molecular Communication Nanonetworks,"</strong> Proceedings of the ACM NANOCOM'24, October 2024. <strong><a href=".">[PDF]</a></strong>
 
-[C77] J. Torres Gomez, J. Engstrand, S. Abadal, R. Augustine, T. Voigt, F. Dressler, <strong>"Implications of Nanodevice Mobility on Terahertz Communication Links in the Human Vessels,"</strong> Proceedings of the ACM NANOCOM'24, October 2024. <strong><a href=".">[PDF]</a></strong>
+[C77] J. Torres Gomez, J. Engstrand, S. Abadal, R. Augustine, T. Voigt, F. Dressler, <strong>"Implications of Nanodevice Mobility on Terahertz Communication Links in the Human Vessels,"</strong> Proceedings of the ACM NANOCOM'24, October 2024. <strong><a href="https://www.tkn.tu-berlin.de/bib/torres-gomez2024implications/torres-gomez2024implications.pdf">[PDF]</a></strong>
 
 [C76] P. Galván, F. Lemic, G. Calvo, S. Abadal, X. Costa-Perez, <strong>"Tailoring Graph Neural Network-based Flow-guided Localization to Individual Bloodstreams and Activities,"</strong> Proceedings of the ACM NANOCOM'24, October 2024. <strong><a href="https://arxiv.org/pdf/2408.01239">[PDF]</a></strong>
 

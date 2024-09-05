@@ -14,7 +14,6 @@ link_url: /recruitment
 
 <!--
 #- Ausilia Costa
-#- Enrico Russo (visitor)
 -->
 - [Ethungshan Shitiri](https://sites.google.com/view/ethungshanshitiri/) (MSCA PostDoctoral Fellow, 2024-2026)
 - [Abhijit Das](https://abhijitcse.github.io/) (PostDoc, 2023-2024)
@@ -32,6 +31,7 @@ link_url: /recruitment
 - Rupayan Bhattarchajee (PhD, 2024-2027)
 - Mohammad Nasser (PhD, 2024-2027)
 - Abdollah Rezagholi (PhD, 2024-2027)
+- Ausilia Costa (MSc, Fall '24 from University of Pavia)
 - Emmanuel Irabor (MSc, Fall '24)
 - Ezgi Sena Karabacak (MSc, Fall '24)
 - Mika Leo Hube (MSc, Fall '24)
@@ -40,7 +40,6 @@ link_url: /recruitment
 - Sergi Tomás (BSc, Fall '24)
 - Laia Mogas (BSc, Fall '24)
 - Xavier Pacheco (BSc, Fall '24)
-- İbrahim Yiğit Zorer (BSc, Summer '24 from Sabanci University)
 - Arnau Esteban (BSc, Spring '24)
 
 
@@ -48,8 +47,9 @@ link_url: /recruitment
 ### Visiting Scholars
 
 <!--
-#- Zezhou Sun (PhD candidate, Tsinghua University, China; November 2024 to March 2025)
+-
 -->
+- Zezhou Sun (PhD candidate, Tsinghua University, China; November 2024 to March 2025)
 - [Kosala Herath](https://www.kosalaherath.com/) (Postdoc, University of Melbourne, Australia; November 2024)
 - [Enrico Russo](https://www.linkedin.com/in/russenrico/?originalSubdomain=it) (PhD candidate, University of Catania, Italy; September to November 2024)
 - [Marios Lestas](https://www.frederick.ac.cy/en/about-us/faculty-staff/faculty?view=page&id=108&lid=758) (Professor, Frederick University, Cyprus; July 2023)
@@ -99,6 +99,7 @@ link_url: /recruitment
   - [IN-NOVA Award 2021](https://www.coit.es/sites/default/files/premiados_xlii_convocatoria.pdf) to the best master thesis by the COIT
   - [IBM Award 2021](https://www.coit.es/sites/default/files/premiados_xlii_convocatoria.pdf) to the best academic record by the COIT
 - Jorge López Alonso (MSc, Spring '20)
+- İbrahim Yiğit Zorer (BSc, Summer '24 from Sabanci University)
 - Pol Puigdemont (BSc, Spring '24 @ Georgia Tech)
 - Bernat Ollé (BSc, Spring '24 @ University of Illinois at Urbana-Champaign)
 - Miquel Muñoz (BSc, Spring '24)

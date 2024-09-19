@@ -114,6 +114,7 @@ link_url: /recruitment
 - Abderrahman Ettahrioui (BSc, Spring '23 @ Polimi)
 - Roger González Sedano (BSc, Fall '22)
 - Arnau Brosa (BSc, Fall '22)
+  - Best undergraduate thesis of the Telecom school 2022-2023
 - Martina Gallego (BSc, Spring '22 @ Georgia Tech)
 - Álvaro Le Monnier (BSc, Spring '22 @ Rochester Institute of Technology)
 - Martín Díaz (BSc, Spring '22)

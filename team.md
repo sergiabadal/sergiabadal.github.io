@@ -40,6 +40,7 @@ link_url: /recruitment
 - Sergi Tomás (BSc, Fall '24)
 - Laia Mogas (BSc, Fall '24)
 - Xavier Pacheco (BSc, Fall '24)
+- Ida Kleger-Rudomin (BSc, Fall '24 from Gdansk Tech)
 - Arnau Esteban (BSc, Spring '24)
 
 

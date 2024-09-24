@@ -37,6 +37,7 @@ link_url: /recruitment
 - Ezgi Sena Karabacak (MSc, Fall '24)
 - Mika Leo Hube (MSc, Fall '24)
 - Noa Jie Vives (MSc, Fall '24)
+- Roger González Sedano (MSc, Fall '24 at KTH)
 - Stefano Petrilli (MSc, Fall '24)
 - Sergi Tomás (BSc, Fall '24)
 - Laia Mogas (BSc, Fall '24)

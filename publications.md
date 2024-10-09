@@ -43,6 +43,8 @@ S. Abadal, I. Llatser, A. Mestres, H. Lee, E. Alarcón and A. Cabellos-Aparicio,
 <br/><br/>
 ### <a name="pre"></a> Pre-prints
 
+A. López-Cardona, C. Segura, A. Karatzoglou, S. Abadal, I. Arapakis, <strong>"Seeing Eye to AI: Human Alignment via Gaze-Based Response Rewards for Large Language Models,"</strong> arxiv:2410.01532, 2024. <strong><a href="https://arxiv.org/pdf/2410.01532">[PDF]</a></strong>
+
 M. Bandic, P. le Henaff, A. Ovide, P. Escofet, S. Ben Rached, S. Rodrigo, H. van Someren, S. Abadal, E. Alarcón, C. G. Almudever, S. Feld, <strong>"Profiling quantum circuits for their efficient execution on single- and multi-core architectures,"</strong> arxiv:2407.12640, 2024. <strong><a href="https://arxiv.org/pdf/2407.12640">[PDF]</a></strong>
 
 A. Bandara, F. Rodríguez-Galán, P. Talarn, E. Pereira de Santana, P. Haring Bolívar, E. Alarcón and S. Abadal, <strong>"Towards Scalable Multi-Chip Wireless Networks with Near-Field Time Reversal,"</strong> arxiv:2404.17325, 2024. <strong><a href="https://arxiv.org/pdf/2404.17325">[PDF]</a></strong>

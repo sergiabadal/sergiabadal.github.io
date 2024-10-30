@@ -17,6 +17,7 @@ Currently, he works as a distinguished researcher at the N3Cat group, at the Com
  
 ### Honors and Awards
 
+- **Medal to the Best Young Researchers,** awarded by the [Real Academia de Ingeniería](https://www.raing.es/) to the top 10 engineers under 40 years old in Spain. November 2024.
 - **Top 2% scientists in the world in 2023**, according to the Stanford's Ioannidis dataset (citations on a single year). September 2024. **[[DATA]](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7)**
 - **Top 2% scientists in the world in 2022**, according to the Stanford's Ioannidis dataset (citations on a single year). September 2023. **[[DATA]](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6)**
 - **ACM NanoCom Outstanding Milestone Award**, in recognition for his transversal contributions in the field of wireless chip-scale communications, from electromagnetics to wireless-enabled computer architectures. October 2022. Past recipients of this award are Robert Schober, Ian Akyildiz, Sasitharan Balasubramaniam, Josep M. Jornet, and Ozgur Akan. **[[PDF]](https://sergiabadal.github.io/img/scanner_20221018_125755 (1).jpg)** **[[PRESS]](https://issuu.com/hipeac/docs/hipeacinfo_68online)**

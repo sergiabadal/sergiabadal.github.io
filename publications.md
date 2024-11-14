@@ -82,7 +82,7 @@ S. Rodrigo, S. Abadal, E. Alarcón, C. Almudéver, <strong>"Exploring a Double F
 <br/><br/>
 ### <a name="journal"></a> Journal Papers
 
-[J51] A. Wassington, R. Higueras, S. Abadal, <strong>"SkyMap: A Generative Graph Model for GNN Benchmarking," </strong> Frontiers in Artificial Intelligence, 2024. <strong><a href=".">[PDF]</a></strong>
+[J51] A. Wassington, R. Higueras, S. Abadal, <strong>"SkyMap: A Generative Graph Model for GNN Benchmarking," </strong> Frontiers in Artificial Intelligence, 2024. <strong><a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1427534/full">[PDF]</a></strong>
 
 [J50] A. Wassington, S. Abadal, <strong>"Bias Reduction via Cooperative Bargaining in Synthetic Graph Dataset Generation,"</strong> Applied Intelligence, 2024. <strong><a href="https://arxiv.org/pdf/2205.13901.pdf">[PDF]</a></strong>
 

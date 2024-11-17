@@ -88,7 +88,7 @@ S. Rodrigo, S. Abadal, E. Alarcón, C. Almudéver, <strong>"Exploring a Double F
 
 [J49] M. Bandic, P. le Henaff, A. Ovide, P. Escofet, S. Ben Rached, S. Rodrigo, H. van Someren, S. Abadal, E. Alarcón, C. G. Almudever, S. Feld, <strong>"Profiling quantum circuits for their efficient execution on single- and multi-core architectures,"</strong> Quantum Science and Technology, 2024. <strong><a href="https://arxiv.org/pdf/2407.12640">[PDF]</a></strong>
 
-[J48] S. Abadal, P. Galván, A. Mármol, N. Mammone, C. Ieracitano, M. Lo Giudice, A. Salvini, F. C. Morabito, <strong>"Graph Neural Networks for Electroencephalogram Analysis: Alzheimer's and Epilepsy Use Cases,"</strong> Elsevier Neural Networks, 2024. <strong><a href=".">[PDF]</a></strong>
+[J48] S. Abadal, P. Galván, A. Mármol, N. Mammone, C. Ieracitano, M. Lo Giudice, A. Salvini, F. C. Morabito, <strong>"Graph Neural Networks for Electroencephalogram Analysis: Alzheimer's and Epilepsy Use Cases,"</strong> Elsevier Neural Networks, 2024. <strong><a href="https://www.sciencedirect.com/science/article/pii/S0893608024007160">[PDF]</a></strong>
 
 [J47] F. Rodríguez-Galán, A. Bandara, E. Pereira de Santana, P. Haring Bolívar, E. Alarcón and S. Abadal, <strong>"Time Reversal for Near-Field Communications on Multi-chip Wireless Networks,"</strong> IEEE Communications Magazine, 2024. <strong><a href="https://arxiv.org/pdf/2404.18562">[PDF]</a></strong>
 

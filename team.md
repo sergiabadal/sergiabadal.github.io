@@ -43,7 +43,6 @@ link_url: /recruitment
 - Laia Mogas (BSc, Fall '24)
 - Xavier Pacheco (BSc, Fall '24)
 - Ida Kleger-Rudomin (BSc, Fall '24 from Gdansk Tech)
-- Arnau Esteban (BSc, Spring '24)
 
 
 
@@ -103,6 +102,8 @@ link_url: /recruitment
   - [IBM Award 2021](https://www.coit.es/sites/default/files/premiados_xlii_convocatoria.pdf) to the best academic record by the COIT
 - Jorge López Alonso (MSc, Spring '20)
 - İbrahim Yiğit Zorer (BSc, Summer '24 from Sabanci University)
+- Arnau Esteban (BSc, Spring '24)
+   - Runner-up to the best undergraduate thesis of the Computer Science school at UPC 2023-2024
 - Pol Puigdemont (BSc, Spring '24 @ Georgia Tech)
 - Bernat Ollé (BSc, Spring '24 @ University of Illinois at Urbana-Champaign)
 - Miquel Muñoz (BSc, Spring '24)
@@ -117,7 +118,7 @@ link_url: /recruitment
 - Abderrahman Ettahrioui (BSc, Spring '23 @ Polimi)
 - Roger González Sedano (BSc, Fall '22)
 - Arnau Brosa (BSc, Fall '22)
-  - Best undergraduate thesis of the Telecom school 2022-2023
+  - Best undergraduate thesis of the Telecom school at UPC 2022-2023
 - Martina Gallego (BSc, Spring '22 @ Georgia Tech)
 - Álvaro Le Monnier (BSc, Spring '22 @ Rochester Institute of Technology)
 - Martín Díaz (BSc, Spring '22)

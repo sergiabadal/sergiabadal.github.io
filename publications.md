@@ -196,7 +196,7 @@ Reprogrammable Graphene-Based Digital Metasurface,"</strong> IEEE/OSA Journal of
 <br/><br/>
 ### <a name="conference"></a> Conference Papers
 
-[C80] P. Puigdemont, E. Russo, A. Wassington, A. Das, S. Abadal, M. Palesi, <strong>"A Data-Driven Approach to Dataflow-Aware Online Scheduling for Graph Neural Network Inference,"</strong> Proceedings of the ASP-DAC'25, January 2025. <strong><a href=".">[PDF]</a></strong>
+[C80] P. Puigdemont, E. Russo, A. Wassington, A. Das, S. Abadal, M. Palesi, <strong>"A Data-Driven Approach to Dataflow-Aware Online Scheduling for Graph Neural Network Inference,"</strong> Proceedings of the ASP-DAC'25, January 2025. <strong><a href="https://arxiv.org/pdf/2411.16342">[PDF]</a></strong>
 
 [C79] A. Bandara, A. Das, F. Rodríguez-Galán, E. Alarcon, S. Abadal, <strong>"A MAC Protocol on Collective Communications with Time Reversal for Wireless Networks within Computing Systems,"</strong> Proceedings of the ACM NANOCOM'24, October 2024. <strong><a href="https://arxiv.org/pdf/2408.07421">[PDF]</a></strong>
 

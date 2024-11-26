@@ -30,6 +30,7 @@ Check out the details [here](/recruitment).
 ---
 
 ### News
+- **Nov 2024**: Arnau Esteban was the runner-up at the **Best undergraduate thesis of the Computer Science degree at UPC** for his work in 2024. Congrats Arnau!
 - **Sep 2024**: Arnau Brosa won the **Best undergraduate thesis of Telecom BCN** for his work at N3Cat in 2023. Congrats Arnau!
 - **Jul 2024**: Sergi and Abhijit have been awarded with an **ERC Proof of Concept** project! The project is called EWiC, <a href="https://sergiabadal.com/projects/#ewic">check it out.</a>
 - **Jun 2024**: New papers accepted at **IEEE JSAC** and **IEEE COMMAG**. Congratulations to Ama and Fátima for their first journal paper!

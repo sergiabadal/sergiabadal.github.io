@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/d0ec17c1-4f6a-4c0e-96be-fe55e4aef047)---
 layout: page
 title: Teaching
 subtitle:
@@ -11,6 +11,10 @@ subtitle:
 
 ### Courses
 
+- **Spring 24/25:** Object-Oriented Programming - Bachelor's Degree in Telecommunications Technologies and Services Engineering (ETSETB, UPC-BarcelonaTech)
+- **Fall 24/25:** Networks and On-line Gaming - Bachelor's Degree in Video Game Design and Development (CITM, UPC-BarcelonaTech)
+- **Spring 23/24:** Object-Oriented Programming - Bachelor's Degree in Telecommunications Technologies and Services Engineering (ETSETB, UPC-BarcelonaTech)
+- **Fall 23/24:** Networks and On-line Gaming - Bachelor's Degree in Video Game Design and Development (CITM, UPC-BarcelonaTech)
 - **Spring 22/23:** Object-Oriented Programming - Bachelor's Degree in Telecommunications Technologies and Services Engineering (ETSETB, UPC-BarcelonaTech)
 - **Fall 22/23:** Networks and On-line Gaming - Bachelor's Degree in Video Game Design and Development (CITM, UPC-BarcelonaTech)
 - **Spring 21/22:** Object-Oriented Programming - Bachelor's Degree in Telecommunications Technologies and Services Engineering (ETSETB, UPC-BarcelonaTech)
@@ -39,6 +43,7 @@ subtitle:
 
 ### Informative Talks
 
+- **Comunicacions ràdio per a nano-xarxes i els processadors del futur**, at the ESCOLAB (series of talks to engage high school students), UPC Barcelona, Spain (2023-2024)
 - **Wireless communications at the chip scale for future multi-chip processors**, at Women's Week UPC, Universitat Politècnica de Catalunya, Spain, March 2021.
 - **Nanocomunicacions: Creant xarxes WiFi de la mida del vostre polze**, at the Institut El Pi Gros / Pic del Vent, Sant Cebrià de Vallalta / Caldes de Montbui, Spain, January/May 2021, March 2022.
 - **WiPLASH como un caso de éxito en el programa FET H2020**, at the Infoday “El programa FET en Horizon 2020 y en Horizon Europe”, UPC Barcelona, Spain, March 2021.

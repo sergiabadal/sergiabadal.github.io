@@ -24,7 +24,8 @@ link_url: http://publons.com/author/1004804/sergi-abadal#profile
 
 ### Institutional Service
 
-- Member of the Board of Studies of the Doctoral School in Energy Transition and Digital Transformation, University “Niccolò Cusano” of Rome, 2024.
+- Representative of IEEE Circuits and Systems Society (CASS) in the Steering Committee of the **[IEEE Transactions on Mobile Computing](https://www.computer.org/csdl/journal/tm)**, since January 2025.
+- Member of the Board of Studies of the Doctoral School in Energy Transition and Digital Transformation, University “Niccolò Cusano” of Rome, since September 2024.
 <!---
 Universitats on he fet de membre de PhD thesis defense
 #- Universidad de Cantabria

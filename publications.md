@@ -53,8 +53,6 @@ A. Bandara, F. Rodríguez-Galán, P. Talarn, E. Pereira de Santana, P. Haring Bo
 
 S. Ben Rached, I. López Agudo, S. Rodrigo, M. Bandic, S. Feld, H. Van Someren, E. Alarcón, C. G. Almudéver and S. Abadal, <strong>"Characterizing the Inter-Core Qubit Traffic in Large-Scale Quantum Modular Architectures,"</strong> arxiv:2310.01921, 2023. <strong><a href="https://arxiv.org/pdf/2310.01921.pdf">[PDF]</a></strong>
 
-A. Brosa-López, F. Lemic, J. Struye, J. Torres-Gómez, E. Municio, C. Delgado, G. Calvo-Bartra, F. Dressler, E. Alarcón, J. Famaey, S. Abadal, X. Costa-Pérez, <strong>"Toward Standardized Performance Evaluation of Flow-guided Nanoscale Localization",</strong> arXiv:2303.07804, 2023. <strong><a href="https://arxiv.org/pdf/2303.07804.pdf">[PDF]</a></strong>
-
 K. Ntontin, A.-A. A. Boulogeorgos, E. BJörnson, D. Selimis, W. A. Martins, S. Kisseleff, S. Abadal, E. Alarcón, A. Papazafeiropoulos, F. Lazarakis,  A. Alexiou, S. Chatzinotas, <strong>"Toward Autonomous Reconfigurable Intelligent Surfaces Through Wireless Energy Harvesting",</strong> arXiv:2108.07953, 2021. <strong><a href="https://arxiv.org/pdf/2108.07953.pdf">[PDF]</a></strong>
 
 S. Rodrigo, S. Abadal, E. Alarcón, C. Almudéver, <strong>"Exploring a Double Full-Stack Communications-Enabled Architecture for Multi-Core Quantum Computers,"</strong> arXiv:2009.08186, 2020. <strong><a href="https://arxiv.org/pdf/2009.08186.pdf">[PDF]</a></strong> <strong><a href="https://youtu.be/ltyOaMQ22UI">[VIDEO]</a></strong> 
@@ -82,9 +80,11 @@ S. Rodrigo, S. Abadal, E. Alarcón, C. Almudéver, <strong>"Exploring a Double F
 <br/><br/>
 ### <a name="journal"></a> Journal Papers
 
-[J51] A. Wassington, R. Higueras, S. Abadal, <strong>"SkyMap: A Generative Graph Model for GNN Benchmarking," </strong> Frontiers in Artificial Intelligence, 2024. <strong><a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1427534/full">[PDF]</a></strong>
+[J52] A. Wassington, R. Higueras, S. Abadal, <strong>"SkyMap: A Generative Graph Model for GNN Benchmarking," </strong> Frontiers in Artificial Intelligence, 2024. <strong><a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1427534/full">[PDF]</a></strong>
 
-[J50] A. Wassington, S. Abadal, <strong>"Bias Reduction via Cooperative Bargaining in Synthetic Graph Dataset Generation,"</strong> Applied Intelligence, 2024. <strong><a href="https://arxiv.org/pdf/2205.13901.pdf">[PDF]</a></strong>
+[J51] A. Wassington, S. Abadal, <strong>"Bias Reduction via Cooperative Bargaining in Synthetic Graph Dataset Generation,"</strong> Applied Intelligence, 2024. <strong><a href="https://arxiv.org/pdf/2205.13901.pdf">[PDF]</a></strong>
+
+[J50] A. Brosa-López, F. Lemic, G. Calvo-Bartra, A. Pérez, J. Struye, J. Torres-Gómez, E. Municio, C. Delgado, F. Dressler, E. Alarcón, J. Famaey, S. Abadal, X. Costa-Pérez, <strong>"Toward Standardized Performance Evaluation of Flow-guided Nanoscale Localization",</strong> IEEE Transactions on Molecular, Biological, and Multi-Scale Communications, 2024. <strong><a href="https://arxiv.org/pdf/2303.07804.pdf">[PDF]</a></strong>
 
 [J49] M. Bandic, P. le Henaff, A. Ovide, P. Escofet, S. Ben Rached, S. Rodrigo, H. van Someren, S. Abadal, E. Alarcón, C. G. Almudever, S. Feld, <strong>"Profiling quantum circuits for their efficient execution on single- and multi-core architectures,"</strong> Quantum Science and Technology, 2024. <strong><a href="https://arxiv.org/pdf/2407.12640">[PDF]</a></strong>
 

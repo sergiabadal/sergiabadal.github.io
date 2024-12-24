@@ -60,6 +60,8 @@ S. Rodrigo, S. Abadal, E. Alarcón, C. Almudéver, <strong>"Exploring a Double F
 <br/><br/>
 ### <a name="book"></a> Book Chapters
 
+[B9] E. Emoyon-Iredia, T. Saeed, N. Ashraf, C. Liaskos, M. Segata, P. Casari, S. Abadal, E. Alarcón, A. Pitsillides, M. Lestas, <strong>"Connected Autonomous Driving Using Reconfigurable Intelligent Metasurfaces,"</strong> in Transportation Mobility in Smart Cities, Springer, 2024, Chapter 10.
+
 [B8] H. Taghvaee, S. Abadal, E. Alarcón, A. Cabellos-Aparicio, T. Saeed, A. Pitsillides, O. Tsilipakos, C. Liaskos, A. Tasolamprou, M. Kafesaki, A. Pitilakis, N. Kantartzis, V. Soteriou, M. Lestas, <strong>&quot;The scaling laws of Hypersurfaces,&quot;</strong> in Internet of Materials, CRC Press, 2020, Chapter 8.
     
 [B7] S. Abadal, J. Solé-Pareta, E. Alarcón, A. Cabellos-Aparicio, <strong>&quot;Graphene-Enabled Wireless Nanoscale Networking Communications in the Terahertz Band,&quot;</strong> in Nanoscale Networking and Communications Handbook, CRC Press, 2019, Chapter 1.

@@ -88,7 +88,7 @@ S. Rodrigo, S. Abadal, E. Alarcón, C. Almudéver, <strong>"Exploring a Double F
 
 [J50] A. Brosa-López, F. Lemic, G. Calvo-Bartra, A. Pérez, J. Struye, J. Torres-Gómez, E. Municio, C. Delgado, F. Dressler, E. Alarcón, J. Famaey, S. Abadal, X. Costa-Pérez, <strong>"Toward Standardized Performance Evaluation of Flow-guided Nanoscale Localization",</strong> IEEE Transactions on Molecular, Biological, and Multi-Scale Communications, 2024. <strong><a href="https://arxiv.org/pdf/2303.07804.pdf">[PDF]</a></strong>
 
-[J49] M. Bandic, P. le Henaff, A. Ovide, P. Escofet, S. Ben Rached, S. Rodrigo, H. van Someren, S. Abadal, E. Alarcón, C. G. Almudever, S. Feld, <strong>"Profiling quantum circuits for their efficient execution on single- and multi-core architectures,"</strong> Quantum Science and Technology, 2024. <strong><a href="https://arxiv.org/pdf/2407.12640">[PDF]</a></strong>
+[J49] M. Bandic, P. le Henaff, A. Ovide, P. Escofet, S. Ben Rached, S. Rodrigo, H. van Someren, S. Abadal, E. Alarcón, C. G. Almudever, S. Feld, <strong>"Profiling quantum circuits for their efficient execution on single- and multi-core architectures,"</strong> Quantum Science and Technology, 2024. <strong><a href="https://iopscience.iop.org/article/10.1088/2058-9565/ada180/pdf">[PDF]</a></strong>
 
 [J48] S. Abadal, P. Galván, A. Mármol, N. Mammone, C. Ieracitano, M. Lo Giudice, A. Salvini, F. C. Morabito, <strong>"Graph Neural Networks for Electroencephalogram Analysis: Alzheimer's and Epilepsy Use Cases,"</strong> Elsevier Neural Networks, 2024. <strong><a href="https://www.sciencedirect.com/science/article/pii/S0893608024007160">[PDF]</a></strong>
 

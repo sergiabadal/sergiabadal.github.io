@@ -16,9 +16,9 @@ link_url: /recruitment
 #- Ausilia Costa
 -->
 - [Ethungshan Shitiri](https://sites.google.com/view/ethungshanshitiri/) (MSCA PostDoctoral Fellow, 2024-2026)
-- [Abhijit Das](https://abhijitcse.github.io/) (PostDoc, 2023-2024)
-- [Santiago Rodrigo](https://www.linkedin.com/in/santiago-rodrigo-mu%C3%B1oz-5b14a743) (PostDoc, 2024)
-- [Fátima Rodríguez](https://www.linkedin.com/in/f%C3%A1tima-yolanda-rodr%C3%ADguez-gal%C3%A1n-96b3381a8/) (PhD, 2021-2024)
+- [Abhijit Das](https://abhijitcse.github.io/) (PostDoc, 2023-2025)
+- [Santiago Rodrigo](https://www.linkedin.com/in/santiago-rodrigo-mu%C3%B1oz-5b14a743) (PostDoc, 2024-2025)
+- [Fátima Rodríguez](https://www.linkedin.com/in/f%C3%A1tima-yolanda-rodr%C3%ADguez-gal%C3%A1n-96b3381a8/) (PhD, 2021-2025)
 - Sahar Ben Rached (PhD, 2022-2025)
 - [Axel Wassington](https://www.linkedin.com/in/axel-wassington-258792a0/) (PhD, 2022-2025)
 - [Ama Bandara](https://www.linkedin.com/in/ama-bandara-a02a5a168/) (PhD, 2022-2025)
@@ -32,25 +32,21 @@ link_url: /recruitment
 - Mohammad Nasser (PhD with Qualcomm, 2024-2027)
 - Abdollah Rezagholi (PhD, 2024-2027)
 - Miquel Carrasco (PhD, 2024-2027)
-- Ausilia Costa (MSc, Fall '24 from University of Pavia)
-- Emmanuel Irabor (MSc, Fall '24)
-- Ezgi Sena Karabacak (MSc, Fall '24)
-- Mika Leo Hube (MSc, Fall '24)
+- Emma Meneghini (MSc, Spring '25 from Università di Padova)
+- Emmanuel Irabor (MSc, Spring '25)
+- Ezgi Sena Karabacak (MSc, Spring '25)
 - Noa Jie Vives (MSc, Fall '24)
 - Roger González Sedano (MSc, Fall '24 at KTH)
-- Stefano Petrilli (MSc, Fall '24)
-- Sergi Tomás (BSc, Fall '24)
-- Laia Mogas (BSc, Fall '24)
-- Xavier Pacheco (BSc, Fall '24)
-- Ida Kleger-Rudomin (BSc, Fall '24 from Gdansk Tech)
-
+- Mika Leo Hube (MSc, Fall '24)
+- Pau Mayench Caro (BSc, Spring '25)
+- Ida Kleger-Rudomin (BSc, Spring '25 from Gdansk Tech) 
+- Hastha Balaji (BSc, Spring '25 from Sastra University) 
+- Ashwin Kumar Radhakrishnan (BSc, Spring '25 from Sastra University) 
+- Balaji Sampath (BSc, Spring '25 from Sastra University) 
 
 
 ### Visiting Scholars
 
-<!--
--
--->
 - Zezhou Sun (PhD candidate, Tsinghua University, China; November 2024 to March 2025)
 - [Kosala Herath](https://www.kosalaherath.com/) (Postdoc, University of Melbourne, Australia; November 2024)
 - [Enrico Russo](https://www.linkedin.com/in/russenrico/?originalSubdomain=it) (PhD candidate, University of Catania, Italy; September to November 2024)
@@ -70,6 +66,8 @@ link_url: /recruitment
 - [Santiago Rodrigo](https://www.linkedin.com/in/santiago-rodrigo-mu%C3%B1oz-5b14a743) (PhD, 2019-2023)
 - [Hamidreza Taghvaee](https://www.nottingham.ac.uk/research/groups/ggiemr/people/hamidreza.taghvaee) (PhD, 2018-2021)
   - [UPC Special Doctoral Award](https://doctorat.upc.edu/en/doctoral-thesis/extraordinary-awards/Resolucindefinitivapremiosextraordinarios2023_CAST.pdf) to the top PhD thesis at UPC (24/305) in 2021.
+- Ausilia Costa (MSc, Fall '24 from University of Pavia)
+- Stefano Petrilli (MSc, Fall '24)
 - [Pablo Galván](https://www.linkedin.com/in/pablo-galv%C3%A1n-calder%C3%B3n-057298265) (MSc, Spring '24)
 - Sergio Navarro (MSc, Spring '24)
 - Roger González Sedano (MSc, Spring '24)
@@ -101,6 +99,9 @@ link_url: /recruitment
   - [IN-NOVA Award 2021](https://www.coit.es/sites/default/files/premiados_xlii_convocatoria.pdf) to the best master thesis by the COIT
   - [IBM Award 2021](https://www.coit.es/sites/default/files/premiados_xlii_convocatoria.pdf) to the best academic record by the COIT
 - Jorge López Alonso (MSc, Spring '20)
+- Sergi Tomás (BSc, Fall '24)
+- Laia Mogas (BSc, Fall '24)
+- Xavier Pacheco (BSc, Fall '24)
 - İbrahim Yiğit Zorer (BSc, Summer '24 from Sabanci University)
 - Arnau Esteban (BSc, Spring '24)
    - Runner-up to the best undergraduate thesis of the Computer Science school at UPC 2023-2024

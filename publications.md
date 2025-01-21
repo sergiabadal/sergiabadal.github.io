@@ -202,7 +202,7 @@ Reprogrammable Graphene-Based Digital Metasurface,"</strong> IEEE/OSA Journal of
 
 [C80] E. Irabor, M. Musavi, A. Das, S. Abadal <strong>"Exploring the Potential of Wireless-Enabled Multi-Chip AI Accelerators with Gemini," </strong> Proceedings of the AccML Workshop (HiPEAC) 2025, Barcelona, Spain, January 2025. <strong><a href=".">[PDF]</a></strong> 
 
-[C79] A. Bandara, A. Das, F. Rodríguez-Galán, E. Alarcon, S. Abadal, <strong>"A MAC Protocol on Collective Communications with Time Reversal for Wireless Networks within Computing Systems,"</strong> Proceedings of the ACM NANOCOM'24, October 2024. <strong><a href="https://arxiv.org/pdf/2408.07421">[PDF]</a></strong>
+[C79] A. Bandara, A. Das, F. Rodríguez-Galán, E. Alarcon, S. Abadal, <strong>"A MAC Protocol with Time Reversal for Wireless Networks within Computing Systems,"</strong> Proceedings of the ACM NANOCOM'24, October 2024. <strong><a href="https://arxiv.org/pdf/2408.07421">[PDF]</a></strong>
 
 [C78] E. Shitiri, A. Yadav, S. Abadal, E. Alarcon, H. Cho, <strong>"Enhanced Drug Delivery via Localization-Enabled Relaying in Molecular Communication Nanonetworks,"</strong> Proceedings of the ACM NANOCOM'24, October 2024. <strong><a href="https://arxiv.org/pdf/2409.18616">[PDF]</a></strong>
 

@@ -45,8 +45,6 @@ S. Abadal, I. Llatser, A. Mestres, H. Lee, E. Alarcón and A. Cabellos-Aparicio,
 
 M. Shahmoradi, K. K. Tokgoz, E. Alarcón, S. Abadal, <strong>"Power Modeling in mm-Wave and Terahertz CMOS Transmitters for Wireless Network-on-Chip,"</strong> arxiv:2410.23378, 2024. <strong><a href="https://arxiv.org/pdf/2410.23378">[PDF]</a></strong>
 
-A. López-Cardona, C. Segura, A. Karatzoglou, S. Abadal, I. Arapakis, <strong>"Seeing Eye to AI: Human Alignment via Gaze-Based Response Rewards for Large Language Models,"</strong> arxiv:2410.01532, 2024. <strong><a href="https://arxiv.org/pdf/2410.01532">[PDF]</a></strong>
-
 A. Bandara, F. Rodríguez-Galán, P. Talarn, E. Pereira de Santana, P. Haring Bolívar, E. Alarcón and S. Abadal, <strong>"Towards Scalable Multi-Chip Wireless Networks with Near-Field Time Reversal,"</strong> arxiv:2404.17325, 2024. <strong><a href="https://arxiv.org/pdf/2404.17325">[PDF]</a></strong>
 
 S. Ben Rached, I. López Agudo, S. Rodrigo, M. Bandic, S. Feld, H. Van Someren, E. Alarcón, C. G. Almudéver and S. Abadal, <strong>"Characterizing the Inter-Core Qubit Traffic in Large-Scale Quantum Modular Architectures,"</strong> arxiv:2310.01921, 2023. <strong><a href="https://arxiv.org/pdf/2310.01921.pdf">[PDF]</a></strong>
@@ -195,12 +193,14 @@ Reprogrammable Graphene-Based Digital Metasurface,"</strong> IEEE/OSA Journal of
 
 <br/><br/>
 ### <a name="conference"></a> Conference Papers
+ 
+[C85] J. Khan, S. Navarro-Reyes, S. Ben Rached, E. Alarcón, C. G. Almudever, and S. Abadal, <strong>"Waveguide QED Analysis of Quantum-Coherent Links for Modular Quantum Computing,"</strong> Proceedings of the ISCAS'25, May 2025. <strong><a href=".">[PDF]</a></strong>
 
-[C84] J. Khan, S. Navarro-Reyes, S. Ben Rached, E. Alarcón, C. G. Almudever, and S. Abadal, <strong>"Waveguide QED Analysis of Quantum-Coherent Links for Modular Quantum Computing,"</strong> Proceedings of the ISCAS'25, May 2025. <strong><a href=".">[PDF]</a></strong>
+[C84] P. Escofet, A. Semenov, N. Murphy, E. Blokhina, S. Abadal, E. Alarcón, and C. G. Almudéver, <strong>"Compilation Techniques for Spin Qubits in a Shuttling Bus Architecture,"</strong> Proceedings of the ISCAS'25, May 2025. <strong><a href=".">[PDF]</a></strong>
 
-[C83] P. Escofet, A. Semenov, N. Murphy, E. Blokhina, S. Abadal, E. Alarcón, and C. G. Almudéver, <strong>"Compilation Techniques for Spin Qubits in a Shuttling Bus Architecture,"</strong> Proceedings of the ISCAS'25, May 2025. <strong><a href=".">[PDF]</a></strong>
+[C83] M. Musavi, E. Irabor, A. Das, E. Alarcón, S. Abadal, <strong>"Communication Characterization of AI Workloads for Large-scale Multi-chiplet Accelerators,"</strong> Proceedings of the ISCAS'25, May 2025. <strong><a href="https://arxiv.org/pdf/2410.22262">[PDF]</a></strong>
 
-[C82] M. Musavi, E. Irabor, A. Das, E. Alarcón, S. Abadal, <strong>"Communication Characterization of AI Workloads for Large-scale Multi-chiplet Accelerators,"</strong> Proceedings of the ISCAS'25, May 2025. <strong><a href="https://arxiv.org/pdf/2410.22262">[PDF]</a></strong>
+[C82] A. López-Cardona, C. Segura, A. Karatzoglou, S. Abadal, I. Arapakis, <strong>"Seeing Eye to AI: Human Alignment via Gaze-Based Response Rewards for Large Language Models,"</strong> Proceedings of the ICLR'25, April 2025. <strong><a href="https://arxiv.org/pdf/2410.01532">[PDF]</a></strong>
 
 [C81] P. Puigdemont, E. Russo, A. Wassington, A. Das, S. Abadal, M. Palesi, <strong>"A Data-Driven Approach to Dataflow-Aware Online Scheduling for Graph Neural Network Inference,"</strong> Proceedings of the ASP-DAC'25, January 2025. <strong><a href="https://arxiv.org/pdf/2411.16342">[PDF]</a></strong>
 

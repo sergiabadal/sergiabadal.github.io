@@ -12,9 +12,6 @@ link_url: /recruitment
 
 ### Current Team
 
-<!--
-#- Ausilia Costa
--->
 - [Ethungshan Shitiri](https://sites.google.com/view/ethungshanshitiri/) (MSCA PostDoctoral Fellow, 2024-2026)
 - [Abhijit Das](https://abhijitcse.github.io/) (PostDoc, 2023-2025)
 - [Santiago Rodrigo](https://www.linkedin.com/in/santiago-rodrigo-mu%C3%B1oz-5b14a743) (PostDoc, 2024-2025)
@@ -28,10 +25,11 @@ link_url: /recruitment
 - Junaid Khan (PhD, 2023-2026)
 - Ángela López Cardona (PhD with Telefónica I+D, 2023-2025)
 - George Koutroumpas (PhD with Telefónica I+D, 2023-2025)
-- Rupayan Bhattarchajee (PhD, 2024-2027)
 - Mohammad Nasser (PhD with Qualcomm, 2024-2027)
+- Rupayan Bhattarchajee (PhD, 2024-2027)
 - Abdollah Rezagholi (PhD, 2024-2027)
 - Miquel Carrasco (PhD, 2024-2027)
+- Marc Fernández (PhD, 2025-2028)
 - Emma Meneghini (MSc, Spring '25 from Università di Padova)
 - Emmanuel Irabor (MSc, Spring '25)
 - Ezgi Sena Karabacak (MSc, Spring '25)

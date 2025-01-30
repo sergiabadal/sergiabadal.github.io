@@ -91,7 +91,7 @@ Universitats on he fet de membre de PhD thesis defense
 
 - ACM International Conference On Mobile Computing And Networking (MobiCom), 2023, 2024, 2025.
 - IEEE Global Communications Conference (GLOBECOM), Wireless Communications Track, 2023, 2024, 2025.
-- IEEE Global Communications Conference (GLOBECOM), Terahertz Communications Track, 2023, 2024.
+- IEEE Global Communications Conference (GLOBECOM), Terahertz Communications Track, 2023, 2024, 2025.
 - IEEE International Conference on Quantum Software (QSW), 2024.
 - IEEE Workshop on Terahertz Communications, Sensing and Secutity, IEEE MILCOM Workshops, 2024.
 - IEEE International Conference on Communications (ICC), Molecular, Biological and Multi-Scale Communications Track, 2022, 2023.

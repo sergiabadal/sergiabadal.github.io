@@ -38,6 +38,7 @@ In 2024, he became the Director of the [Nanonetworking Center in Catalunya (N3Ca
 ### News Appearances
 - **[ENG] HiPEAC Info Magazine.** Interview with Dr. Sergi Abadal. October 2022. **[[LINK]](https://www.hipeac.net/magazine/7163.pdf)**
 - **[ENG] NEC Laboratories Europe.** NEC Student Research Fellowship Interview with Dr. Sergi Abadal. July 2022. **[[LINK]](https://www.neclab.eu/blog/nec-student-research-fellowship-interview-with-dr-sergi-abadal)** 
+- **[ESP] La Vanguardia.** "We will build processors ten times faster." May 2022.
 - **[ESP] Atlas Tecnológico.** Quantum is worried about communications. May 2022. **[[LINK]](https://atlastecnologico.com/a-la-cuantica-le-preocupan-las-comunicaciones/)**
 - **[CAT] L'econòmic.** Europe jumps on the quantum bandwagon. April 2022. **[[LINK]](https://www.leconomic.cat/article/2125091-europa-puja-al-tren-de-la-quantica.html)**
 - **[ENG] The Register.** Blight the power: Jamming attack cripples wireless signals using clever reflective technology. June 2020. **[[LINK]](https://www.theregister.com/2020/06/01/irs_wireless_jamming/)**

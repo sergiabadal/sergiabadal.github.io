@@ -12,6 +12,7 @@ link_url: /recruitment
 
 ### Current Team
 
+- [Evgenii Vinogradov](https://vtsociety.org/contact/evgenii-vinogradov) (Project Coordinator, 2025-2026)
 - [Ethungshan Shitiri](https://sites.google.com/view/ethungshanshitiri/) (MSCA PostDoctoral Fellow, 2024-2026)
 - [Abhijit Das](https://abhijitcse.github.io/) (PostDoc, 2023-2025)
 - [Santiago Rodrigo](https://www.linkedin.com/in/santiago-rodrigo-mu%C3%B1oz-5b14a743) (PostDoc, 2024-2025)
@@ -30,6 +31,7 @@ link_url: /recruitment
 - Abdollah Rezagholi (PhD, 2024-2027)
 - Miquel Carrasco (PhD, 2024-2027)
 - Marc Fernández (PhD, 2025-2028)
+- Jan Nogué (PhD with Qilimanjaro, 2025-2027)
 - Emmanuel Irabor (MSc, Spring '25)
 - Ezgi Sena Karabacak (MSc, Spring '25)
 - Emma Meneghini (MSc, Spring '25 from Università di Padova)

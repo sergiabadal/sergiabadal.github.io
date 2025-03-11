@@ -43,7 +43,7 @@ S. Abadal, I. Llatser, A. Mestres, H. Lee, E. Alarcón and A. Cabellos-Aparicio,
 <br/><br/>
 ### <a name="pre"></a> Pre-prints
 
-P. Escofet, S. Rodrigo, A. Garcie-Sáez, E. Alarcón, S. Abadal, C. G. Almudéver, "An Accurate Efficient Analytic Model of Fidelity under Depolarizing Noise oriented to Large Scale Quantum System Design,"</strong> arxiv:2503.06693, 2025. <strong><a href="https://arxiv.org/pdf/2503.06693">[PDF]</a></strong>
+P. Escofet, S. Rodrigo, A. Garcie-Sáez, E. Alarcón, S. Abadal, C. G. Almudéver, <strong>"An Accurate Efficient Analytic Model of Fidelity under Depolarizing Noise oriented to Large Scale Quantum System Design,"</strong> arxiv:2503.06693, 2025. <strong><a href="https://arxiv.org/pdf/2503.06693">[PDF]</a></strong>
 
 M. Shahmoradi, K. K. Tokgoz, E. Alarcón, S. Abadal, <strong>"Power Modeling in mm-Wave and Terahertz CMOS Transmitters for Wireless Network-on-Chip,"</strong> arxiv:2410.23378, 2024. <strong><a href="https://arxiv.org/pdf/2410.23378">[PDF]</a></strong>
 

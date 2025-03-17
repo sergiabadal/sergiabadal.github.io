@@ -195,7 +195,9 @@ Reprogrammable Graphene-Based Digital Metasurface,"</strong> IEEE/OSA Journal of
 
 <br/><br/>
 ### <a name="conference"></a> Conference Papers
- 
+
+[C86] A. López-Cardona, S. Idesis, M. Barreda-Ángeles, S. Abadal, I. Arapakis, <strong>"OASST-ETC Dataset: Alignment Signals from Eye-tracking Analysis of LLM Responses,"</strong> Proceedings of the ETRA'25, May 2025. <strong><a href="https://arxiv.org/pdf/2503.10927">[PDF]</a></strong>
+
 [C85] J. Khan, S. Navarro-Reyes, S. Ben Rached, E. Alarcón, C. G. Almudever, and S. Abadal, <strong>"Waveguide QED Analysis of Quantum-Coherent Links for Modular Quantum Computing,"</strong> Proceedings of the ISCAS'25, May 2025. <strong><a href="https://arxiv.org/pdf/2502.11972">[PDF]</a></strong>
 
 [C84] P. Escofet, A. Semenov, N. Murphy, E. Blokhina, S. Abadal, E. Alarcón, and C. G. Almudéver, <strong>"Compilation Techniques for Spin Qubits in a Shuttling Bus Architecture,"</strong> Proceedings of the ISCAS'25, May 2025. <strong><a href="https://arxiv.org/pdf/2502.06263">[PDF]</a></strong>

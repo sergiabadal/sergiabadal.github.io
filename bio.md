@@ -34,6 +34,10 @@ In 2024, he became the Director of the [Nanonetworking Center in Catalunya (N3Ca
 - **ASPLOS '16 Travel Grant**, awarded to selected students to attend the 21st ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Atlanta, April 2016.
 - **Sentinel of Science 2016-2017**, awarded by the website Publons to the [Top 1%](http://sergiabadal.com/pdf/publons_certificate_2017.pdf) of researchers contributing to the peer review of the field of Computer Science, 2017. The same was granted in 2016 to the [Top 10%](http://sergiabadal.com/pdf/publons_certificate_2016.pdf) reviewers in Engineering.
  
+<!---
+L'econòmic El Punt Avui - Quàntica Març 2025.
+Yorokobu - Quàntica Març 2025.
+-->
 
 ### News Appearances
 - **[ENG] HiPEAC Info Magazine.** Interview with Dr. Sergi Abadal. October 2022. **[[LINK]](https://www.hipeac.net/magazine/7163.pdf)**

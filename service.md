@@ -99,7 +99,7 @@ Universitats on he fet de membre de PhD thesis defense
 - IEEE International Symposium on Circuits & Systems (ISCAS), 2019, 2020, 2021, 2022, 2023.
 - IEEE Vehicular Technology Conference (VTC-Spring), 2019, 2020, 2021.
 - IEEE Vehicular Technology Conference (VTC-Fall), 2018, 2019, 2020, 2021.
-- ACM International Conference on Nanoscale Computing and Communication (ACM NANOCOM), 2020, 2023, 2024.
+- ACM International Conference on Nanoscale Computing and Communication (ACM NANOCOM), 2020, 2023, 2024, 2025.
 - IEEE Int'l Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC), 2018, 2019, 2020, 2021.
 - International Conference on Innovation and Intelligence for Informatics, Computing, and Technologies (3ICT), 2019, 2020.
 - IEEE/ACM International Symposium on Networks-on-Chip (NOCS), October 2020.

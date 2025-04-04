@@ -37,11 +37,15 @@ link_url: /recruitment
 - Emma Meneghini (MSc, Spring '25 from Università di Padova)
 - Matteo Mazzini (MSc, Spring '25 from Università di Padova)
 - Gonzalo Mera (MSc, Spring '25)
+- Daniel Del Canto (MSc, Spring '25)
 - Viviana Centritto (MSc, Spring '25)
 - Luis Vivas (MSc, Spring '25)
 - Roger González Sedano (MSc, Fall '24 at KTH)
 - Mika Leo Hube (MSc, Fall '24)
 - Pau Mayench Caro (BSc, Spring '25)
+- Aitor Da Rocha (BSc, Spring '25)
+- Guerau Dasca (BSc, Spring '25)
+- Marc Pliego (BSc, Spring '25)
 - Ida Kleger-Rudomin (BSc, Spring '25 from Gdansk Tech) 
 - Hastha Balaji (BSc, Spring '25 from Sastra University) 
 - Ashwin Kumar Radhakrishnan (BSc, Spring '25 from Sastra University) 
@@ -50,7 +54,7 @@ link_url: /recruitment
 
 ### Visiting Scholars
 
-- Zezhou Sun (PhD candidate, Tsinghua University, China; November 2024 to March 2025)
+- Zezhou Sun (PhD candidate, Tsinghua University, China; November 2024 to April 2025)
 - [Kosala Herath](https://www.kosalaherath.com/) (Postdoc, University of Melbourne, Australia; November 2024)
 - [Enrico Russo](https://www.linkedin.com/in/russenrico/?originalSubdomain=it) (PhD candidate, University of Catania, Italy; September to November 2024)
 - [Marios Lestas](https://www.frederick.ac.cy/en/about-us/faculty-staff/faculty?view=page&id=108&lid=758) (Professor, Frederick University, Cyprus; July 2023)

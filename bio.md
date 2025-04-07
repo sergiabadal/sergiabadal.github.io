@@ -40,6 +40,7 @@ Yorokobu - Quàntica Març 2025.
 -->
 
 ### News Appearances
+- **[CAT] El Punt Avui.** New Quantum Times. April 2025. **[[LINK]](https://www.elpuntavui.cat/economia/article/18-economia/2524976-nous-temps-quantics.html)**
 - **[ENG] HiPEAC Info Magazine.** Interview with Dr. Sergi Abadal. October 2022. **[[LINK]](https://www.hipeac.net/magazine/7163.pdf)**
 - **[ENG] NEC Laboratories Europe.** NEC Student Research Fellowship Interview with Dr. Sergi Abadal. July 2022. **[[LINK]](https://www.neclab.eu/blog/nec-student-research-fellowship-interview-with-dr-sergi-abadal)** 
 - **[ESP] La Vanguardia.** "We will build processors ten times faster." May 2022.

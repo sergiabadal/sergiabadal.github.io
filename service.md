@@ -13,7 +13,7 @@ link_url: http://publons.com/author/1004804/sergi-abadal#profile
 
 ### Grant or Prize Reviewer
 
-- European Commission
+- European Commission (EIC Transition, ERC SyG, MSCA PF)
 - Research Foundation Flanders
 - Chinese Academy of Sciences
 - Qatar National Research Fund

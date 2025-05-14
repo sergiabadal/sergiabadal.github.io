@@ -198,7 +198,7 @@ Reprogrammable Graphene-Based Digital Metasurface,"</strong> IEEE/OSA Journal of
 <br/><br/>
 ### <a name="conference"></a> Conference Papers
 
-[C87] S. Ben Rached, Z. Sun, J. Khan, G. Long, S. Rodrigo, C. G. Almudever, E. Alarcón, S. Abadal, <strong>"Modeling Quantum Links for the Exploration of Distributed Quantum Computing Systems,"</strong> Proceedings of the ICTON'25, July 2025. <strong><a href=".">[PDF]</a></strong>
+[C87] S. Ben Rached, Z. Sun, J. Khan, G. Long, S. Rodrigo, C. G. Almudever, E. Alarcón, S. Abadal, <strong>"Modeling Quantum Links for the Exploration of Distributed Quantum Computing Systems,"</strong> Proceedings of the ICTON'25, July 2025. <strong><a href="https://arxiv.org/pdf/2505.08577">[PDF]</a></strong>
 
 [C86] A. López-Cardona, S. Idesis, M. Barreda-Ángeles, S. Abadal, I. Arapakis, <strong>"OASST-ETC Dataset: Alignment Signals from Eye-tracking Analysis of LLM Responses,"</strong> Proceedings of the ETRA'25, May 2025. <strong><a href="https://arxiv.org/pdf/2503.10927">[PDF]</a></strong>
 

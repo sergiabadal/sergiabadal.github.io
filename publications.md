@@ -47,8 +47,6 @@ W. Zhao, S. Abadal, G. Song, J. Jiang, C. Han, <strong>"Terahertz Wireless Data 
 
 P. Escofet, S. Rodrigo, A. Garcie-Sáez, E. Alarcón, S. Abadal, C. G. Almudéver, <strong>"An Accurate Efficient Analytic Model of Fidelity under Depolarizing Noise oriented to Large Scale Quantum System Design,"</strong> arxiv:2503.06693, 2025. <strong><a href="https://arxiv.org/pdf/2503.06693">[PDF]</a></strong>
 
-M. Shahmoradi, K. K. Tokgoz, E. Alarcón, S. Abadal, <strong>"Power Modeling in mm-Wave and Terahertz CMOS Transmitters for Wireless Network-on-Chip,"</strong> arxiv:2410.23378, 2024. <strong><a href="https://arxiv.org/pdf/2410.23378">[PDF]</a></strong>
-
 A. Bandara, F. Rodríguez-Galán, P. Talarn, E. Pereira de Santana, P. Haring Bolívar, E. Alarcón and S. Abadal, <strong>"Towards Scalable Multi-Chip Wireless Networks with Near-Field Time Reversal,"</strong> arxiv:2404.17325, 2024. <strong><a href="https://arxiv.org/pdf/2404.17325">[PDF]</a></strong>
 
 S. Ben Rached, I. López Agudo, S. Rodrigo, M. Bandic, S. Feld, H. Van Someren, E. Alarcón, C. G. Almudéver and S. Abadal, <strong>"Characterizing the Inter-Core Qubit Traffic in Large-Scale Quantum Modular Architectures,"</strong> arxiv:2310.01921, 2023. <strong><a href="https://arxiv.org/pdf/2310.01921.pdf">[PDF]</a></strong>
@@ -197,6 +195,8 @@ Reprogrammable Graphene-Based Digital Metasurface,"</strong> IEEE/OSA Journal of
 
 <br/><br/>
 ### <a name="conference"></a> Conference Papers
+
+[C88] M. Shahmoradi, K. K. Tokgoz, E. Alarcón, S. Abadal, <strong>"Frequency-Dependent Power Consumption Modeling of CMOS Transmitters for WNoC Architectures,"</strong> Proceedings of the EuMW'25, September 2025. <strong><a href="https://arxiv.org/pdf/2410.23378">[PDF]</a></strong>
 
 [C87] S. Ben Rached, Z. Sun, J. Khan, G. Long, S. Rodrigo, C. G. Almudever, E. Alarcón, S. Abadal, <strong>"Modeling Quantum Links for the Exploration of Distributed Quantum Computing Systems,"</strong> Proceedings of the ICTON'25, July 2025. <strong><a href="https://arxiv.org/pdf/2505.08577">[PDF]</a></strong>
 

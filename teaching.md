@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d0ec17c1-4f6a-4c0e-96be-fe55e4aef047)---
+---
 layout: page
 title: Teaching
 subtitle:

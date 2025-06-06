@@ -196,13 +196,15 @@ Reprogrammable Graphene-Based Digital Metasurface,"</strong> IEEE/OSA Journal of
 <br/><br/>
 ### <a name="conference"></a> Conference Papers
 
-[C90] M. Shahmoradi, K. K. Tokgoz, E. Alarcón, S. Abadal, <strong>"Frequency-Dependent Power Consumption Modeling of CMOS Transmitters for WNoC Architectures,"</strong> Proceedings of the EuMW'25, September 2025. <strong><a href="https://arxiv.org/pdf/2410.23378">[PDF]</a></strong>
+[C91] M. Shahmoradi, K. K. Tokgoz, E. Alarcón, S. Abadal, <strong>"Frequency-Dependent Power Consumption Modeling of CMOS Transmitters for WNoC Architectures,"</strong> Proceedings of the EuMW'25, September 2025. <strong><a href="https://arxiv.org/pdf/2410.23378">[PDF]</a></strong>
 
-[C89] N. J. Vives Zaguirre, O. Lasierra Hernandez, F. Lemic, G. Calvo Bartra, P. J. Galván Calderón, G. Garcia-Aviles, S. Abadal, X. Costa-Pérez, <strong>"Experimental Assessment of a Framework for in-Body RF-Backscattering Localization,"</strong> Proceedings of the PIMRC'25, September 2025. 
+[C90] N. J. Vives Zaguirre, O. Lasierra Hernandez, F. Lemic, G. Calvo Bartra, P. J. Galván Calderón, G. Garcia-Aviles, S. Abadal, X. Costa-Pérez, <strong>"Experimental Assessment of a Framework for in-Body RF-Backscattering Localization,"</strong> Proceedings of the PIMRC'25, September 2025. 
 
-[C88] G. Castillo Gómez-Raya, A. Veres-Vitályos, F. Lemic, P. Royo, M. Montagud, S. Fernández, S. Abadal, X. Costa-Pérez, <strong>"Experimental Assessment of Neural 3D Reconstruction for Small UAV-Based Applications,"</strong> Proceedings of the PIMRC'25, September 2025. 
+[C89] G. Castillo Gómez-Raya, A. Veres-Vitályos, F. Lemic, P. Royo, M. Montagud, S. Fernández, S. Abadal, X. Costa-Pérez, <strong>"Experimental Assessment of Neural 3D Reconstruction for Small UAV-Based Applications,"</strong> Proceedings of the PIMRC'25, September 2025. 
 
-[C87] S. Ben Rached, Z. Sun, J. Khan, G. Long, S. Rodrigo, C. G. Almudever, E. Alarcón, S. Abadal, <strong>"Modeling Quantum Links for the Exploration of Distributed Quantum Computing Systems,"</strong> Proceedings of the ICTON'25, July 2025. <strong><a href="https://arxiv.org/pdf/2505.08577">[PDF]</a></strong>
+[C88] S. Ben Rached, Z. Sun, J. Khan, G. Long, S. Rodrigo, C. G. Almudever, E. Alarcón, S. Abadal, <strong>"Modeling Quantum Links for the Exploration of Distributed Quantum Computing Systems,"</strong> Proceedings of the ICTON'25, July 2025. <strong><a href="https://arxiv.org/pdf/2505.08577">[PDF]</a></strong>
+
+[C87] G. Koutroumpas, S. Idesis, M. Masias Bruns, C. Segura, J. M. Jose, S. Abadal, I. Arapakis, <strong>"Beyond One-Size-Fits-All: A Study of Neural and Behavioural Variability Across Different Recommendation Categories"</strong> Proceedings of the ICTIR'25, July 2025.
 
 [C86] A. López-Cardona, S. Idesis, M. Barreda-Ángeles, S. Abadal, I. Arapakis, <strong>"OASST-ETC Dataset: Alignment Signals from Eye-tracking Analysis of LLM Responses,"</strong> Proceedings of the ETRA'25, May 2025. <strong><a href="https://arxiv.org/pdf/2503.10927">[PDF]</a></strong>
 

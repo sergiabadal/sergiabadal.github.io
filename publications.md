@@ -383,6 +383,8 @@ Communication-Intensive and Approximate Data,”</strong> in Proceedings of the 
 <br/><br/>
 ### <a name="poster"></a> Posters and Abstracts
 
+[P22] M. Nasser, T. Gadea, A. Das, A. Batlle, J. Cortadella, S. Abadal, A. Pérez, J. Ros, <strong>"Simulation-Driven Recommendation Framework for Scalable Distributed AI Training,"</strong> Workshop on Modeling & Simulation of Systems and Applications (ModSim’25), Seattle, WA, USA, August 2025.
+
 [P21] E. Shitiri, E. Ibraluzea, S. Marakala, F. Lemic, S. Abadal, E. Alarcón, <strong>"Intra-Body Nanonetworks for In Vivo Biomarker Detection in Capillaries,"</strong> Proceedings of the ACM NANOCOM '24 (Work-in-Progress Abstracts), Milano, Italy, October 2024.
 
 [P20] N. Moser, E. Gómez, S. Abadal, E. Alarcón, F. Lemic, E. Shitiri, <strong>"Liquid Biopsy Using Intra-Body Nanonetworks: Perspective and Approach,"</strong> 8th Workshop on Molecular Communications, Oslo, Norway, April 2024.  <strong><a href="https://molecularcommunications.org/wp-content/uploads/2024/04/LB_IBN_Pers_Approach_CameraReady.pdf">[PDF]</a></strong>       

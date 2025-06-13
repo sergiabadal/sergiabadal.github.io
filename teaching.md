@@ -11,6 +11,8 @@ subtitle:
 
 ### Courses
 
+- **Spring 25/26:** Object-Oriented Programming - Bachelor's Degree in Telecommunications Technologies and Services Engineering (ETSETB, UPC-BarcelonaTech)
+- **Fall 25/26:** Networks and On-line Gaming - Bachelor's Degree in Video Game Design and Development (CITM, UPC-BarcelonaTech)
 - **Spring 24/25:** Object-Oriented Programming - Bachelor's Degree in Telecommunications Technologies and Services Engineering (ETSETB, UPC-BarcelonaTech)
 - **Fall 24/25:** Networks and On-line Gaming - Bachelor's Degree in Video Game Design and Development (CITM, UPC-BarcelonaTech)
 - **Spring 23/24:** Object-Oriented Programming - Bachelor's Degree in Telecommunications Technologies and Services Engineering (ETSETB, UPC-BarcelonaTech)
@@ -33,11 +35,12 @@ subtitle:
 
 ### Invited Lectures
 
+- **Nanonetworks and AI for Advanced Healthcare Applications,** at the ELIXIRION Summer School, Barcelona, Spain, September 2025.
 - **Graphene-based Wireless Interconnects for Next-Generation Computing Systems,** at the GreEnergy Summer School, Ancona, Italy, July 2022. **[[VIDEO]](https://youtu.be/ImMWk_nXMD0)**
 - **Graphene-based Wireless Nanocommunications: from Networks-on-chips to Reconfigurable Metasurfaces**, at the Future Internet Networks course, Facultat d'Informàtica de Barcelona (FIB), Universitat Politècnica de Catalunya (UPC), December 2018, December 2019, December 2020.
-- **IoT scaled to the limit: Nanotechnologies applied to Energy Harvesting and Wireless Communications**, at the International School on Data Science and IoT, University of Catania, September 2019.
+- **IoT Scaled to the Limit: Nanotechnologies applied to Energy Harvesting and Wireless Communications**, at the International School on Data Science and IoT, University of Catania, September 2019.
 - **Software-defined and software-driven metasurface paradigm”, at the summer school course: Tunable and Software-Driven Functional Metasurfaces**, Aalto University, June 2018
-- **Wireless Communications and Networks enabled by Nanotechnology**, at the Future Internet Networks course, Facultat d'Informàtica de Barcelona (FIB), Universitat Politècnica de Catalunya (UPC), January 2018
+- **Wireless Communications and Networks Enabled by Nanotechnology**, at the Future Internet Networks course, Facultat d'Informàtica de Barcelona (FIB), Universitat Politècnica de Catalunya (UPC), January 2018
 - **Wireless Network-on-chip: Let it Broadcast**, at the Interconnection Networks course, ECE/CS Schools, Georgia Tech, April 2016
 
 

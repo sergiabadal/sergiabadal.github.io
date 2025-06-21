@@ -91,6 +91,7 @@ Universitats on he fet de membre de PhD thesis defense
 ### TPC Memberships
 
 - ACM International Conference On Mobile Computing And Networking (MobiCom), 2023, 2024, 2025.
+- IEEE Design, Automation and Test in Europe Conference (DATE), D14 Track, 2025.
 - IEEE Global Communications Conference (GLOBECOM), Wireless Communications Track, 2023, 2024, 2025.
 - IEEE Global Communications Conference (GLOBECOM), Terahertz Communications Track, 2023, 2024, 2025.
 - IEEE International Conference on Quantum Software (QSW), 2024, 2025.

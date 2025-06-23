@@ -43,9 +43,11 @@ S. Abadal, I. Llatser, A. Mestres, H. Lee, E. Alarcón and A. Cabellos-Aparicio,
 <br/><br/>
 ### <a name="pre"></a> Pre-prints
 
+A. Bandara, A. Das, F. Rodríguez-Galán, E. Alarcón, S. Abadal, "Trmac: A Time-Reversal-Based Mac Protocol for Wireless Networks within Computing Packages", 2025. <strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5312303">[PDF]</a></strong>
+
 W. Zhao, S. Abadal, G. Song, J. Jiang, C. Han, <strong>"Terahertz Wireless Data Center: Gaussian Beam or Airy Beam?,"</strong> arxiv:2504.20410, 2025. <strong><a href="https://arxiv.org/pdf/2504.20410">[PDF]</a></strong>
 
-P. Escofet, S. Rodrigo, A. Garcie-Sáez, E. Alarcón, S. Abadal, C. G. Almudéver, <strong>"An Accurate Efficient Analytic Model of Fidelity under Depolarizing Noise oriented to Large Scale Quantum System Design,"</strong> arxiv:2503.06693, 2025. <strong><a href="https://arxiv.org/pdf/2503.06693">[PDF]</a></strong>
+P. Escofet, S. Rodrigo, A. Garcia-Sáez, E. Alarcón, S. Abadal, C. G. Almudéver, <strong>"An Accurate Efficient Analytic Model of Fidelity under Depolarizing Noise oriented to Large Scale Quantum System Design,"</strong> arxiv:2503.06693, 2025. <strong><a href="https://arxiv.org/pdf/2503.06693">[PDF]</a></strong>
 
 A. Bandara, F. Rodríguez-Galán, P. Talarn, E. Pereira de Santana, P. Haring Bolívar, E. Alarcón and S. Abadal, <strong>"Towards Scalable Multi-Chip Wireless Networks with Near-Field Time Reversal,"</strong> arxiv:2404.17325, 2024. <strong><a href="https://arxiv.org/pdf/2404.17325">[PDF]</a></strong>
 

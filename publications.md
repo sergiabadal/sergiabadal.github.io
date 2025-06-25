@@ -43,7 +43,7 @@ S. Abadal, I. Llatser, A. Mestres, H. Lee, E. Alarcón and A. Cabellos-Aparicio,
 <br/><br/>
 ### <a name="pre"></a> Pre-prints
 
-A. Bandara, A. Das, F. Rodríguez-Galán, E. Alarcón, S. Abadal, "Trmac: A Time-Reversal-Based Mac Protocol for Wireless Networks within Computing Packages", 2025. <strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5312303">[PDF]</a></strong>
+A. Bandara, A. Das, F. Rodríguez-Galán, E. Alarcón, S. Abadal, "Trmac: A Time-Reversal-Based Mac Protocol for Wireless Networks within Computing Packages", 2025. <strong><a href="https://arxiv.org/pdf/2506.19487">[PDF]</a></strong>
 
 W. Zhao, S. Abadal, G. Song, J. Jiang, C. Han, <strong>"Terahertz Wireless Data Center: Gaussian Beam or Airy Beam?,"</strong> arxiv:2504.20410, 2025. <strong><a href="https://arxiv.org/pdf/2504.20410">[PDF]</a></strong>
 
@@ -200,9 +200,9 @@ Reprogrammable Graphene-Based Digital Metasurface,"</strong> IEEE/OSA Journal of
 
 [C91] M. Shahmoradi, K. K. Tokgoz, E. Alarcón, S. Abadal, <strong>"Frequency-Dependent Power Consumption Modeling of CMOS Transmitters for WNoC Architectures,"</strong> Proceedings of the EuMW'25, September 2025. <strong><a href="https://arxiv.org/pdf/2410.23378">[PDF]</a></strong>
 
-[C90] N. J. Vives Zaguirre, O. Lasierra Hernandez, F. Lemic, G. Calvo Bartra, P. J. Galván Calderón, G. Garcia-Aviles, S. Abadal, X. Costa-Pérez, <strong>"Experimental Assessment of a Framework for in-Body RF-Backscattering Localization,"</strong> Proceedings of the PIMRC'25, September 2025. 
+[C90] N. J. Vives Zaguirre, O. Lasierra Hernandez, F. Lemic, G. Calvo Bartra, P. J. Galván Calderón, G. Garcia-Aviles, S. Abadal, X. Costa-Pérez, <strong>"Experimental Assessment of a Framework for in-Body RF-Backscattering Localization,"</strong> Proceedings of the PIMRC'25, September 2025. <a href="https://arxiv.org/pdf/2506.19499">[PDF]</a></strong>
 
-[C89] G. Castillo Gómez-Raya, A. Veres-Vitályos, F. Lemic, P. Royo, M. Montagud, S. Fernández, S. Abadal, X. Costa-Pérez, <strong>"Experimental Assessment of Neural 3D Reconstruction for Small UAV-Based Applications,"</strong> Proceedings of the PIMRC'25, September 2025. 
+[C89] G. Castillo Gómez-Raya, A. Veres-Vitályos, F. Lemic, P. Royo, M. Montagud, S. Fernández, S. Abadal, X. Costa-Pérez, <strong>"Experimental Assessment of Neural 3D Reconstruction for Small UAV-Based Applications,"</strong> Proceedings of the PIMRC'25, September 2025. <a href="https://arxiv.org/pdf/2506.19491">[PDF]</a></strong>
 
 [C88] S. Ben Rached, Z. Sun, J. Khan, G. Long, S. Rodrigo, C. G. Almudever, E. Alarcón, S. Abadal, <strong>"Modeling Quantum Links for the Exploration of Distributed Quantum Computing Systems,"</strong> Proceedings of the ICTON'25, July 2025. <strong><a href="https://arxiv.org/pdf/2505.08577">[PDF]</a></strong>
 

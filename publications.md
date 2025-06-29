@@ -43,7 +43,7 @@ S. Abadal, I. Llatser, A. Mestres, H. Lee, E. Alarcón and A. Cabellos-Aparicio,
 <br/><br/>
 ### <a name="pre"></a> Pre-prints
 
-J. Torres Gómez, P. Hofmann, L. Y. Debus, O. T. Basaran, S. Lotter, R. Khanzadeh, S. Angerbauer, B. D. Unluturk, S. Abadal, W. Haseelmayr, F. H. P. Fitzek, R. Schober, F. Dressler, <strong>"Communicating Smartly in Molecular Communication Environments: Neural Networks in the Internet of Bio-Nano Things,"</strong> 2025. <strong><a href=".">[PDF]</a></strong>
+J. Torres Gómez, P. Hofmann, L. Y. Debus, O. T. Basaran, S. Lotter, R. Khanzadeh, S. Angerbauer, B. D. Unluturk, S. Abadal, W. Haseelmayr, F. H. P. Fitzek, R. Schober, F. Dressler, <strong>"Communicating Smartly in the Molecular Domain: Neural Networks in the Internet of Bio-Nano Things,"</strong> 2025. <strong><a href="https://arxiv.org/pdf/2506.20589">[PDF]</a></strong>
 
 A. Bandara, A. Das, F. Rodríguez-Galán, E. Alarcón, S. Abadal, <strong>"Trmac: A Time-Reversal-Based Mac Protocol for Wireless Networks within Computing Packages,"</strong> arxiv:2506.19487, 2025. <strong><a href="https://arxiv.org/pdf/2506.19487">[PDF]</a></strong>
 

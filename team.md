@@ -32,6 +32,7 @@ link_url: /recruitment
 - Miquel Carrasco (PhD, 2024-2027)
 - Marc Fernández (PhD, 2025-2028)
 - Jan Nogué (PhD with Qilimanjaro, 2025-2027)
+- Xavier Querol (MSc, Fall '25)
 - Emmanuel Irabor (MSc, Spring '25)
 - Ezgi Sena Karabacak (MSc, Spring '25)
 - Emma Meneghini (MSc, Spring '25 from Università di Padova)

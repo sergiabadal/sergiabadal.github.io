@@ -17,7 +17,7 @@ title: Projects
 - **Media coverage:**
      - [ENG] [HiPEAC Info Magazine](https://www.hipeac.net/magazine/7163.pdf) \| [Spain Arts & Culture](https://spainculturescience.co.uk/winc-sergi-abadal/) \| [UPC News](https://www.upc.edu/en/press-room/news/starting-grant-for-upc-researcher-sergi-abadal-to-develop-a-new-generation-of-faster-and-more-efficient-processors-with-wireless-communication-systems-and-quantum-computing) 
      - [ESP] [LaVanguardia](https://www.lavanguardia.com/vida/20220331/8166863/upc-desarrollara-procesadores-diez-veces-mas-rapidos-actuales.html)
-     - [CAT] [Espai Mèdia](https://espai.media/politiques-digitals-i-id/sergi-abadal-de-la-upc-destinara-lajut-starting-grant-al-projecte-winc/)
+     - [CAT] [Espai Mèdia](https://espai.media/politiques-digitals-i-id/sergi-abadal-de-la-upc-destinara-lajut-starting-grant-al-projecte-winc/) \| [Betevé](https://beteve.cat/quanta-quanta-ia-podcast/quanta-quanta-ia-podcast-ia-i-comunicacions/)
 
 <p align="center"><img src="/img/ERC-2021-StG-WINC.jpg" width="80%"/></p>
 
@@ -70,6 +70,7 @@ The QUADRATURE project focuses upon the grand challenge of scalability in quantu
 - **Media coverage:**
      - [ENG] [UPC News](https://barcelonatech-upc.eu/en/press-room/news/the-upc-leads-a-project-to-develop-faster-lower-power-processors-for-artificial-intelligence)
      - [ESP] [Computing.es](https://www.computing.es/movilidad/noticias/1121206046501/upc-investiga-desarrollar-procesadores-ia-mas-sostenibles.1.html)
+     - [CAT] [Betevé](https://beteve.cat/quanta-quanta-ia-podcast/quanta-quanta-ia-podcast-ia-i-comunicacions/)
 
 <p align="center">
 <iframe width="80%" height="315" src="https://www.youtube.com/embed/_78MthY30nM" frameborder="0" allowfullscreen></iframe>

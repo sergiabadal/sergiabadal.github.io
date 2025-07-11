@@ -39,7 +39,7 @@ Yorokobu - Quàntica Març 2025.
 -->
 
 ### News Appearances
-- **[CAT] Beteve (BTV).** Podcast: Quanta IA - Com millora la IA les xarxes de comunicacions? May 2025. **[[LINK]](https://www.youtube.com/watch?v=CJ1KBv2VkGA&authuser=0)**
+- **[CAT] Beteve (BTV).** Quanta IA - Com millora la IA les xarxes de comunicacions? May 2025. **[[LINK]](https://www.youtube.com/watch?v=CJ1KBv2VkGA&authuser=0)**
 - **[CAT] El Punt Avui.** New Quantum Times. April 2025. **[[LINK]](https://www.elpuntavui.cat/economia/article/18-economia/2524976-nous-temps-quantics.html)**
 - **[ENG] HiPEAC Info Magazine.** Interview with Dr. Sergi Abadal. October 2022. **[[LINK]](https://www.hipeac.net/magazine/7163.pdf)**
 - **[ENG] NEC Laboratories Europe.** NEC Student Research Fellowship Interview with Dr. Sergi Abadal. July 2022. **[[LINK]](https://www.neclab.eu/blog/nec-student-research-fellowship-interview-with-dr-sergi-abadal)** 

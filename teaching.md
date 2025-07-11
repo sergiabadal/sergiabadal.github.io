@@ -46,6 +46,7 @@ subtitle:
 
 ### Informative Talks
 
+- **Com millora la IA les xarxes de comunicacions?**, at the Quanta IA! podcast series, Barcelona TV, May 2025. **[[VIDEO]](https://www.youtube.com/watch?v=CJ1KBv2VkGA&authuser=0)**
 - **Comunicacions ràdio per a nano-xarxes i els processadors del futur**, at the ESCOLAB (series of talks to engage high school students), UPC Barcelona, Spain (2023-2024)
 - **Wireless communications at the chip scale for future multi-chip processors**, at Women's Week UPC, Universitat Politècnica de Catalunya, Spain, March 2021.
 - **Nanocomunicacions: Creant xarxes WiFi de la mida del vostre polze**, at the Institut El Pi Gros / Pic del Vent, Sant Cebrià de Vallalta / Caldes de Montbui, Spain, January/May 2021, March 2022.

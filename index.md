@@ -30,6 +30,7 @@ Check out the details [here](/recruitment).
 ---
 
 ### News
+- **May 2025**: Sergi appeared in a videopodcast by a Catalan TV station about how AI can improve wireless communications. It's in Catalan, but you can [check it out here](https://beteve.cat/quanta-quanta-ia-podcast/quanta-quanta-ia-podcast-ia-i-comunicacions/).
 - **Mar 2025**: [Evgenii Vinogradov](https://vtsociety.org/contact/evgenii-vinogradov) (Genia) is joining the group and will be coordinating a new EU project, called AVALON. Welcome, Genia!
 - **Feb 2025**: Sergi has been elevated to **IEEE Senior Member** and has recieved a Medal as one of the best young researchers in Spain by the **Real Academia de la Ingeniería**.
 - **Nov 2024**: Arnau Esteban was the runner-up at the **Best undergraduate thesis of the Computer Science degree at UPC** for his work in 2024. Congrats Arnau!

@@ -202,7 +202,7 @@ Reprogrammable Graphene-Based Digital Metasurface,"</strong> IEEE/OSA Journal of
 
 [C93] M. Shahmoradi, K. K. Tokgoz, E. Alarcón, S. Abadal, <strong>"Frequency-Dependent Power Consumption Modeling of CMOS Transmitters for WNoC Architectures,"</strong> Proceedings of the EuMW'25, September 2025. <strong><a href="https://arxiv.org/pdf/2410.23378">[PDF]</a></strong>
 
-[C92] P. Escofet, A. Das, S. Ben Rached, S. Rodrigo, J. Domingo, F. Sebastiano, M. Babaie, B. Keskin, E. Charbon, P. Haring Bolívar, M. Palesi, E. Blokhina, B. Staszewski, A. Nag, A. Garcia-Sáez, S. Abadal, E. Alarcón and C. G. Almudever, <strong>"On the impact of classical and quantum communication networks upon modular quantum computing architecture system performance,"</strong> Proceedings of the IEEE QCE'25, September 2025.
+[C92] P. Escofet, A. Das, S. Ben Rached, S. Rodrigo, J. Domingo, F. Sebastiano, M. Babaie, B. Keskin, E. Charbon, P. Haring Bolívar, M. Palesi, E. Blokhina, B. Staszewski, A. Nag, A. Garcia-Sáez, S. Abadal, E. Alarcón and C. G. Almudever, <strong>"On the impact of classical and quantum communication networks upon modular quantum computing architecture system performance,"</strong> Proceedings of the IEEE QCE'25, September 2025. <strong><a href="https://arxiv.org/pdf/2507.08378">[PDF]</a></strong>
 
 [C91] S. Ben Rached, Z. Sun, G. Long, S. Rodrigo-Muñoz, C. G. Almudever, E. Alarcón and S. Abadal, <strong>"Accurate and Scalable Simulation of Cavity-Based Networks in Modular Quantum Architectures,"</strong> Proceedings of the IEEE QCE'25, September 2025.
 

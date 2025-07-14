@@ -78,6 +78,7 @@ Universitats on he fet de membre de PhD thesis defense
 
 ### Special Session / Tutorial / Panel Organization
 
+- **Wireless and Wave-Based Technologies for Harsh and Complex Environments,** European Conference on Antennas and Propagation (EuCAP), Dublin, Ireland, April 2026.
 - **Artificial Intelligence for Neural Engineering: Innovations, Applications and Future Directions,** IEEE International Joint Conference on Neural Networks (IJCNN), Rome, Italy, July 2025.
 - **[Wireless Interconnects for Scaling Classical and Quantum Computers](https://sites.google.com/view/scqc25/),** HiPEAC 2025, Barcelona, Spain, January 2025.
 - **Interconnects in the Post-Moore Era: Challenges and Opportunities,** ACM/IEEE International Symposium on Networks-on-Chip (NOCS), Hamburg, Germany, September 2023.

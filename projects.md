@@ -30,7 +30,7 @@ In this context, the WINC project envisions a revolution in computer architectur
 
 <br/><br/>
 ### <a name="ewic"></a> EWiC: Emulation of Wireless Communication among Chiplets inside a Computing System
-- **Website:** To be announced
+- **Website:** https://sites.google.com/view/erc-ewic
 - **Project Type:** ERC Proof of Concept
 - **Funding:** 150 K€
 - **Duration:** 2024-2026

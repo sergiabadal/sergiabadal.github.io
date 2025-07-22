@@ -80,6 +80,8 @@ S. Rodrigo, S. Abadal, E. Alarcón, C. Almudéver, <strong>"Exploring a Double F
 <br/><br/>
 ### <a name="journal"></a> Journal Papers
 
+[J55] S. Macaluso, G. Geraci, E. F. Combarro, S. Abadal, I. Arapakis, S. Vallecorsa and Eduard Alarcón, <strong>"Quantum Computing for Large-scale Network Optimization: Opportunities and Challenges,"</strong> IEEE Communications Magazine, 2025.
+
 [J54] P. Escofet, S. Rodrigo, A. Garcia-Sáez, E. Alarcón, S. Abadal, C. G. Almudéver, <strong>"An Accurate Efficient Analytic Model of Fidelity under Depolarizing Noise oriented to Large Scale Quantum System Design,"</strong> Quantum Science and Technology, 2025. <strong><a href="https://arxiv.org/pdf/2503.06693">[PDF]</a></strong>
 
 [J53] S. Ben Rached, I. López Agudo, S. Rodrigo, M. Bandic, S. Feld, H. Van Someren, E. Alarcón, C. G. Almudéver and S. Abadal, <strong>"Characterizing the Inter-Core Qubit Traffic in Large-Scale Quantum Modular Architectures,"</strong> IEEE Access, 2025. <strong><a href="https://arxiv.org/pdf/2310.01921.pdf">[PDF]</a></strong>

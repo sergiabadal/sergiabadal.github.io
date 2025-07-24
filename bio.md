@@ -36,6 +36,7 @@ In 2024, he became the Director of the [Nanonetworking Center in Catalunya (N3Ca
  
 <!---
 Yorokobu - Quàntica Març 2025.
+La Vanguardia - Suplement diners 27 Juliol 2025.
 -->
 
 ### News Appearances

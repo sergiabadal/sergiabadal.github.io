@@ -204,6 +204,8 @@ Reprogrammable Graphene-Based Digital Metasurface,"</strong> IEEE/OSA Journal of
 <br/><br/>
 ### <a name="conference"></a> Conference Papers
 
+[C95] M. L. Hube, F. Lemic, E. Shitiri, G. Calvo Bartra, S. Abadal, X. Costa Pérez, "Set Transformer Architectures and Synthetic Data Generation for Flow-Guided Nanoscale Localization," Proceedings of the ACM NANOCOM'25, October 2025.
+
 [C94] M. Shahmoradi, K. K. Tokgoz, E. Alarcón, S. Abadal, <strong>"Frequency-Dependent Power Consumption Modeling of CMOS Transmitters for WNoC Architectures,"</strong> Proceedings of the EuMW'25, September 2025. <strong><a href="https://arxiv.org/pdf/2410.23378">[PDF]</a></strong>
 
 [C93] P. Escofet, A. Das, S. Ben Rached, S. Rodrigo, J. Domingo, F. Sebastiano, M. Babaie, B. Keskin, E. Charbon, P. Haring Bolívar, M. Palesi, E. Blokhina, B. Staszewski, A. Nag, A. Garcia-Sáez, S. Abadal, E. Alarcón and C. G. Almudever, <strong>"On the impact of classical and quantum communication networks upon modular quantum computing architecture system performance,"</strong> Proceedings of the IEEE QCE'25, September 2025. <strong><a href="https://arxiv.org/pdf/2507.08378">[PDF]</a></strong>

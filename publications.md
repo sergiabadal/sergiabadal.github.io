@@ -80,7 +80,7 @@ S. Rodrigo, S. Abadal, E. Alarcón, C. Almudéver, <strong>"Exploring a Double F
 <br/><br/>
 ### <a name="journal"></a> Journal Papers
 
-[J56] S. Macaluso, G. Geraci, E. F. Combarro, S. Abadal, I. Arapakis, S. Vallecorsa and Eduard Alarcón, <strong>"Quantum Computing for Large-scale Network Optimization: Opportunities and Challenges,"</strong> IEEE Communications Magazine, 2025.
+[J56] S. Macaluso, G. Geraci, E. F. Combarro, S. Abadal, I. Arapakis, S. Vallecorsa and E. Alarcón, <strong>"Quantum Computing for Large-scale Network Optimization: Opportunities and Challenges,"</strong> IEEE Communications Magazine, 2025.
 
 [J55] K. Herath, M. Premaratne, S. Abadal, S. Gunathilake, E. Alarcón and A. Nirmalathas, <strong>"Floquet-Engineered Noise-Resilient Terahertz Receiver with Modular Phased Array Architecture for Scalable Chip-Scale Communication,"</strong> Advanced Photonics Research, 2025.
 

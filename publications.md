@@ -84,7 +84,7 @@ S. Rodrigo, S. Abadal, E. Alarcón, C. Almudéver, <strong>"Exploring a Double F
 
 [J56] S. Macaluso, G. Geraci, E. F. Combarro, S. Abadal, I. Arapakis, S. Vallecorsa and E. Alarcón, <strong>"Quantum Computing for Large-scale Network Optimization: Opportunities and Challenges,"</strong> IEEE Communications Magazine, 2025.
 
-[J55] K. Herath, M. Premaratne, S. Abadal, S. Gunathilake, E. Alarcón and A. Nirmalathas, <strong>"Floquet-Engineered Noise-Resilient Terahertz Receiver with Modular Phased Array Architecture for Scalable Chip-Scale Communication,"</strong> Advanced Photonics Research, 2025.
+[J55] K. Herath, M. Premaratne, S. Abadal, S. Gunathilake, E. Alarcón and A. Nirmalathas, <strong>"Floquet-Engineered Noise-Resilient Terahertz Receiver with Modular Phased Array Architecture for Scalable Chip-Scale Communication,"</strong> Advanced Photonics Research, 2025. <strong><a href="https://advanced.onlinelibrary.wiley.com/doi/epdf/10.1002/adpr.202500079">[PDF]</a></strong>
 
 [J54] P. Escofet, S. Rodrigo, A. Garcia-Sáez, E. Alarcón, S. Abadal, C. G. Almudéver, <strong>"An Accurate Efficient Analytic Model of Fidelity under Depolarizing Noise oriented to Large Scale Quantum System Design,"</strong> Quantum Science and Technology, 2025. <strong><a href="https://arxiv.org/pdf/2503.06693">[PDF]</a></strong>
 

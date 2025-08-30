@@ -45,14 +45,14 @@ In this context, BLOSSOMS aims to design an intelligent network architecture cap
 
 <br/><br/>
 ### <a name="ewic"></a> EWiC: Emulation of Wireless Communication among Chiplets inside a Computing System
-- **Website:** https://sites.google.com/view/erc-ewic
+- **Website:** [https://sites.google.com/view/erc-ewic](https://sites.google.com/view/erc-ewic)
 - **Project Type:** ERC Proof of Concept
 - **Funding:** 150 K€
 - **Duration:** 2024-2026
 - **Media coverage:**
      - [ESP] [UPC](https://www.upc.edu/es/sala-de-prensa/noticias/el-investigador-sergi-abadal-recibe-una-subvencion-de-prueba-de-concepto-para-estudiar-la-comunicacion-inalambrica-en-entornos-de-computacion-integrados)
  
-<p align="center"><img src="/img/ewic.jpeg" width="50%"/></p>
+<p align="center"><img src="/img/ewic2.png" width="80%"/></p>
 
 Domain specialisation (e.g., AI) coupled with skyrocketing manufacturing costs of chips led to a paradigm shift towards chiplet-based computing. However, the current Network-in-Package (NiP) is not suited for the increasing chiplet (CPUs, AI accelerators, etc.) count and their diverse communication needs. As a result, communication has become the main bottleneck to computing advances. Wireless transmission can enable a one-hop communication with low latency parallelism. The wireless links can be reconfigured dynamically for demand-specific services. Finally, the native broadcast capability of wireless transmission will provide natural support for scalability. However, wireless communication is limited by the bandwidth. Hence, the ERC Starting Grant WINC explored via simulation combining wireless communication with the high bandwidth of wired connections, proving potential for >5× speedups. 
 

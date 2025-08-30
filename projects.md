@@ -6,7 +6,7 @@ title: Projects
 {% if page.subtitle == "" %}
 <div class="empty_subtitle"></div>
 {% endif %}
-<p style="text-align:center"><a href="#winc">WINC</a> | <a href="#ewic">EWiC</a> | <a href="#quad">QUADRATURE</a> | <a href="#wiplash">WiPLASH</a> | <a href="#gnn">IGNNSPECTOR</a> | <a href="#visorsurf">VISORSURF</a> | <a href="#tugraco">TUGRACO</a> | <a href="#gwc">GWC</a></p>
+<p style="text-align:center"><a href="#winc">WINC</a> | <a href="#blossoms">BLOSSOMS</a> | <a href="#ewic">EWiC</a> | <a href="#quad">QUADRATURE</a> | <a href="#wiplash">WiPLASH</a> | <a href="#gnn">IGNNSPECTOR</a> | <a href="#visorsurf">VISORSURF</a> | <a href="#tugraco">TUGRACO</a> | <a href="#gwc">GWC</a></p>
 
 <br/>
 ### <a name="winc"></a> WINC: Wireless Networks within Next-Generation Computing Systems
@@ -26,6 +26,21 @@ Computing systems are ubiquitous in our daily life and have transformed the way 
 A common trait of current computing systems is that their internal data communication has become a fundamental bottleneck. The anticipated death of Moore’s Law has forced computer scientists and architects to find new ways to build faster processors, which include massive parallelization, specialized accelerator design, and disruptive technologies such as quantum computing. These trends cause an exponential increase in the volume and variability of data transfers within computing systems, rendering traditional interconnects insufficient and threatening to halt progress unless fast and versatile communication alternatives are developed.
 
 In this context, the WINC project envisions a revolution in computer architecture enabled by the integration of wireless networks within computing systems. The main hypothesis is that wireless terahertz technology will lead to at least a tenfold improvement in the speed, efficiency, and scalability of both non-quantum and quantum systems. With a cross-cutting approach, WINC aims to validate the hypothesis by (i) revealing the fundamental limits of wireless communications within computing packages, (ii) developing antennas and protocols that operate close to those limits while complying with the stringent constraints of the scenario, and (iii) developing radically novel architectures that translate the unique benefits of the wireless vision into order-of-magnitude improvements at the system level. If successful, WINC will be the seed of a new generation of non-quantum and quantum systems and foster progress in the computing field for the decades to come.
+
+
+<br/><br/>
+### <a name="blossoms"></a> BLOSSOMS: Beyond 5G network infrastructure Leveraging deep AI acrOSS ultra-high capacity Optical data transport and quantuM physical Substrates
+- **Website:** TBD
+- **Project Type:** Proyectos Generación del Conocimiento
+- **Funding:** 275 K€
+- **Duration:** 2025-2027
+
+<p align="center"><img src="/img/blossoms.png" width="80%"/></p>
+
+The fifth generation (5G) of mobile network infrastructures is already being successfully deployed in many countries around the world. In parallel, huge research efforts are beginning to be undertaken to drive the deployment of its successor 6G by 2030, in order to meet the needs of information and communications technologies (ICT) in the coming years. It is envisioned that telecommunications networks beyond 5G (B5G) and 6G will connect the human, physical and digital worlds, bringing to the forefront a host of new disruptive applications, including immersive virtual/augmented reality, holographic-type communications or the so-called tactile Internet. However, much stricter key performance indicators (KPIs) are set for B5G/6G networks compared to their 5G predecessor technology. And to effectively meet them, a redesign of the current 5G network architecture, along with the introduction of new enabling network technologies, emerge as important requirements.
+
+In this context, BLOSSOMS aims to design an intelligent network architecture capable of providing advanced network services in future B5G/6G network scenarios in a fully autonomous way. The reference network architecture will be organized in three well separated layers: infrastructure, functions and network intelligence. At the bottom, the network infrastructure layer will encompass heterogeneous B5G/6G radio access (B5G/6G-RAN), ultra-high capacity optical metro/core and quantum communications network segments. The middle layer of the architecture will include per-domain programmable network functions deployed in the cloud. And on top of that will reside the network intelligence layer, based on advanced AI techniques to achieve a fully autonomous network. The proposed activities within the BLOSSOMS project will serve to propose and evaluate many of the enabling technologies and solutions to realize the envisioned B5G/6G network architecture. This will be achieved by leveraging the extensive experience of the project research team members in the application of advanced machine learning and monitoring techniques, quantum, optical and radio data transport technologies, as well as programmable network architectures. In this way, we expect that the results achieved during the execution of the project will represent a significant advance towards the successful materialization of future B5G/6G telecommunication networks.
+
 
 
 <br/><br/>

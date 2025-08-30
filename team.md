@@ -36,6 +36,7 @@ link_url: /recruitment
 - Michael Zeising (MSc, Fall '25 from Universität Leipzig)
 - Nathan Chandanson (MSc, Fall '25 from ENSTA Paris)
 - Justus Hache (MSc, Fall '25 from TU Dresden)
+- Elouan Vivet (MSc, Fall '25 from IMT Atlantique)
 - Marina Bermúdez (MSc, Fall '25)
 - Viviana Centritto (MSc, Fall '25)
 - Luis Vivas (MSc, Fall '25)
@@ -49,6 +50,7 @@ link_url: /recruitment
 - Gonzalo Mera (MSc, Spring '25)
 - Ida Kleger-Rudomin (BSc, Fall '25 from Gdansk Tech)
 - Pau Martínez (BSc, Fall '25)
+- Biel Pons (BSc, Fall '25 from UB)
 
 
 ### Visiting Scholars

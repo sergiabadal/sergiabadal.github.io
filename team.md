@@ -41,7 +41,6 @@ link_url: /recruitment
 - Viviana Centritto (MSc, Fall '25)
 - Luis Vivas (MSc, Fall '25)
 - Johannes Weinert (MSc, Fall '25)
-- Jean Die (MSc, Fall '25)
 - Joan Acero (MSc, Fall '25)
 - Pawarit Jamjod (MSc, Fall '25)
 - Edgar Hernández (MSc, Fall '25)

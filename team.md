@@ -12,10 +12,11 @@ link_url: /recruitment
 
 ### Current Team
 
-- [Evgenii Vinogradov](https://vtsociety.org/contact/evgenii-vinogradov) (Project Coordinator, 2025-2026)
-- [Ethungshan Shitiri](https://sites.google.com/view/ethungshanshitiri/) (MSCA PostDoctoral Fellow, 2024-2026)
-- [Abhijit Das](https://abhijitcse.github.io/) (PostDoc, 2023-2025)
-- [Santiago Rodrigo](https://www.linkedin.com/in/santiago-rodrigo-mu%C3%B1oz-5b14a743) (PostDoc, 2024-2025)
+- [Evgenii Vinogradov](https://vtsociety.org/contact/evgenii-vinogradov) (Principal Investigator, 2025-2026)
+- [Rohit Sarma Sarkar](https://rohsar.github.io/rohitsarmasarkar/) (Postdoc, 2025-2026)
+- [Ethungshan Shitiri](https://sites.google.com/view/ethungshanshitiri/) (MSCA Postdoctoral Fellow, 2024-2026)
+- [Abhijit Das](https://abhijitcse.github.io/) (Postdoc, 2023-2025)
+- [Santiago Rodrigo](https://www.linkedin.com/in/santiago-rodrigo-mu%C3%B1oz-5b14a743) (Postdoc, 2024-2025)
 - Sahar Ben Rached (PhD, 2022-2025)
 - [Axel Wassington](https://www.linkedin.com/in/axel-wassington-258792a0/) (PhD, 2022-2025)
 - [Ama Bandara](https://www.linkedin.com/in/ama-bandara-a02a5a168/) (PhD, 2022-2025)

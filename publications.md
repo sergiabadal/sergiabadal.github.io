@@ -45,8 +45,6 @@ S. Abadal, I. Llatser, A. Mestres, H. Lee, E. Alarcón and A. Cabellos-Aparicio,
 
 J. Torres Gómez, P. Hofmann, L. Y. Debus, O. T. Basaran, S. Lotter, R. Khanzadeh, S. Angerbauer, B. D. Unluturk, S. Abadal, W. Haseelmayr, F. H. P. Fitzek, R. Schober, F. Dressler, <strong>"Communicating Smartly in the Molecular Domain: Neural Networks in the Internet of Bio-Nano Things,"</strong> 2025. <strong><a href="https://arxiv.org/pdf/2506.20589">[PDF]</a></strong>
 
-A. Bandara, A. Das, F. Rodríguez-Galán, E. Alarcón, S. Abadal, <strong>"Trmac: A Time-Reversal-Based Mac Protocol for Wireless Networks within Computing Packages,"</strong> arxiv:2506.19487, 2025. <strong><a href="https://arxiv.org/pdf/2506.19487">[PDF]</a></strong>
-
 W. Zhao, S. Abadal, G. Song, J. Jiang, C. Han, <strong>"Terahertz Wireless Data Center: Gaussian Beam or Airy Beam?,"</strong> arxiv:2504.20410, 2025. <strong><a href="https://arxiv.org/pdf/2504.20410">[PDF]</a></strong>
 
 A. Bandara, F. Rodríguez-Galán, P. Talarn, E. Pereira de Santana, P. Haring Bolívar, E. Alarcón and S. Abadal, <strong>"Towards Scalable Multi-Chip Wireless Networks with Near-Field Time Reversal,"</strong> arxiv:2404.17325, 2024. <strong><a href="https://arxiv.org/pdf/2404.17325">[PDF]</a></strong>
@@ -80,10 +78,12 @@ S. Rodrigo, S. Abadal, E. Alarcón, C. Almudéver, <strong>"Exploring a Double F
 <br/><br/>
 ### <a name="journal"></a> Journal Papers
 
-[J57] E. P. de Santana, K.-T. Wang, S. Abadal, D. Stock, Z. Wang, A. K. Wigger, E. Alarcón, M. Lemme, P. Haring Bolívar, <strong>"A THz Graphene-on-hBN Stack Patch Antenna for Future 6G Communications,"</strong> Scientific Reports, 2025.
+[J58] E. P. de Santana, K.-T. Wang, S. Abadal, D. Stock, Z. Wang, A. K. Wigger, E. Alarcón, M. Lemme, P. Haring Bolívar, <strong>"A THz Graphene-on-hBN Stack Patch Antenna for Future 6G Communications,"</strong> Scientific Reports, 2025.
 
-[J56] S. Macaluso, G. Geraci, E. F. Combarro, S. Abadal, I. Arapakis, S. Vallecorsa and E. Alarcón, <strong>"Quantum Computing for Large-scale Network Optimization: Opportunities and Challenges,"</strong> IEEE Communications Magazine, 2025.
+[J57] S. Macaluso, G. Geraci, E. F. Combarro, S. Abadal, I. Arapakis, S. Vallecorsa and E. Alarcón, <strong>"Quantum Computing for Large-scale Network Optimization: Opportunities and Challenges,"</strong> IEEE Communications Magazine, 2025.
 
+[J56] A. Bandara, A. Das, F. Rodríguez-Galán, E. Alarcón, S. Abadal, <strong>"TRMAC: A Time-Reversal-based MAC Protocol for Wireless Networks within Computing Packages,"</strong> Nano Communication Networks (Elsevier), 2025. <strong><a href="https://arxiv.org/pdf/2506.19487">[PDF]</a></strong>
+ 
 [J55] K. Herath, M. Premaratne, S. Abadal, S. Gunathilake, E. Alarcón and A. Nirmalathas, <strong>"Floquet-Engineered Noise-Resilient Terahertz Receiver with Modular Phased Array Architecture for Scalable Chip-Scale Communication,"</strong> Advanced Photonics Research, 2025. <strong><a href="https://advanced.onlinelibrary.wiley.com/doi/epdf/10.1002/adpr.202500079">[PDF]</a></strong>
 
 [J54] P. Escofet, S. Rodrigo, A. Garcia-Sáez, E. Alarcón, S. Abadal, C. G. Almudéver, <strong>"An Accurate Efficient Analytic Model of Fidelity under Depolarizing Noise oriented to Large Scale Quantum System Design,"</strong> Quantum Science and Technology, 2025. <strong><a href="https://arxiv.org/pdf/2503.06693">[PDF]</a></strong>

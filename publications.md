@@ -80,7 +80,7 @@ S. Rodrigo, S. Abadal, E. Alarcón, C. Almudéver, <strong>"Exploring a Double F
 
 [J58] E. P. de Santana, K.-T. Wang, S. Abadal, D. Stock, Z. Wang, A. K. Wigger, E. Alarcón, M. Lemme, P. Haring Bolívar, <strong>"A THz Graphene-on-hBN Stack Patch Antenna for Future 6G Communications,"</strong> Scientific Reports, 2025.
 
-[J57] S. Macaluso, G. Geraci, E. F. Combarro, S. Abadal, I. Arapakis, S. Vallecorsa and E. Alarcón, <strong>"Quantum Computing for Large-scale Network Optimization: Opportunities and Challenges,"</strong> IEEE Communications Magazine, 2025.
+[J57] S. Macaluso, G. Geraci, E. F. Combarro, S. Abadal, I. Arapakis, S. Vallecorsa and E. Alarcón, <strong>"Quantum Computing for Large-scale Network Optimization: Opportunities and Challenges,"</strong> IEEE Communications Magazine, 2025. <strong><a href="https://arxiv.org/pdf/2509.07773">[PDF]</a></strong>
 
 [J56] A. Bandara, A. Das, F. Rodríguez-Galán, E. Alarcón, S. Abadal, <strong>"TRMAC: A Time-Reversal-based MAC Protocol for Wireless Networks within Computing Packages,"</strong> Nano Communication Networks (Elsevier), 2025. <strong><a href="https://arxiv.org/pdf/2506.19487">[PDF]</a></strong>
  

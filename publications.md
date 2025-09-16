@@ -206,7 +206,7 @@ Reprogrammable Graphene-Based Digital Metasurface,"</strong> IEEE/OSA Journal of
 <br/><br/>
 ### <a name="conference"></a> Conference Papers
 
-[C96] R. Bhattacharjee, P. Escofet, S. Rodrigo, S. Abadal, C. G. Almudéver, E. Alarcón, <strong>"Characterizing Scaling Trends of Post-Compilation Circuit Resources for NISQ-era QML Models,"</strong> Proceedings of the IEEE QAI'25, November 2025.
+[C96] R. Bhattacharjee, P. Escofet, S. Rodrigo, S. Abadal, C. G. Almudéver, E. Alarcón, <strong>"Characterizing Scaling Trends of Post-Compilation Circuit Resources for NISQ-era QML Models,"</strong> Proceedings of the IEEE QAI'25, November 2025. <strong><a href="https://arxiv.org/pdf/2509.11980">[PDF]</a></strong>
 
 [C95] M. L. Hube, F. Lemic, E. Shitiri, G. Calvo Bartra, S. Abadal, X. Costa Pérez, <strong>"Set Transformer Architectures and Synthetic Data Generation for Flow-Guided Nanoscale Localization,"</strong> Proceedings of the ACM NANOCOM'25, October 2025. <strong><a href="https://arxiv.org/pdf/2508.16200">[PDF]</a></strong>
 

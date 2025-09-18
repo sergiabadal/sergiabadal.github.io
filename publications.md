@@ -43,6 +43,8 @@ S. Abadal, I. Llatser, A. Mestres, H. Lee, E. Alarcón and A. Cabellos-Aparicio,
 <br/><br/>
 ### <a name="pre"></a> Pre-prints
 
+A. Veres-Vitályos, G. Castillo Gomez-Raya, F. Lemic, D. J. Bugelnig, B. Rinner, S. Abadal, X. Costa-Pérez, "Neural 3D Object Reconstruction with Small-Scale Unmanned Aerial Vehicles,"</strong> 2025. <strong><a href="https://arxiv.org/pdf/2509.12458">[PDF]</a></strong>
+
 J. Torres Gómez, P. Hofmann, L. Y. Debus, O. T. Basaran, S. Lotter, R. Khanzadeh, S. Angerbauer, B. D. Unluturk, S. Abadal, W. Haseelmayr, F. H. P. Fitzek, R. Schober, F. Dressler, <strong>"Communicating Smartly in the Molecular Domain: Neural Networks in the Internet of Bio-Nano Things,"</strong> 2025. <strong><a href="https://arxiv.org/pdf/2506.20589">[PDF]</a></strong>
 
 W. Zhao, S. Abadal, G. Song, J. Jiang, C. Han, <strong>"Terahertz Wireless Data Center: Gaussian Beam or Airy Beam?,"</strong> arxiv:2504.20410, 2025. <strong><a href="https://arxiv.org/pdf/2504.20410">[PDF]</a></strong>

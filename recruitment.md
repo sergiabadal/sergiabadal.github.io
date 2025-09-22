@@ -10,7 +10,7 @@ link_url: mailto:&#97;&#98;&#97;&#100;&#97;&#108;&#64;&#97;&#99;&#46;&#117;&#112
 <div class="empty_subtitle"></div>
 {% endif %}
 
-There are currently no specific open positions, but we are always on the look for bright and motivated students in engineering physics, computer engineering, coomputer science, telecommunications engineering, or artificial intelligence. If you would like to work on communications, networking, next-generation computing systems, quantum computing, or similar topics, contact us.
+There are currently no specific open positions, but we are always on the look for bright and motivated students in engineering physics, computer engineering, coomputer science, telecommunications engineering, or artificial intelligence. If you would like to work on communications, networking, next-generation computing systems, quantum computing, or similar topics, send me your CV.
 
 <!---
 Our research group is always looking for bright and motivated individuals to join the team. 

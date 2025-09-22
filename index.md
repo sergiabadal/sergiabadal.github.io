@@ -31,7 +31,7 @@ Check out the details [here](/recruitment).
 
 ### News
 - **Sep 2025**: [Rohit Sarma Sarkar](https://rohsar.github.io/rohitsarmasarkar/) is joining the group as a postdoc to contribute in the quantum projects. Welcome, Rohit!
-- **Sep 2025**: Sergi is the co-PI of a **new project** funded by the Spanish ministry of science. It is called BLOSSOMS and it revolves around quantum-ready 6G networks.
+- **Sep 2025**: Sergi is the co-PI of a **new project** funded by the Spanish ministry of science. It is called BLOSSOMS, [check it out](https://sergiabadal.com/projects/#blossoms).
 - **Jul 2025**: Genia has won a **Ramon y Cajal fellowship**, one of the best postdoctoral fellowships in Spain. Congrats, Genia!
 - **Jul 2025**: Marc Fernández has won a **FI-STEP scholarship** from the Catalan government, which will fund his PhD studies. Congrats, Marc!
 - **May 2025**: Sergi appeared in a **videopodcast by a Catalan TV station** about how AI can improve wireless communications. It's in Catalan, but you can [check it out here](https://beteve.cat/quanta-quanta-ia-podcast/quanta-quanta-ia-podcast-ia-i-comunicacions/).

@@ -407,7 +407,9 @@ Communication-Intensive and Approximate Data,”</strong> in Proceedings of the 
 <br/><br/>
 ### <a name="poster"></a> Posters and Abstracts
 
-[P23] Á. López-Cardona, S. Abadal, I. Arapakis, <strong>"Improving Vision-LLMs with Human Cognitive Signals,"</strong> Women in Machine Learning Workshop (NeurIPS), San Diego, USA, December 2025. 
+[P24] Á. López-Cardona, S. Abadal, I. Arapakis, <strong>"Improving Vision-LLMs with Human Cognitive Signals,"</strong> Women in Machine Learning Workshop (NeurIPS), San Diego, USA, December 2025. 
+
+[P23] R. Bhattacharjee, S. Abadal, C. G. Almudever and E. Alarcón, <strong>"Full-Stack Assessment Framework for Quantum Machine Learning Models,"</strong> Quantum Techniques in Machine Learning (QTML), Singapore, November 2025.
 
 [P22] M. Nasser, T. Gadea, A. Das, A. Batlle, J. Cortadella, S. Abadal, A. Pérez, J. Ros, <strong>"Simulation-Driven Recommendation Framework for Scalable Distributed AI Training,"</strong> Workshop on Modeling & Simulation of Systems and Applications (ModSim’25), Seattle, WA, USA, August 2025.
 

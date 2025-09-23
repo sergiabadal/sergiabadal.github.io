@@ -90,7 +90,7 @@ S. Rodrigo, S. Abadal, E. Alarcón, C. Almudéver, <strong>"Exploring a Double F
 
 [J54] P. Escofet, S. Rodrigo, A. Garcia-Sáez, E. Alarcón, S. Abadal, C. G. Almudéver, <strong>"An Accurate Efficient Analytic Model of Fidelity under Depolarizing Noise oriented to Large Scale Quantum System Design,"</strong> Quantum Science and Technology, 2025. <strong><a href="https://arxiv.org/pdf/2503.06693">[PDF]</a></strong>
 
-[J53] S. Ben Rached, I. López Agudo, S. Rodrigo, M. Bandic, S. Feld, H. Van Someren, E. Alarcón, C. G. Almudéver and S. Abadal, <strong>"Characterizing the Inter-Core Qubit Traffic in Large-Scale Quantum Modular Architectures,"</strong> IEEE Access, 2025. <strong><a href="https://arxiv.org/pdf/2310.01921.pdf">[PDF]</a></strong>
+[J53] S. Ben Rached, I. López Agudo, S. Rodrigo, M. Bandic, S. Feld, H. Van Someren, E. Alarcón, C. G. Almudéver and S. Abadal, <strong>"Characterizing the Inter-Core Qubit Traffic in Large-Scale Quantum Modular Architectures,"</strong> IEEE Access, 2025. <strong><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11050411">[PDF]</a></strong>
 
 [J52] A. Wassington, R. Higueras, S. Abadal, <strong>"SkyMap: A Generative Graph Model for GNN Benchmarking," </strong> Frontiers in Artificial Intelligence, 2024. <strong><a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1427534/full">[PDF]</a></strong>
 

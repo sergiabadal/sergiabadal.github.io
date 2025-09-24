@@ -80,7 +80,7 @@ S. Rodrigo, S. Abadal, E. Alarcón, C. Almudéver, <strong>"Exploring a Double F
 <br/><br/>
 ### <a name="journal"></a> Journal Papers
 
-[J58] E. P. de Santana, K.-T. Wang, S. Abadal, D. Stock, Z. Wang, A. K. Wigger, E. Alarcón, M. Lemme, P. Haring Bolívar, <strong>"A THz Graphene-on-hBN Stack Patch Antenna for Future 6G Communications,"</strong> Scientific Reports, 2025.
+[J58] E. P. de Santana, K.-T. Wang, S. Abadal, D. Stock, Z. Wang, A. K. Wigger, E. Alarcón, M. Lemme, P. Haring Bolívar, <strong>"A THz Graphene-on-hBN Stack Patch Antenna for Future 6G Communications,"</strong> Scientific Reports, 2025. <strong><a href="https://www.nature.com/articles/s41598-025-16695-x.pdf">[PDF]</a></strong>
 
 [J57] S. Macaluso, G. Geraci, E. F. Combarro, S. Abadal, I. Arapakis, S. Vallecorsa and E. Alarcón, <strong>"Quantum Computing for Large-scale Network Optimization: Opportunities and Challenges,"</strong> IEEE Communications Magazine, 2025. <strong><a href="https://arxiv.org/pdf/2509.07773">[PDF]</a></strong>
 

@@ -41,7 +41,8 @@ AECOC - Quàntica Sept/Oct 2025.
 -->
 
 ### News Appearances
-- **[ESP] **La Vanguardia.** Quantum computing: the new technological revolution is already underway. July 2025. **[[LINK]](https://www.lavanguardia.com/dinero/20250727/10925084/computacion-cuantica-finanzas-tecnologia-inversion.amp.html)**
+- **[ESP] Revista AECOC.** Quantum computing: The next revolution. September 2025. **[[PDF]](./pdf/Entrevista-AECOC.pdf)**
+- **[ESP] La Vanguardia.** Quantum computing: the new technological revolution is already underway. July 2025. **[[LINK]](https://www.lavanguardia.com/dinero/20250727/10925084/computacion-cuantica-finanzas-tecnologia-inversion.amp.html)**
 - **[CAT] Beteve (BTV).** Quanta IA - What is the impact of AI on communication networks? May 2025. **[[LINK]](https://www.youtube.com/watch?v=CJ1KBv2VkGA&authuser=0)**
 - **[CAT] El Punt Avui.** New Quantum Times. April 2025. **[[LINK]](https://www.elpuntavui.cat/economia/article/18-economia/2524976-nous-temps-quantics.html)**
 - **[ENG] HiPEAC Info Magazine.** Interview with Dr. Sergi Abadal. October 2022. **[[LINK]](https://www.hipeac.net/magazine/7163.pdf)**

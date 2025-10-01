@@ -33,6 +33,7 @@ link_url: /recruitment
 - Marc Fernández (PhD, 2025-2028)
 - Jan Nogué (PhD with Qilimanjaro, 2025-2027)
 - Xavier Querol (MSc, Fall '25)
+- Sergi Tomàs (MSc, Fall '25) 
 - Ezgi Sena Karabacak (MSc, Fall '25)
 - Michael Zeising (MSc, Fall '25 from Universität Leipzig)
 - Nathan Chandanson (MSc, Fall '25 from ENSTA Paris)

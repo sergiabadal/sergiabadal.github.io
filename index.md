@@ -30,6 +30,7 @@ Check out the details [here](/recruitment).
 ---
 
 ### News
+- **Oct 2025**: Sergi has been awarded the National Research Award "Matilde Ucelay" as one of the best young researchers in Spain the **Ministry of Science, Innovation and Universities**.
 - **Sep 2025**: [Rohit Sarma Sarkar](https://rohsar.github.io/rohitsarmasarkar/) is joining the group as a postdoc to contribute in the quantum projects. Welcome, Rohit!
 - **Sep 2025**: Sergi is the co-PI of a **new project** funded by the Spanish ministry of science. It is called BLOSSOMS, [check it out](https://sergiabadal.com/projects/#blossoms).
 - **Jul 2025**: Genia has won a **Ramon y Cajal fellowship**, one of the best postdoctoral fellowships in Spain. Congrats, Genia!

@@ -43,6 +43,12 @@ S. Abadal, I. Llatser, A. Mestres, H. Lee, E. Alarcón and A. Cabellos-Aparicio,
 <br/><br/>
 ### <a name="pre"></a> Pre-prints
 
+P. Escofet, E. Alarcón, S. Abadal, A. Semenov, N. Murphy, E. Blokhina, C. G. Almudéver, <strong>"Quantum Reverse Mapping: Synthesizing an Optimal Spin Qubit Shuttling Bus Architecture for the Surface Code,"</strong> 2025. <strong><a href="https://arxiv.org/pdf/2510.17689">[PDF]</a></strong>
+
+V. Centritto Arrojo, A. Bandara, H. Deng, M. Babaie, E. Vinogradov, S. Abadal, E. Alarcón, <strong>Cryo-CMOS Antenna for Wireless Communications within a Quantum Computer Cryostat,"</strong> 2025. <strong><a href="https://arxiv.org/pdf/2510.13627">[PDF]</a></strong>
+
+A. Bandara, V. Centritto Arrojo, H. Deng, M. Babaie, F. Sebastiano, E. Charbon, E. Vinogradov, E. Alarcón, S. Abadal, <strong>"28 GHz Wireless Channel Characterization for a Quantum Computer Cryostat at 4 Kelvin,"</strong> 2025. <strong><a href="https://arxiv.org/pdf/2510.16962">[PDF]</a></strong>
+
 M. Palesi, E. Russo, G. Ascia, H. Rafique, D. Patti, V. Catania, S. Abadal, A. Das, P. Escofet, E. Alarcón, C. G. Almudéver, <strong>"Assessing the Role of Communication in Modular Multi-Core Quantum Systems,"</strong> 2025. <strong><a href="https://arxiv.org/pdf/2510.11053">[PDF]</a></strong>
 
 A. Veres-Vitályos, G. Castillo Gomez-Raya, F. Lemic, D. J. Bugelnig, B. Rinner, S. Abadal, X. Costa-Pérez, <strong>"Neural 3D Object Reconstruction with Small-Scale Unmanned Aerial Vehicles,"</strong> 2025. <strong><a href="https://arxiv.org/pdf/2509.12458">[PDF]</a></strong>

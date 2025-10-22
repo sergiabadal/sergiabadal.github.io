@@ -93,6 +93,7 @@ Universitats on he fet de membre de PhD thesis defense
 
 ### TPC Memberships
 
+- IEEE/ACM International Symposium on Computer Architecture (ISCA), 2026.
 - ACM International Conference On Mobile Computing And Networking (MobiCom), 2023, 2024, 2025.
 - IEEE Design, Automation and Test in Europe Conference (DATE), D14 Track, 2026.
 - IEEE Global Communications Conference (GLOBECOM), Wireless Communications Track, 2023, 2024, 2025.

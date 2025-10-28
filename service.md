@@ -43,7 +43,7 @@ Universitats on he fet de membre de PhD thesis defense
 - Associate Editor, **[IEEE Transactions on Molecular, Biological, and Multi-Scale Communications](https://www.comsoc.org/publications/journals/ieee-tmbmc)**, since December 2023.
 - Area Editor, **[Nano Communication Networks (Elsevier) Journal](https://www.journals.elsevier.com/nano-communication-networks)**, since February 2018.
     * Editor of the Year 2019.
-- Associate Editor, **[Frontiers in Communications and Networks](https://www.frontiersin.org/journals/communications-and-networks)**, Non Conventional Communications and Networking Section, since June 2020.
+- Associate Editor, **[Frontiers in Communications and Networks](https://www.frontiersin.org/journals/communications-and-networks)**, Non Conventional Communications and Networking Section, 2020-2025.
 - Guest Editor, Special Issue: **[Electromagnetic Nanonetworks: From On-chip Communication to Wearable and Implantable Networks](https://www.comsoc.org/publications/journals/ieee-jsac/cfp/electromagnetic-nanonetworks-chip-communication-wearable-and)**, IEEE Journal on Selected Areas in Communications, 2023.
 - Guest Editor, Special Issue: Machine Learning Methods in Nano Communications, Nano Communication Networks (Elsevier) Journal, 2023.
 - Guest Editor, Research Topic: **[6G's Molecular/Biological Layer and The Internet of Nano Things: Molecular Communications and Terahertz Communications](https://www.frontiersin.org/research-topics/49402/6gs-molecularbiological-layer-and-the-internet-of-nano-things-molecular-communications-and-terahertz-communications)**, Frontiers in Communications and Networks, 2023.

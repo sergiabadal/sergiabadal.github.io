@@ -49,8 +49,6 @@ V. Centritto Arrojo, A. Bandara, H. Deng, M. Babaie, E. Vinogradov, S. Abadal, E
 
 A. Bandara, V. Centritto Arrojo, H. Deng, M. Babaie, F. Sebastiano, E. Charbon, E. Vinogradov, E. Alarcón, S. Abadal, <strong>"28 GHz Wireless Channel Characterization for a Quantum Computer Cryostat at 4 Kelvin,"</strong> 2025. <strong><a href="https://arxiv.org/pdf/2510.16962">[PDF]</a></strong>
 
-M. Palesi, E. Russo, G. Ascia, H. Rafique, D. Patti, V. Catania, S. Abadal, A. Das, P. Escofet, E. Alarcón, C. G. Almudéver, <strong>"Assessing the Role of Communication in Modular Multi-Core Quantum Systems,"</strong> 2025. <strong><a href="https://arxiv.org/pdf/2510.11053">[PDF]</a></strong>
-
 A. Veres-Vitályos, G. Castillo Gomez-Raya, F. Lemic, D. J. Bugelnig, B. Rinner, S. Abadal, X. Costa-Pérez, <strong>"Neural 3D Object Reconstruction with Small-Scale Unmanned Aerial Vehicles,"</strong> 2025. <strong><a href="https://arxiv.org/pdf/2509.12458">[PDF]</a></strong>
 
 J. Torres Gómez, P. Hofmann, L. Y. Debus, O. T. Basaran, S. Lotter, R. Khanzadeh, S. Angerbauer, B. D. Unluturk, S. Abadal, W. Haseelmayr, F. H. P. Fitzek, R. Schober, F. Dressler, <strong>"Communicating Smartly in the Molecular Domain: Neural Networks in the Internet of Bio-Nano Things,"</strong> 2025. <strong><a href="https://arxiv.org/pdf/2506.20589">[PDF]</a></strong>
@@ -88,9 +86,11 @@ S. Rodrigo, S. Abadal, E. Alarcón, C. Almudéver, <strong>"Exploring a Double F
 <br/><br/>
 ### <a name="journal"></a> Journal Papers
 
-[J58] E. P. de Santana, K.-T. Wang, S. Abadal, D. Stock, Z. Wang, A. K. Wigger, E. Alarcón, M. Lemme, P. Haring Bolívar, <strong>"A THz Graphene-on-hBN Stack Patch Antenna for Future 6G Communications,"</strong> Scientific Reports, 2025. <strong><a href="https://www.nature.com/articles/s41598-025-16695-x.pdf">[PDF]</a></strong>
+[J59] E. P. de Santana, K.-T. Wang, S. Abadal, D. Stock, Z. Wang, A. K. Wigger, E. Alarcón, M. Lemme, P. Haring Bolívar, <strong>"A THz Graphene-on-hBN Stack Patch Antenna for Future 6G Communications,"</strong> Scientific Reports, 2025. <strong><a href="https://www.nature.com/articles/s41598-025-16695-x.pdf">[PDF]</a></strong>
 
-[J57] S. Macaluso, G. Geraci, E. F. Combarro, S. Abadal, I. Arapakis, S. Vallecorsa and E. Alarcón, <strong>"Quantum Computing for Large-scale Network Optimization: Opportunities and Challenges,"</strong> IEEE Communications Magazine, 2025. <strong><a href="https://arxiv.org/pdf/2509.07773">[PDF]</a></strong>
+[J58] S. Macaluso, G. Geraci, E. F. Combarro, S. Abadal, I. Arapakis, S. Vallecorsa and E. Alarcón, <strong>"Quantum Computing for Large-scale Network Optimization: Opportunities and Challenges,"</strong> IEEE Communications Magazine, 2025. <strong><a href="https://arxiv.org/pdf/2509.07773">[PDF]</a></strong>
+
+[J57] M. Palesi, E. Russo, G. Ascia, H. Rafique, D. Patti, V. Catania, S. Abadal, A. Das, P. Escofet, E. Alarcón, C. G. Almudéver, <strong>"Assessing the Role of Communication in Modular Multi-Core Quantum Systems,"</strong> ACM Transactions on Design Automation of Electronic Systems, 2025. <strong><a href="https://arxiv.org/pdf/2510.11053">[PDF]</a></strong> 
 
 [J56] A. Bandara, A. Das, F. Rodríguez-Galán, E. Alarcón, S. Abadal, <strong>"TRMAC: A Time-Reversal-based MAC Protocol for Wireless Networks within Computing Packages,"</strong> Nano Communication Networks (Elsevier), 2025. <strong><a href="https://arxiv.org/pdf/2506.19487">[PDF]</a></strong>
  

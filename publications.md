@@ -216,7 +216,7 @@ Reprogrammable Graphene-Based Digital Metasurface,"</strong> IEEE/OSA Journal of
 <br/><br/>
 ### <a name="conference"></a> Conference Papers
 
-M. Palesi, E. Russo, H. Rafique, G. Ascia, D. Patti, A. Das, S. Abadal, <strong>"Instruction-Directed MAC for Efficient Classical Communication in Scalable Multi-Chip Quantum Systems,"</strong> Proceedings of the IEEE MCSoC'25, December 2025. 
+M. Palesi, E. Russo, H. Rafique, G. Ascia, D. Patti, A. Das, S. Abadal, <strong>"Instruction-Directed MAC for Efficient Classical Communication in Scalable Multi-Chip Quantum Systems,"</strong> Proceedings of the IEEE MCSoC'25, December 2025. <strong><a href="https://arxiv.org/pdf/2510.27273">[PDF]</a></strong>
 
 [C97] Á. López-Cardona, S. Idesis, M. Masias Bruns, S. Abadal, I. Arapakis, <strong>"Brain–Language Model Alignment: Insights into the Platonic Hypothesis and Intermediate-Layer Advantage,"</strong> Proceedings of the UniReps'25 (NeurIPS workshop), December 2025. <strong><a href="https://arxiv.org/pdf/2510.17833">[PDF]</a></strong>
 

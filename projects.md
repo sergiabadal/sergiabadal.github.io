@@ -30,7 +30,7 @@ In this context, the WINC project envisions a revolution in computer architectur
 
 <br/><br/>
 ### <a name="blossoms"></a> BLOSSOMS: Beyond 5G network infrastructure Leveraging deep AI acrOSS ultra-high capacity Optical data transport and quantuM physical Substrates
-- **Website:** TBD
+- **Website:** [https://blossoms.upc.edu](https://blossoms.upc.edu/en)
 - **Project Type:** Proyectos Generación del Conocimiento
 - **Funding:** 275 K€
 - **Duration:** 2025-2027

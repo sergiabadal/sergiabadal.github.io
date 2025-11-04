@@ -30,33 +30,34 @@ Check out the details [here](/recruitment).
 ---
 
 ### News
-- **Oct 2025**: Sergi has been awarded the National Research Award "Matilde Ucelay" as one of the best young researchers in Spain the **Ministry of Science, Innovation and Universities**.
+- **Nov 2025**: Rupayan has got the best student paper award at **IEEE QAI 2025** for his work on characterization of quantum machine learning workloads. Congrats, Rupayan!
+- **Oct 2025**: I have been awarded the National Research Award "Matilde Ucelay" as one of the best young researchers in Spain the **Ministry of Science, Innovation and Universities**.
 - **Sep 2025**: [Rohit Sarma Sarkar](https://rohsar.github.io/rohitsarmasarkar/) is joining the group as a postdoc to contribute in the quantum projects. Welcome, Rohit!
-- **Sep 2025**: Sergi is the co-PI of a **new project** funded by the Spanish ministry of science. It is called BLOSSOMS, [check it out](https://sergiabadal.com/projects/#blossoms).
+- **Sep 2025**: I am the co-PI of a **new project** funded by the Spanish ministry of science. It is called BLOSSOMS, [check it out](https://sergiabadal.com/projects/#blossoms).
 - **Jul 2025**: Genia has won a **Ramon y Cajal fellowship**, one of the best postdoctoral fellowships in Spain. Congrats, Genia!
 - **Jul 2025**: Marc Fernández has won a **FI-STEP scholarship** from the Catalan government, which will fund his PhD studies. Congrats, Marc!
-- **May 2025**: Sergi appeared in a **videopodcast by a Catalan TV station** about how AI can improve wireless communications. It's in Catalan, but you can [check it out here](https://beteve.cat/quanta-quanta-ia-podcast/quanta-quanta-ia-podcast-ia-i-comunicacions/).
+- **May 2025**: I appeared in a **videopodcast by a Catalan TV station** about how AI can improve wireless communications. It's in Catalan, but you can [check it out here](https://beteve.cat/quanta-quanta-ia-podcast/quanta-quanta-ia-podcast-ia-i-comunicacions/).
 - **Mar 2025**: [Evgenii Vinogradov](https://vtsociety.org/contact/evgenii-vinogradov) (Genia) is joining the group and will be leading a **new EU project**, called AVALON. Welcome, Genia!
-- **Feb 2025**: Sergi has been elevated to **IEEE Senior Member** and has recieved a Medal as one of the best young researchers in Spain by the **Real Academia de la Ingeniería**.
+- **Feb 2025**: I have been elevated to **IEEE Senior Member** and has recieved a Medal as one of the best young researchers in Spain by the **Real Academia de la Ingeniería**.
 - **Nov 2024**: Arnau Esteban was the runner-up at the **Best undergraduate thesis of the Computer Science degree at UPC** for his work in 2024. Congrats Arnau!
 - **Sep 2024**: Arnau Brosa won the **Best undergraduate thesis of Telecom BCN** for his work at N3Cat in 2023. Congrats Arnau!
 - **Jul 2024**: Sergi and Abhijit have been awarded with an **ERC Proof of Concept** project! The project is called EWiC, <a href="https://sergiabadal.com/projects/#ewic">check it out.</a>
 - **Jun 2024**: New papers accepted at **IEEE JSAC** and **IEEE COMMAG**. Congratulations to Ama and Fátima for their first journal paper!
 - **Mar 2024**: Ethungshan has won a **Marie Curie Postdoctoral Grant**! It is called BeNiFIt, [check it out](https://sites.google.com/view/benifit-project)!
-- **Dec 2023**: Sergi holds new editorial positions as DC AEiC of **IEEE JETCAS** and AE of **IEEE TMC** and **IEEE TMBMC**.
+- **Dec 2023**: I hold new editorial positions as DC AEiC of **IEEE JETCAS** and AE of **IEEE TMC** and **IEEE TMBMC**.
 - **Dec 2023**: Santiago has defended his PhD thesis on quantum multi-core processors. Check out [his amazing work](https://scholar.google.com/citations?user=hKkLPTYAAAAJ&hl=es&oi=ao). Congratulations, Santi!!
 - **Jul 2023**: We travel to Valencia for the kick-off of our new project QUADRATURE, [check it out](https://www.quadrature-project.eu/)! We will investigate how to architecte quantum multi-core processors.
 - **Jun 2023**: Our alumni **Hamidreza Taghvaee** has won the UPC outstanding thesis award for his work on programmable metasurfaces. More details [here](https://doctorat.upc.edu/en/doctoral-thesis/extraordinary-awards).
 - **Jun 2023**: We traveled to Vilanova i la Geltrú for our first group workshop. [It was great](https://www.linkedin.com/posts/sergi-abadal-190a591a_metasurfaces-chips-wireless-activity-7081587399792676864-9c0j?utm_source=share&utm_medium=member_desktop)!
-- **May 2023**: Sergi will be guest editor in a **IEEE JSAC** [special issue on electromagnetic nanonetworks](https://www.comsoc.org/publications/journals/ieee-jsac/cfp/electromagnetic-nanonetworks-chip-communication-wearable-and).
+- **May 2023**: I will be guest editor in a **IEEE JSAC** [special issue on electromagnetic nanonetworks](https://www.comsoc.org/publications/journals/ieee-jsac/cfp/electromagnetic-nanonetworks-chip-communication-wearable-and).
 - **Apr 2023**: [Ama Bandara](https://www.linkedin.com/in/ama-bandara-a02a5a168/) has obtained a full scholarship to attend the [IEEE ComSoc school on 6G Communication and Wireless Technology](https://www.comsoc.org/education-training/ieee-comsoc-school-series/2023-ieee-comsoc-school-series-boston-usa-event)!
 - **Apr 2023**: [Pau Escofet](https://pauescofet.com/) and his team have [won the first prize](https://www.linkedin.com/feed/update/urn:li:activity:7048688554599751680?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7048688554599751680%29) in the [Qiskit Hackathon Barcelona 2023](https://www.quantumhackbcn.com/)!
 - **Jan 2023**: Three papers have been accepted at **IEEE ISCAS 2023** and one paper in **IEEE JETCAS**. Congrats to **Bernat Ollé** and **Pau Talarn** for their first paper! 
-- **Oct 2022**: Sergi has been given the **ACM NanoCom Outstanding Milestone Award** for his contributions in wireless chip-scale communications! 
+- **Oct 2022**: I have been given the **ACM NanoCom Outstanding Milestone Award** for his contributions in wireless chip-scale communications! 
 - **Jun 2022**: Our alumni **Robert Guirado** won the IN-NOVA Award to the best master thesis and the IBM Award to the best academic record for his work on [wireless over-the-air computation in on-chip scenarios](https://arxiv.org/pdf/2205.10889.pdf) accepted at **IJCNN/WCCI 2022**. These awards are given by the COIT (Spanish Association of Telecommunication Engineers) and recognize the best works in Spain. See the list [here](https://www.coit.es/sites/default/files/premiados_xlii_convocatoria.pdf).
 - **Apr 2022**: New paper on metasurface-programmable wireless networks-on-chip accepted at **Advanced Science**.
 - **Apr 2022**: New website! Thanks to [Antonio Franques](https://afranques.com/) for the support.
-- **Mar 2022**: Sergi has been awarded with an **ERC Starting Grant**! The project is called WINC, <a href="https://www.winc-project.eu">check it out.</a>
+- **Mar 2022**: I has been awarded with an **ERC Starting Grant**! The project is called WINC, <a href="https://www.winc-project.eu">check it out.</a>
 - **Mar 2022**: New paper on [graphene metasurfaces for 6G](https://arxiv.org/pdf/2203.10298.pdf) accepted at **IEEE Vehicular Technology Magazine**.
 - **Feb 2022**: [Axel Wassington](https://www.linkedin.com/in/axel-wassington-258792a0/) starts as a new PhD student. He will work on the acceleration of Graph Neural Networks (GNNs). Welcome Axel!
 - **Feb 2022**: New paper summarizing [a vision of heterogeneous interconnects for chiplet-based systems](https://sergiabadal.com/publications/pdf/IEEE_Micro_Mag_NoCArc2020_Panel.pdf) accepted at **IEEE MICRO**.

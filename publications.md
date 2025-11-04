@@ -220,7 +220,7 @@ M. Palesi, E. Russo, H. Rafique, G. Ascia, D. Patti, A. Das, S. Abadal, <strong>
 
 [C97] Á. López-Cardona, S. Idesis, M. Masias Bruns, S. Abadal, I. Arapakis, <strong>"Brain–Language Model Alignment: Insights into the Platonic Hypothesis and Intermediate-Layer Advantage,"</strong> Proceedings of the UniReps'25 (NeurIPS workshop), December 2025. <strong><a href="https://arxiv.org/pdf/2510.17833">[PDF]</a></strong>
 
-[C96] R. Bhattacharjee, P. Escofet, S. Rodrigo, S. Abadal, C. G. Almudéver, E. Alarcón, <strong>"Characterizing Scaling Trends of Post-Compilation Circuit Resources for NISQ-era QML Models,"</strong> Proceedings of the IEEE QAI'25, November 2025. <strong><a href="https://arxiv.org/pdf/2509.11980">[PDF]</a></strong>
+[C96] R. Bhattacharjee, P. Escofet, S. Rodrigo, S. Abadal, C. G. Almudéver, E. Alarcón, <strong>"Characterizing Scaling Trends of Post-Compilation Circuit Resources for NISQ-era QML Models,"</strong> Proceedings of the IEEE QAI'25, November 2025. <strong><a href="https://arxiv.org/pdf/2509.11980">[PDF]</a></strong>  *<span style="color:red">BEST STUDENT PAPER AWARD!</span>*
 
 [C95] M. L. Hube, F. Lemic, E. Shitiri, G. Calvo Bartra, S. Abadal, X. Costa Pérez, <strong>"Set Transformer Architectures and Synthetic Data Generation for Flow-Guided Nanoscale Localization,"</strong> Proceedings of the ACM NANOCOM'25, October 2025. <strong><a href="https://arxiv.org/pdf/2508.16200">[PDF]</a></strong>
 

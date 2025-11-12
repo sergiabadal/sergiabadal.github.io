@@ -45,7 +45,7 @@ S. Abadal, I. Llatser, A. Mestres, H. Lee, E. Alarcón and A. Cabellos-Aparicio,
 
 P. Escofet, E. Alarcón, S. Abadal, A. Semenov, N. Murphy, E. Blokhina, C. G. Almudéver, <strong>"Quantum Reverse Mapping: Synthesizing an Optimal Spin Qubit Shuttling Bus Architecture for the Surface Code,"</strong> 2025. <strong><a href="https://arxiv.org/pdf/2510.17689">[PDF]</a></strong>
 
-V. Centritto Arrojo, A. Bandara, H. Deng, M. Babaie, E. Vinogradov, S. Abadal, E. Alarcón, <strong>Cryo-CMOS Antenna for Wireless Communications within a Quantum Computer Cryostat,"</strong> 2025. <strong><a href="https://arxiv.org/pdf/2510.13627">[PDF]</a></strong>
+V. Centritto Arrojo, A. Bandara, H. Deng, M. Babaie, E. Vinogradov, S. Abadal, E. Alarcón, <strong>"Cryo-CMOS Antenna for Wireless Communications within a Quantum Computer Cryostat,"</strong> 2025. <strong><a href="https://arxiv.org/pdf/2510.13627">[PDF]</a></strong>
 
 A. Bandara, V. Centritto Arrojo, H. Deng, M. Babaie, F. Sebastiano, E. Charbon, E. Vinogradov, E. Alarcón, S. Abadal, <strong>"28 GHz Wireless Channel Characterization for a Quantum Computer Cryostat at 4 Kelvin,"</strong> 2025. <strong><a href="https://arxiv.org/pdf/2510.16962">[PDF]</a></strong>
 
@@ -417,7 +417,7 @@ Communication-Intensive and Approximate Data,”</strong> in Proceedings of the 
 <br/><br/>
 ### <a name="poster"></a> Posters and Abstracts
 
-[P25] D. Garcín de la Llave, S. Abadal, E. Alarcón, <strong>"Drive-Induced Crosstalk in Tunable Waveguide Coherent Quantum Links for Modular Superconducting Processors,"</strong> Adaptative Quantum Cirquits (AQC), Boston, USA, November 2025.
+[P25] D. Garcín de la Llave, S. Abadal, E. Alarcón, <strong>"Drive-Induced Crosstalk in Tunable Waveguide Coherent Quantum Links for Modular Superconducting Processors,"</strong> Adaptative Quantum Circuits (AQC), Boston, USA, November 2025.
 
 [P24] Á. López-Cardona, S. Abadal, I. Arapakis, <strong>"Improving Vision-LLMs with Human Cognitive Signals,"</strong> Women in Machine Learning Workshop (NeurIPS), San Diego, USA, December 2025.  <strong><a href="https://openreview.net/pdf?id=9ohbAGxGdO">[PDF]</a></strong>
 

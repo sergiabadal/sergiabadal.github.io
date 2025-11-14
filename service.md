@@ -57,6 +57,7 @@ Universitats on he fet de membre de PhD thesis defense
 
 ### Chairmanships
 
+- Conference and Local Co-Chair of the **2026 Embedded Systems Week (ESWEEK'26)**, Barcelona, Spain, October 2026.
 - Poster Chair of the **23rd ACM International Conference on Computing Frontiers (CF'26)**, Catania, Italy, May 2026.
 - General Chair of the **Modular Quantum Computing Architectures: Bridging the Quantum Networks and Quantum Computing Communities** workshop, at the IEEE Quantum Week, Bellevue, WA, USA, September 2023.
 - General Chair of the **Sixth IEEE Workshop on Terahertz Communications**, at the IEEE Global Communications Conference, Rio de Janeiro, Brazil, December 2022.

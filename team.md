@@ -45,8 +45,6 @@ link_url: /recruitment
 - Joan Acero (MSc, Fall '25)
 - Pawarit Jamjod (MSc, Fall '25)
 - Edgar Hernández (MSc, Fall '25)
-- Emma Meneghini (MSc, Spring '25 from Università di Padova)
-- Matteo Mazzini (MSc, Spring '25 from Università di Padova)
 - Ida Kleger-Rudomin (BSc, Fall '25 from Gdansk Tech)
 - Pau Martínez (BSc, Fall '25)
 - Biel Pons (BSc, Fall '25 from UB)
@@ -78,6 +76,8 @@ link_url: /recruitment
   - [UPC Special Doctoral Award](https://doctorat.upc.edu/en/doctoral-thesis/extraordinary-awards/Resolucindefinitivapremiosextraordinarios2023_CAST.pdf) to the top PhD thesis at UPC (24/305) in 2021.
 - Emmanuel Irabor (MSc, Spring '25)
 - Daniel Del Canto (MSc, Spring '25)
+- Emma Meneghini (MSc, Spring '25 from Università di Padova)
+- Matteo Mazzini (MSc, Spring '25 from Università di Padova)
 - Roger González Sedano (MSc, Fall '24 at KTH)
 - Mika Leo Hube (MSc, Fall '24)
 - Noa Jie Vives (MSc, Fall '24)

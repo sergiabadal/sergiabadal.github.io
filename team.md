@@ -15,7 +15,6 @@ link_url: /recruitment
 - [Evgenii Vinogradov](https://vtsociety.org/contact/evgenii-vinogradov) (Principal Investigator, 2025-2026)
 - [Rohit Sarma Sarkar](https://rohsar.github.io/rohitsarmasarkar/) (Postdoc, 2025-2026)
 - [Ethungshan Shitiri](https://sites.google.com/view/ethungshanshitiri/) (MSCA Postdoctoral Fellow, 2024-2026)
-- [Abhijit Das](https://abhijitcse.github.io/) (Postdoc, 2023-2025)
 - [Santiago Rodrigo](https://www.linkedin.com/in/santiago-rodrigo-mu%C3%B1oz-5b14a743) (Postdoc, 2024-2025)
 - Sahar Ben Rached (PhD, 2022-2025)
 - [Axel Wassington](https://www.linkedin.com/in/axel-wassington-258792a0/) (PhD, 2022-2025)
@@ -48,10 +47,10 @@ link_url: /recruitment
 - Edgar Hernández (MSc, Fall '25)
 - Emma Meneghini (MSc, Spring '25 from Università di Padova)
 - Matteo Mazzini (MSc, Spring '25 from Università di Padova)
-- Gonzalo Mera (MSc, Spring '25)
 - Ida Kleger-Rudomin (BSc, Fall '25 from Gdansk Tech)
 - Pau Martínez (BSc, Fall '25)
 - Biel Pons (BSc, Fall '25 from UB)
+- Helena Monsó (BSc, Fall '25)
 
 
 ### Visiting Scholars
@@ -70,6 +69,7 @@ link_url: /recruitment
 
 ### Alumni
 
+- [Abhijit Das](https://abhijitcse.github.io/) (Postdoc, 2023-2025)
 - [Ethungshan Shitiri](https://sites.google.com/view/ethungshanshitiri/) (PostDoc, 2023-2024)
 - [Akshay Jain](https://www.linkedin.com/in/akshay91jain) (PostDoc, 2020-2021)
 - [Fátima Rodríguez](https://www.linkedin.com/in/f%C3%A1tima-yolanda-rodr%C3%ADguez-gal%C3%A1n-96b3381a8/) (PhD, 2021-2025)

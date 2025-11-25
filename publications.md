@@ -216,7 +216,7 @@ Reprogrammable Graphene-Based Digital Metasurface,"</strong> IEEE/OSA Journal of
 <br/><br/>
 ### <a name="conference"></a> Conference Papers
 
-[C99] E. Vinogradov, A. Fakhreddine, A. Saboor, S. Abadal, S. Pollin, <strong>"Spatially Consistent Air-to-Ground Channel Modeling and Simulation via 3D Shadow Projections,"</strong> Proceedings of the IEEE ICNC'26, February 2026.
+[C99] E. Vinogradov, A. Fakhreddine, A. Saboor, S. Abadal, S. Pollin, <strong>"Spatially Consistent Air-to-Ground Channel Modeling and Simulation via 3D Shadow Projections,"</strong> Proceedings of the IEEE ICNC'26, February 2026. <strong><a href="https://arxiv.org/pdf/2511.15412">[PDF]</a></strong>
 
 [C98] M. Palesi, E. Russo, H. Rafique, G. Ascia, D. Patti, A. Das, S. Abadal, <strong>"Instruction-Directed MAC for Efficient Classical Communication in Scalable Multi-Chip Quantum Systems,"</strong> Proceedings of the IEEE MCSoC'25, December 2025. <strong><a href="https://arxiv.org/pdf/2510.27273">[PDF]</a></strong>
 

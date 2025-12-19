@@ -41,7 +41,7 @@ Yorokobu - Quàntica Març 2025.
 -->
 
 ### News Appearances
-- **[ESP] Revista AECOC.** Quantum computing: The next revolution. September 2025. **[[PDF]](./pdf/Entrevista-AECOC.pdf)**
+- **[ESP] Revista AECOC.** Quantum computing: The next revolution. September 2025. **[[LINK]](https://www.aecoc.es/articulos/c84-computacion-cuantica-la-proxima-revolucion/)**
 - **[ESP] La Vanguardia.** Quantum computing: the new technological revolution is already underway. July 2025. **[[LINK]](https://www.lavanguardia.com/dinero/20250727/10925084/computacion-cuantica-finanzas-tecnologia-inversion.amp.html)**
 - **[CAT] Beteve (BTV).** Quanta IA - What is the impact of AI on communication networks? May 2025. **[[LINK]](https://www.youtube.com/watch?v=CJ1KBv2VkGA&authuser=0)**
 - **[ESP] Yorokobu.** Así compite España en la ‘jungla’ de las tecnologías cuánticas. May 2025. **[[LINK]](https://yorokobu.es/tecnologia-cuantica-espanola)**

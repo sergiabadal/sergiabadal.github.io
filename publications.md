@@ -43,6 +43,8 @@ S. Abadal, I. Llatser, A. Mestres, H. Lee, E. Alarcón and A. Cabellos-Aparicio,
 <br/><br/>
 ### <a name="pre"></a> Pre-prints
 
+R. Bhattacharjee, S. Abadal, C. G. Almudéver, E. Alarcón, <strong>"Quantum Neural Network Training and Inference with Low Resolution Control Electronics,"</strong> 2026. <strong><a href="https://arxiv.org/pdf/2601.04983">[PDF]</a></strong>
+
 P. Escofet, E. Alarcón, S. Abadal, A. Semenov, N. Murphy, E. Blokhina, C. G. Almudéver, <strong>"Quantum Reverse Mapping: Synthesizing an Optimal Spin Qubit Shuttling Bus Architecture for the Surface Code,"</strong> 2025. <strong><a href="https://arxiv.org/pdf/2510.17689">[PDF]</a></strong>
 
 V. Centritto Arrojo, A. Bandara, H. Deng, M. Babaie, E. Vinogradov, S. Abadal, E. Alarcón, <strong>"Cryo-CMOS Antenna for Wireless Communications within a Quantum Computer Cryostat,"</strong> 2025. <strong><a href="https://arxiv.org/pdf/2510.13627">[PDF]</a></strong>

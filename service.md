@@ -15,6 +15,7 @@ link_url: http://publons.com/author/1004804/sergi-abadal#profile
 
 - European Commission (EIC, ERC, MSCA)
 - Research Foundation Flanders
+- Independent Research Fund Denmark
 - Chinese Academy of Sciences
 - Qatar National Research Fund
 - Czech Science Foundation

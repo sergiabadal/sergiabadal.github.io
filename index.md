@@ -30,7 +30,7 @@ Check out the details [here](/recruitment).
 ---
 
 ### News
-- **Feb 2026**: We are starting a new project as coordinators. It is called CERBERUS, [check it out](https://sergiabadal.com/projects/#cerberus)!
+- **Feb 2026**: We are starting a **new EU project as coordinators**. It is called CERBERUS, [check it out](https://sergiabadal.com/projects/#cerberus)!
 - **Nov 2025**: Rupayan has got the **best student paper award** at **IEEE QAI 2025** for his work on characterization of quantum machine learning workloads. Congrats, Rupayan!
 - **Oct 2025**: I have been awarded the National Research Award "Matilde Ucelay" as one of the best young researchers in Spain the **Ministry of Science, Innovation and Universities**.
 - **Sep 2025**: [Rohit Sarma Sarkar](https://rohsar.github.io/rohitsarmasarkar/) is joining the group as a postdoc to contribute in the quantum projects. Welcome, Rohit!

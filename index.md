@@ -30,6 +30,7 @@ Check out the details [here](/recruitment).
 ---
 
 ### News
+- **Feb 2026**: We are starting a new project as coordinators. It is called CERBERUS, [check it out](https://sergiabadal.com/projects/#cerberus)!
 - **Nov 2025**: Rupayan has got the **best student paper award** at **IEEE QAI 2025** for his work on characterization of quantum machine learning workloads. Congrats, Rupayan!
 - **Oct 2025**: I have been awarded the National Research Award "Matilde Ucelay" as one of the best young researchers in Spain the **Ministry of Science, Innovation and Universities**.
 - **Sep 2025**: [Rohit Sarma Sarkar](https://rohsar.github.io/rohitsarmasarkar/) is joining the group as a postdoc to contribute in the quantum projects. Welcome, Rohit!
@@ -57,7 +58,7 @@ Check out the details [here](/recruitment).
 - **Jun 2022**: Our alumni **Robert Guirado** won the IN-NOVA Award to the best master thesis and the IBM Award to the best academic record for his work on [wireless over-the-air computation in on-chip scenarios](https://arxiv.org/pdf/2205.10889.pdf) accepted at **IJCNN/WCCI 2022**. These awards are given by the COIT (Spanish Association of Telecommunication Engineers) and recognize the best works in Spain. See the list [here](https://www.coit.es/sites/default/files/premiados_xlii_convocatoria.pdf).
 - **Apr 2022**: New paper on metasurface-programmable wireless networks-on-chip accepted at **Advanced Science**.
 - **Apr 2022**: New website! Thanks to [Antonio Franques](https://afranques.com/) for the support.
-- **Mar 2022**: I has been awarded with an **ERC Starting Grant**! The project is called WINC, <a href="https://www.winc-project.eu">check it out.</a>
+- **Mar 2022**: I have been awarded with an **ERC Starting Grant**! The project is called WINC, <a href="https://www.winc-project.eu">check it out.</a>
 - **Mar 2022**: New paper on [graphene metasurfaces for 6G](https://arxiv.org/pdf/2203.10298.pdf) accepted at **IEEE Vehicular Technology Magazine**.
 - **Feb 2022**: [Axel Wassington](https://www.linkedin.com/in/axel-wassington-258792a0/) starts as a new PhD student. He will work on the acceleration of Graph Neural Networks (GNNs). Welcome Axel!
 - **Feb 2022**: New paper summarizing [a vision of heterogeneous interconnects for chiplet-based systems](https://sergiabadal.com/publications/pdf/IEEE_Micro_Mag_NoCArc2020_Panel.pdf) accepted at **IEEE MICRO**.

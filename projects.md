@@ -6,9 +6,21 @@ title: Projects
 {% if page.subtitle == "" %}
 <div class="empty_subtitle"></div>
 {% endif %}
-<p style="text-align:center"><a href="#winc">WINC</a> | <a href="#blossoms">BLOSSOMS</a> | <a href="#ewic">EWiC</a> | <a href="#quad">QUADRATURE</a> | <a href="#wiplash">WiPLASH</a> | <a href="#gnn">IGNNSPECTOR</a> | <a href="#visorsurf">VISORSURF</a> | <a href="#tugraco">TUGRACO</a> | <a href="#gwc">GWC</a></p>
+<p style="text-align:center"><a href="#cerberus">CERBERUS</a> | <p style="text-align:center"><a href="#winc">WINC</a> | <a href="#blossoms">BLOSSOMS</a> | <a href="#ewic">EWiC</a> | <a href="#quad">QUADRATURE</a> | <a href="#wiplash">WiPLASH</a> | <a href="#gnn">IGNNSPECTOR</a> | <a href="#visorsurf">VISORSURF</a> | <a href="#tugraco">TUGRACO</a> | <a href="#gwc">GWC</a></p>
+
+
 
 <br/>
+### <a name="cerberus"></a> CERBERUS: Unlocking the Full Potential of Edge AI through In-memory Computing Based on 2D Materials with Extreme Energy Efficiency
+- **Website:** TBD
+- **Project Type:** EIC Pathfinder Challenges
+- **Funding:** 5.99 M€
+- **Duration:** 2026-2030
+- 
+Edge computing can lead to deployment of AI in devices like drones, augmented reality and virtual reality gear, or autonomous vehicles, and give rise to transformative applications. However, the energy demands of AI create a major bottleneck, hindering advancements in such applications and related industries. In this context, the EIC-funded CERBERUS project aims to transform in-memory computing, which is designed to boost AI efficiency by processing data directly in memory. CERBERUS targets overcoming key efficiency hurdles through improvements in memristive devices, optimising peripheral circuits and enhancing heat dissipation solutions. Overall, the project’s goal is to triple energy efficiency. This will allow powerful AI models to run on even the smallest edge devices.
+
+
+<br/><br/>
 ### <a name="winc"></a> WINC: Wireless Networks within Next-Generation Computing Systems
 - **Website:** [www.winc-project.eu](https://www.winc-project.eu)
 - **Project Type:** ERC Starting Grant

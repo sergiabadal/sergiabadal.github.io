@@ -6,7 +6,7 @@ title: Projects
 {% if page.subtitle == "" %}
 <div class="empty_subtitle"></div>
 {% endif %}
-<p style="text-align:center"><a href="#cerberus">CERBERUS</a> | <p style="text-align:center"><a href="#winc">WINC</a> | <a href="#blossoms">BLOSSOMS</a> | <a href="#ewic">EWiC</a> | <a href="#quad">QUADRATURE</a> | <a href="#wiplash">WiPLASH</a> | <a href="#gnn">IGNNSPECTOR</a> | <a href="#visorsurf">VISORSURF</a> | <a href="#tugraco">TUGRACO</a> | <a href="#gwc">GWC</a></p>
+<p style="text-align:center"><a href="#cerberus">CERBERUS</a> | <a href="#winc">WINC</a> | <a href="#blossoms">BLOSSOMS</a> | <a href="#ewic">EWiC</a> | <a href="#quad">QUADRATURE</a> | <a href="#wiplash">WiPLASH</a> | <a href="#gnn">IGNNSPECTOR</a> | <a href="#visorsurf">VISORSURF</a> | <a href="#tugraco">TUGRACO</a> | <a href="#gwc">GWC</a></p>
 
 
 

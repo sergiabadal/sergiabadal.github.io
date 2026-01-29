@@ -16,7 +16,7 @@ title: Projects
 - **Project Type:** EIC Pathfinder Challenges
 - **Funding:** 5.99 M€
 - **Duration:** 2026-2030
-- 
+ 
 Edge computing can lead to deployment of AI in devices like drones, augmented reality and virtual reality gear, or autonomous vehicles, and give rise to transformative applications. However, the energy demands of AI create a major bottleneck, hindering advancements in such applications and related industries. In this context, the EIC-funded CERBERUS project aims to transform in-memory computing, which is designed to boost AI efficiency by processing data directly in memory. CERBERUS targets overcoming key efficiency hurdles through improvements in memristive devices, optimising peripheral circuits and enhancing heat dissipation solutions. Overall, the project’s goal is to triple energy efficiency. This will allow powerful AI models to run on even the smallest edge devices.
 
 

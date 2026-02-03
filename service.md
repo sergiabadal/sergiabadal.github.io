@@ -20,9 +20,8 @@ link_url: http://publons.com/author/1004804/sergi-abadal#profile
 - Qatar National Research Fund
 - Czech Science Foundation
 - Slovak Research and Development Agency
-<!---
-#- Cyprus Research and Innovation Foundation
--->
+- Cyprus Research and Innovation Foundation
+
 
 ### Institutional Service
 

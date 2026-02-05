@@ -45,8 +45,6 @@ S. Abadal, I. Llatser, A. Mestres, H. Lee, E. Alarcón and A. Cabellos-Aparicio,
 
 R. Bhattacharjee, S. Abadal, C. G. Almudéver, E. Alarcón, <strong>"Quantum Neural Network Training and Inference with Low Resolution Control Electronics,"</strong> 2026. <strong><a href="https://arxiv.org/pdf/2601.04983">[PDF]</a></strong>
 
-P. Escofet, E. Alarcón, S. Abadal, A. Semenov, N. Murphy, E. Blokhina, C. G. Almudéver, <strong>"Quantum Reverse Mapping: Synthesizing an Optimal Spin Qubit Shuttling Bus Architecture for the Surface Code,"</strong> 2025. <strong><a href="https://arxiv.org/pdf/2510.17689">[PDF]</a></strong>
-
 A. Veres-Vitályos, G. Castillo Gomez-Raya, F. Lemic, D. J. Bugelnig, B. Rinner, S. Abadal, X. Costa-Pérez, <strong>"Neural 3D Object Reconstruction with Small-Scale Unmanned Aerial Vehicles,"</strong> 2025. <strong><a href="https://arxiv.org/pdf/2509.12458">[PDF]</a></strong>
 
 J. Torres Gómez, P. Hofmann, L. Y. Debus, O. T. Basaran, S. Lotter, R. Khanzadeh, S. Angerbauer, B. D. Unluturk, S. Abadal, W. Haseelmayr, F. H. P. Fitzek, R. Schober, F. Dressler, <strong>"Communicating Smartly in the Molecular Domain: Neural Networks in the Internet of Bio-Nano Things,"</strong> 2025. <strong><a href="https://arxiv.org/pdf/2506.20589">[PDF]</a></strong>
@@ -79,6 +77,8 @@ S. Rodrigo, S. Abadal, E. Alarcón, C. Almudéver, <strong>"Exploring a Double F
 
 <br/><br/>
 ### <a name="journal"></a> Journal Papers
+
+[J62] P. Escofet, E. Alarcón, S. Abadal, A. Semenov, N. Murphy, E. Blokhina, C. G. Almudéver, <strong>"Synthesizing an optimal spin-qubit shuttling-bus architecture for the surface code,"</strong> Physical Review A, 2026. <strong><a href="https://arxiv.org/pdf/2510.17689">[PDF]</a></strong>
 
 [J61] A. Bandara, F. Rodríguez-Galán, P. Talarn, E. Pereira de Santana, E. Vinogradov, P. Haring Bolívar, E. Alarcón and S. Abadal, <strong>"Towards Scalable Multi-Chip Wireless Networks with Near-Field Time Reversal,"</strong> IEEE Transactions on Emerging Topics in Computing, 2026. <strong><a href="https://arxiv.org/pdf/2404.17325">[PDF]</a></strong>
 

@@ -17,6 +17,7 @@ title: Talks
 <!--
 - **Accelerating Computing with Wireless Networks inside Computing Packages** at Qualcomm, Remote, May 2024.
 --> 
+- **New Frontiers for Communications and Computing with 2D Materials,** Workshop on 2D Materials for Future Electronics, RWTH Aachen, March 2026.
 - **Colder, Better, Faster, Smaller: Exploring the Limits of Wireless Networks,** University of Aalborg, December 2024.
 - **Accelerating Classical and Quantum Computing with Wireless Networks inside Computing Packages,** University of Antwerp, June 2024.
 - **Accelerating Computing with Wireless Networks inside Computing Packages** at Qualcomm, Virtual Event, May 2024.

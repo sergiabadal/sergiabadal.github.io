@@ -214,11 +214,11 @@ Reprogrammable Graphene-Based Digital Metasurface,"</strong> IEEE/OSA Journal of
 <br/><br/>
 ### <a name="conference"></a> Conference Papers
 
-[C102] P. Escofet, S. Rodrigo, R. Sarma Sarkar, C. G. Almudéver, E. Alarcón, S. Abadal, "Quantum Circuit Pruning: Improving Fidelity via Compilation-Aware Circuit Approximation," Proceedings of the IEEE ISCAS'26, May 2026. <strong><a href="https://arxiv.org/pdf/2601.13322">[PDF]</a></strong>
+[C102] P. Escofet, S. Rodrigo, R. Sarma Sarkar, C. G. Almudéver, E. Alarcón, S. Abadal, <strong>"Quantum Circuit Pruning: Improving Fidelity via Compilation-Aware Circuit Approximation,"</strong> Proceedings of the IEEE ISCAS'26, May 2026. <strong><a href="https://arxiv.org/pdf/2601.13322">[PDF]</a></strong>
 
 [C101] V. Centritto Arrojo, A. Bandara, H. Deng, M. Babaie, E. Vinogradov, S. Abadal, E. Alarcón, <strong>"Cryo-CMOS Antenna for Wireless Communications within a Quantum Computer Cryostat,"</strong> Proceedings of the IEEE ISCAS'26, May 2026. <strong><a href="https://arxiv.org/pdf/2510.13627">[PDF]</a></strong>
 
-[C100] A. Bandara, V. Centritto Arrojo, H. Deng, M. Babaie, F. Sebastiano, E. Charbon, E. Vinogradov, E. Alarcón, S. Abadal, <strong>"28 GHz Wireless Channel Characterization for a Quantum Computer Cryostat at 4 Kelvin,"</strong> Proceedings of the EuCAP'26, April 2026, <strong><a href="https://arxiv.org/pdf/2510.16962">[PDF]</a></strong>
+[C100] A. Bandara, V. Centritto Arrojo, H. Deng, M. Babaie, F. Sebastiano, E. Charbon, E. Vinogradov, E. Alarcón, S. Abadal, <strong>"28 GHz Wireless Channel Characterization for a Quantum Computer Cryostat at 4 Kelvin,"</strong> Proceedings of the EuCAP'26, April 2026. <strong><a href="https://arxiv.org/pdf/2510.16962">[PDF]</a></strong>
 
 [C99] E. Vinogradov, A. Fakhreddine, A. Saboor, S. Abadal, S. Pollin, <strong>"Spatially Consistent Air-to-Ground Channel Modeling and Simulation via 3D Shadow Projections,"</strong> Proceedings of the IEEE ICNC'26, February 2026. <strong><a href="https://arxiv.org/pdf/2511.15412">[PDF]</a></strong>
 

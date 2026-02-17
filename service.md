@@ -81,6 +81,7 @@ Universitats on he fet de membre de PhD thesis defense
 
 ### Special Session / Tutorial / Panel Organization
 
+- **Optical Wireless Communications and Sensing in Sea, Air, and Space (OWC-SAS),** IEEE International Conference on Wireless for Space and Extreme Environments (WISEE), Leuven, Belgium, September 2026.
 - **Wireless and Wave-Based Technologies for Harsh and Complex Environments,** European Conference on Antennas and Propagation (EuCAP), Dublin, Ireland, April 2026.
 - **Artificial Intelligence for Neural Engineering: Innovations, Applications and Future Directions,** IEEE International Joint Conference on Neural Networks (IJCNN), Rome, Italy, July 2025.
 - **[Wireless Interconnects for Scaling Classical and Quantum Computers](https://sites.google.com/view/scqc25/),** HiPEAC 2025, Barcelona, Spain, January 2025.

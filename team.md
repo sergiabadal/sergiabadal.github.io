@@ -42,6 +42,7 @@ link_url: /recruitment
 - Alicia Garcia (MSc, Spring '26)
 - Valentine Ponce (MSc from EC Lyon, Spring '26)
 - Mathis Paccoud (MSc from Telecom Nancy, Spring '26) 
+- Helena Monsó (MSc, Fall '25)
 - Guillem Moreno (BSc, Spring '26)
 - Joan Bernaus (BSc, Spring '26)
 - Victor Ramirez (BSc, Spring '26)
@@ -49,7 +50,7 @@ link_url: /recruitment
 - Pau Hidalgo Pujol (BSc, Spring '26)
 - Marina Bermúdez (MSc, Fall '25)
 - Luis Vivas (MSc, Fall '25)
-- Helena Monsó (BSc, Fall '25)
+
 
 
 ### Visiting Scholars

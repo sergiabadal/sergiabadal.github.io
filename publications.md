@@ -45,6 +45,8 @@ S. Abadal, I. Llatser, A. Mestres, H. Lee, E. Alarcón and A. Cabellos-Aparicio,
 
 R. Bhattacharjee, S. Abadal, C. G. Almudéver, E. Alarcón, <strong>"Quantum Neural Network Training and Inference with Low Resolution Control Electronics,"</strong> 2026. <strong><a href="https://arxiv.org/pdf/2601.04983">[PDF]</a></strong>
 
+T. Saeed, V. Soteriou, H. Taghvaee, E. Emoyon-Iredia, S. Abadal, C. Liaskos, E. Alarcón, A. Pitsillides, M. Lestas, <strong>"Fault-Tolerant Deadlock-Free Routing for Metasurface Controller Networks and its Effects on the EM Properties,"</strong> 2026. <strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6255320">[PDF]</a></strong>
+
 A. Veres-Vitályos, G. Castillo Gomez-Raya, F. Lemic, D. J. Bugelnig, B. Rinner, S. Abadal, X. Costa-Pérez, <strong>"Neural 3D Object Reconstruction with Small-Scale Unmanned Aerial Vehicles,"</strong> 2025. <strong><a href="https://arxiv.org/pdf/2509.12458">[PDF]</a></strong>
 
 J. Torres Gómez, P. Hofmann, L. Y. Debus, O. T. Basaran, S. Lotter, R. Khanzadeh, S. Angerbauer, B. D. Unluturk, S. Abadal, W. Haseelmayr, F. H. P. Fitzek, R. Schober, F. Dressler, <strong>"Communicating Smartly in the Molecular Domain: Neural Networks in the Internet of Bio-Nano Things,"</strong> 2025. <strong><a href="https://arxiv.org/pdf/2506.20589">[PDF]</a></strong>

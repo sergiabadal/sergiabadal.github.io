@@ -5,8 +5,7 @@ comments: false
 
 <p align="center"><img src="/img/sergi-brick.jpg" alt="Profile picture" width="80%"/><br/>
   <br/>
-Distinguished Researcher | ERC Grantee <br/> 
-Ambassador of the European Innovation Council<br/>
+Associate Professor | ERC Grantee <br/> 
 Universitat Politècnica de Catalunya (UPC)<br/>
 C/ Jordi Girona 1-3, C6-112, 08034 Barcelona, Spain <br/> 
 Tel: (+34)934017423<br/>
@@ -31,6 +30,7 @@ Check out the details [here](/recruitment).
 
 ### News
 - **Feb 2026**: We are starting a **new EU project as coordinators**. It is called CERBERUS, [check it out](https://sergiabadal.com/projects/#cerberus)!
+- **Feb 2026**: I got tenure and now act as **Associate Professor** at UPC.
 - **Nov 2025**: Rupayan has got the **best student paper award** at **IEEE QAI 2025** for his work on characterization of quantum machine learning workloads. Congrats, Rupayan!
 - **Oct 2025**: I have been awarded the National Research Award "Matilde Ucelay" as one of the best young researchers in Spain the **Ministry of Science, Innovation and Universities**.
 - **Sep 2025**: [Rohit Sarma Sarkar](https://rohsar.github.io/rohitsarmasarkar/) is joining the group as a postdoc to contribute in the quantum projects. Welcome, Rohit!

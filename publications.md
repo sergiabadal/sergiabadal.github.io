@@ -43,6 +43,8 @@ S. Abadal, I. Llatser, A. Mestres, H. Lee, E. Alarcón and A. Cabellos-Aparicio,
 <br/><br/>
 ### <a name="pre"></a> Pre-prints
 
+A. Rezagholi, S. Abadal, F. Lemic, E. Alarcón, E. Shitiri, <strong>"Early-Stage Cancer Biomarker Detection via Intravascular Nanomachines: Modeling and Analysis,"</strong> 2026. <strong><a href="https://arxiv.org/pdf/2603.10709">[PDF]</a></strong>
+
 R. Bhattacharjee, S. Abadal, C. G. Almudéver, E. Alarcón, <strong>"Quantum Neural Network Training and Inference with Low Resolution Control Electronics,"</strong> 2026. <strong><a href="https://arxiv.org/pdf/2601.04983">[PDF]</a></strong>
 
 T. Saeed, V. Soteriou, H. Taghvaee, E. Emoyon-Iredia, S. Abadal, C. Liaskos, E. Alarcón, A. Pitsillides, M. Lestas, <strong>"Fault-Tolerant Deadlock-Free Routing for Metasurface Controller Networks and its Effects on the EM Properties,"</strong> 2026. <strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6255320">[PDF]</a></strong>

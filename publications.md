@@ -218,6 +218,8 @@ Reprogrammable Graphene-Based Digital Metasurface,"</strong> IEEE/OSA Journal of
 <br/><br/>
 ### <a name="conference"></a> Conference Papers
 
+[C103] G. Koutroumpas, M. Masias Bruns, S. Idesis, M. Mazzini, J. Jose, S. Abadal, I. Arapakis, <strong>"Organic vs. Synthetic Attention: Evaluating the Utility of Eye Tracking Augmentation in Recommender Systems,"</strong> Proceedings of the ACM ETRA'26, June 2026.
+
 [C102] P. Escofet, S. Rodrigo, R. Sarma Sarkar, C. G. Almudéver, E. Alarcón, S. Abadal, <strong>"Quantum Circuit Pruning: Improving Fidelity via Compilation-Aware Circuit Approximation,"</strong> Proceedings of the IEEE ISCAS'26, May 2026. <strong><a href="https://arxiv.org/pdf/2601.13322">[PDF]</a></strong>
 
 [C101] V. Centritto Arrojo, A. Bandara, H. Deng, M. Babaie, E. Vinogradov, S. Abadal, E. Alarcón, <strong>"Cryo-CMOS Antenna for Wireless Communications within a Quantum Computer Cryostat,"</strong> Proceedings of the IEEE ISCAS'26, May 2026. <strong><a href="https://arxiv.org/pdf/2510.13627">[PDF]</a></strong>

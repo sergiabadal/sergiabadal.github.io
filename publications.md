@@ -82,6 +82,8 @@ S. Rodrigo, S. Abadal, E. Alarcón, C. Almudéver, <strong>"Exploring a Double F
 <br/><br/>
 ### <a name="journal"></a> Journal Papers
 
+[J63] L. Rayón Ropero, J. De Laet, F. Lemic, P. Sabater Nácher, N. Nisar Bhat, Sergi Abadal, J. Famaey, E. Alarcón, X. Costa Pérez, <strong>"Towards Emotion Recognition with 3D Pointclouds Obtained from Facial Expression Images"</strong> IEEE Transactions on Affective Computing, 2026.
+
 [J62] P. Escofet, E. Alarcón, S. Abadal, A. Semenov, N. Murphy, E. Blokhina, C. G. Almudéver, <strong>"Synthesizing an optimal spin-qubit shuttling-bus architecture for the surface code,"</strong> Physical Review A, 2026. <strong><a href="https://arxiv.org/pdf/2510.17689">[PDF]</a></strong>
 
 [J61] A. Bandara, F. Rodríguez-Galán, P. Talarn, E. Pereira de Santana, E. Vinogradov, P. Haring Bolívar, E. Alarcón and S. Abadal, <strong>"Towards Scalable Multi-Chip Wireless Networks with Near-Field Time Reversal,"</strong> IEEE Transactions on Emerging Topics in Computing, 2026. <strong><a href="https://arxiv.org/pdf/2404.17325">[PDF]</a></strong>

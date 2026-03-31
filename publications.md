@@ -82,7 +82,7 @@ S. Rodrigo, S. Abadal, E. Alarcón, C. Almudéver, <strong>"Exploring a Double F
 <br/><br/>
 ### <a name="journal"></a> Journal Papers
 
-[J63] L. Rayón Ropero, J. De Laet, F. Lemic, P. Sabater Nácher, N. Nisar Bhat, Sergi Abadal, J. Famaey, E. Alarcón, X. Costa Pérez, <strong>"Towards Emotion Recognition with 3D Pointclouds Obtained from Facial Expression Images"</strong> IEEE Transactions on Affective Computing, 2026.
+[J63] L. Rayón Ropero, J. De Laet, F. Lemic, P. Sabater Nácher, N. Nisar Bhat, Sergi Abadal, J. Famaey, E. Alarcón, X. Costa Pérez, <strong>"Towards Emotion Recognition with 3D Pointclouds Obtained from Facial Expression Images"</strong> IEEE Transactions on Affective Computing, 2026. <strong><a href="https://arxiv.org/pdf/2603.27798">[PDF]</a></strong>
 
 [J62] P. Escofet, E. Alarcón, S. Abadal, A. Semenov, N. Murphy, E. Blokhina, C. G. Almudéver, <strong>"Synthesizing an optimal spin-qubit shuttling-bus architecture for the surface code,"</strong> Physical Review A, 2026. <strong><a href="https://arxiv.org/pdf/2510.17689">[PDF]</a></strong>
 
@@ -222,7 +222,7 @@ Reprogrammable Graphene-Based Digital Metasurface,"</strong> IEEE/OSA Journal of
 
 [C103] G. Koutroumpas, M. Masias Bruns, S. Idesis, M. Mazzini, J. Jose, S. Abadal, I. Arapakis, <strong>"Organic vs. Synthetic Attention: Evaluating the Utility of Eye Tracking Augmentation in Recommender Systems,"</strong> Proceedings of the ACM ETRA'26, June 2026.
 
-[C102] P. Escofet, S. Rodrigo, R. Sarma Sarkar, C. G. Almudéver, E. Alarcón, S. Abadal, <strong>"Quantum Circuit Pruning: Improving Fidelity via Compilation-Aware Circuit Approximation,"</strong> Proceedings of the IEEE ISCAS'26, May 2026. <strong><a href="https://arxiv.org/pdf/2601.13322">[PDF]</a></strong>
+[C102] P. Escofet, S. Rodrigo, R. Sarma Sarkar, C. G. Almudéver, E. Alarcón, S. Abadal, <strong>"Quantum Circuit Pruning: Improving Fidelity via Compilation-Aware Circuit Approximation,"</strong> Proceedings of the IEEE ISCAS'26, May 2026. <strong><a href="https://arxiv.org/pdf/2601.13322">[PDF]</a></strong> *<span style="color:red">BEST STUDENT PAPER CANDIDATE!</span>*
 
 [C101] V. Centritto Arrojo, A. Bandara, H. Deng, M. Babaie, E. Vinogradov, S. Abadal, E. Alarcón, <strong>"Cryo-CMOS Antenna for Wireless Communications within a Quantum Computer Cryostat,"</strong> Proceedings of the IEEE ISCAS'26, May 2026. <strong><a href="https://arxiv.org/pdf/2510.13627">[PDF]</a></strong>
 

@@ -46,6 +46,7 @@ subtitle:
 
 ### Informative Talks
 
+- **Salid y disfrutad**, at the commencement ceremony of the doctoral school at UPC, April 2026. **[[NEWS]](https://doctorat.upc.edu/es/noticias/acte-de-graduacio-de-doctorat)** **[[VIDEO]](https://www.youtube.com/live/A2UvCXMFrsY?si=5trl0EdX-k_rZ6x_&t=1992)**
 - **Com millora la IA les xarxes de comunicacions?**, at the Quanta IA! podcast series, Barcelona TV, May 2025. **[[VIDEO]](https://www.youtube.com/watch?v=CJ1KBv2VkGA&authuser=0)**
 - **Comunicacions ràdio per a nano-xarxes i els processadors del futur**, at the ESCOLAB (series of talks to engage high school students), UPC Barcelona, Spain (2023-2024)
 - **Wireless communications at the chip scale for future multi-chip processors**, at Women's Week UPC, Universitat Politècnica de Catalunya, Spain, March 2021.

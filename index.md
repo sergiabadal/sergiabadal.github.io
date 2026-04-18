@@ -29,6 +29,7 @@ Check out the details [here](/recruitment).
 ---
 
 ### News
+- **Apr 2026**: I gave [the commencement speech](https://doctorat.upc.edu/es/noticias/acte-de-graduacio-de-doctorat) for the recent PhD graduates at UPC. 
 - **Feb 2026**: We are starting a **new EU project as coordinators**. It is called CERBERUS, [check it out](https://sergiabadal.com/projects/#cerberus)!
 - **Feb 2026**: I got tenure and now act as **Associate Professor** at UPC.
 - **Nov 2025**: Rupayan has got the **best student paper award** at **IEEE QAI 2025** for his work on characterization of quantum machine learning workloads. Congrats, Rupayan!

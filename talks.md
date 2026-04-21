@@ -9,6 +9,7 @@ title: Talks
 
 ### Keynotes
 
+- **Colder, Better, Faster, Smaller: The Benefits of Pushing to Terahertz Wireless Communications,** in the 51st International Conference on Infrared, Millimeter, and Terahertz Waves (IRMMW-THz), Salt Lake City, Utah, USA, October 2026.
 - **Towards the Internet of Everything with Graphene Antennas and Reconfigurable Intelligent Surfaces,** in the 4th International Conference on Emerging Technology Trends in Electronics, Communication and Networking, Surat, India, November 2021. **[[VIDEO]](https://www.youtube.com/watch?v=qZ1z3O4-EB8)**
 
 

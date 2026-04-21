@@ -23,6 +23,9 @@ link_url: http://publons.com/author/1004804/sergi-abadal#profile
 - Slovak Research and Development Agency
 - Cyprus Research and Innovation Foundation
 
+<!---
+#- Premios nacionales investigación (MICIU)
+-->
 
 ### Institutional Service
 

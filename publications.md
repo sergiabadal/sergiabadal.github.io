@@ -43,6 +43,8 @@ S. Abadal, I. Llatser, A. Mestres, H. Lee, E. Alarcón and A. Cabellos-Aparicio,
 <br/><br/>
 ### <a name="pre"></a> Pre-prints
 
+B. Pons-Zaragozà, J. Khan, R. S. Sarkar, S. Ben Rached, C. G. Almudever, E. Alarcón, S. Abadal, <strong>"An Analytical Approach to Design Space Exploration for Cavity-Mediated Quantum State Transfer in Multi-core Architectures,"</strong> 2026. <strong><a href="https://arxiv.org/pdf/2604.16020">[PDF]</a></strong>
+
 M. B. Usta, D. Aydogan, E. Vinogradov, M. Shahmoradi, E. Alarcón, S. Abadal and K. K. Tokgoz, <strong>"Transmitter Noise Propagation in Millimeter-Wave and Sub-Terahertz: From Limits to Design Guidelines,"</strong> 2026. <strong><a href="https://arxiv.org/pdf/2604.16020">[PDF]</a></strong>
 
 A. Rezagholi, S. Abadal, F. Lemic, E. Alarcón, E. Shitiri, <strong>"Early-Stage Cancer Biomarker Detection via Intravascular Nanomachines: Modeling and Analysis,"</strong> 2026. <strong><a href="https://arxiv.org/pdf/2603.10709">[PDF]</a></strong>

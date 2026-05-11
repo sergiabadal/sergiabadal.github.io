@@ -55,8 +55,6 @@ T. Saeed, V. Soteriou, H. Taghvaee, E. Emoyon-Iredia, S. Abadal, C. Liaskos, E. 
 
 A. Veres-Vitályos, G. Castillo Gomez-Raya, F. Lemic, D. J. Bugelnig, B. Rinner, S. Abadal, X. Costa-Pérez, <strong>"Neural 3D Object Reconstruction with Small-Scale Unmanned Aerial Vehicles,"</strong> 2025. <strong><a href="https://arxiv.org/pdf/2509.12458">[PDF]</a></strong>
 
-J. Torres Gómez, P. Hofmann, L. Y. Debus, O. T. Basaran, S. Lotter, R. Khanzadeh, S. Angerbauer, B. D. Unluturk, S. Abadal, W. Haseelmayr, F. H. P. Fitzek, R. Schober, F. Dressler, <strong>"Communicating Smartly in the Molecular Domain: Neural Networks in the Internet of Bio-Nano Things,"</strong> 2025. <strong><a href="https://arxiv.org/pdf/2506.20589">[PDF]</a></strong>
-
 K. Ntontin, A.-A. A. Boulogeorgos, E. BJörnson, D. Selimis, W. A. Martins, S. Kisseleff, S. Abadal, E. Alarcón, A. Papazafeiropoulos, F. Lazarakis,  A. Alexiou, S. Chatzinotas, <strong>"Toward Autonomous Reconfigurable Intelligent Surfaces Through Wireless Energy Harvesting",</strong> arXiv:2108.07953, 2021. <strong><a href="https://arxiv.org/pdf/2108.07953.pdf">[PDF]</a></strong>
 
 S. Rodrigo, S. Abadal, E. Alarcón, C. Almudéver, <strong>"Exploring a Double Full-Stack Communications-Enabled Architecture for Multi-Core Quantum Computers,"</strong> arXiv:2009.08186, 2020. <strong><a href="https://arxiv.org/pdf/2009.08186.pdf">[PDF]</a></strong> <strong><a href="https://youtu.be/ltyOaMQ22UI">[VIDEO]</a></strong> 
@@ -85,6 +83,8 @@ S. Rodrigo, S. Abadal, E. Alarcón, C. Almudéver, <strong>"Exploring a Double F
 
 <br/><br/>
 ### <a name="journal"></a> Journal Papers
+
+[J64] J. Torres Gómez, P. Hofmann, L. Y. Debus, O. T. Basaran, S. Lotter, R. Khanzadeh, S. Angerbauer, B. D. Unluturk, S. Abadal, W. Haseelmayr, F. H. P. Fitzek, R. Schober, F. Dressler, <strong>"Communicating Smartly in the Molecular Domain: Neural Networks in the Internet of Bio-Nano Things,"</strong> IEEE Communications Surveys & Tutorials, 2026. <strong><a href="https://arxiv.org/pdf/2506.20589">[PDF]</a></strong>
 
 [J63] L. Rayón Ropero, J. De Laet, F. Lemic, P. Sabater Nácher, N. Nisar Bhat, Sergi Abadal, J. Famaey, E. Alarcón, X. Costa Pérez, <strong>"Towards Emotion Recognition with 3D Pointclouds Obtained from Facial Expression Images"</strong> IEEE Transactions on Affective Computing, 2026. <strong><a href="https://arxiv.org/pdf/2603.27798">[PDF]</a></strong>
 

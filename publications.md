@@ -43,6 +43,8 @@ S. Abadal, I. Llatser, A. Mestres, H. Lee, E. Alarcón and A. Cabellos-Aparicio,
 <br/><br/>
 ### <a name="pre"></a> Pre-prints
 
+M. Carrasco-Codina, P. Escofet, P. Hilaire, A. Soret, S. Nerenberg, V. Champain, G. Milburn, K. Theophilo, S. H. Li, I. Bautista, A. Gómez-Tato, J. Miralles, S. Abadal, C. G. Almudéver, E. Alarcón, and R. Yehia, <strong>"Energy efficiency of quantum computers,"</strong> <strong><a href="https://arxiv.org/pdf/2605.15090">[PDF]</a></strong>
+
 B. Pons-Zaragozà, J. Khan, R. S. Sarkar, S. Ben Rached, C. G. Almudever, E. Alarcón, S. Abadal, <strong>"An Analytical Approach to Design Space Exploration for Cavity-Mediated Quantum State Transfer in Multi-core Architectures,"</strong> 2026. <strong><a href="https://arxiv.org/pdf/2604.16020">[PDF]</a></strong>
 
 M. B. Usta, D. Aydogan, E. Vinogradov, M. Shahmoradi, E. Alarcón, S. Abadal and K. K. Tokgoz, <strong>"Transmitter Noise Propagation in Millimeter-Wave and Sub-Terahertz: From Limits to Design Guidelines,"</strong> 2026. <strong><a href="https://arxiv.org/pdf/2604.16020">[PDF]</a></strong>
@@ -435,7 +437,7 @@ Communication-Intensive and Approximate Data,”</strong> in Proceedings of the 
 <br/><br/>
 ### <a name="poster"></a> Posters and Abstracts
 
-[P26] M. Carrasco-Codina, P. Escofet, P. Hilaire, A. Soret, S. Nerenberg, V. Champain, G. Milburn, K. Theophilo, S. H. Li, I. Bautista, A. Gómez-Tato, J. Miralles, S. Abadal, C. G. Almudéver, E. Alarcón, and R. Yehia, "Energy efficiency of quantum computers," Quantum Energy Initiative Workshop, Castelldefels, Spain, May 2026.
+[P26] M. Carrasco-Codina, P. Escofet, P. Hilaire, A. Soret, S. Nerenberg, V. Champain, G. Milburn, K. Theophilo, S. H. Li, I. Bautista, A. Gómez-Tato, J. Miralles, S. Abadal, C. G. Almudéver, E. Alarcón, and R. Yehia, <strong>"Energy efficiency of quantum computers,"</strong> Quantum Energy Initiative Workshop, Castelldefels, Spain, May 2026.
 
 [P25] D. Garcín de la Llave, S. Abadal, E. Alarcón, <strong>"Drive-Induced Crosstalk in Tunable Waveguide Coherent Quantum Links for Modular Superconducting Processors,"</strong> Adaptative Quantum Circuits (AQC), Boston, USA, November 2025.
 

@@ -226,7 +226,7 @@ Reprogrammable Graphene-Based Digital Metasurface,"</strong> IEEE/OSA Journal of
 <br/><br/>
 ### <a name="conference"></a> Conference Papers
 
-[C104] I. Kleger-Rudomin, F. Lemic, S. Abadal, E. Alarcón, E. Shitiri, <strong>"Whole-Blood Boundary Analysis of BioFET-Based ctDNA Detection for Intravascular Sensing in Intrabody Nanonetworks,"</strong> Proceedings of the ACM NanoCom'26, September 2026.
+[C104] I. Kleger-Rudomin, F. Lemic, S. Abadal, E. Alarcón, E. Shitiri, <strong>"Whole-Blood Boundary Analysis of BioFET-Based ctDNA Detection for Intravascular Sensing in Intrabody Nanonetworks,"</strong> Proceedings of the ACM NanoCom'26, September 2026. <strong><a href="https://arxiv.org/abs/2605.22637">[PDF]</a></strong>
 
 [C103] G. Koutroumpas, M. Masias Bruns, S. Idesis, M. Mazzini, J. Jose, S. Abadal, I. Arapakis, <strong>"Organic vs. Synthetic Attention: Evaluating the Utility of Eye Tracking Augmentation in Recommender Systems,"</strong> Proceedings of the ACM ETRA'26, June 2026.
 

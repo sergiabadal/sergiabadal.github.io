@@ -226,7 +226,9 @@ Reprogrammable Graphene-Based Digital Metasurface,"</strong> IEEE/OSA Journal of
 <br/><br/>
 ### <a name="conference"></a> Conference Papers
 
-[C104] I. Kleger-Rudomin, F. Lemic, S. Abadal, E. Alarcón, E. Shitiri, <strong>"Whole-Blood Boundary Analysis of BioFET-Based ctDNA Detection for Intravascular Sensing in Intrabody Nanonetworks,"</strong> Proceedings of the ACM NanoCom'26, September 2026. <strong><a href="https://arxiv.org/abs/2605.22637">[PDF]</a></strong>
+[C105] I. Kleger-Rudomin, F. Lemic, S. Abadal, E. Alarcón, E. Shitiri, <strong>"Whole-Blood Boundary Analysis of BioFET-Based ctDNA Detection for Intravascular Sensing in Intrabody Nanonetworks,"</strong> Proceedings of the ACM NanoCom'26, September 2026. <strong><a href="https://arxiv.org/abs/2605.22637">[PDF]</a></strong>
+
+[C104] Á. López-Cardona, S. Idesis, M. Masias Bruns, M. Mazzini, J. M. Jose, S. Abadal, I. Arapakis, "VLFEEDBACK-EEG: Neural Signals as Implicit Feedback for Vision-Language Model Alignment," Proceedings of Reinforcement Learning from World Feedback (ICML Workshop), July 2026.
 
 [C103] G. Koutroumpas, M. Masias Bruns, S. Idesis, M. Mazzini, J. Jose, S. Abadal, I. Arapakis, <strong>"Organic vs. Synthetic Attention: Evaluating the Utility of Eye Tracking Augmentation in Recommender Systems,"</strong> Proceedings of the ACM ETRA'26, June 2026.
 
@@ -438,6 +440,8 @@ Communication-Intensive and Approximate Data,”</strong> in Proceedings of the 
 
 <br/><br/>
 ### <a name="poster"></a> Posters and Abstracts
+
+[P27] Á. López-Cardona, M. Masias Bruns, S. Idesis, S. Abadal, I. Arapakis, "Brain–Model Alignment as a Probe for Subliminal Learning," Women in Machine Learning Symposium @ ICML, Seoul, South Korea, July 2026.
 
 [P26] M. Carrasco-Codina, P. Escofet, P. Hilaire, A. Soret, S. Nerenberg, V. Champain, G. Milburn, K. Theophilo, S. H. Li, I. Bautista, A. Gómez-Tato, J. Miralles, S. Abadal, C. G. Almudéver, E. Alarcón, and R. Yehia, <strong>"Energy efficiency of quantum computers,"</strong> Quantum Energy Initiative Workshop, Castelldefels, Spain, May 2026.
 

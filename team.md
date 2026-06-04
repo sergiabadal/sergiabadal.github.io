@@ -44,14 +44,12 @@ link_url: /recruitment
 - Valentine Ponce (MSc from EC Lyon, Spring '26)
 - Mathis Paccoud (MSc from Telecom Nancy, Spring '26)
 - Joan Lapeyra (MSc, Spring '26)
-- Helena Monsó (MSc, Fall '25)
 - Guillem Moreno (BSc, Spring '26)
 - Joan Bernaus (BSc, Spring '26)
-- Victor Ramirez (BSc, Spring '26)
+- Victor Ramírez (BSc, Spring '26)
 - Marcelo Jiménez (BSc, Spring '26)
 - Pau Hidalgo Pujol (BSc, Spring '26)
-- Marina Bermúdez (MSc, Fall '25)
-- Luis Vivas (MSc, Fall '25)
+
 
 
 
@@ -84,6 +82,9 @@ link_url: /recruitment
 - Nathan Chandanson (MSc, Fall '25 from ENSTA Paris)
 - Justus Hache (MSc, Fall '25 from TU Dresden)
 - Elouan Vivet (MSc, Fall '25 from IMT Atlantique)
+- Helena Monsó (MSc, Fall '25)
+- Marina Bermúdez (MSc, Fall '25)
+- Luis Vivas (MSc, Fall '25)
 - Viviana Centritto (MSc, Fall '25)
 - Johannes Weinert (MSc, Fall '25)
 - Emmanuel Irabor (MSc, Spring '25)

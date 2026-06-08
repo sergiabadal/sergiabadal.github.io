@@ -19,7 +19,6 @@ link_url: /recruitment
 - [Axel Wassington](https://www.linkedin.com/in/axel-wassington-258792a0/) (PhD, 2022-2026)
 - [Ama Bandara](https://www.linkedin.com/in/ama-bandara-a02a5a168/) (PhD, 2022-2026)
 - [Pau Escofet](http://pauescofet.com/) (PhD, 2023-2026)
-- Mariam Musavi (PhD, 2023-2026)
 - Mohammad Shahmoradi (PhD, 2023-2026)
 - Junaid Khan (PhD, 2023-2026)
 - Ángela López Cardona (PhD with Telefónica I+D, 2023-2026)
@@ -73,7 +72,8 @@ link_url: /recruitment
 - [Abhijit Das](https://abhijitcse.github.io/) (Postdoc, 2023-2025)
 - [Ethungshan Shitiri](https://sites.google.com/view/ethungshanshitiri/) (PostDoc, 2023-2024)
 - [Akshay Jain](https://www.linkedin.com/in/akshay91jain) (PostDoc, 2020-2021)
-- [Fátima Rodríguez](https://www.linkedin.com/in/f%C3%A1tima-yolanda-rodr%C3%ADguez-gal%C3%A1n-96b3381a8/) (PhD, 2021-2025)
+- Mariam Musavi (PhD, 2023-2025*)
+- [Fátima Rodríguez](https://www.linkedin.com/in/f%C3%A1tima-yolanda-rodr%C3%ADguez-gal%C3%A1n-96b3381a8/) (PhD, 2021-2025*)
 - [Santiago Rodrigo](https://www.linkedin.com/in/santiago-rodrigo-mu%C3%B1oz-5b14a743) (PhD, 2019-2023)
 - [Hamidreza Taghvaee](https://www.nottingham.ac.uk/research/groups/ggiemr/people/hamidreza.taghvaee) (PhD, 2018-2021)
   - [UPC Special Doctoral Award](https://doctorat.upc.edu/en/doctoral-thesis/extraordinary-awards/Resolucindefinitivapremiosextraordinarios2023_CAST.pdf) to the top PhD thesis at UPC (24/305) in 2021.

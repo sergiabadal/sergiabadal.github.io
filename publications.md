@@ -441,6 +441,8 @@ Communication-Intensive and Approximate Data,”</strong> in Proceedings of the 
 <br/><br/>
 ### <a name="poster"></a> Posters and Abstracts
 
+[P28] Á. López-Cardona, M. Masias Bruns, S. Idesis, S. Abadal, I. Arapakis, <strong>"Brain–Model Alignment as a Probe for Subliminal Learning,"</strong> Workshop on Explainable Artificial Intelligence @ IJCAI, Vienna, Austria, August 2026.
+
 [P27] Á. López-Cardona, M. Masias Bruns, S. Idesis, S. Abadal, I. Arapakis, <strong>"Brain–Model Alignment as a Probe for Subliminal Learning,"</strong> Women in Machine Learning Symposium @ ICML, Seoul, South Korea, July 2026.
 
 [P26] M. Carrasco-Codina, P. Escofet, P. Hilaire, A. Soret, S. Nerenberg, V. Champain, G. Milburn, K. Theophilo, S. H. Li, I. Bautista, A. Gómez-Tato, J. Miralles, S. Abadal, C. G. Almudéver, E. Alarcón, and R. Yehia, <strong>"Energy efficiency of quantum computers,"</strong> Quantum Energy Initiative Workshop, Castelldefels, Spain, May 2026.

@@ -86,6 +86,8 @@ S. Rodrigo, S. Abadal, E. Alarcón, C. Almudéver, <strong>"Exploring a Double F
 <br/><br/>
 ### <a name="journal"></a> Journal Papers
 
+[J65] M. Shahmoradi, A. Yelboga, E. Alarcón, K. K. Tokgöz, S. Abadal, <strong>"Channel-Aware Behavioral Power Modeling of CMOS OOK Transceivers for Wireless Network-on-Chip Systems,"</strong> IEEE Transactions on Circuits and Systems I: Regular Papers, 2026. 
+
 [J64] J. Torres Gómez, P. Hofmann, L. Y. Debus, O. T. Basaran, S. Lotter, R. Khanzadeh, S. Angerbauer, B. D. Unluturk, S. Abadal, W. Haseelmayr, F. H. P. Fitzek, R. Schober, F. Dressler, <strong>"Communicating Smartly in the Molecular Domain: Neural Networks in the Internet of Bio-Nano Things,"</strong> IEEE Communications Surveys & Tutorials, 2026. <strong><a href="https://arxiv.org/pdf/2506.20589">[PDF]</a></strong>
 
 [J63] L. Rayón Ropero, J. De Laet, F. Lemic, P. Sabater Nácher, N. Nisar Bhat, Sergi Abadal, J. Famaey, E. Alarcón, X. Costa Pérez, <strong>"Towards Emotion Recognition with 3D Pointclouds Obtained from Facial Expression Images"</strong> IEEE Transactions on Affective Computing, 2026. <strong><a href="https://arxiv.org/pdf/2603.27798">[PDF]</a></strong>

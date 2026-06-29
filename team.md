@@ -30,6 +30,7 @@ link_url: /recruitment
 - Marc Fernández (PhD, 2025-2028)
 - Jan Nogué (PhD with Qilimanjaro, 2025-2027)
 - Gavin King (PhD, 2026-2028)
+- Aboozar Heydaribeni (PhD, 2026-2029)
 - Xavier Querol (MSc, Spring '26)
 - Sergi Tomàs (MSc, Spring '26)
 - Yuechao Liu (MSc, Spring '26)

@@ -228,6 +228,8 @@ Reprogrammable Graphene-Based Digital Metasurface,"</strong> IEEE/OSA Journal of
 <br/><br/>
 ### <a name="conference"></a> Conference Papers
 
+[C106] V. Centritto-Arrojo, A. Bandara, S. Abadal, E. Vinogradov, <strong>"Reinforcement Learning-Based 3D Beam Adaptation for Underwater Wireless Optical Communication with AUVs," </strong> Proceedings of the IEEE WiSEE'26 Workshops, September 2026. 
+
 [C105] I. Kleger-Rudomin, F. Lemic, S. Abadal, E. Alarcón, E. Shitiri, <strong>"Whole-Blood Boundary Analysis of BioFET-Based ctDNA Detection for Intravascular Sensing in Intrabody Nanonetworks,"</strong> Proceedings of the ACM NanoCom'26, September 2026. <strong><a href="https://arxiv.org/abs/2605.22637">[PDF]</a></strong>
 
 [C104] Á. López-Cardona, S. Idesis, M. Masias Bruns, M. Mazzini, J. M. Jose, S. Abadal, I. Arapakis, <strong>"VLFEEDBACK-EEG: Neural Signals as Implicit Feedback for Vision-Language Model Alignment,"</strong> Proceedings of Reinforcement Learning from World Feedback (ICML Workshop), July 2026.

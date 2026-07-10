@@ -90,6 +90,7 @@ link_url: /recruitment
 - Roger González Sedano (MSc, Fall '24 at KTH)
 - Mika Leo Hube (MSc, Fall '24)
 - Noa Jie Vives (MSc, Fall '24)
+  - [Telefónica Chair Award](https://telecos.upc.edu/en/news/the-etsetb-holds-the-graduation-ceremony-for-the-masters-degrees-of-the-2025-2026-academic-year?set_language=en) for the best master's thesis of the MATT master at UPC, 2024-2025
 - Ausilia Costa (MSc, Fall '24 from University of Pavia)
 - Stefano Petrilli (MSc, Fall '24)
 - [Pablo Galván](https://www.linkedin.com/in/pablo-galv%C3%A1n-calder%C3%B3n-057298265) (MSc, Spring '24)

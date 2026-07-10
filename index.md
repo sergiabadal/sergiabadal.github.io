@@ -29,6 +29,7 @@ Check out the details [here](/recruitment).
 ---
 
 ### News
+- **July 2026**: Noa Jie Vives won the **Telefónica Chair Award** to the [best master's thesis in telecommunications at UPC 2024-2025](https://telecos.upc.edu/en/news/the-etsetb-holds-the-graduation-ceremony-for-the-masters-degrees-of-the-2025-2026-academic-year?set_language=en). Congrats Noa!! 
 - **May 2026**: Pau Escofet won the **best student paper award at ISCAS** for his [paper on quantum circuit pruning](https://arxiv.org/pdf/2601.13322). Congrats Pau!!!
 - **Apr 2026**: I gave [the commencement speech](https://doctorat.upc.edu/es/noticias/acte-de-graduacio-de-doctorat) for the recent PhD graduates at UPC. 
 - **Feb 2026**: We are starting a **new EU project as coordinators**. It is called CERBERUS, [check it out](https://sergiabadal.com/projects/#cerberus)!

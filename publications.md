@@ -445,6 +445,10 @@ Communication-Intensive and Approximate Data,”</strong> in Proceedings of the 
 <br/><br/>
 ### <a name="poster"></a> Posters and Abstracts
 
+[P30] A. Bandara, E. Vinogradov, E. Alarcón, S. Abadal, <strong>Towards the Characterization of RF Interference of Wireless Interconnects inside a Quantum Computer Cryostat,"</strong> International Conference on Infrared, Millimeter and Terahertz Waves (IRMMW-THz 2026), Salt Lake City, USA, October 2026.
+
+[P29] M. Burak Usta, D. Aydogan, E. Vinogradov, M. Shahmoradi, E. Alarcón, S. Abadal, K. K. Tokgoz, <strong>Transmitter Noise Propagation in mm-Wave and Sub-THz Link Budgets,"</strong> International Conference on Infrared, Millimeter and Terahertz Waves (IRMMW-THz 2026), Salt Lake City, USA, October 2026.
+
 [P28] Á. López-Cardona, M. Masias Bruns, S. Idesis, S. Abadal, I. Arapakis, <strong>"Brain–Model Alignment as a Probe for Subliminal Learning,"</strong> Workshop on Explainable Artificial Intelligence @ IJCAI, Vienna, Austria, August 2026.
 
 [P27] Á. López-Cardona, M. Masias Bruns, S. Idesis, S. Abadal, I. Arapakis, <strong>"Brain–Model Alignment as a Probe for Subliminal Learning,"</strong> Women in Machine Learning Symposium @ ICML, Seoul, South Korea, July 2026.

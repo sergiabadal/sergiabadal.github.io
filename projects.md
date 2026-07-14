@@ -6,7 +6,7 @@ title: Projects
 {% if page.subtitle == "" %}
 <div class="empty_subtitle"></div>
 {% endif %}
-<p style="text-align:center"><a href="#cerberus">CERBERUS</a> | <a href="#winc">WINC</a> | <a href="#blossoms">BLOSSOMS</a> | <a href="#ewic">EWiC</a> | <a href="#quad">QUADRATURE</a> | <a href="#wiplash">WiPLASH</a> | <a href="#gnn">IGNNSPECTOR</a> | <a href="#visorsurf">VISORSURF</a> | <a href="#tugraco">TUGRACO</a> | <a href="#gwc">GWC</a></p>
+<p style="text-align:center"><a href="#cerberus">CERBERUS</a> | <a href="#winc">WINC</a> | <a href="#core">CoRe 5G</a> | <a href="#blossoms">BLOSSOMS</a> | <a href="#ewic">EWiC</a> | <a href="#quad">QUADRATURE</a> | <a href="#wiplash">WiPLASH</a> | <a href="#gnn">IGNNSPECTOR</a> | <a href="#visorsurf">VISORSURF</a> | <a href="#tugraco">TUGRACO</a> | <a href="#gwc">GWC</a></p>
 
 
 
@@ -41,6 +41,24 @@ In this context, the WINC project envisions a revolution in computer architectur
 
 
 <br/><br/>
+
+### <a name="core"></a> CoRe 5G: Centers of Vocational Excellence for Resilient 5G Networks
+- **Website:** [https://core5g.eu/](https://core5g.eu/)
+- **Project Type:** Erasmus+ Centers of Vocationa Excellence
+- **Funding:** 4 M€
+- **Duration:** 2026-2030
+
+The deployment of 5G infrastructure has highlighted a technical skills gap in Europe regarding network resilience, cybersecurity, and sustainable telecommunications. As the complexity of these networks increases, traditional vocational training frameworks often lag behind the technological shifts required to manage next-generation infrastructure. This disparity impacts both strategic autonomy and the capacity to meet established digital and green transition targets across different European regions.
+
+The CoRe 5G project addresses these challenges by establishing a network of seven regional Centres of Vocational Excellence (CoVEs) located in Germany, Belgium, Spain, Italy, Greece, Slovenia, and Cyprus. The consortium of 22 partners and 8 associated partners links technical capabilities in Northern Europe with expertise in the Southern and Eastern Mediterranean to standardize the management and security of telecommunications infrastructure.
+
+Technical implementation involves the development of seven Innovation Labs equipped with 5G testbeds and digital twin environments. These facilities are designed to train over 500 professionals across EQF levels 3-5 through defined upskilling and specialization pathways. The project utilizes gamified learning environments to evaluate learner performance during simulated multi-risk scenarios and maintains a Regional Skills Observatory to provide quarterly forecasting for curriculum updates. Additionally, a cross-border mobility toolkit is used to facilitate blockchain-verified credential exchanges among participants to ensure the transparency of technical qualifications across the network.
+
+
+
+<br/><br/>
+
+
 ### <a name="blossoms"></a> BLOSSOMS: Beyond 5G network infrastructure Leveraging deep AI acrOSS ultra-high capacity Optical data transport and quantuM physical Substrates
 - **Website:** [https://blossoms.upc.edu](https://blossoms.upc.edu/en)
 - **Project Type:** Proyectos Generación del Conocimiento

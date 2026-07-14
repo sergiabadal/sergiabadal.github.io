@@ -12,7 +12,7 @@ title: Projects
 
 <br/>
 ### <a name="cerberus"></a> CERBERUS: Unlocking the Full Potential of Edge AI through In-memory Computing Based on 2D Materials with Extreme Energy Efficiency
-- **Website:** TBD
+- **Website:** [www.cerberus-project.eu](https://cerberus-project.eu/)
 - **Project Type:** EIC Pathfinder Challenges
 - **Funding:** 5.99 M€
 - **Duration:** 2026-2030

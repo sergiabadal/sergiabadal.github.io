@@ -81,6 +81,7 @@ In this context, BLOSSOMS aims to design an intelligent network architecture cap
 - **Duration:** 2024-2026
 - **Media coverage:**
      - [ESP] [UPC](https://www.upc.edu/es/sala-de-prensa/noticias/el-investigador-sergi-abadal-recibe-una-subvencion-de-prueba-de-concepto-para-estudiar-la-comunicacion-inalambrica-en-entornos-de-computacion-integrados)
+     - [CAT] [Ara.cat](https://www.ara.cat/ciencia-medi-ambient/ciencia-catalana-brilla-europa-rep-majoria-d-ajuts-concedits-l_1_5093835.html)
  
 <p align="center"><img src="/img/ewic2.png" width="80%"/></p>
 

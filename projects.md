@@ -43,8 +43,8 @@ In this context, the WINC project envisions a revolution in computer architectur
 <br/><br/>
 
 ### <a name="core"></a> CoRe 5G: Centers of Vocational Excellence for Resilient 5G Networks
-- **Website:** [https://core5g.eu/](https://core5g.eu/)
-- **Project Type:** Erasmus+ Centers of Vocationa Excellence
+- **Website:** [core5g.eu](https://core5g.eu/)
+- **Project Type:** Erasmus+ Centers of Vocational Excellence
 - **Funding:** 4 M€
 - **Duration:** 2026-2030
 

@@ -86,7 +86,7 @@ S. Rodrigo, S. Abadal, E. Alarcón, C. Almudéver, <strong>"Exploring a Double F
 <br/><br/>
 ### <a name="journal"></a> Journal Papers
 
-[J65] M. Shahmoradi, A. Yelboga, E. Alarcón, K. K. Tokgöz, S. Abadal, <strong>"Channel-Aware Behavioral Power Modeling of CMOS OOK Transceivers for Wireless Network-on-Chip Systems,"</strong> IEEE Transactions on Circuits and Systems I: Regular Papers, 2026. 
+[J65] M. Shahmoradi, A. Yelboga, E. Alarcón, K. K. Tokgöz, S. Abadal, <strong>"Channel-Aware Behavioral Power Modeling of CMOS OOK Transceivers for Wireless Network-on-Chip Systems,"</strong> IEEE Transactions on Circuits and Systems I: Regular Papers, 2026. <strong><a href="https://arxiv.org/pdf/2410.23378v3">[PDF]</a></strong>
 
 [J64] J. Torres Gómez, P. Hofmann, L. Y. Debus, O. T. Basaran, S. Lotter, R. Khanzadeh, S. Angerbauer, B. D. Unluturk, S. Abadal, W. Haseelmayr, F. H. P. Fitzek, R. Schober, F. Dressler, <strong>"Communicating Smartly in the Molecular Domain: Neural Networks in the Internet of Bio-Nano Things,"</strong> IEEE Communications Surveys & Tutorials, 2026. <strong><a href="https://arxiv.org/pdf/2506.20589">[PDF]</a></strong>
 
@@ -252,7 +252,7 @@ Reprogrammable Graphene-Based Digital Metasurface,"</strong> IEEE/OSA Journal of
 
 [C95] M. L. Hube, F. Lemic, E. Shitiri, G. Calvo Bartra, S. Abadal, X. Costa Pérez, <strong>"Set Transformer Architectures and Synthetic Data Generation for Flow-Guided Nanoscale Localization,"</strong> Proceedings of the ACM NANOCOM'25, October 2025. <strong><a href="https://arxiv.org/pdf/2508.16200">[PDF]</a></strong>
 
-[C94] M. Shahmoradi, K. K. Tokgoz, E. Alarcón, S. Abadal, <strong>"Frequency-Dependent Power Consumption Modeling of CMOS Transmitters for WNoC Architectures,"</strong> Proceedings of the EuMW'25, September 2025. <strong><a href="https://arxiv.org/pdf/2410.23378">[PDF]</a></strong>
+[C94] M. Shahmoradi, K. K. Tokgoz, E. Alarcón, S. Abadal, <strong>"Frequency-Dependent Power Consumption Modeling of CMOS Transmitters for WNoC Architectures,"</strong> Proceedings of the EuMW'25, September 2025. <strong><a href="https://arxiv.org/pdf/2505.13310">[PDF]</a></strong>
 
 [C93] P. Escofet, A. Das, S. Ben Rached, S. Rodrigo, J. Domingo, F. Sebastiano, M. Babaie, B. Keskin, E. Charbon, P. Haring Bolívar, M. Palesi, E. Blokhina, B. Staszewski, A. Nag, A. Garcia-Sáez, S. Abadal, E. Alarcón and C. G. Almudever, <strong>"On the impact of classical and quantum communication networks upon modular quantum computing architecture system performance,"</strong> Proceedings of the IEEE QCE'25, September 2025. <strong><a href="https://arxiv.org/pdf/2507.08378">[PDF]</a></strong>
 

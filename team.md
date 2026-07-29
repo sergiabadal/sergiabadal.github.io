@@ -33,10 +33,13 @@ link_url: /recruitment
 - Aboozar Heydaribeni (PhD, 2026-2029)
 - Onat Bugra (MSc, Fall '26)
 - Guillem Moreno (MSc, Fall '26)
+- Ester Fernández (MSc, Fall '26)
+- Carles Aguilera (MSc, Fall '26)
 - Xavier Querol (MSc, Spring '26)
 - Sergi Tomàs (MSc, Spring '26)
 - Davide Volpi (MSc, Spring '26 from Università di Padova)
 - Alicia Garcia (MSc, Spring '26)
+- Jin Ziyi (BSc, Fall '26)
 
 
 

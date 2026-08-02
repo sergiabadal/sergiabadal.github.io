@@ -445,11 +445,13 @@ Communication-Intensive and Approximate Data,”</strong> in Proceedings of the 
 <br/><br/>
 ### <a name="poster"></a> Posters and Abstracts
 
-[P31] S. Abadal, <strong>"Smaller, Better, Faster and Colder with Terahertz Communications,"</strong> International Conference on Infrared, Millimeter and Terahertz Waves (IRMMW-THz 2026), Salt Lake City, USA, October 2026.
+[P32] S. Abadal, <strong>"Smaller, Better, Faster and Colder with Terahertz Communications,"</strong> International Conference on Infrared, Millimeter and Terahertz Waves (IRMMW-THz 2026), Salt Lake City, USA, October 2026.
 
-[P30] A. Bandara, E. Vinogradov, E. Alarcón, S. Abadal, <strong>Towards the Characterization of RF Interference of Wireless Interconnects inside a Quantum Computer Cryostat,"</strong> International Conference on Infrared, Millimeter and Terahertz Waves (IRMMW-THz 2026), Salt Lake City, USA, October 2026.
+[P31] A. Bandara, E. Vinogradov, E. Alarcón, S. Abadal, <strong>Towards the Characterization of RF Interference of Wireless Interconnects inside a Quantum Computer Cryostat,"</strong> International Conference on Infrared, Millimeter and Terahertz Waves (IRMMW-THz 2026), Salt Lake City, USA, October 2026.
 
-[P29] M. Burak Usta, D. Aydogan, E. Vinogradov, M. Shahmoradi, E. Alarcón, S. Abadal, K. K. Tokgoz, <strong>Transmitter Noise Propagation in mm-Wave and Sub-THz Link Budgets,"</strong> International Conference on Infrared, Millimeter and Terahertz Waves (IRMMW-THz 2026), Salt Lake City, USA, October 2026.
+[P30] M. Burak Usta, D. Aydogan, E. Vinogradov, M. Shahmoradi, E. Alarcón, S. Abadal, K. K. Tokgoz, <strong>Transmitter Noise Propagation in mm-Wave and Sub-THz Link Budgets,"</strong> International Conference on Infrared, Millimeter and Terahertz Waves (IRMMW-THz 2026), Salt Lake City, USA, October 2026.
+
+[P29] S. Abadal, E. Alarcón, B. Uzlu, Z. Wang, Z. Konkoli, J. Liu, P. Lundgren, G. Ansaloni, D. Atienza, D. Huang, A. Kis, M. Lemme, R. Negra, M.-D. Wei, I. Boybat and A. Rahimi, "Towards Extreme Energy Efficiency in Edge AI with 2D Materials and In-Memory Computing," IEEE International Conference on Omni-Layer Intelligent Systems (COINS), Bologna, Italy, September 2026.
 
 [P28] Á. López-Cardona, M. Masias Bruns, S. Idesis, S. Abadal, I. Arapakis, <strong>"Brain–Model Alignment as a Probe for Subliminal Learning,"</strong> Workshop on Explainable Artificial Intelligence @ IJCAI, Vienna, Austria, August 2026.
 

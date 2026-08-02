@@ -31,6 +31,7 @@ link_url: /recruitment
 - Jan Nogué (PhD with Qilimanjaro, 2025-2027)
 - Gavin King (PhD, 2026-2028)
 - Aboozar Heydaribeni (PhD, 2026-2029)
+- Iván García Prego (MSc, Fall '26)
 - Onat Bugra (MSc, Fall '26)
 - Guillem Moreno (MSc, Fall '26)
 - Ester Fernández (MSc, Fall '26)

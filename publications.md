@@ -228,7 +228,7 @@ Reprogrammable Graphene-Based Digital Metasurface,"</strong> IEEE/OSA Journal of
 <br/><br/>
 ### <a name="conference"></a> Conference Papers
 
-[C107] D. Volpi, F. Lemic, G. Encinas, X. Costa-Pérez, E. Shitiri, S. Abadal, <strong>"Reliable Medical Condition Detection from Noisy Location-aware Multimodal Cardiovascular IoBNT Telemetry,"</strong> Proceedings of the ACM SIGSPATIAL'26, November 2026.
+[C107] D. Volpi, F. Lemic, G. Encinas, E. Shitiri, S. Abadal, E. Alarcón, X. Costa-Pérez, <strong>"Reliable Medical Condition Detection from Noisy Location-aware Multimodal Cardiovascular IoBNT Telemetry,"</strong> Proceedings of the ACM SIGSPATIAL'26, November 2026.
 
 [C106] V. Centritto-Arrojo, A. Bandara, S. Abadal, E. Vinogradov, <strong>"Reinforcement Learning-Based 3D Beam Adaptation for Underwater Wireless Optical Communication with AUVs," </strong> Proceedings of the IEEE WiSEE'26 Workshops, September 2026. 
 

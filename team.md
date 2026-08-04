@@ -41,6 +41,7 @@ link_url: /recruitment
 - Davide Volpi (MSc, Spring '26 from Università di Padova)
 - Alicia Garcia (MSc, Spring '26)
 - Jin Ziyi (BSc, Fall '26)
+- Antoine Quetineau (BSc, Fall '26)
 
 
 

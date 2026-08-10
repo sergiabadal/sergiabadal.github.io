@@ -86,19 +86,23 @@ S. Rodrigo, S. Abadal, E. Alarcón, C. Almudéver, <strong>"Exploring a Double F
 <br/><br/>
 ### <a name="journal"></a> Journal Papers
 
-[J65] M. Shahmoradi, A. Yelboga, E. Alarcón, K. K. Tokgöz, S. Abadal, <strong>"Channel-Aware Behavioral Power Modeling of CMOS OOK Transceivers for Wireless Network-on-Chip Systems,"</strong> IEEE Transactions on Circuits and Systems I: Regular Papers, 2026. <strong><a href="https://arxiv.org/pdf/2410.23378v3">[PDF]</a></strong>
+[J67] M. Shahmoradi, A. Yelboga, E. Alarcón, K. K. Tokgöz, S. Abadal, <strong>"Channel-Aware Behavioral Power Modeling of CMOS OOK Transceivers for Wireless Network-on-Chip Systems,"</strong> IEEE Transactions on Circuits and Systems I: Regular Papers, 2026. <strong><a href="https://arxiv.org/pdf/2410.23378v3">[PDF]</a></strong>
 
-[J64] J. Torres Gómez, P. Hofmann, L. Y. Debus, O. T. Basaran, S. Lotter, R. Khanzadeh, S. Angerbauer, B. D. Unluturk, S. Abadal, W. Haseelmayr, F. H. P. Fitzek, R. Schober, F. Dressler, <strong>"Communicating Smartly in the Molecular Domain: Neural Networks in the Internet of Bio-Nano Things,"</strong> IEEE Communications Surveys & Tutorials, 2026. <strong><a href="https://arxiv.org/pdf/2506.20589">[PDF]</a></strong>
+[J66] J. Torres Gómez, P. Hofmann, L. Y. Debus, O. T. Basaran, S. Lotter, R. Khanzadeh, S. Angerbauer, B. D. Unluturk, S. Abadal, W. Haseelmayr, F. H. P. Fitzek, R. Schober, F. Dressler, <strong>"Communicating Smartly in the Molecular Domain: Neural Networks in the Internet of Bio-Nano Things,"</strong> IEEE Communications Surveys & Tutorials, 2026. <strong><a href="https://arxiv.org/pdf/2506.20589">[PDF]</a></strong>
 
-[J63] L. Rayón Ropero, J. De Laet, F. Lemic, P. Sabater Nácher, N. Nisar Bhat, Sergi Abadal, J. Famaey, E. Alarcón, X. Costa Pérez, <strong>"Towards Emotion Recognition with 3D Pointclouds Obtained from Facial Expression Images"</strong> IEEE Transactions on Affective Computing, 2026. <strong><a href="https://arxiv.org/pdf/2603.27798">[PDF]</a></strong>
+[J65] G. Koutroumpas, M. Masias Bruns, S. Idesis, M. Mazzini, J. Jose, S. Abadal, I. Arapakis, <strong>"Organic vs. Synthetic Attention: Evaluating the Utility of Eye Tracking Augmentation in Recommender Systems,"</strong> Proceedings of the ACM on Computer Graphics and Interactive Techniques, vol. 9, no. 2, 2026. <strong><a href="https://dl.acm.org/doi/10.1145/3803541">[OPEN ACCESS]</a></strong>
 
-[J62] P. Escofet, E. Alarcón, S. Abadal, A. Semenov, N. Murphy, E. Blokhina, C. G. Almudéver, <strong>"Synthesizing an optimal spin-qubit shuttling-bus architecture for the surface code,"</strong> Physical Review A, 2026. <strong><a href="https://arxiv.org/pdf/2510.17689">[PDF]</a></strong>
+[J64] L. Rayón Ropero, J. De Laet, F. Lemic, P. Sabater Nácher, N. Nisar Bhat, Sergi Abadal, J. Famaey, E. Alarcón, X. Costa Pérez, <strong>"Towards Emotion Recognition with 3D Pointclouds Obtained from Facial Expression Images"</strong> IEEE Transactions on Affective Computing, 2026. <strong><a href="https://arxiv.org/pdf/2603.27798">[PDF]</a></strong>
 
-[J61] A. Bandara, F. Rodríguez-Galán, P. Talarn, E. Pereira de Santana, E. Vinogradov, P. Haring Bolívar, E. Alarcón and S. Abadal, <strong>"Towards Scalable Multi-Chip Wireless Networks with Near-Field Time Reversal,"</strong> IEEE Transactions on Emerging Topics in Computing, 2026. <strong><a href="https://arxiv.org/pdf/2404.17325">[PDF]</a></strong>
+[J63] P. Escofet, E. Alarcón, S. Abadal, A. Semenov, N. Murphy, E. Blokhina, C. G. Almudéver, <strong>"Synthesizing an optimal spin-qubit shuttling-bus architecture for the surface code,"</strong> Physical Review A, 2026. <strong><a href="https://arxiv.org/pdf/2510.17689">[PDF]</a></strong>
 
-[J60] E. P. de Santana, K.-T. Wang, S. Abadal, D. Stock, Z. Wang, A. K. Wigger, E. Alarcón, M. Lemme, P. Haring Bolívar, <strong>"A THz Graphene-on-hBN Stack Patch Antenna for Future 6G Communications,"</strong> Scientific Reports, 2025. <strong><a href="https://www.nature.com/articles/s41598-025-16695-x.pdf">[PDF]</a></strong>
+[J62] A. Bandara, F. Rodríguez-Galán, P. Talarn, E. Pereira de Santana, E. Vinogradov, P. Haring Bolívar, E. Alarcón and S. Abadal, <strong>"Towards Scalable Multi-Chip Wireless Networks with Near-Field Time Reversal,"</strong> IEEE Transactions on Emerging Topics in Computing, 2026. <strong><a href="https://arxiv.org/pdf/2404.17325">[PDF]</a></strong>
 
-[J59] W. Zhao, S. Abadal, G. Song, J. Jiang, C. Han, <strong>"Terahertz Wireless Data Center: Gaussian Beam or Airy Beam?,"</strong> IEEE Transactions on Wireless Communications, 2025. <strong><a href="https://arxiv.org/pdf/2504.20410">[PDF]</a></strong>
+[J61] E. P. de Santana, K.-T. Wang, S. Abadal, D. Stock, Z. Wang, A. K. Wigger, E. Alarcón, M. Lemme, P. Haring Bolívar, <strong>"A THz Graphene-on-hBN Stack Patch Antenna for Future 6G Communications,"</strong> Scientific Reports, 2025. <strong><a href="https://www.nature.com/articles/s41598-025-16695-x.pdf">[PDF]</a></strong>
+
+[J60] W. Zhao, S. Abadal, G. Song, J. Jiang, C. Han, <strong>"Terahertz Wireless Data Center: Gaussian Beam or Airy Beam?,"</strong> IEEE Transactions on Wireless Communications, 2025. <strong><a href="https://arxiv.org/pdf/2504.20410">[PDF]</a></strong>
+
+[J59] A. López-Cardona, S. Idesis, M. Barreda-Ángeles, S. Abadal, I. Arapakis, <strong>"OASST-ETC Dataset: Alignment Signals from Eye-tracking Analysis of LLM Responses,"</strong> Proceedings of the ACM on Human-Computer Interaction, vol. 9, no. 3, 2025. <strong><a href="https://arxiv.org/pdf/2503.10927">[PDF]</a></strong>
 
 [J58] S. Macaluso, G. Geraci, E. F. Combarro, S. Abadal, I. Arapakis, S. Vallecorsa and E. Alarcón, <strong>"Quantum Computing for Large-scale Network Optimization: Opportunities and Challenges,"</strong> IEEE Communications Magazine, 2025. <strong><a href="https://arxiv.org/pdf/2509.07773">[PDF]</a></strong>
 
@@ -228,51 +232,47 @@ Reprogrammable Graphene-Based Digital Metasurface,"</strong> IEEE/OSA Journal of
 <br/><br/>
 ### <a name="conference"></a> Conference Papers
 
-[C108] G. Koutroumpas, J. Wang, S. Abadal, J. Jose, I. Arapakis, <strong>"ViSalRec: Visual and Saliency-Informed Reward Augmentation for Sequential Recommender Systems,"</strong> Proceedings of the ACM CIKM'26, November 2026.
+[C106] G. Koutroumpas, J. Wang, S. Abadal, J. Jose, I. Arapakis, <strong>"ViSalRec: Visual and Saliency-Informed Reward Augmentation for Sequential Recommender Systems,"</strong> Proceedings of the ACM CIKM'26, November 2026.
 
-[C107] D. Volpi, F. Lemic, G. Encinas, E. Shitiri, S. Abadal, E. Alarcón, X. Costa-Pérez, <strong>"Reliable Medical Condition Detection from Noisy Location-aware Multimodal Cardiovascular IoBNT Telemetry,"</strong> Proceedings of the ACM SIGSPATIAL'26, November 2026.
+[C105] D. Volpi, F. Lemic, G. Encinas, E. Shitiri, S. Abadal, E. Alarcón, X. Costa-Pérez, <strong>"Reliable Medical Condition Detection from Noisy Location-aware Multimodal Cardiovascular IoBNT Telemetry,"</strong> Proceedings of the ACM SIGSPATIAL'26, November 2026.
 
-[C106] V. Centritto-Arrojo, A. Bandara, S. Abadal, E. Vinogradov, <strong>"Reinforcement Learning-Based 3D Beam Adaptation for Underwater Wireless Optical Communication with AUVs," </strong> Proceedings of the IEEE WiSEE'26 Workshops, September 2026. 
+[C104] V. Centritto-Arrojo, A. Bandara, S. Abadal, E. Vinogradov, <strong>"Reinforcement Learning-Based 3D Beam Adaptation for Underwater Wireless Optical Communication with AUVs," </strong> Proceedings of the IEEE WiSEE'26 Workshops, September 2026. 
 
-[C105] I. Kleger-Rudomin, F. Lemic, S. Abadal, E. Alarcón, E. Shitiri, <strong>"Whole-Blood Boundary Analysis of BioFET-Based ctDNA Detection for Intravascular Sensing in Intrabody Nanonetworks,"</strong> Proceedings of the ACM NanoCom'26, September 2026. <strong><a href="https://arxiv.org/abs/2605.22637">[PDF]</a></strong>
+[C103] I. Kleger-Rudomin, F. Lemic, S. Abadal, E. Alarcón, E. Shitiri, <strong>"Whole-Blood Boundary Analysis of BioFET-Based ctDNA Detection for Intravascular Sensing in Intrabody Nanonetworks,"</strong> Proceedings of the ACM NanoCom'26, September 2026. <strong><a href="https://arxiv.org/abs/2605.22637">[PDF]</a></strong>
 
-[C104] Á. López-Cardona, S. Idesis, M. Masias Bruns, M. Mazzini, J. M. Jose, S. Abadal, I. Arapakis, <strong>"VLFEEDBACK-EEG: Neural Signals as Implicit Feedback for Vision-Language Model Alignment,"</strong> Proceedings of Reinforcement Learning from World Feedback (ICML Workshop), July 2026.
+[C102] Á. López-Cardona, S. Idesis, M. Masias Bruns, M. Mazzini, J. M. Jose, S. Abadal, I. Arapakis, <strong>"VLFEEDBACK-EEG: Neural Signals as Implicit Feedback for Vision-Language Model Alignment,"</strong> Proceedings of Reinforcement Learning from World Feedback (ICML Workshop), July 2026.
 
-[C103] G. Koutroumpas, M. Masias Bruns, S. Idesis, M. Mazzini, J. Jose, S. Abadal, I. Arapakis, <strong>"Organic vs. Synthetic Attention: Evaluating the Utility of Eye Tracking Augmentation in Recommender Systems,"</strong> Proceedings of the ACM ETRA'26, June 2026.
+[C101] P. Escofet, S. Rodrigo, R. Sarma Sarkar, C. G. Almudéver, E. Alarcón, S. Abadal, <strong>"Quantum Circuit Pruning: Improving Fidelity via Compilation-Aware Circuit Approximation,"</strong> Proceedings of the IEEE ISCAS'26, May 2026. <strong><a href="https://arxiv.org/pdf/2601.13322">[PDF]</a></strong> *<span style="color:red">BEST STUDENT PAPER AWARD!</span>*
 
-[C102] P. Escofet, S. Rodrigo, R. Sarma Sarkar, C. G. Almudéver, E. Alarcón, S. Abadal, <strong>"Quantum Circuit Pruning: Improving Fidelity via Compilation-Aware Circuit Approximation,"</strong> Proceedings of the IEEE ISCAS'26, May 2026. <strong><a href="https://arxiv.org/pdf/2601.13322">[PDF]</a></strong> *<span style="color:red">BEST STUDENT PAPER AWARD!</span>*
+[C100] V. Centritto Arrojo, A. Bandara, H. Deng, M. Babaie, E. Vinogradov, S. Abadal, E. Alarcón, <strong>"Cryo-CMOS Antenna for Wireless Communications within a Quantum Computer Cryostat,"</strong> Proceedings of the IEEE ISCAS'26, May 2026. <strong><a href="https://arxiv.org/pdf/2510.13627">[PDF]</a></strong>
 
-[C101] V. Centritto Arrojo, A. Bandara, H. Deng, M. Babaie, E. Vinogradov, S. Abadal, E. Alarcón, <strong>"Cryo-CMOS Antenna for Wireless Communications within a Quantum Computer Cryostat,"</strong> Proceedings of the IEEE ISCAS'26, May 2026. <strong><a href="https://arxiv.org/pdf/2510.13627">[PDF]</a></strong>
+[C99] A. Bandara, V. Centritto Arrojo, H. Deng, M. Babaie, F. Sebastiano, E. Charbon, E. Vinogradov, E. Alarcón, S. Abadal, <strong>"28 GHz Wireless Channel Characterization for a Quantum Computer Cryostat at 4 Kelvin,"</strong> Proceedings of the EuCAP'26, April 2026. <strong><a href="https://arxiv.org/pdf/2510.16962">[PDF]</a></strong>
 
-[C100] A. Bandara, V. Centritto Arrojo, H. Deng, M. Babaie, F. Sebastiano, E. Charbon, E. Vinogradov, E. Alarcón, S. Abadal, <strong>"28 GHz Wireless Channel Characterization for a Quantum Computer Cryostat at 4 Kelvin,"</strong> Proceedings of the EuCAP'26, April 2026. <strong><a href="https://arxiv.org/pdf/2510.16962">[PDF]</a></strong>
+[C98] E. Vinogradov, A. Fakhreddine, A. Saboor, S. Abadal, S. Pollin, <strong>"Spatially Consistent Air-to-Ground Channel Modeling and Simulation via 3D Shadow Projections,"</strong> Proceedings of the IEEE ICNC'26, February 2026. <strong><a href="https://arxiv.org/pdf/2511.15412">[PDF]</a></strong>
 
-[C99] E. Vinogradov, A. Fakhreddine, A. Saboor, S. Abadal, S. Pollin, <strong>"Spatially Consistent Air-to-Ground Channel Modeling and Simulation via 3D Shadow Projections,"</strong> Proceedings of the IEEE ICNC'26, February 2026. <strong><a href="https://arxiv.org/pdf/2511.15412">[PDF]</a></strong>
+[C97] M. Palesi, E. Russo, H. Rafique, G. Ascia, D. Patti, A. Das, S. Abadal, <strong>"Instruction-Directed MAC for Efficient Classical Communication in Scalable Multi-Chip Quantum Systems,"</strong> Proceedings of the IEEE MCSoC'25, December 2025. <strong><a href="https://arxiv.org/pdf/2510.27273">[PDF]</a></strong>
 
-[C98] M. Palesi, E. Russo, H. Rafique, G. Ascia, D. Patti, A. Das, S. Abadal, <strong>"Instruction-Directed MAC for Efficient Classical Communication in Scalable Multi-Chip Quantum Systems,"</strong> Proceedings of the IEEE MCSoC'25, December 2025. <strong><a href="https://arxiv.org/pdf/2510.27273">[PDF]</a></strong>
+[C96] Á. López-Cardona, S. Idesis, M. Masias Bruns, S. Abadal, I. Arapakis, <strong>"Brain–Language Model Alignment: Insights into the Platonic Hypothesis and Intermediate-Layer Advantage,"</strong> Proceedings of the UniReps'25 (NeurIPS workshop), December 2025. <strong><a href="https://arxiv.org/pdf/2510.17833">[PDF]</a></strong>
 
-[C97] Á. López-Cardona, S. Idesis, M. Masias Bruns, S. Abadal, I. Arapakis, <strong>"Brain–Language Model Alignment: Insights into the Platonic Hypothesis and Intermediate-Layer Advantage,"</strong> Proceedings of the UniReps'25 (NeurIPS workshop), December 2025. <strong><a href="https://arxiv.org/pdf/2510.17833">[PDF]</a></strong>
+[C95] R. Bhattacharjee, P. Escofet, S. Rodrigo, S. Abadal, C. G. Almudéver, E. Alarcón, <strong>"Characterizing Scaling Trends of Post-Compilation Circuit Resources for NISQ-era QML Models,"</strong> Proceedings of the IEEE QAI'25, November 2025. <strong><a href="https://arxiv.org/pdf/2509.11980">[PDF]</a></strong>  *<span style="color:red">BEST STUDENT PAPER AWARD!</span>*
 
-[C96] R. Bhattacharjee, P. Escofet, S. Rodrigo, S. Abadal, C. G. Almudéver, E. Alarcón, <strong>"Characterizing Scaling Trends of Post-Compilation Circuit Resources for NISQ-era QML Models,"</strong> Proceedings of the IEEE QAI'25, November 2025. <strong><a href="https://arxiv.org/pdf/2509.11980">[PDF]</a></strong>  *<span style="color:red">BEST STUDENT PAPER AWARD!</span>*
+[C94] M. L. Hube, F. Lemic, E. Shitiri, G. Calvo Bartra, S. Abadal, X. Costa Pérez, <strong>"Set Transformer Architectures and Synthetic Data Generation for Flow-Guided Nanoscale Localization,"</strong> Proceedings of the ACM NANOCOM'25, October 2025. <strong><a href="https://arxiv.org/pdf/2508.16200">[PDF]</a></strong>
 
-[C95] M. L. Hube, F. Lemic, E. Shitiri, G. Calvo Bartra, S. Abadal, X. Costa Pérez, <strong>"Set Transformer Architectures and Synthetic Data Generation for Flow-Guided Nanoscale Localization,"</strong> Proceedings of the ACM NANOCOM'25, October 2025. <strong><a href="https://arxiv.org/pdf/2508.16200">[PDF]</a></strong>
+[C93] M. Shahmoradi, K. K. Tokgoz, E. Alarcón, S. Abadal, <strong>"Frequency-Dependent Power Consumption Modeling of CMOS Transmitters for WNoC Architectures,"</strong> Proceedings of the EuMW'25, September 2025. <strong><a href="https://arxiv.org/pdf/2505.13310">[PDF]</a></strong>
 
-[C94] M. Shahmoradi, K. K. Tokgoz, E. Alarcón, S. Abadal, <strong>"Frequency-Dependent Power Consumption Modeling of CMOS Transmitters for WNoC Architectures,"</strong> Proceedings of the EuMW'25, September 2025. <strong><a href="https://arxiv.org/pdf/2505.13310">[PDF]</a></strong>
+[C92] P. Escofet, A. Das, S. Ben Rached, S. Rodrigo, J. Domingo, F. Sebastiano, M. Babaie, B. Keskin, E. Charbon, P. Haring Bolívar, M. Palesi, E. Blokhina, B. Staszewski, A. Nag, A. Garcia-Sáez, S. Abadal, E. Alarcón and C. G. Almudever, <strong>"On the impact of classical and quantum communication networks upon modular quantum computing architecture system performance,"</strong> Proceedings of the IEEE QCE'25, September 2025. <strong><a href="https://arxiv.org/pdf/2507.08378">[PDF]</a></strong>
 
-[C93] P. Escofet, A. Das, S. Ben Rached, S. Rodrigo, J. Domingo, F. Sebastiano, M. Babaie, B. Keskin, E. Charbon, P. Haring Bolívar, M. Palesi, E. Blokhina, B. Staszewski, A. Nag, A. Garcia-Sáez, S. Abadal, E. Alarcón and C. G. Almudever, <strong>"On the impact of classical and quantum communication networks upon modular quantum computing architecture system performance,"</strong> Proceedings of the IEEE QCE'25, September 2025. <strong><a href="https://arxiv.org/pdf/2507.08378">[PDF]</a></strong>
+[C91] S. Ben Rached, Z. Sun, G. Long, S. Rodrigo-Muñoz, C. G. Almudever, E. Alarcón and S. Abadal, <strong>"Accurate and Scalable Simulation of Cavity-Based Networks in Modular Quantum Architectures,"</strong> Proceedings of the IEEE QCE'25, September 2025. <strong><a href="https://arxiv.org/pdf/2508.13896">[PDF]</a></strong>
 
-[C92] S. Ben Rached, Z. Sun, G. Long, S. Rodrigo-Muñoz, C. G. Almudever, E. Alarcón and S. Abadal, <strong>"Accurate and Scalable Simulation of Cavity-Based Networks in Modular Quantum Architectures,"</strong> Proceedings of the IEEE QCE'25, September 2025. <strong><a href="https://arxiv.org/pdf/2508.13896">[PDF]</a></strong>
+[C90] N. J. Vives Zaguirre, O. Lasierra Hernandez, F. Lemic, G. Calvo Bartra, P. J. Galván Calderón, G. Garcia-Aviles, S. Abadal, X. Costa-Pérez, <strong>"Experimental Assessment of a Framework for in-Body RF-Backscattering Localization,"</strong> Proceedings of the PIMRC'25, September 2025. <strong><a href="https://arxiv.org/pdf/2506.19499">[PDF]</a></strong>
 
-[C91] N. J. Vives Zaguirre, O. Lasierra Hernandez, F. Lemic, G. Calvo Bartra, P. J. Galván Calderón, G. Garcia-Aviles, S. Abadal, X. Costa-Pérez, <strong>"Experimental Assessment of a Framework for in-Body RF-Backscattering Localization,"</strong> Proceedings of the PIMRC'25, September 2025. <strong><a href="https://arxiv.org/pdf/2506.19499">[PDF]</a></strong>
+[C89] G. Castillo Gómez-Raya, A. Veres-Vitályos, F. Lemic, P. Royo, M. Montagud, S. Fernández, S. Abadal, X. Costa-Pérez, <strong>"Experimental Assessment of Neural 3D Reconstruction for Small UAV-Based Applications,"</strong> Proceedings of the PIMRC'25, September 2025. <strong><a href="https://arxiv.org/pdf/2506.19491">[PDF]</a></strong>
 
-[C90] G. Castillo Gómez-Raya, A. Veres-Vitályos, F. Lemic, P. Royo, M. Montagud, S. Fernández, S. Abadal, X. Costa-Pérez, <strong>"Experimental Assessment of Neural 3D Reconstruction for Small UAV-Based Applications,"</strong> Proceedings of the PIMRC'25, September 2025. <strong><a href="https://arxiv.org/pdf/2506.19491">[PDF]</a></strong>
+[C88] G. Koutroumpas, M. Mazzini, S. Idesis, M. Masias, J. Jose, S. Abadal and I. Arapakis, <strong>"Beyond Clicks: Eye-Tracking Insights into User Responses to Different Recommendation Types,"</strong> Proceedings of the RecSys'25, September 2025.
 
-[C89] G. Koutroumpas, M. Mazzini, S. Idesis, M. Masias, J. Jose, S. Abadal and I. Arapakis, <strong>"Beyond Clicks: Eye-Tracking Insights into User Responses to Different Recommendation Types,"</strong> Proceedings of the RecSys'25, September 2025.
+[C87] S. Ben Rached, Z. Sun, J. Khan, G. Long, S. Rodrigo, C. G. Almudever, E. Alarcón, S. Abadal, <strong>"Modeling Quantum Links for the Exploration of Distributed Quantum Computing Systems,"</strong> Proceedings of the ICTON'25, July 2025. <strong><a href="https://arxiv.org/pdf/2505.08577">[PDF]</a></strong>
 
-[C88] S. Ben Rached, Z. Sun, J. Khan, G. Long, S. Rodrigo, C. G. Almudever, E. Alarcón, S. Abadal, <strong>"Modeling Quantum Links for the Exploration of Distributed Quantum Computing Systems,"</strong> Proceedings of the ICTON'25, July 2025. <strong><a href="https://arxiv.org/pdf/2505.08577">[PDF]</a></strong>
-
-[C87] G. Koutroumpas, S. Idesis, M. Masias Bruns, C. Segura, J. M. Jose, S. Abadal, I. Arapakis, <strong>"Beyond One-Size-Fits-All: A Study of Neural and Behavioural Variability Across Different Recommendation Categories"</strong> Proceedings of the ICTIR'25, July 2025. <strong><a href="https://arxiv.org/pdf/2506.13409">[PDF]</a></strong>
-
-[C86] A. López-Cardona, S. Idesis, M. Barreda-Ángeles, S. Abadal, I. Arapakis, <strong>"OASST-ETC Dataset: Alignment Signals from Eye-tracking Analysis of LLM Responses,"</strong> Proceedings of the ETRA'25, May 2025. <strong><a href="https://arxiv.org/pdf/2503.10927">[PDF]</a></strong>
+[C86] G. Koutroumpas, S. Idesis, M. Masias Bruns, C. Segura, J. M. Jose, S. Abadal, I. Arapakis, <strong>"Beyond One-Size-Fits-All: A Study of Neural and Behavioural Variability Across Different Recommendation Categories"</strong> Proceedings of the ICTIR'25, July 2025. <strong><a href="https://arxiv.org/pdf/2506.13409">[PDF]</a></strong>
 
 [C85] J. Khan, S. Navarro-Reyes, S. Ben Rached, E. Alarcón, C. G. Almudever, and S. Abadal, <strong>"Waveguide QED Analysis of Quantum-Coherent Links for Modular Quantum Computing,"</strong> Proceedings of the ISCAS'25, May 2025. <strong><a href="https://arxiv.org/pdf/2502.11972">[PDF]</a></strong>
 

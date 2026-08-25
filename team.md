@@ -12,8 +12,9 @@ link_url: /recruitment
 
 ### Current Team
 
-- [Rohit Sarma Sarkar](https://rohsar.github.io/rohitsarmasarkar/) (MSCA COFUND Postdoctoral Fellow, 2025-2026)
 - [Ethungshan Shitiri](https://sites.google.com/view/ethungshanshitiri/) (MSCA Postdoctoral Fellow, 2024-2026)
+- [Rohit Sarma Sarkar](https://rohsar.github.io/rohitsarmasarkar/) (MSCA COFUND Postdoctoral Fellow, 2025-2026)
+- Ali Piri (Postdoc, 2026)
 - [Santiago Rodrigo](https://www.linkedin.com/in/santiago-rodrigo-mu%C3%B1oz-5b14a743) (Postdoc, 2024-2026)
 - Sahar Ben Rached (PhD, 2022-2026)
 - [Axel Wassington](https://www.linkedin.com/in/axel-wassington-258792a0/) (PhD, 2022-2026)
@@ -31,6 +32,8 @@ link_url: /recruitment
 - Jan Nogué (PhD with Qilimanjaro, 2025-2027)
 - Gavin King (PhD, 2026-2028)
 - Aboozar Heydaribeni (PhD, 2026-2029)
+- Marco Cioci (PhD, 2026-2029)
+- Sana Ehsan (PhD, 2026-2029)
 - Iván García Prego (MSc, Fall '26)
 - Onat Bugra (MSc, Fall '26)
 - Guillem Moreno (MSc, Fall '26)

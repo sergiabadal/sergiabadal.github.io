@@ -47,10 +47,6 @@ M. Carrasco-Codina, P. Escofet, P. Hilaire, A. Soret, S. Nerenberg, V. Champain,
 
 B. Pons-Zaragozà, J. Khan, R. S. Sarkar, S. Ben Rached, C. G. Almudever, E. Alarcón, S. Abadal, <strong>"An Analytical Approach to Design Space Exploration for Cavity-Mediated Quantum State Transfer in Multi-core Architectures,"</strong> 2026. <strong><a href="https://arxiv.org/pdf/2604.16020">[PDF]</a></strong>
 
-M. B. Usta, D. Aydogan, E. Vinogradov, M. Shahmoradi, E. Alarcón, S. Abadal and K. K. Tokgoz, <strong>"Transmitter Noise Propagation in Millimeter-Wave and Sub-Terahertz: From Limits to Design Guidelines,"</strong> 2026. <strong><a href="https://arxiv.org/pdf/2604.16020">[PDF]</a></strong>
-
-A. Rezagholi, S. Abadal, F. Lemic, E. Alarcón, E. Shitiri, <strong>"Early-Stage Cancer Biomarker Detection via Intravascular Nanomachines: Modeling and Analysis,"</strong> 2026. <strong><a href="https://arxiv.org/pdf/2603.10709">[PDF]</a></strong>
-
 R. Bhattacharjee, S. Abadal, C. G. Almudéver, E. Alarcón, <strong>"Assessing the Impact of Low Resolution Control Electronics on Quantum Neural Network Performance,"</strong> 2026. <strong><a href="https://arxiv.org/pdf/2601.04983">[PDF]</a></strong>
 
 T. Saeed, V. Soteriou, H. Taghvaee, E. Emoyon-Iredia, S. Abadal, C. Liaskos, E. Alarcón, A. Pitsillides, M. Lestas, <strong>"Fault-Tolerant Deadlock-Free Routing for Metasurface Controller Networks and its Effects on the EM Properties,"</strong> 2026. <strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6255320">[PDF]</a></strong>
@@ -85,6 +81,10 @@ S. Rodrigo, S. Abadal, E. Alarcón, C. Almudéver, <strong>"Exploring a Double F
 
 <br/><br/>
 ### <a name="journal"></a> Journal Papers
+
+[J69] M. B. Usta, D. Aydogan, E. Vinogradov, M. Shahmoradi, E. Alarcón, S. Abadal and K. K. Tokgoz, <strong>"Transmitter Noise Propagation in Millimeter-Wave and Sub-Terahertz: From Limits to Design Guidelines,"</strong> IEEE Open Journal of the Communications Society, 2026. <strong><a href="https://arxiv.org/pdf/2604.16020">[PDF]</a></strong>
+
+[J68] A. Rezagholi, S. Abadal, F. Lemic, E. Alarcón, E. Shitiri, <strong>"Early-Stage Disease Detection via Intravascular Nanomachines: Modeling and Analysis,"</strong> IEEE Transactions on Molecular, Biological, and Multi-Scale Communications, 2026. <strong><a href="https://arxiv.org/pdf/2603.10709">[PDF]</a></strong>
 
 [J67] M. Shahmoradi, A. Yelboga, E. Alarcón, K. K. Tokgöz, S. Abadal, <strong>"Channel-Aware Behavioral Power Modeling of CMOS OOK Transceivers for Wireless Network-on-Chip Systems,"</strong> IEEE Transactions on Circuits and Systems I: Regular Papers, 2026. <strong><a href="https://arxiv.org/pdf/2410.23378v3">[PDF]</a></strong>
 

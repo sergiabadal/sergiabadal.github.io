@@ -43,7 +43,9 @@ S. Abadal, I. Llatser, A. Mestres, H. Lee, E. Alarcón and A. Cabellos-Aparicio,
 <br/><br/>
 ### <a name="pre"></a> Pre-prints
 
-M. Carrasco-Codina, P. Escofet, P. Hilaire, A. Soret, S. Nerenberg, V. Champain, G. Milburn, K. Theophilo, S. H. Li, I. Bautista, A. Gómez-Tato, J. Miralles, S. Abadal, C. G. Almudéver, E. Alarcón, and R. Yehia, <strong>"Energy efficiency of quantum computers,"</strong> <strong><a href="https://arxiv.org/pdf/2605.15090">[PDF]</a></strong>
+P. Escofet, A. Semenov, N. Murphy, E. Blokhina, C. G. Almudéver, S. Abadal, E. Alarcón,	<strong>"Transversal Gates and Magic State Distillation in an Optimally Synthesized Spin-Qubit Shuttling Bus,"</strong>, 2026. <strong><a href="https://arxiv.org/pdf/2609.02641">[PDF]</a></strong>
+
+M. Carrasco-Codina, P. Escofet, P. Hilaire, A. Soret, S. Nerenberg, V. Champain, G. Milburn, K. Theophilo, S. H. Li, I. Bautista, A. Gómez-Tato, J. Miralles, S. Abadal, C. G. Almudéver, E. Alarcón, and R. Yehia, <strong>"Energy efficiency of quantum computers,"</strong>, 2026. <strong><a href="https://arxiv.org/pdf/2605.15090">[PDF]</a></strong>
 
 B. Pons-Zaragozà, J. Khan, R. S. Sarkar, S. Ben Rached, C. G. Almudever, E. Alarcón, S. Abadal, <strong>"An Analytical Approach to Design Space Exploration for Cavity-Mediated Quantum State Transfer in Multi-core Architectures,"</strong> 2026. <strong><a href="https://arxiv.org/pdf/2604.16020">[PDF]</a></strong>
 

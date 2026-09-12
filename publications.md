@@ -234,6 +234,8 @@ Reprogrammable Graphene-Based Digital Metasurface,"</strong> IEEE/OSA Journal of
 <br/><br/>
 ### <a name="conference"></a> Conference Papers
 
+[C107] M. B. Usta, D. Aydogan, E. Vinogradov, S. Abadal, K. K. Tokgoz, <strong>"Array-Correlated Noise Floor Analysis for Monostatic Sub-Terahertz Integrated Sensing and Communication,"</strong> Proceedings of the IEEE ISAC'26, November 2026.
+
 [C106] G. Koutroumpas, J. Wang, S. Abadal, J. Jose, I. Arapakis, <strong>"ViSalRec: Visual and Saliency-Informed Reward Augmentation for Sequential Recommender Systems,"</strong> Proceedings of the ACM CIKM'26, November 2026.
 
 [C105] D. Volpi, F. Lemic, G. Encinas, E. Shitiri, S. Abadal, E. Alarcón, X. Costa-Pérez, <strong>"Reliable Medical Condition Detection from Noisy Location-aware Multimodal Cardiovascular IoBNT Telemetry,"</strong> Proceedings of the ACM SIGSPATIAL'26, November 2026.

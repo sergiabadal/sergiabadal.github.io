@@ -453,6 +453,10 @@ Communication-Intensive and Approximate Data,”</strong> in Proceedings of the 
 <br/><br/>
 ### <a name="poster"></a> Posters and Abstracts
 
+[P34] R. Sarma Sarkar, R. Bhattacharjee, E. Combarro, M. Grossi, C. G. Almudéver, S. Abadal, E. Alarcón, <strong>"Weighted Quantum Signal Processing: A Resource-Efficient Framework for Univariate Polynomial Approximation,"</strong> 10th International Conference on Quantum Techniques in Machine Learning (QTML 2026), Stellenbosch, South Africa, December 2026.
+
+[P33]  R. Sarma Sarkar, R. Bhattacharjee, E. Combarro, M. Grossi, L. Pira, C. G. Almudéver, S. Abadal, Eduard Alarcón, <strong>"Weighted Quantum Signal Processing for Kolmogorov-Arnold Networks: Efficient Activation Function Realization and Quantum Resource Bounds,"</strong> 10th International Conference on Quantum Techniques in Machine Learning (QTML 2026), Stellenbosch, South Africa, December 2026.
+
 [P32] S. Abadal, <strong>"Smaller, Better, Faster and Colder with Terahertz Communications,"</strong> International Conference on Infrared, Millimeter and Terahertz Waves (IRMMW-THz 2026), Salt Lake City, USA, October 2026.
 
 [P31] A. Bandara, E. Vinogradov, E. Alarcón, S. Abadal, <strong>Towards the Characterization of RF Interference of Wireless Interconnects inside a Quantum Computer Cryostat,"</strong> International Conference on Infrared, Millimeter and Terahertz Waves (IRMMW-THz 2026), Salt Lake City, USA, October 2026.

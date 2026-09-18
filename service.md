@@ -104,6 +104,7 @@ Universitats on he fet de membre de PhD thesis defense
 ### TPC Memberships
 
 - IEEE International Conference on Computer Communications and Networks (ICCCN), Emerging Topics in Networking Track, 2027.
+- HiPEAC Workshop on Efficiency, Longevity, and Circularity for More Sustainable Computing, 2027.
 - IEEE/ACM International Symposium on Computer Architecture (ISCA), 2026.
 - ACM International Conference On Mobile Computing And Networking (MobiCom), 2023, 2024, 2025.
 - IEEE Design, Automation and Test in Europe Conference (DATE), D14 Track, 2026, 2027.

@@ -12,10 +12,10 @@ link_url: /recruitment
 
 ### Current Team
 
-- [Ethungshan Shitiri](https://sites.google.com/view/ethungshanshitiri/) (MSCA Postdoctoral Fellow, 2024-2026)
-- [Rohit Sarma Sarkar](https://rohsar.github.io/rohitsarmasarkar/) (MSCA COFUND Postdoctoral Fellow, 2025-2026)
-- Ali Piri (Postdoc, 2026)
-- [Santiago Rodrigo](https://www.linkedin.com/in/santiago-rodrigo-mu%C3%B1oz-5b14a743) (Postdoc, 2024-2026)
+- [Ethungshan Shitiri](https://sites.google.com/view/ethungshanshitiri/) (Postdoc, 2026-2027)
+- [Rohit Sarma Sarkar](https://rohsar.github.io/rohitsarmasarkar/) (MSCA COFUND Postdoctoral Fellow, 2025-2027)
+- Ali Piri (Postdoc, 2026-2027)
+- [Santiago Rodrigo](https://www.linkedin.com/in/santiago-rodrigo-mu%C3%B1oz-5b14a743) (Postdoc, 2024-2027)
 - Sahar Ben Rached (PhD, 2022-2026)
 - [Axel Wassington](https://www.linkedin.com/in/axel-wassington-258792a0/) (PhD, 2022-2026)
 - [Ama Bandara](https://www.linkedin.com/in/ama-bandara-a02a5a168/) (PhD, 2022-2026)
@@ -39,13 +39,9 @@ link_url: /recruitment
 - Guillem Moreno (MSc, Fall '26)
 - Ester Fernández (MSc, Fall '26)
 - Carles Aguilera (MSc, Fall '26)
-- Xavier Querol (MSc, Spring '26)
-- Sergi Tomàs (MSc, Spring '26)
 - Davide Volpi (MSc, Spring '26 from Università di Padova)
-- Alicia Garcia (MSc, Spring '26)
 - Jin Ziyi (BSc, Fall '26)
 - Antoine Quetineau (BSc, Fall '26)
-
 
 
 ### Visiting Scholars
@@ -64,6 +60,7 @@ link_url: /recruitment
 
 ### Alumni
 
+- [Ethungshan Shitiri](https://sites.google.com/view/ethungshanshitiri/) (MSCA Postdoctoral Fellow, 2024-2026)
 - [Evgenii Vinogradov](https://vtsociety.org/contact/evgenii-vinogradov) (Principal Investigator, 2025-2026)
 - [Abhijit Das](https://abhijitcse.github.io/) (Postdoc, 2023-2025)
 - [Ethungshan Shitiri](https://sites.google.com/view/ethungshanshitiri/) (PostDoc, 2023-2024)
@@ -73,6 +70,9 @@ link_url: /recruitment
 - [Santiago Rodrigo](https://www.linkedin.com/in/santiago-rodrigo-mu%C3%B1oz-5b14a743) (PhD, 2019-2023)
 - [Hamidreza Taghvaee](https://www.nottingham.ac.uk/research/groups/ggiemr/people/hamidreza.taghvaee) (PhD, 2018-2021)
   - [UPC Special Doctoral Award](https://doctorat.upc.edu/en/doctoral-thesis/extraordinary-awards/Resolucindefinitivapremiosextraordinarios2023_CAST.pdf) to the top PhD thesis at UPC (24/305) in 2021.
+- Xavier Querol (MSc, Spring '26)
+- Sergi Tomàs (MSc, Spring '26)
+- Alicia Garcia (MSc, Spring '26)
 - Yuechao Liu (MSc, Spring '26)
 - Andrea Marigo (MSc, Spring '26 from Università di Padova)
 - Denis Elshani (MSc, Spring '26 from Ghent Univesity)

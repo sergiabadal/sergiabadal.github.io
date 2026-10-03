@@ -45,9 +45,9 @@ S. Abadal, I. Llatser, A. Mestres, H. Lee, E. Alarcón and A. Cabellos-Aparicio,
 
 R. S. Sarkar, R. Bhattacharjee, E. F. Combarro, M. Grossi, L. Pira, C. G. Almudéver, S. Abadal, E. Alarcón, <strong>"Weighted Quantum Signal Processing: Low-Depth Polynomial Approximation with Applications to Kolmogorov-Arnold Networks,"</strong> 2026. <strong><a href="https://arxiv.org/pdf/2609.21567">[PDF]</a></strong>
 
-P. Escofet, A. Semenov, N. Murphy, E. Blokhina, C. G. Almudéver, S. Abadal, E. Alarcón,	<strong>"Transversal Gates and Magic State Distillation in an Optimally Synthesized Spin-Qubit Shuttling Bus,"</strong>, 2026. <strong><a href="https://arxiv.org/pdf/2609.02641">[PDF]</a></strong>
+P. Escofet, A. Semenov, N. Murphy, E. Blokhina, C. G. Almudéver, S. Abadal, E. Alarcón,	<strong>"Transversal Gates and Magic State Distillation in an Optimally Synthesized Spin-Qubit Shuttling Bus,"</strong> 2026. <strong><a href="https://arxiv.org/pdf/2609.02641">[PDF]</a></strong>
 
-M. Carrasco-Codina, P. Escofet, P. Hilaire, A. Soret, S. Nerenberg, V. Champain, G. Milburn, K. Theophilo, S. H. Li, I. Bautista, A. Gómez-Tato, J. Miralles, S. Abadal, C. G. Almudéver, E. Alarcón, and R. Yehia, <strong>"Energy efficiency of quantum computers,"</strong>, 2026. <strong><a href="https://arxiv.org/pdf/2605.15090">[PDF]</a></strong>
+M. Carrasco-Codina, P. Escofet, P. Hilaire, A. Soret, S. Nerenberg, V. Champain, G. Milburn, K. Theophilo, S. H. Li, I. Bautista, A. Gómez-Tato, J. Miralles, S. Abadal, C. G. Almudéver, E. Alarcón, and R. Yehia, <strong>"Energy efficiency of quantum computers,"</strong> 2026. <strong><a href="https://arxiv.org/pdf/2605.15090">[PDF]</a></strong>
 
 B. Pons-Zaragozà, J. Khan, R. S. Sarkar, S. Ben Rached, C. G. Almudever, E. Alarcón, S. Abadal, <strong>"An Analytical Approach to Design Space Exploration for Cavity-Mediated Quantum State Transfer in Multi-core Architectures,"</strong> 2026. <strong><a href="https://arxiv.org/pdf/2604.16020">[PDF]</a></strong>
 
@@ -237,6 +237,8 @@ Reprogrammable Graphene-Based Digital Metasurface,"</strong> IEEE/OSA Journal of
 
 <br/><br/>
 ### <a name="conference"></a> Conference Papers
+
+[C108] G. Moreno Garcia, S. Abadal, E. Vinogradov, "Channel Knowledge Maps for FR3 UAV Base Stations: Dataset and ML-based Modeling," Proceedings of the IEEE GLOBECOM'26 Workshops, December 2026.
 
 [C107] M. B. Usta, D. Aydogan, E. Vinogradov, S. Abadal, K. K. Tokgoz, <strong>"Array-Correlated Noise Floor Analysis for Monostatic Sub-Terahertz Integrated Sensing and Communication,"</strong> Proceedings of the IEEE ISAC'26, November 2026.
 
@@ -459,7 +461,7 @@ Communication-Intensive and Approximate Data,”</strong> in Proceedings of the 
 
 [P34] R. Sarma Sarkar, R. Bhattacharjee, E. Combarro, M. Grossi, C. G. Almudéver, S. Abadal, E. Alarcón, <strong>"Weighted Quantum Signal Processing: A Resource-Efficient Framework for Univariate Polynomial Approximation,"</strong> 10th International Conference on Quantum Techniques in Machine Learning (QTML 2026), Stellenbosch, South Africa, December 2026.
 
-[P33]  R. Sarma Sarkar, R. Bhattacharjee, E. Combarro, M. Grossi, L. Pira, C. G. Almudéver, S. Abadal, Eduard Alarcón, <strong>"Weighted Quantum Signal Processing for Kolmogorov-Arnold Networks: Efficient Activation Function Realization and Quantum Resource Bounds,"</strong> 10th International Conference on Quantum Techniques in Machine Learning (QTML 2026), Stellenbosch, South Africa, December 2026.
+[P33]  R. Sarma Sarkar, R. Bhattacharjee, E. Combarro, M. Grossi, L. Pira, C. G. Almudéver, S. Abadal, E. Alarcón, <strong>"Weighted Quantum Signal Processing for Kolmogorov-Arnold Networks: Efficient Activation Function Realization and Quantum Resource Bounds,"</strong> 10th International Conference on Quantum Techniques in Machine Learning (QTML 2026), Stellenbosch, South Africa, December 2026.
 
 [P32] S. Abadal, <strong>"Smaller, Better, Faster and Colder with Terahertz Communications,"</strong> International Conference on Infrared, Millimeter and Terahertz Waves (IRMMW-THz 2026), Salt Lake City, USA, October 2026.
 
@@ -487,7 +489,7 @@ Communication-Intensive and Approximate Data,”</strong> in Proceedings of the 
 
 [P20] N. Moser, E. Gómez, S. Abadal, E. Alarcón, F. Lemic, E. Shitiri, <strong>"Liquid Biopsy Using Intra-Body Nanonetworks: Perspective and Approach,"</strong> 8th Workshop on Molecular Communications, Oslo, Norway, April 2024.  <strong><a href="https://molecularcommunications.org/wp-content/uploads/2024/04/LB_IBN_Pers_Approach_CameraReady.pdf">[PDF]</a></strong>       
 
-[P19] P. Talarn, B. Ollé, F. Lemic, S. Abadal, X. Costa-Pérez, <strong>"Demo: Real-time Generation of 3-Dimensional Representations of Static Objects using Small Unmanned Aerial Vehicles,"</strong>, 2023 International Conference on Mobile Computing and Networking (ACM MobiCom), 2023. <strong><a href="https://www.researchgate.net/publication/372316079_Real-time_Generation_of_3-Dimensional_Representations_of_Static_Objects_using_Small_Unmanned_Aerial_Vehicles">[PDF]</a></strong>
+[P19] P. Talarn, B. Ollé, F. Lemic, S. Abadal, X. Costa-Pérez, <strong>"Demo: Real-time Generation of 3-Dimensional Representations of Static Objects using Small Unmanned Aerial Vehicles,"</strong> 2023 International Conference on Mobile Computing and Networking (ACM MobiCom), 2023. <strong><a href="https://www.researchgate.net/publication/372316079_Real-time_Generation_of_3-Dimensional_Representations_of_Static_Objects_using_Small_Unmanned_Aerial_Vehicles">[PDF]</a></strong>
 
 [P18] E. Pereira de Santana, D. Stock, Z. Wang, K.-T. Wang, S. Abadal, M. Lemme, P. Haring Bolívar, <strong>"Tunable Plasmonic Graphene Antenna Array for Communications at THz Frequencies,"</strong> 2023 48th International Conference on Infrared, Millimeter and Terahertz Waves (IRMMW-THz), Montréal, Canada, September 2023. <strong><a href="https://upcommons.upc.edu/bitstream/handle/2117/396998/2023157635.pdf?sequence=1">[PDF]</a></strong>  
 

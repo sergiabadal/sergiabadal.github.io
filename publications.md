@@ -238,7 +238,7 @@ Reprogrammable Graphene-Based Digital Metasurface,"</strong> IEEE/OSA Journal of
 <br/><br/>
 ### <a name="conference"></a> Conference Papers
 
-[C108] G. Moreno Garcia, S. Abadal, E. Vinogradov, "Channel Knowledge Maps for FR3 UAV Base Stations: Dataset and ML-based Modeling," Proceedings of the IEEE GLOBECOM'26 Workshops, December 2026.
+[C108] G. Moreno Garcia, S. Abadal, E. Vinogradov, <strong>"Channel Knowledge Maps for FR3 UAV Base Stations: Dataset and ML-based Modeling,"</strong> Proceedings of the IEEE GLOBECOM'26 Workshops, December 2026.
 
 [C107] M. B. Usta, D. Aydogan, E. Vinogradov, S. Abadal, K. K. Tokgoz, <strong>"Array-Correlated Noise Floor Analysis for Monostatic Sub-Terahertz Integrated Sensing and Communication,"</strong> Proceedings of the IEEE ISAC'26, November 2026.
 

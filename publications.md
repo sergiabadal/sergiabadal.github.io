@@ -86,7 +86,7 @@ S. Rodrigo, S. Abadal, E. Alarcón, C. Almudéver, <strong>"Exploring a Double F
 <br/><br/>
 ### <a name="journal"></a> Journal Papers
 
-[J70] P. Escofet, C. G. Almudéver, S. Abadal, E. Alarcón <strong>"Quantum Circuit Pruning: From NISQ Architectures to Fault-Tolerant Operations,"</strong> IEEE Transactions on Circuits and Systems II: Express Briefs, 2026.
+[J70] P. Escofet, C. G. Almudéver, S. Abadal, E. Alarcón <strong>"Quantum Circuit Pruning: From NISQ Architectures to Fault-Tolerant Operations,"</strong> IEEE Transactions on Circuits and Systems II: Express Briefs, 2026. <strong><a href="https://arxiv.org/pdf/2610.00669">[PDF]</a></strong>
 
 [J69] M. B. Usta, D. Aydogan, E. Vinogradov, M. Shahmoradi, E. Alarcón, S. Abadal and K. K. Tokgoz, <strong>"Transmitter Noise Propagation in Millimeter-Wave and Sub-Terahertz: From Limits to Design Guidelines,"</strong> IEEE Open Journal of the Communications Society, 2026. <strong><a href="https://arxiv.org/pdf/2604.16020">[PDF]</a></strong>
 

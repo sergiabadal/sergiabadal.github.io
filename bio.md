@@ -41,6 +41,7 @@ Entrevista Metadata
 -->
 
 ### News Appearances
+- **[CAT] Metadata.** "Tethering" sparks a false dilemma between WiFi and 5G. October 2026. **[[LINK]](https://www.metadata.cat/reportatge/6545/moda-tethering-alimenta-fals-dilema-wifi-5g)**
 - **[ESP] Revista AECOC.** Quantum computing: The next revolution. September 2025. **[[LINK]](https://www.aecoc.es/articulos/c84-computacion-cuantica-la-proxima-revolucion/)**
 - **[ESP] La Vanguardia.** Quantum computing: the new technological revolution is already underway. July 2025. **[[LINK]](https://www.lavanguardia.com/dinero/20250727/10925084/computacion-cuantica-finanzas-tecnologia-inversion.amp.html)**
 - **[CAT] Beteve (BTV).** Quanta IA - What is the impact of AI on communication networks? May 2025. **[[LINK]](https://www.youtube.com/watch?v=CJ1KBv2VkGA&authuser=0)**

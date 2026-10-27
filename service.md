@@ -64,6 +64,7 @@ Universitats on he fet de membre de PhD thesis defense
 
 ### Chairmanships
 
+- Area Chair, Interconnects and Chiplets Track, **IEEE/ACM International Symposium on Computer Architecture (ISCA)**, Atlanta, USA, June 2027.
 - General Chair of the **11th Workshop on Molecular Communications**, Barcelona, Spain, April 2027.
 - Conference and Local Co-Chair of the **2026 Embedded Systems Week (ESWEEK'26)**, Barcelona, Spain, October 2026.
 - Poster Chair of the **23rd ACM International Conference on Computing Frontiers (CF'26)**, Catania, Italy, May 2026.
@@ -103,11 +104,11 @@ Universitats on he fet de membre de PhD thesis defense
 
 ### TPC Memberships
 
+- IEEE/ACM International Symposium on Computer Architecture (ISCA), 2026, 2027.
+- IEEE Design, Automation and Test in Europe Conference (DATE), D14 Track, 2026, 2027.
 - IEEE International Conference on Computer Communications and Networks (ICCCN), Emerging Topics in Networking Track, 2027.
 - HiPEAC Workshop on Efficiency, Longevity, and Circularity for More Sustainable Computing, 2027.
-- IEEE/ACM International Symposium on Computer Architecture (ISCA), 2026.
 - ACM International Conference On Mobile Computing And Networking (MobiCom), 2023, 2024, 2025.
-- IEEE Design, Automation and Test in Europe Conference (DATE), D14 Track, 2026, 2027.
 - IEEE Global Communications Conference (GLOBECOM), Wireless Communications Track, 2023, 2024, 2025.
 - IEEE Global Communications Conference (GLOBECOM), Terahertz Communications Track, 2023, 2024, 2025.
 - IEEE International Conference on Quantum Software (QSW), 2024, 2025, 2026.

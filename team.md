@@ -40,7 +40,7 @@ link_url: /recruitment
 - Guillem Moreno (MSc, Fall '26)
 - Ester Fernández (MSc, Fall '26)
 - Carles Aguilera (MSc, Fall '26)
-- Davide Volpi (MSc, Spring '26 from Università di Padova)
+- Àlex Barrionuevo (MSc, Fall '26)
 - Jin Ziyi (BSc, Fall '26)
 - Antoine Quetineau (BSc, Fall '26)
 
@@ -75,6 +75,7 @@ link_url: /recruitment
 - Sergi Tomàs (MSc, Spring '26)
 - Alicia Garcia (MSc, Spring '26)
 - Yuechao Liu (MSc, Spring '26)
+- Davide Volpi (MSc, Spring '26 from Università di Padova)
 - Andrea Marigo (MSc, Spring '26 from Università di Padova)
 - Denis Elshani (MSc, Spring '26 from Ghent Univesity)
 - Vasco Gouveia (MSc, Spring '26)

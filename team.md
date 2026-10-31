@@ -40,7 +40,7 @@ link_url: /recruitment
 - Guillem Moreno (MSc, Fall '26)
 - Ester Fernández (MSc, Fall '26)
 - Carles Aguilera (MSc, Fall '26)
-- Àlex Barrionuevo (MSc, Fall '26)
+- Àlex Navarro (MSc, Fall '26)
 - Jin Ziyi (BSc, Fall '26)
 - Antoine Quetineau (BSc, Fall '26)
 

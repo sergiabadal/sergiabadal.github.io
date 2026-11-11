@@ -35,6 +35,7 @@ link_url: /recruitment
 - Marco Cioci (PhD, 2026-2029)
 - Sana Ehsan (PhD, 2026-2029)
 - Mahir Usta (PhD with Sabanci, 2026-2028)
+- Laura Paxton (PhD, 2026-2029)
 - Iván García Prego (MSc, Fall '26)
 - Onat Bugra (MSc, Fall '26)
 - Guillem Moreno (MSc, Fall '26)

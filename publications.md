@@ -238,19 +238,19 @@ Reprogrammable Graphene-Based Digital Metasurface,"</strong> IEEE/OSA Journal of
 <br/><br/>
 ### <a name="conference"></a> Conference Papers
 
-[C108] G. Moreno Garcia, S. Abadal, E. Vinogradov, <strong>"Channel Knowledge Maps for FR3 UAV Base Stations: Dataset and ML-based Modeling,"</strong> Proceedings of the IEEE GLOBECOM'26 Workshops, December 2026. <strong><a href="https://arxiv.org/pdf/2610.06356">[PDF]</a></strong> 
+[C108] Á. López-Cardona, S. Idesis, M. Masias Bruns, M. Mazzini, J. M. Jose, S. Abadal, I. Arapakis, <strong>"VLFEEDBACK-EEG: Neural Signals as Implicit Feedback for Vision-Language Model Alignment,"</strong> Proceedings of the EACL'27, March 2027. Also in RlxF (ICML Workshop) in July 2026.
 
-[C107] M. B. Usta, D. Aydogan, E. Vinogradov, S. Abadal, K. K. Tokgoz, <strong>"Array-Correlated Noise Floor Analysis for Monostatic Sub-Terahertz Integrated Sensing and Communication,"</strong> Proceedings of the IEEE ISAC'26, November 2026.
+[C107] G. Moreno Garcia, S. Abadal, E. Vinogradov, <strong>"Channel Knowledge Maps for FR3 UAV Base Stations: Dataset and ML-based Modeling,"</strong> Proceedings of the IEEE GLOBECOM'26 Workshops, December 2026. <strong><a href="https://arxiv.org/pdf/2610.06356">[PDF]</a></strong> 
 
-[C106] G. Koutroumpas, J. Wang, S. Abadal, J. Jose, I. Arapakis, <strong>"ViSalRec: Visual and Saliency-Informed Reward Augmentation for Sequential Recommender Systems,"</strong> Proceedings of the ACM CIKM'26, November 2026.
+[C106] M. B. Usta, D. Aydogan, E. Vinogradov, S. Abadal, K. K. Tokgoz, <strong>"Array-Correlated Noise Floor Analysis for Monostatic Sub-Terahertz Integrated Sensing and Communication,"</strong> Proceedings of the IEEE ISAC'26, November 2026.
 
-[C105] D. Volpi, F. Lemic, G. Encinas, E. Shitiri, S. Abadal, E. Alarcón, X. Costa-Pérez, <strong>"Reliable Medical Condition Detection from Noisy Location-aware Multimodal Cardiovascular IoBNT Telemetry,"</strong> Proceedings of the ACM SIGSPATIAL'26, November 2026.
+[C105] G. Koutroumpas, J. Wang, S. Abadal, J. Jose, I. Arapakis, <strong>"ViSalRec: Visual and Saliency-Informed Reward Augmentation for Sequential Recommender Systems,"</strong> Proceedings of the ACM CIKM'26, November 2026.
 
-[C104] V. Centritto-Arrojo, A. Bandara, S. Abadal, E. Vinogradov, <strong>"Reinforcement Learning-Based 3D Beam Adaptation for Underwater Wireless Optical Communication with AUVs," </strong> Proceedings of the IEEE WiSEE'26 Workshops, September 2026. <strong><a href="https://arxiv.org/pdf/2610.06407">[PDF]</a></strong> 
+[C104] D. Volpi, F. Lemic, G. Encinas, E. Shitiri, S. Abadal, E. Alarcón, X. Costa-Pérez, <strong>"Reliable Medical Condition Detection from Noisy Location-aware Multimodal Cardiovascular IoBNT Telemetry,"</strong> Proceedings of the ACM SIGSPATIAL'26, November 2026.
 
-[C103] I. Kleger-Rudomin, F. Lemic, S. Abadal, E. Alarcón, E. Shitiri, <strong>"Whole-Blood Boundary Analysis of BioFET-Based ctDNA Detection for Intravascular Sensing in Intrabody Nanonetworks,"</strong> Proceedings of the ACM NanoCom'26, September 2026. <strong><a href="https://arxiv.org/abs/2605.22637">[PDF]</a></strong>
+[C103] V. Centritto-Arrojo, A. Bandara, S. Abadal, E. Vinogradov, <strong>"Reinforcement Learning-Based 3D Beam Adaptation for Underwater Wireless Optical Communication with AUVs," </strong> Proceedings of the IEEE WiSEE'26 Workshops, September 2026. <strong><a href="https://arxiv.org/pdf/2610.06407">[PDF]</a></strong> 
 
-[C102] Á. López-Cardona, S. Idesis, M. Masias Bruns, M. Mazzini, J. M. Jose, S. Abadal, I. Arapakis, <strong>"VLFEEDBACK-EEG: Neural Signals as Implicit Feedback for Vision-Language Model Alignment,"</strong> Proceedings of Reinforcement Learning from World Feedback (ICML Workshop), July 2026.
+[C102] I. Kleger-Rudomin, F. Lemic, S. Abadal, E. Alarcón, E. Shitiri, <strong>"Whole-Blood Boundary Analysis of BioFET-Based ctDNA Detection for Intravascular Sensing in Intrabody Nanonetworks,"</strong> Proceedings of the ACM NanoCom'26, September 2026. <strong><a href="https://arxiv.org/abs/2605.22637">[PDF]</a></strong>
 
 [C101] P. Escofet, S. Rodrigo, R. Sarma Sarkar, C. G. Almudéver, E. Alarcón, S. Abadal, <strong>"Quantum Circuit Pruning: Improving Fidelity via Compilation-Aware Circuit Approximation,"</strong> Proceedings of the IEEE ISCAS'26, May 2026. <strong><a href="https://arxiv.org/pdf/2601.13322">[PDF]</a></strong> *<span style="color:red">BEST STUDENT PAPER AWARD!</span>*
 

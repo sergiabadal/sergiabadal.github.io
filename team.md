@@ -13,7 +13,6 @@ link_url: /recruitment
 ### Current Team
 
 - [Ethungshan Shitiri](https://sites.google.com/view/ethungshanshitiri/) (Postdoc, 2026-2027)
-- [Rohit Sarma Sarkar](https://rohsar.github.io/rohitsarmasarkar/) (MSCA COFUND Postdoctoral Fellow, 2025-2027)
 - Ali Piri (Postdoc, 2026-2027)
 - [Santiago Rodrigo](https://www.linkedin.com/in/santiago-rodrigo-mu%C3%B1oz-5b14a743) (Postdoc, 2024-2027)
 - Sahar Ben Rached (PhD, 2022-2026)
@@ -62,6 +61,7 @@ link_url: /recruitment
 
 ### Alumni
 
+- [Rohit Sarma Sarkar](https://rohsar.github.io/rohitsarmasarkar/) (MSCA COFUND Postdoctoral Fellow, 2025-2026)
 - [Ethungshan Shitiri](https://sites.google.com/view/ethungshanshitiri/) (MSCA Postdoctoral Fellow, 2024-2026)
 - [Evgenii Vinogradov](https://vtsociety.org/contact/evgenii-vinogradov) (Principal Investigator, 2025-2026)
 - [Abhijit Das](https://abhijitcse.github.io/) (Postdoc, 2023-2025)

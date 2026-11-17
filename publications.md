@@ -238,6 +238,8 @@ Reprogrammable Graphene-Based Digital Metasurface,"</strong> IEEE/OSA Journal of
 <br/><br/>
 ### <a name="conference"></a> Conference Papers
 
+[C109] F. G. Blanco, E. Russo, C. G. Almudever, E. Alarcón, S. Abadal, G. Ascia, D. Patti and M. Palesi, "OMUSA: Online Multi-Tenant Scheduling on Modular Quantum Architectures via Reinforcement Learning," Proceedings of DATE'27, March 2027. 
+
 [C108] Á. López-Cardona, S. Idesis, M. Masias Bruns, M. Mazzini, J. M. Jose, S. Abadal, I. Arapakis, <strong>"VLFEEDBACK-EEG: Neural Signals as Implicit Feedback for Vision-Language Model Alignment,"</strong> Proceedings of the EACL'27, March 2027. Also in RlxF (ICML Workshop) in July 2026.
 
 [C107] G. Moreno Garcia, S. Abadal, E. Vinogradov, <strong>"Channel Knowledge Maps for FR3 UAV Base Stations: Dataset and ML-based Modeling,"</strong> Proceedings of the IEEE GLOBECOM'26 Workshops, December 2026. <strong><a href="https://arxiv.org/pdf/2610.06356">[PDF]</a></strong> 

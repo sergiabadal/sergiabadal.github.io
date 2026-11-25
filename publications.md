@@ -238,7 +238,7 @@ Reprogrammable Graphene-Based Digital Metasurface,"</strong> IEEE/OSA Journal of
 <br/><br/>
 ### <a name="conference"></a> Conference Papers
 
-[C109] F. G. Blanco, E. Russo, C. G. Almudever, E. Alarcón, S. Abadal, G. Ascia, D. Patti and M. Palesi, "OMUSA: Online Multi-Tenant Scheduling on Modular Quantum Architectures via Reinforcement Learning," Proceedings of DATE'27, March 2027. 
+[C109] F. G. Blanco, E. Russo, C. G. Almudever, E. Alarcón, S. Abadal, G. Ascia, D. Patti and M. Palesi, <strong>"OMUSA: Online Multi-Tenant Scheduling on Modular Quantum Architectures via Reinforcement Learning,"</strong> Proceedings of DATE'27, March 2027. 
 
 [C108] Á. López-Cardona, S. Idesis, M. Masias Bruns, M. Mazzini, J. M. Jose, S. Abadal, I. Arapakis, <strong>"VLFEEDBACK-EEG: Neural Signals as Implicit Feedback for Vision-Language Model Alignment,"</strong> Proceedings of the EACL'27, March 2027. Also in RlxF (ICML Workshop) in July 2026.
 
